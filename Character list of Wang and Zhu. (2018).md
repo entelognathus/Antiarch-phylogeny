@@ -1,4 +1,4 @@
-﻿**Character list Wang and Zhu. (2018)**
+﻿**Character list Wang and Zhu (2018)**
 
 *Ornamentation, histology and scales*
 
