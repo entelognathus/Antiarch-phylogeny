@@ -1,4 +1,4 @@
-> To Luo, for new character, an interpretation of the character is better to be added.
+> To Luo, for new character, an interpretation of the character is better to be added. Character matrix is modified accordingly.
  
  **Character list of Antiarches**
 
