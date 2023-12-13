@@ -6,97 +6,97 @@ Follow this model.
 
 *Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
-Vanchienolepis: (Tông-Dzuy & Janvier, 1990)
+*Vanchienolepis*: (Tông-Dzuy & Janvier, 1990)
 
-Chuchinolepis: (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992);(Zhu et al., 1994)
+*Chuchinolepis*: (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992);(Zhu et al., 1994)
 
-Heteroyunnanolepis: (Wang, 1994); (Zhu, 1996)
+*Heteroyunnanolepis*: (Wang, 1994); (Zhu, 1996)
 
-Zhanjilepis: (Zhang, 1978); (Zhu, 1996); (Liu, 1992)
+*Zhanjilepis*: (Zhang, 1978); (Zhu, 1996); (Liu, 1992)
 
-Yunnanolepis: (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
+*Yunnanolepis*: (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
 
-Mizia: (Zhu, 1996)
+*Mizia*: (Zhu, 1996)
 
-Phymolepis: (Chang, 1978); (Zhang, 1978); (Zhu, 1996); (Wang & Zhu, 2018)
+*Phymolepis*: (Chang, 1978); (Zhang, 1978); (Zhu, 1996); (Wang & Zhu, 2018)
 
-Parayunnanolepis: (Zhang et al., 2001)
+*Parayunnanolepis*: (Zhang et al., 2001)
 
-Minicrania: (Zhu & Janvier, 1996)
+*Minicrania*: (Zhu & Janvier, 1996)
 
-Liujiangolepis: (Wang, 1987)
+*Liujiangolepis*: (Wang, 1987)
 
-Dayaoshania: (Ritchie et al., 1992)
+*Dayaoshania*: (Ritchie et al., 1992)
 
-Xichonolepis: (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
+*Xichonolepis*: (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
 
-Grenfellaspis: (Ritchie et al., 1992)
+*Grenfellaspis*: (Ritchie et al., 1992)
 
-Sinolepis: (Liu & P'an, 1958);(Pan et al., 1987); (Ritchie et al., 1992)
+*Sinolepis*: (Liu & P'an, 1958);(Pan et al., 1987); (Ritchie et al., 1992)
 
-Luquanolepis: (Zhang & Young, 1992)
+*Luquanolepis*: (Zhang & Young, 1992)
 
-Nawagiaspis: (Young, 1990)
+*Nawagiaspis*: (Young, 1990)
 
-Dianolepis: (Chang, 1965); (Pan et al., 2018)
+*Dianolepis*: (Chang, 1965); (Pan et al., 2018)
 
-Wudinolepis: (Chang, 1965)
+*Wudinolepis*: (Chang, 1965)
 
-Microbrachius: (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., 2015); (Mark-Kurik et al., 2018)
+*Microbrachius*: (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., 2015); (Mark-Kurik et al., 2018)
 
-Hohsienolepis: (P'an & Wang, 1978)
+*Hohsienolepis*: (P'an & Wang, 1978)
 
-Wufengshania: (Pan et al., 2018)
+*Wufengshania*: (Pan et al., 2018)
 
-Grossilepis: (W.  Gross, 1941)a; (Gross, 1942a); (Stensiö, 1948); (Miles, 1968); (Lukševičs, 2001); (Olive, 2015)
+*Grossilepis*: (W.  Gross, 1941)a; (Gross, 1942a); (Stensiö, 1948); (Miles, 1968); (Lukševičs, 2001); (Olive, 2015)
 
-Bothriolepis: (Gross, 1942b); (Stensiö, 1948); (Chang, 1965); (Miles, 1968); (Liu, 1973); (Pan et al., 1980); (Long, 1983); (Young, 1984); (Long & Werdelin, 1986); (Young, 1988); (Johanson, 1997a); (Lukševičs, 2001); (Thomson & Thomas, 2001); (Blom et al., 2007); (Moloshnikov, 2008); (Moloshnikov, 2011); (Olive, 2015); (Downs et al., 2016); (Lukševičs et al., 2017); (Luo et al., 2023)
+*Bothriolepis*: (Gross, 1942b); (Stensiö, 1948); (Chang, 1965); (Miles, 1968); (Liu, 1973); (Pan et al., 1980); (Long, 1983); (Young, 1984); (Long & Werdelin, 1986); (Young, 1988); (Johanson, 1997a); (Lukševičs, 2001); (Thomson & Thomas, 2001); (Blom et al., 2007); (Moloshnikov, 2008); (Moloshnikov, 2011); (Olive, 2015); (Downs et al., 2016); (Lukševičs et al., 2017); (Luo et al., 2023)
 
-Monarolepis: (Young & Gorter, 1981); (Young, 1988); (Long et al., 1990)
+*Monarolepis*: (Young & Gorter, 1981); (Young, 1988); (Long et al., 1990)
 
-Briagalepis: (Long et al., 1990)
+*Briagalepis*: (Long et al., 1990)
 
-Tenizolepis: (Malinovskaya, 1992); (Moloshnikov, 2011)
+*Tenizolepis*: (Malinovskaya, 1992); (Moloshnikov, 2011)
 
-Vietnamaspis: (Long et al., 1990)
+*Vietnamaspis*: (Long et al., 1990)
 
-Jiangxilepis: (Zhang & Liu, 1991)
+*Jiangxilepis*: (Zhang & Liu, 1991)
 
-Ningxialepis:(Jia et al., 2010)
+*Ningxialepis*:(Jia et al., 2010)
 
-Sherbonaspis: (Young & Gorter, 1981); (Plax & Lukševičs, 2023)
+*Sherbonaspis*: (Young & Gorter, 1981); (Plax & Lukševičs, 2023)
 
-Wurungulepis: (Young, 1990)
+*Wurungulepis*: (Young, 1990)
 
-Pteryichthyodes: (Hemmings, 1978)
+*Pteryichthyodes*: (Hemmings, 1978)
 
-Hunnanolepis: (P'an & Wang, 1978)
+*Hunnanolepis*: (P'an & Wang, 1978)
 
-Kirgisolepis: (Panteleyev, 1992)
+*Kirgisolepis*: (Panteleyev, 1992)
 
-Byssacanthus: (Woodward, 1895); (Karatajūte-Talimaa, 1960)
+*Byssacanthus*: (Woodward, 1895); (Karatajūte-Talimaa, 1960)
 
-Gerdalepis: (W. Gross, 1941)b; (Friman & Koln, 1982)
+*Gerdalepis*: (W. Gross, 1941)b; (Friman & Koln, 1982)
 
-Lepadolepis: (Obruchev, 1964); (Denison, 1978)
+*Lepadolepis*: (Obruchev, 1964); (Denison, 1978)
 
-Grossaspis: (Denison, 1978)
+*Grossaspis*: (Denison, 1978)
 
-Stegolepis: (Malinovskaya, 1973)
+*Stegolepis*: (Malinovskaya, 1973)
 
-Asterolepis: (Lyarskaya, 1977); (Moloshnikov, 2008); (Olive, 2015); (Michael et al., 2019)
+*Asterolepis*: (Lyarskaya, 1977); (Moloshnikov, 2008); (Olive, 2015); (Michael et al., 2019)
 
-Pambulaspis: (Young, 1983)
+*Pambulaspis*: (Young, 1983)
 
-Remigolepis: (Andrews, 1978); (Pan et al., 1980); (Pan et al., 1987); (Olive, 2015); (Johanson, 1997b); (Moloshnikov, 2008); (Olive, 2015)
+*Remigolepis*: (Andrews, 1978); (Pan et al., 1980); (Pan et al., 1987); (Olive, 2015); (Johanson, 1997b); (Moloshnikov, 2008); (Olive, 2015)
 
-Tubalepis: (Panteleyev & Moloshnikov, 2003); (Moloshnikov, 2012)
+*Tubalepis*: (Panteleyev & Moloshnikov, 2003); (Moloshnikov, 2012), 
 
-Asperaspis: (Gross, 1933b); (Panteleyev, 1993); (Plax & Lukševičs, 2023)
+*Asperaspis*: (Gross, 1933b); (Panteleyev, 1993); (Plax & Lukševičs, 2023) **unmatched data, may be deleted**
 
-Merimbulaspis: (Young, 2010); (Plax & Lukševičs, 2023)
+*Merimbulaspis*: (Young, 2010); (Plax & Lukševičs, 2023) **unmatched data, may be deleted**
 
-Walterilepis: (Gross, 1933a); (Lukševičs, 2021); (Plax & Lukševičs, 2023)
+*Walterilepis*: (Gross, 1933a); (Lukševičs, 2021); (Plax & Lukševičs, 2023)
 
 
 
