@@ -1,4 +1,6 @@
-﻿**Character list of Antiarches**
+> To Luo, for new character, an interpretation of the character is better to be added.
+ 
+ **Character list of Antiarches**
 
 *Ornamentation, histology and scales*
 
