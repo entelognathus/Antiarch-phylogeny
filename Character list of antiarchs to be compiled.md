@@ -90,7 +90,7 @@
 
 > Zhu (1996), Character 57; Jia, Zhu & Zhao (2010), Character 12; Pan et al. (2017), Character 57; Wang & Zhu (2018), Character 21.
 
-22. Pronounced postpineal thickening: absent (0); present (1).
+22. Pronounced postpineal thickening on the visceral view of postpineal plate: absent (0); present (1).
 
 > Young (1984, 1988), Character 38; Zhu (1996), Character 62; Jia, Zhu & Zhao (2010), Character 13; Pan et al. (2017), Character 62; Wang & Zhu (2018), Character 22.
 
@@ -104,11 +104,11 @@
 
 > Young (1984, 1988), Character 26; Zhang and Young (1992), Character 16; Zhu (1996), Character 58; Jia, Zhu & Zhao (2010), Character 14; Pan et al. (2017), Character 58; Wang & Zhu (2018), Character 24.
 
-25. Supraotic thickening of head shield: absent (0); present (1).
+25. Supraotic thickening on the visceral view of nuchal plate: absent (0); present (1).
 
 > Wang & Zhu (2018), Character 25.
 
-26. Median occipital crista of head shield: absent (0); present (1).
+26. Median occipital crista on the visceral view of nuchal plate: absent (0); present (1).
 
 > Wang & Zhu (2018), Character 26.
 
@@ -264,13 +264,17 @@
 
 > Zhu (1996), Character 21; Jia, Zhu & Zhao (2010), Character 40; Pan et al. (2017), Character 21; Wang & Zhu (2018), Character 58.
 
-61.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
+61.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
 
 > New character from Luo
 
 62. Posterior ventral pit and process of posterior median dorsal plate: on crista transversalis interna posterior (0); posteriorly migrated behind crista transversalis interna posterior (1).
 
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan et al. (2017), Character 22; Wang & Zhu (2018), Character 59.
+
+63.	Anterior and posterior median plates partly overlapping each other: absent (0); present (1).
+    
+> New characterfrom Luo.
 
 63. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 
