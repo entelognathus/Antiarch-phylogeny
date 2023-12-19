@@ -44,7 +44,7 @@ Follow this model.
 
 *Microbrachius*: (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., ); (Mark-Kurik et al., 2018)
 
-*Hohsienolepis*: (P'an & Wang, 1978)
+*Hohsienolepis*: (P'an & Wang, 1978); (Pan, 1984)
 
 *Wufengshania*: (Pan et al., 2018)
 
