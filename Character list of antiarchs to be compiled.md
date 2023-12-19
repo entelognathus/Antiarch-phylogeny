@@ -252,111 +252,123 @@
 
 > Young (1984, 1988), Character 31; Zhu (1996), Character 18; Jia, Zhu & Zhao (2010), Character 38; Pan et al. (2017), Character 18; Wang & Zhu (2018), Character 56.
 
-58.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
+58.	Centered Ventral process or pit on anterior median dorsal plate: absent (0); present (1).
+  
+> New character from Luo
+
+> Primitive antiarchs like *Yunnanolepis* and *Zhanjilepis* (Zhu, 1996) bear ventral process/pit on center of anterior median plate, more crowned taxa like *Bothriolepis* has anteriorly ventral process/pit.
+
+59.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
     
 > New character from Luo
 
-59. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
+60.	Anterior and posterior median plates partly overlapping each other: absent (0); present (1).
+
+> New character from Luo
+
+61. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 
 > Young (1984, 1988), Character 16; Zhu (1996), Character 20; Pan et al. (2017), Character 20; Wang & Zhu (2018), Character 57.
 
-60. Crista transversalis interna posterior of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
+62. Crista transversalis interna posterior of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
 
 > Zhu (1996), Character 21; Jia, Zhu & Zhao (2010), Character 40; Pan et al. (2017), Character 21; Wang & Zhu (2018), Character 58.
 
-61.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
+63. Centered Ventral process or pit on posterior median dorsal plate: absent (0); present (1).
 
 > New character from Luo
 
-62. Posterior ventral pit and process of posterior median dorsal plate: on crista transversalis interna posterior (0); posteriorly migrated behind crista transversalis interna posterior (1).
+> Primitive antiarchs like *Phymolepis* and *Yunnanolepis* (Zhu, 1996) bear ventral process/pit on center of posterior median plate, more crowned taxa like *Bothriolepis* has posteriorly ventral process/pit.
+
+64.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
+
+> New character from Luo
+
+65. Posterior ventral pit and process of posterior median dorsal plate: on crista transversalis interna posterior (0); posteriorly migrated behind crista transversalis interna posterior (1).
 
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan et al. (2017), Character 22; Wang & Zhu (2018), Character 59.
 
-63.	Anterior and posterior median plates partly overlapping each other: absent (0); present (1).
-    
-> New character from Luo.
-
-64. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
+66. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 
 > Zhu (1996), Character 23; Pan et al. (2017), Character 23; Wang & Zhu (2018), Character 60.
 
-65. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
+67. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 
 > Plax and Lukševičs (2023), Character 80.
 
-66. Anterior lateral plate: absent (0); present (1).
+68. Anterior lateral plate: absent (0); present (1).
 
 > Young (1984, 1988), Character 2; Zhu (1996), Character 24; Pan et al. (2017), Character 24; Wang & Zhu (2018), Character 61.
 
-67. Chang’s apparatus: absent (0); present (1).
+69. Chang’s apparatus: absent (0); present (1).
 
 > Zhu (1996), Character 25; Pan et al. (2017), Character 25; Wang & Zhu (2018), Character 62.
 
-68. Ventrolateral fossa of trunk shield: absent (0); present (1).
+70. Ventrolateral fossa of trunk shield: absent (0); present (1).
 
 > Zhu (1996), Character 26; Pan et al. (2017), Character 26; Wang & Zhu (2018), Character 63.
 
-69. Posterior dorsolateral and posterior lateral plates: independent (0); fused to form a mixilateral plate (1).
+71. Posterior dorsolateral and posterior lateral plates: independent (0); fused to form a mixilateral plate (1).
 
 > Young (1984, 1988), Character 20; Zhang and Young (1992), Character 8; Zhu (1996), Character 27; Jia, Zhu & Zhao (2010), Character 41; Pan et al. (2017), Character 27; Wang & Zhu (2018), Character 64.
 
-70. Posterior ventrolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
+72. Posterior ventrolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
 
 > Young (1984, 1988), Character 13; Zhang and Young (1992), Character 7; Zhu (1996), Character 28; Jia, Zhu & Zhao (2010), Character 42; Pan et al. (2017), Character 28; Wang & Zhu (2018), Character 65.
 
-71. Semilunar plate: paired (0); unpaired (1).
+73. Semilunar plate: paired (0); unpaired (1).
 
 > Young (1984, 1988), Character 23; Zhang and Young (1992), Character 5; Zhu (1996), Character 29; Jia, Zhu & Zhao (2010), Character 44; Pan et al. (2017), Character 29; Wang & Zhu (2018), Character 66.
 
-72. Large rectangular aperture on ventral wall of trunk shield: absent (0); present (1).
+74. Large rectangular aperture on ventral wall of trunk shield: absent (0); present (1).
 
 > Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang & Zhu (2018), Character 67.
 
-73. Spinal plate: absent (0); present (1).
+75. Spinal plate: absent (0); present (1).
 
 > Young (1984, 1988), Character 11, part; Zhu (1996), Character 31; Pan et al. (2017), Character 31; Wang & Zhu (2018), Character 68.
 
-74. Postbranchial lamina: external and upright (0); internal and horizontal (1).
+76. Postbranchial lamina: external and upright (0); internal and horizontal (1).
 
 > Zhu (1996), Character 32; Pan et al. (2017), Character 32; Wang & Zhu (2018), Character 69.
 
-75. Pectoral fin: scale-covered (0); modified into a slender appendage covered with small dermal plates (1).
+77. Pectoral fin: scale-covered (0); modified into a slender appendage covered with small dermal plates (1).
 
 > Young (1984, 1988), Character 8; Zhu (1996), Character 1; Pan et al. (2017), Character 1; Wang & Zhu (2018), Character 70.
 
-76. Number of plates encircling pectoral fenestra: two or more (0); one (1).
+78. Number of plates encircling pectoral fenestra: two or more (0); one (1).
 
 > Zhu (1996), Character 2; Pan et al. (2017), Character 2; Wang & Zhu (2018), Character 71.
 
-77. Brachial process: absent (0); present (1);
+79. Brachial process: absent (0); present (1);
 
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 72.
 
-78. Brachial process: simple (0); helmet-shaped (1);
+80. Brachial process: simple (0); helmet-shaped (1);
 
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
 
-79. Axillary foramen: small (0); large (1).
+81. Axillary foramen: small (0); large (1).
 
 > Young (1984, 1988), Character 27; Zhang and Young (1992), Character 15; Zhu (1996), Character 4; Jia, Zhu & Zhao (2010), Character 32; Pan et al. (2017), Character 4; Wang & Zhu (2018), Character 74.
 
-80. Pectoral appendage: unjointed (0); jointed (1).
+82. Pectoral appendage: unjointed (0); jointed (1).
 
 > Young (1984, 1988), Character 10; Zhu (1996), Character 5; Jia, Zhu & Zhao (2010), Character 27; Pan et al. (2017), Character 5; Wang & Zhu (2018), Character 75.
 
-81. Dorsal central plate 1 and dorsal central plate 2 of pectoral appendage: in contact (0); separated (1).
+83. Dorsal central plate 1 and dorsal central plate 2 of pectoral appendage: in contact (0); separated (1).
 
 > Zhang and Young (1992), Character 18; Zhu (1996), Character 6; Jia, Zhu & Zhao (2010), Character 28; Pan et al. (2017), Character 6; Wang & Zhu (2018), Character 76.
 
-82. Pectoral appendage: short (0); elongated (1).
+84. Pectoral appendage: short (0); elongated (1).
 
 > Zhang and Young (1992), Character 12; Zhu (1996), Character 7; Jia, Zhu & Zhao (2010), Character 26; Pan et al. (2017), Character 7; Wang & Zhu (2018), Character 77.
 
-83. Lateral marginal plate 2 relative to trunk shield: short (0); elongated (1).
+85. Lateral marginal plate 2 relative to trunk shield: short (0); elongated (1).
 
 > Zhu (1996), Character 8; Jia, Zhu & Zhao (2010), Character 29; Pan et al. (2017), Character 8; Wang & Zhu (2018), Character 78.
 
-84. Number of lateral marginal plates of distal segment: three (0); two (1).
+86. Number of lateral marginal plates of distal segment: three (0); two (1).
 
 > Zhu (1996), Character 9; Jia, Zhu & Zhao (2010), Character 30; Pan et al. (2017), Character 9; Wang & Zhu (2018), Character 79.
 
