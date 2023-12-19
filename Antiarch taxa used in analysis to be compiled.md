@@ -42,13 +42,13 @@ Follow this model.
 
 *Wudinolepis*: (Chang, 1965)
 
-*Microbrachius*: (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., 2015); (Mark-Kurik et al., 2018)
+*Microbrachius*: (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., ); (Mark-Kurik et al., 2018)
 
 *Hohsienolepis*: (P'an & Wang, 1978)
 
 *Wufengshania*: (Pan et al., 2018)
 
-*Grossilepis*: (W.  Gross, 1941)a; (Gross, 1942a); (Stensiö, 1948); (Miles, 1968); (Lukševičs, 2001); (Olive, 2015)
+*Grossilepis*: (W.  Gross, 1941)a; (Gross, 1942a); (Stensiö, 1948); (Miles, 1968); (Lukševičs, 2001); (Olive, )
 
 *Bothriolepis*: (Gross, 1942b); (Stensiö, 1948); (Chang, 1965); (Miles, 1968); (Liu, 1973); (Pan et al., 1980); (Long, 1983); (Young, 1984); (Long & Werdelin, 1986); (Young, 1988); (Johanson, 1997a); (Lukševičs, 2001); (Thomson & Thomas, 2001); (Blom et al., 2007); (Moloshnikov, 2008); (Moloshnikov, 2011); (Olive, 2015); (Downs et al., 2016); (Lukševičs et al., 2017); (Luo et al., 2023)
 
@@ -68,7 +68,7 @@ Follow this model.
 
 *Wurungulepis*: (Young, 1990)
 
-*Pteryichthyodes*: (Hemmings, 1978)
+*Pterichthyodes*: (Hemmings, 1978); (Long et al., 2015)
 
 *Hunnanolepis*: (P'an & Wang, 1978)
 
