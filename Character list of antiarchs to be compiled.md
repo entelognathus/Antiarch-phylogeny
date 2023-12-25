@@ -136,11 +136,11 @@
 
 32.	Postmarginal plate: absent (0); present (1).
 
-> New character from Luo
+> New character from Luo.
 
 33.	Preopercular sensory line on postmarginal plate: absent (0); present (1).
 
-> New character from Luo
+> New character from Luo.
 
 34. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 
@@ -204,7 +204,7 @@
 
 > Zhu (1996), Character 65; Pan et al. (2017), Character 65; Wang & Zhu (2018), Character 45.
 
-> The suborbital was termed as the mental plate in Zhu (1996).
+> - The suborbital was termed as the mental plate in Zhu (1996).
 
 48. Suborbital plates of both sides: separated (0); meeting in the midline (1).
 
@@ -294,7 +294,7 @@
 
 > New character from Luo.
 
-66. Posterior ventral pit and process of posterior median dorsal plate: on *crista transversalis interna posterior* (0); posteriorly migrated behind crista transversalis interna posterior (1).
+66. Posterior ventral pit and process of posterior median dorsal plate: on *crista transversalis interna posterior* (0); posteriorly migrated behind *crista transversalis interna posterior* (1).
 
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan et al. (2017), Character 22; Wang & Zhu (2018), Character 59.
 
