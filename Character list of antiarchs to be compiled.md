@@ -272,31 +272,37 @@
 
 > New character from Luo.
 
+> - **To Luo** I am not certain about what you mean.
+
 62. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 
 > Young (1984, 1988), Character 16; Zhu (1996), Character 20; Pan et al. (2017), Character 20; Wang & Zhu (2018), Character 57.
 
-63. Crista transversalis interna posterior of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
+63. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
 
 > Zhu (1996), Character 21; Jia, Zhu & Zhao (2010), Character 40; Pan et al. (2017), Character 21; Wang & Zhu (2018), Character 58.
 
 64. Centered Ventral process or pit on posterior median dorsal plate: absent (0); present (1).
 
-> New character from Luo
+> New character from Luo.
+
+> - **To Luo** Redundant with Characters 63, 66-67.
 
 > Primitive antiarchs like *Phymolepis* and *Yunnanolepis* (Zhu, 1996) bear ventral process/pit on center of posterior median plate, more crowned taxa like *Bothriolepis* has posteriorly ventral process/pit.
 
 65.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
 
-> New character from Luo
+> New character from Luo.
 
-66. Posterior ventral pit and process of posterior median dorsal plate: on crista transversalis interna posterior (0); posteriorly migrated behind crista transversalis interna posterior (1).
+66. Posterior ventral pit and process of posterior median dorsal plate: on *crista transversalis interna posterior* (0); posteriorly migrated behind crista transversalis interna posterior (1).
 
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan et al. (2017), Character 22; Wang & Zhu (2018), Character 59.
 
 67. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 
 > Zhu (1996), Character 23; Pan et al. (2017), Character 23; Wang & Zhu (2018), Character 60.
+
+> - **Redundant with Character 66?** check whether codings differ in these two characters.
 
 68. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 
