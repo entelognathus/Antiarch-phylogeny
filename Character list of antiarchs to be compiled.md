@@ -234,7 +234,7 @@
 
 > Zhang and Young (1992), Character 2; Zhu (1996), Character 14; Jia, Zhu & Zhao (2010), Character 34; Pan et al. (2017), Character 14; Wang & Zhu (2018), Character 51.
 
-> - This tergal angle roughly corresponds to the anterior ventral pit in position. 
+> - This tergal angle roughly corresponds to the anterior ventral pit and process in position. 
 
 54. Dorsal spine of anterior median dorsal plate: absent (0); present (1).
 
@@ -258,17 +258,19 @@
 
 59.	Centered Ventral process or pit on anterior median dorsal plate: absent (0); present (1).
   
-> New character from Luo
+> New character from Luo.
 
-> Primitive antiarchs like *Yunnanolepis* and *Zhanjilepis* (Zhu, 1996) bear ventral process/pit on center of anterior median plate, more crowned taxa like *Bothriolepis* has anteriorly ventral process/pit.
+> - Primitive antiarchs like *Yunnanolepis* and *Zhanjilepis* (Zhu, 1996) bear ventral process/pit on center of anterior median plate, more crowned taxa like *Bothriolepis* has anteriorly ventral process/pit.
+
+> - **To Luo** Redundant with Character 53.
 
 60.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
     
-> New character from Luo
+> New character from Luo.
 
-61.	Anterior and posterior median plates partly overlapping each other: absent (0); present (1).
+61.	Anterior and posterior median dorsal plates partly overlapping each other: absent (0); present (1).
 
-> New character from Luo
+> New character from Luo.
 
 62. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 
