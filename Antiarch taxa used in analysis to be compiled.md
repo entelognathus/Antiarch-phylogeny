@@ -98,6 +98,8 @@ Follow this model.
 
 *Walterilepis*: (Gross, 1933a); (Lukševičs, 2021); (Plax & Lukševičs, 2023)
 
+*Livnolepis*: (Moloshnikov, 2008); (Moloshnikov & Linkevich, 2020)
+
 
 
 **References**
@@ -189,6 +191,8 @@ Moloshnikov, S. V. (2008). Devonian antiarchs (Pisces, Antiarchi) from central a
 Moloshnikov, S. V. (2011). Bothriolepiform antiarchs (Pisces, Placodermi) from the Devonian of Central Kazakhstan. *Paleontological Journal*, **45**(3), 291-304.
 
 Moloshnikov, S. V. (2012). Middle-late Devonian placoderms (Pisces: Antiarchi) from Central and northern Asia. *Paleontological Journal*, **46**(10), 1097-1196.
+
+Moloshnikov, S. V., & Linkevich, V. V. (2020). Late Devonian Bothriolepidids (Placodermi, Antiarchi) of the Tver Oblast. Paleontological Journal, **54**(2), 157-165.
 
 Obruchev, D. V. (1964). Class Placodermi. In D. V. Obruchev (Ed.), *Fundamentals of Palaeontology* (pp. 552). 
 
