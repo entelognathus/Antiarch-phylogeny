@@ -262,7 +262,7 @@
 
 > - Primitive antiarchs like *Yunnanolepis* and *Zhanjilepis* (Zhu, 1996) bear ventral process/pit on center of anterior median plate, more crowned taxa like *Bothriolepis* has anteriorly ventral process/pit.
 
-> - **To Luo** Redundant with Character 53.
+> - **To Luo** Redundant with Character 53. May deleted later
 
 60.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
     
@@ -286,7 +286,7 @@
 
 > New character from Luo.
 
-> - **To Luo** Redundant with Characters 63, 66-67.
+> - **To Luo** Redundant with Characters 63, 66-67. May deleted later
 
 > Primitive antiarchs like *Phymolepis* and *Yunnanolepis* (Zhu, 1996) bear ventral process/pit on center of posterior median plate, more crowned taxa like *Bothriolepis* has posteriorly ventral process/pit.
 
@@ -302,7 +302,13 @@
 
 > Zhu (1996), Character 23; Pan et al. (2017), Character 23; Wang & Zhu (2018), Character 60.
 
-> - **Redundant with Character 66?** check whether codings differ in these two characters.
+> - **Redundant with Character 66?** check whether codings differ in these two characters. Working on it
+
+68. Median ventral plate: absent (0); present (1).
+    
+> New character.from Luo
+
+> Modified from Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018), Character 67 to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
 
 68. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 
