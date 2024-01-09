@@ -144,7 +144,7 @@
 
 33.	Postmarginal canal: absent (0); present (1).
 
-> Newly added character.
+> **Newly added character.**
 
 > - Also termed 'preopercular sensory line on postmarginal plate'.
 > - Character 168 in 'early gnathostome phylogeny dataset'.
@@ -265,17 +265,19 @@
 
 59.	Centered ventral process or pit on anterior median dorsal plate: absent (0); present (1).
   
-> New character from Luo.
+> **Newly added character.**
 
-> - Primitive antiarchs like *Yunnanolepis* and *Zhanjilepis* (Zhu, 1996) bear ventral process/pit on center of anterior median plate, more crowned taxa like *Bothriolepis* has anteriorly ventral process/pit. This character could further identify centered ventral process and centered tuberosity based on Charater 53, because some antiarchs may owns centered ventral process and tuberosity at same time.
+>- Primitive antiarchs like *Yunnanolepis* and *Zhanjilepis* (Zhu, 1996) bear ventral process/pit on center of anterior median plate, more crowned taxa like *Bothriolepis* has anteriorly ventral process/pit. This character could further identify centered ventral process and centered tuberosity based on Charater 53, because some antiarchs may owns centered ventral process and tuberosity at same time.
+
+>- **This character is redundant with Character 53.**
 
 60.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
     
-> New character from Luo.
+> **Newly added character.**
 
 61.	Anterior and posterior median dorsal plates alternately overlapping each other: absent (0); present (1).
 
-> New character from Luo.
+> **Newly added character.**
 
 62. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 
@@ -285,35 +287,37 @@
 
 > Zhu (1996), Character 21; Jia, Zhu & Zhao (2010), Character 40; Pan et al. (2017), Character 21; Wang & Zhu (2018), Character 58.
 
-64. Centered Ventral process or pit on posterior median dorsal plate: absent (0); present (1).
+64. Centered ventral process or pit on posterior median dorsal plate: absent (0); present (1).
 
-> New character from Luo.
+> **Newly added character.**
 
->This character could further identify centered ventral process and centered tuberosity, because some antiarchs like *Bothriolepis kohni* owns centered ventral process and tuberosity at same time (Young, 1988).
+>- **This character is redundant with Characters 63, 66 and 67.**
 
-> Primitive antiarchs like *Phymolepis* and *Yunnanolepis* (Zhu, 1996) bear ventral process/pit on center of posterior median plate, more crowned taxa like *Bothriolepis* has posteriorly ventral process/pit.
+>- This character could further identify centered ventral process and centered tuberosity, because some antiarchs like *Bothriolepis kohni* owns centered ventral process and tuberosity at same time (Young, 1988).
+
+>- Primitive antiarchs like *Phymolepis* and *Yunnanolepis* (Zhu, 1996) bear ventral process/pit on center of posterior median plate, more crowned taxa like *Bothriolepis* has posteriorly ventral process/pit.
 
 65.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
 
-> New character from Luo.
+> **Newly added character.**
 
 66. Posterior ventral pit and process of posterior median dorsal plate: on *crista transversalis interna posterior* (0); posteriorly migrated behind *crista transversalis interna posterior* (1).
 
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan et al. (2017), Character 22; Wang & Zhu (2018), Character 59.
 
-> To identify the position of *Crista transversalis interna posterior* on antiarchs have posteriorly migrated posterior ventral process.
+>- To identify the position of *Crista transversalis interna posterior* on antiarchs have posteriorly migrated posterior ventral process.
 
 67. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 
 > Zhu (1996), Character 23; Pan et al. (2017), Character 23; Wang & Zhu (2018), Character 60. 
 
-> To identify the position of *Crista transversalis interna posterior* on antiarchs have centered posterior ventral process (e.g., *Yunnanolepis*, *Phymolepis* and *Mizia*, Zhu, 1996).
+>- To identify the position of *Crista transversalis interna posterior* on antiarchs have centered posterior ventral process (e.g., *Yunnanolepis*, *Phymolepis* and *Mizia*, Zhu, 1996).
 
 68. Median ventral plate: absent (0); present (1).
     
-> New character.from Luo
+> **Newly added character.**
 
-> Modified from Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018), Character 67 to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
+>- Modified from Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018), Character 67 to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
 
 68. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 
