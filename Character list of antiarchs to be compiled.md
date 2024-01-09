@@ -48,6 +48,8 @@
 
 > Young (1984, 1988, Character 3); Zhu (1996, Character 43); Pan et al. (2017, Character 43); Wang & Zhu (2018), Character 11.
 
+>- Character 150 in 'early gnathostome phylogeny dataset'.
+
 12. Lateral plate: narrow (0); broad (1).
 
 > Zhu (1996), Character 50; Jia, Zhu & Zhao (2010), Character 5; Pan et al. (2017), Character 50; Wang & Zhu (2018), Character 12.
@@ -134,15 +136,18 @@
 
 32.	Postmarginal plate: absent (0); present (1).
 
-> New character.
+> **Newly added character.**
 
-> - This character derives from Character 98 in 'gnathostome phylogeny dataset', "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
+> - Character 98 in 'early gnathostome phylogeny dataset', "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
 
 > - Present in *Heteroyunnanolepis*.
 
-33.	Preopercular sensory line on postmarginal plate: absent (0); present (1).
+33.	Postmarginal canal: absent (0); present (1).
 
-> New character.
+> Newly added character.
+
+> - Also termed 'preopercular sensory line on postmarginal plate'.
+> - Character 168 in 'early gnathostome phylogeny dataset'.
 
 34. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 
