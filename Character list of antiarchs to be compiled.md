@@ -142,134 +142,132 @@
 
 > - Present in *Heteroyunnanolepis*.
 
-33.	Postmarginal canal: absent (0); present (1).
+33.	Postmarginal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
+
+> - Some antiarchs like *Bothriolepis* and *Dianolepis* have postmarginal plate that on the anteriolateral of paranuchal plate, and anteriolateral angle on postmarginal plate; others like *Microbrachius* has postmarginal plate that on the posteriolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
+
+> **Newly added character.**
+
+34.	Postmarginal canal: absent (0); present (1).
 
 > **Newly added character.**
 
 > - Also termed 'preopercular sensory line on postmarginal plate'.
 > - Character 168 in 'early gnathostome phylogeny dataset'.
 
-34. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
+35. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 
 > Zhu (1996), Character 40; Jia, Zhu & Zhao (2010), Character 22; Pan et al. (2017), Character 40; Wang & Zhu (2018), Character 32.
 
-35. Semicircular pit-line: absent (0); present (1).
+36. Semicircular pit-line: absent (0); present (1).
 
 > Zhu (1996), Character 41; Jia, Zhu & Zhao (2010), Character 23; Pan et al. (2017), Character 41; Wang & Zhu (2018), Character 33.
 
-36. Occipital cross-commissure issued from infraorbital canal: absent or short (0); long and extending onto nuchal plate (1).
+37. Occipital cross-commissure issued from infraorbital canal: absent or short (0); long and extending onto nuchal plate (1).
 
 > Young (1984, 1988), Character 19, part; Zhu (1996), Character 42; Jia, Zhu & Zhao (2010), Character 24; Pan et al. (2017), Character 42; Wang & Zhu (2018), Character 34.
 
-37. Anterior postorbital process: behind anterior level of orbital notch (0); extending in front of orbital notch (1).
+38. Anterior postorbital process: behind anterior level of orbital notch (0); extending in front of orbital notch (1).
 
 > Young (1984, 1988), Character 37; Zhang and Young (1992), Character 17; Zhu (1996), Character 61; Jia, Zhu & Zhao (2010), Character 17; Pan et al. (2017), Character 61; Wang & Zhu (2018), Character 35.
 
 > - We term the “endocranium postorbital process” as the “anterior postorbital process” and re-formulate state 0 (“short”) as “behind anterior level of orbital fenestra”.
 
-38. Anterior postorbital process: at or behind posterior level of orbital notch (0); in front of posterior level of orbital notch (1).
+39. Anterior postorbital process: at or behind posterior level of orbital notch (0); in front of posterior level of orbital notch (1).
 
 > Wang & Zhu (2018), Character 36.
 
-39. Cavity for cranio-spinal process: absent (0); present (1).
+40. Cavity for cranio-spinal process: absent (0); present (1).
 
 > Wang & Zhu (2018), Character 37.
 
-40. Supraoccipital pit of head shield: absent (0); present (1).
+41. Supraoccipital pit of head shield: absent (0); present (1).
 
 > Wang & Zhu (2018), Character 38.
 
 > - This pit or cavity, also termed as the supraotic pit (Long & Werdelin) 1986, corresponds to the endocranial supraoccipital process.
 
-41. Confluence between anterior and posterior semicircular canals: midway between orbital notch and transverse nuchal crista or close to orbital notch (0); close to transverse nuchal crista (1).
+42. Confluence between anterior and posterior semicircular canals: midway between orbital notch and transverse nuchal crista or close to orbital notch (0); close to transverse nuchal crista (1).
 
 > Wang & Zhu (2018), Character 39.
 
-42. Endolymphatic duct through head shield: long tube (0); short tube (1).
+43. Endolymphatic duct through head shield: long tube (0); short tube (1).
 
 > Wang & Zhu (2018), Character 40.
 
-43. Occipital portion of endocranium: long (0); short (1).
+44. Occipital portion of endocranium: long (0); short (1).
 
 > Wang & Zhu (2018), Character 41.
 
-44. Submarginal articulation: absent (0); present (1).
+45. Submarginal articulation: absent (0); present (1).
 
 > Zhang and Young (1992), Character 13; Zhu (1996), Character 60; Jia, Zhu & Zhao (2010), Character 16; Pan et al. (2017), Character 60; Wang & Zhu (2018), Character 42.
 
-45. Postsuborbital plate: absent (0); present (1).
+46. Postsuborbital plate: absent (0); present (1).
 
 > Zhu (1996), Character 63; Jia, Zhu & Zhao (2010), Character 18; Pan et al. (2017), Character 63; Wang & Zhu (2018), Character 43.
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
 
-46. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
+47. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
 
 > Zhang and Young (1992), Character14; Zhu (1996), Character 64; Pan et al. (2017), Character 64; Wang & Zhu (2018), Character 44.
 
-47. Postsuborbital plate: behind suborbital plate (0); above suborbital plate (1).
+48. Postsuborbital plate: behind suborbital plate (0); above suborbital plate (1).
 
 > Zhu (1996), Character 65; Pan et al. (2017), Character 65; Wang & Zhu (2018), Character 45.
 
 > - The suborbital was termed as the mental plate in Zhu (1996).
 
-48. Suborbital plates of both sides: separated (0); meeting in the midline (1).
+49. Suborbital plates of both sides: separated (0); meeting in the midline (1).
 
 > Young (1984, 1988), Character 32; Zhu (1996), Character 66; Jia, Zhu & Zhao (2010), Character 19; Pan et al. (2017), Character 66; Wang & Zhu (2018), Character 46.
 
 *Trunk shield*
 
-49. Shape of trunk shield: low and elongated (0); high and short (1).
+50. Shape of trunk shield: low and elongated (0); high and short (1).
 
 > Young (1984, 1988), Character 33; Zhu (1996), Character 10; Pan et al. (2017), Character 10; Jia, Zhu & Zhao (2010), Character 25; Wang & Zhu (2018), Character 47; 
 
-50. Number of median dorsal plates: one (0); two (1).
+51. Number of median dorsal plates: one (0); two (1).
 
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan et al. (2017), Character 11; Wang & Zhu (2018), Character 48. 
 
-51. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).
+52. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).
 
 > Young (1984, 1988), Character 22; Zhang and Young (1992), Character 3; Zhu (1996), Character 12; Jia, Zhu & Zhao (2010), Character 33; Pan et al. (2017), Character 12; Wang & Zhu (2018), Character 49.
 
 > - The anterior median dorsal plate of antiarchs is homologous to the median dorsal plate 1 in *Qilinyu* Zhu et al. (2016) and the extrascapular plate in *Entelognathus* Zhu et al.( 2013), and some arthrodires Goujet (1973). It is absent in *Kujdanowaspis*.
 
-52. Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).
+53. Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).
 
 > Zhu (1996), Character 13; Pan et al. (2017), Character 13; Wang & Zhu (2018), Character 50.
 
-53. Tergal angle of anterior median dorsal plate: centrally or posteriorly placed (0); anteriorly placed (1).
+54. Tergal angle of anterior median dorsal plate: centrally or posteriorly placed (0); anteriorly placed (1).
 
 > Zhang and Young (1992), Character 2; Zhu (1996), Character 14; Jia, Zhu & Zhao (2010), Character 34; Pan et al. (2017), Character 14; Wang & Zhu (2018), Character 51.
 
 > - This tergal angle roughly corresponds to the anterior ventral pit and process in position. 
 
-54. Dorsal spine of anterior median dorsal plate: absent (0); present (1).
+55. Dorsal spine of anterior median dorsal plate: absent (0); present (1).
 
 > Zhu (1996), Character 19; Jia, Zhu & Zhao (2010), Character 39; Pan et al. (2017), Character 19; Wang & Zhu (2018), Character 52.
 
-55. Anterior median dorsal plate: completely overlapping anterior dorsolateral plate (0); partly overlapping anterior dorsolateral plate (1).
+56. Anterior median dorsal plate: completely overlapping anterior dorsolateral plate (0); partly overlapping anterior dorsolateral plate (1).
 
 > Zhu (1996), Character 15; Jia, Zhu & Zhao (2010), Character 35; Pan et al. (2017), Character 15; Wang & Zhu (2018), Character 53.
 
-56. Anterior median dorsal plate: underlapping or partly overlapping posterior dorsolateral (or mixilateral) plate (0); completely overlapping posterior dorsolateral (or mixilateral) plate (1).
+57. Anterior median dorsal plate: underlapping or partly overlapping posterior dorsolateral (or mixilateral) plate (0); completely overlapping posterior dorsolateral (or mixilateral) plate (1).
 
 > Young (1984, 1988), Character 17; Zhu (1996), Character 16; Jia, Zhu & Zhao (2010), Character 36; Pan et al. (2017), Character 16; Wang & Zhu (2018), Character 54.
 
-57. Anterior median dorsal plate: partly or completely overlapping posterior dorsolateral (or mixilateral) plate (0); underlapping posterior dorsolateral (or mixilateral) plate (1).
+58. Anterior median dorsal plate: partly or completely overlapping posterior dorsolateral (or mixilateral) plate (0); underlapping posterior dorsolateral (or mixilateral) plate (1).
 
 > Young (1984, 1988), Character 21; Zhang and Young (1992), Character 4; Zhu (1996), Character 17; Jia, Zhu & Zhao (2010), Character 37; Pan et al. (2017), Character 17; Wang & Zhu (2018), Character 55.
 
-58. Anterior ventral process and pit on anterior median dorsal plate: absent (0); present (1).
+59. Anterior ventral process and pit on anterior median dorsal plate: absent (0); present (1).
 
 > Young (1984, 1988), Character 31; Zhu (1996), Character 18; Jia, Zhu & Zhao (2010), Character 38; Pan et al. (2017), Character 18; Wang & Zhu (2018), Character 56.
-
-59.	Centered ventral process or pit on anterior median dorsal plate: absent (0); present (1).
-  
-> **Newly added character.**
-
->- Primitive antiarchs like *Yunnanolepis* and *Zhanjilepis* (Zhu, 1996) bear ventral process/pit on center of anterior median plate, more crowned taxa like *Bothriolepis* has anteriorly ventral process/pit. This character could further identify centered ventral process and centered tuberosity based on Charater 53, because some antiarchs may owns centered ventral process and tuberosity at same time.
-
->- **This character is redundant with Character 53.**
 
 60.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
     
@@ -287,33 +285,23 @@
 
 > Zhu (1996), Character 21; Jia, Zhu & Zhao (2010), Character 40; Pan et al. (2017), Character 21; Wang & Zhu (2018), Character 58.
 
-64. Centered ventral process or pit on posterior median dorsal plate: absent (0); present (1).
+64.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
 
 > **Newly added character.**
 
->- **This character is redundant with Characters 63, 66 and 67.**
-
->- This character could further identify centered ventral process and centered tuberosity, because some antiarchs like *Bothriolepis kohni* owns centered ventral process and tuberosity at same time (Young, 1988).
-
->- Primitive antiarchs like *Phymolepis* and *Yunnanolepis* (Zhu, 1996) bear ventral process/pit on center of posterior median plate, more crowned taxa like *Bothriolepis* has posteriorly ventral process/pit.
-
-65.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
-
-> **Newly added character.**
-
-66. Posterior ventral pit and process of posterior median dorsal plate: on *crista transversalis interna posterior* (0); posteriorly migrated behind *crista transversalis interna posterior* (1).
+65. Posterior ventral pit and process of posterior median dorsal plate: on *crista transversalis interna posterior* (0); posteriorly migrated behind *crista transversalis interna posterior* (1).
 
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan et al. (2017), Character 22; Wang & Zhu (2018), Character 59.
 
 >- To identify the position of *Crista transversalis interna posterior* on antiarchs have posteriorly migrated posterior ventral process.
 
-67. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
+66. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 
 > Zhu (1996), Character 23; Pan et al. (2017), Character 23; Wang & Zhu (2018), Character 60. 
 
 >- To identify the position of *Crista transversalis interna posterior* on antiarchs have centered posterior ventral process (e.g., *Yunnanolepis*, *Phymolepis* and *Mizia*, Zhu, 1996).
 
-68. Median ventral plate: absent (0); present (1).
+67. Median ventral plate: absent (0); present (1).
     
 > **Newly added character.**
 
