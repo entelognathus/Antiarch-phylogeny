@@ -1,5 +1,3 @@
-> To Luo, for new character, an interpretation of the character is better to be added. Character matrix is modified accordingly.
- 
  **Character list of Antiarches**
 
 *Ornamentation, histology and scales*
@@ -136,11 +134,15 @@
 
 32.	Postmarginal plate: absent (0); present (1).
 
-> New character from Luo.
+> New character.
+
+> - This character derives from Character 98 in 'gnathostome phylogeny dataset', "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
+
+> - Present in *Heteroyunnanolepis*.
 
 33.	Preopercular sensory line on postmarginal plate: absent (0); present (1).
 
-> New character from Luo.
+> New character.
 
 34. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 
