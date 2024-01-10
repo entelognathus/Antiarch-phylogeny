@@ -8,7 +8,7 @@ Follow this model.
 
 Antiarchs:
 
-*Vanchienolepis*: (Tông-Dzuy & Janvier, 1990)
+*Vanchienolepis*: Lower Pragian, Formation de Bac Bun(Tông-Dzuy & Janvier, 1990); (Janvier & Phuong, 1999）
 
 *Chuchinolepis*: (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994)
 
