@@ -8,29 +8,33 @@ Follow this model.
 
 Antiarchs:
 
-*Vanchienolepis*: (Tông-Dzuy & Janvier, 1990)
+*Vanchienolepis langsonensis*, Bac Bun, Pragian, Early Devonian (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
-*Chuchinolepis*: (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994)
+*Chuchinolepis gracilis*, Xitun, Lochkovian, Early Devonian (Chang, 1978; Pan and Wang, 1978; Liu, 1992; Zhu, 1996)
 
-*Heteroyunnanolepis*: (Wang, 1994); (Zhu, 1996)
+*Chuchinolepis qujingensis*, Xitun, Lochkovian, Early Devonian (Zhang, 1984; Yang and Zhang, 1992; Zhu *et al*., 1994)
 
-*Zhanjilepis*: (Zhang, 1978); (Zhu, 1996); (Liu, 1992)
+*Heteroyunnanolepis qujingensis*, Xishancun, Lochkovian, Early Devonian (Wang, 1994; Zhu, 1996)
 
-*Yunnanolepis*: (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
+*Zhanjilepis aspratilis*, Xishancun and Xitun, Lochkovian, Early Devonian (Zhang, 1978; Zhu, 1996; Janvier, 1999)
 
-*Mizia*: (Zhu, 1996)
+*Yunnanolepis chii*, Guijiatun, Lochkovian to Pragian, Early Devonian (Liu, 1963; Pan and Wang, 1978; Chang, 1978; Zhang, 1978; Liu, 1992; Zhu et al., 1994; Zhu, 1996)
 
-*Phymolepis*: (Chang, 1978); (Zhang, 1978); (Zhu, 1996); (Wang & Zhu, 2018)
+*Mizia longhuaensis*, Xujiachong, Early Devonian (Zhu, 1996)
 
-*Parayunnanolepis*: (Zhang et al., 2001)
+*Phymolepis cuifengshanensis*, Xitun, Lochkovian, Early Devonian (Chang, 1978; Zhang, 1978; Zhu, 1996; Wang and Zhu, 2018)
 
-*Minicrania*: (Zhu & Janvier, 1996)
+*Phymolepis guoruii*, Xitun, Lochkovian, Early Devonian (Zhu, 1996)
 
-*Liujiangolepis*: (Wang, 1987)
+*Parayunnanolepis xitunensis*, Xitun, Lochkovian, Early Devonian (Young and Zhang, 1996; Zhang *et al*., 2001; Zhu *et al*., 2012; Wang and Zhu, 2021; Wang and Zhu, 2022)
 
-*Dayaoshania*: (Ritchie et al., 1992)
+*Minicrania lirouyii*, Xishancun, Lochkovian, Early Devonian (Zhu and Janvier, 1996)
 
-*Xichonolepis*: (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
+*Liujiangolepis suni*, Xiaoshan, Pragian to early Emsian, Early Devonian (Wang, 1987)
+
+*Dayaoshania youngi*, Dayaoshan Group, early Emsian, Early Devonian (Wang, 2001; Ritchie *et al*., 1992)
+
+*Xichonolepis qujingensis*, Xichong, Givetian, Middle Devonian (P'an and Wang, 1978; Zhang, 1980; Ritchie et al., 1992)
 
 *Grenfellaspis*: (Ritchie et al., 1992)
 
