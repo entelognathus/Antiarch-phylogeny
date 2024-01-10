@@ -16,7 +16,7 @@ Antiarchs:
 
 *Zhanjilepis*: Lochkovian; Xitun Formation, Xishancun Formation, Formation de Khao Lôc; (Zhang, 1978); (Zhu, 1996); (Liu, 1992); (Janvier & Phuong, 1999）
 
-*Yunnanolepis*: (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
+*Yunnanolepis*: Early Devonian; Cuifengshan Group, Xitun Formation, Xishancun Formation, Formation de Bac Bun; (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996);(Tông-Dzuy & Janvier, 1990); (Tông-Dzuy & Janvier, 1994); (Janvier & Phuong, 1999）
 
 *Mizia*: (Zhu, 1996)
 
