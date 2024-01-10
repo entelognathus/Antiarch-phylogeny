@@ -377,6 +377,8 @@
 
 > Young (1984, 1988), Character 27; Zhang and Young (1992), Character 15; Zhu (1996), Character 4; Jia, Zhu & Zhao (2010), Character 32; Pan et al. (2017), Character 4; Wang & Zhu (2018), Character 74.
 
+>- We followed Young (1988) and identified the axillary foramen larger than 30% of the lateral lamina of AVL as large axillary foramen. Young regarded the large axillary foramen is a synapomorphy of Bothriolepididae, which may be doubtful. More researchers suggested it reflects a strong muscle and improved movement capacity of fin, and is apomorphic whatever its function.
+
 83. Pectoral appendage: unjointed (0); jointed (1).
 
 > Young (1984, 1988), Character 10; Zhu (1996), Character 5; Jia, Zhu & Zhao (2010), Character 27; Pan et al. (2017), Character 5; Wang & Zhu (2018), Character 75.
