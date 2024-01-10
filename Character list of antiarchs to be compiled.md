@@ -372,11 +372,11 @@
 
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 72.
 
-81. Brachial process: simple (0); developed (1); helmet-shaped (2);
+81. Brachial process: simple (0); helmet-shaped (1);
 
-> Modified from Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
+> Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
 
-> - Brachial process of Sinolepids was coded as "simple" states in previous studies, here we identified state "developed" represent antiarchs (e.g., *Grenfellaspis*, Retchie et al., 1992) bear fossa articularis pectoralis and foramen axillare of anterior ventrolateral plate, without processus brachialis. **should be considered as ordered character?**
+> - Antiarchs have foramen axillare and funnel pit of processus brachialis but no processus brachialis were coded as "simple" states (e.g., Sinolepidae), primitive articulations (e.g., *Yunnanolepis*) were identified as brachial process "absent" in the previous Charater. 
 
 82. Axillary foramen: small (0); large (1).
 
