@@ -12,9 +12,9 @@ Antiarchs:
 
 *Chuchinolepis*: Lochkovian-Lower Pragian; Xitun Formation, Xishancun Formation, Guijiatun Formation, Lianhuashan Formation, Formation de Bac Bun; (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
 
-*Heteroyunnanolepis*: (Wang, 1994); (Zhu, 1996)
+*Heteroyunnanolepis*: Lochkovian; Xishancun Formation; (Wang, 1994); (Zhu, 1996)
 
-*Zhanjilepis*: (Zhang, 1978); (Zhu, 1996); (Liu, 1992)
+*Zhanjilepis*: Lochkovian; Xitun Formation, Xishancun Formation, Formation de Khao Lôc; (Zhang, 1978); (Zhu, 1996); (Liu, 1992); (Janvier & Phuong, 1999）
 
 *Yunnanolepis*: (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
 
