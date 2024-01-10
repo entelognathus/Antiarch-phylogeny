@@ -32,7 +32,7 @@
 
 > Zhu (1996), Character 51; Jia, Zhu & Zhao (2010), Character 1; Pan et al. (2017), Character 51; Wang & Zhu (2018), Character 7.
 
-> - **How to define two states? shorter than wide (0); longer than wide (2).**
+> -  Premedian plate has length greater than width was identified as "short and broad".
 
 8. Anterior margin of premedian plate: convex (0); slightly concave (1).
 
@@ -80,7 +80,7 @@
 
 > Zhu (1996), Character 55; Jia, Zhu & Zhao (2010), Character 10; Pan et al. (2017), Character 55; Wang & Zhu (2018), Character 18.
 
-> - **How to define two states?**
+> - The width of orbital fenestra matchs half of the head width should be coded as "large", may be deleted in antiarch matrix
 
 19. Relative position of orbital fenestra (ordered): anterior (0); slightly anterior (1); slightly posterior (2); posterior (3).
 
@@ -94,7 +94,7 @@
 
 > Zhu (1996), Character 57; Jia, Zhu & Zhao (2010), Character 12; Pan et al. (2017), Character 57; Wang & Zhu (2018), Character 21.
 
-> - **How to define two states?**
+> - Postpineal and nuchal plates have length greater than width was identified as "short and broad".
 
 > - *B. zhujiangyuanensis* seems different from other *Bothriolepis* species in its nuchal shape. 
 
@@ -150,7 +150,7 @@
 
 > - Character 98 in 'early gnathostome phylogeny dataset', "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
 
-> - **Present in all antiarchs?**.
+> - **Present in all antiarchs?**. Moloshnikov (2011) established a new family Tubalepididae with a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize (Luna B) shows clearly the absence of postmarginal plate. 
 
 33.	Postmarginal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 
