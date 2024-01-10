@@ -32,6 +32,8 @@
 
 > Zhu (1996), Character 51; Jia, Zhu & Zhao (2010), Character 1; Pan et al. (2017), Character 51; Wang & Zhu (2018), Character 7.
 
+> - **How to define two states? shorter than wide (0); longer than wide (2).**
+
 8. Anterior margin of premedian plate: convex (0); slightly concave (1).
 
 > Zhu (1996), Character 52; Jia, Zhu & Zhao (2010), Character 2; Pan et al. (2017), Character 52; Wang & Zhu (2018), Character 8.
@@ -78,6 +80,8 @@
 
 > Zhu (1996), Character 55; Jia, Zhu & Zhao (2010), Character 10; Pan et al. (2017), Character 55; Wang & Zhu (2018), Character 18.
 
+> - **How to define two states?**
+
 19. Relative position of orbital fenestra (ordered): anterior (0); slightly anterior (1); slightly posterior (2); posterior (3).
 
 > Zhu (1996), Character 56; Jia, Zhu & Zhao (2010), Character 11; Pan et al. (2017), Character 56; Wang & Zhu (2018), Character 19.
@@ -89,6 +93,10 @@
 21. Postpineal and nuchal plates: long and narrow (0); short and broad (1).
 
 > Zhu (1996), Character 57; Jia, Zhu & Zhao (2010), Character 12; Pan et al. (2017), Character 57; Wang & Zhu (2018), Character 21.
+
+> - **How to define two states? shorter than wide (0); longer than wide (2).**
+
+> - *B. zhujiangyuanensis* seems different from other *Bothriolepis* species in its nuchal shape. 
 
 22. Pronounced postpineal thickening on the visceral view of postpineal plate: absent (0); present (1).
 
@@ -103,6 +111,8 @@
 24. Nuchal plate: without orbital facets (0); with orbital facets (1).
 
 > Young (1984, 1988), Character 26; Zhang and Young (1992), Character 16; Zhu (1996), Character 58; Jia, Zhu & Zhao (2010), Character 14; Pan et al. (2017), Character 58; Wang & Zhu (2018), Character 24.
+
+> - ***B. zhujiangyuanensis* with a narrow facet, indeed or not?**
 
 25. Supraotic thickening on the visceral view of nuchal plate: absent (0); present (1).
 
