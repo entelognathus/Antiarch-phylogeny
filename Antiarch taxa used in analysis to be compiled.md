@@ -6,9 +6,11 @@ Follow this model.
 
 *Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
+Antiarchs:
+
 *Vanchienolepis*: (Tông-Dzuy & Janvier, 1990)
 
-*Chuchinolepis*: (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992);(Zhu et al., 1994)
+*Chuchinolepis*: (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994)
 
 *Heteroyunnanolepis*: (Wang, 1994); (Zhu, 1996)
 
