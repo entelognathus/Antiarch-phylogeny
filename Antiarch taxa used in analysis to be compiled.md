@@ -18,7 +18,7 @@ Antiarchs:
 
 *Yunnanolepis*: Early Devonian; Cuifengshan Group, Xitun Formation, Xishancun Formation, Formation de Bac Bun; (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996);(Tông-Dzuy & Janvier, 1990); (Tông-Dzuy & Janvier, 1994); (Janvier & Phuong, 1999）
 
-*Mizia*: (Zhu, 1996)
+*Mizia*: Early Devonian; Cuifengshan Group, Xujiachong Formation; (Zhang, 1978); (Zhu, 1996)
 
 *Phymolepis*: (Chang, 1978); (Zhang, 1978); (Zhu, 1996); (Wang & Zhu, 2018)
 
