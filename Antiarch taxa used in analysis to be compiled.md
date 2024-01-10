@@ -8,9 +8,9 @@ Follow this model.
 
 Antiarchs:
 
-*Vanchienolepis*: Lower Pragian, Formation de Bac Bun(Tông-Dzuy & Janvier, 1990); (Janvier & Phuong, 1999）
+*Vanchienolepis*: Lower Pragian; Formation de Bac Bun; (Tông-Dzuy & Janvier, 1990); (Janvier & Phuong, 1999）
 
-*Chuchinolepis*: (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994)
+*Chuchinolepis*: Lochkovian-Lower Pragian; Xitun Formation, Xishancun Formation, Guijiatun Formation, Lianhuashan Formation, Formation de Bac Bun; (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
 
 *Heteroyunnanolepis*: (Wang, 1994); (Zhu, 1996)
 
