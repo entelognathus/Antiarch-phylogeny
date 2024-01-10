@@ -312,7 +312,7 @@
 
 > Zhu (1996), Character 23; Pan et al. (2017), Character 23; Wang & Zhu (2018), Character 60. 
 
->- To identify the position of *Crista transversalis interna posterior* on antiarchs have centered posterior ventral process (e.g., *Yunnanolepis*, *Phymolepis* and *Mizia*, Zhu, 1996).
+>- To identify the position of *crista transversalis interna posterior* on antiarchs have centered posterior ventral process (e.g., *Yunnanolepis*, *Phymolepis* and *Mizia*, Zhu, 1996).
 
 67. Median ventral plate: absent (0); present (1).
     
@@ -375,6 +375,8 @@
 81. Brachial process: simple (0); helmet-shaped (1);
 
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
+
+> - **How to define the states in sinolepids?**
 
 82. Axillary foramen: small (0); large (1).
 
