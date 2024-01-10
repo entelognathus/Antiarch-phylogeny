@@ -94,7 +94,7 @@
 
 > Zhu (1996), Character 57; Jia, Zhu & Zhao (2010), Character 12; Pan et al. (2017), Character 57; Wang & Zhu (2018), Character 21.
 
-> - **How to define two states? shorter than wide (0); longer than wide (2).**
+> - **How to define two states?**
 
 > - *B. zhujiangyuanensis* seems different from other *Bothriolepis* species in its nuchal shape. 
 
@@ -112,7 +112,7 @@
 
 > Young (1984, 1988), Character 26; Zhang and Young (1992), Character 16; Zhu (1996), Character 58; Jia, Zhu & Zhao (2010), Character 14; Pan et al. (2017), Character 58; Wang & Zhu (2018), Character 24.
 
-> - ***B. zhujiangyuanensis* with a narrow facet, indeed or not?**
+> - ***B. zhujiangyuanensis* with a narrow facet, indeed or not?， The relative width of the orbital facet should be a character.**
 
 25. Supraotic thickening on the visceral view of nuchal plate: absent (0); present (1).
 
@@ -150,19 +150,20 @@
 
 > - Character 98 in 'early gnathostome phylogeny dataset', "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
 
-> - Present in *Heteroyunnanolepis*.
+> - **Present in all antiarchs?**.
 
 33.	Postmarginal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 
-> - Some antiarchs like *Bothriolepis* and *Dianolepis* have postmarginal plate that on the anteriolateral of paranuchal plate, and anteriolateral angle on postmarginal plate; others like *Microbrachius* has postmarginal plate that on the posteriolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
-
 > **Newly added character.**
+
+> - Some antiarchs like *Bothriolepis* and *Dianolepis* have postmarginal plate that on the anteriolateral of paranuchal plate, and anteriolateral angle on postmarginal plate; others like *Microbrachius* has postmarginal plate that on the posteriolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
 
 34.	Postmarginal canal: absent (0); present (1).
 
 > **Newly added character.**
 
 > - Also termed 'preopercular sensory line on postmarginal plate'.
+
 > - Character 168 in 'early gnathostome phylogeny dataset'.
 
 35. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
@@ -238,6 +239,8 @@
 50. Shape of trunk shield: low and elongated (0); high and short (1).
 
 > Young (1984, 1988), Character 33; Zhu (1996), Character 10; Pan et al. (2017), Character 10; Jia, Zhu & Zhao (2010), Character 25; Wang & Zhu (2018), Character 47; 
+
+> - **very low trunk shield in *Xichonolepis* should be a derived feature. Is this a feature of sinolepids? How to define it?**
 
 51. Number of median dorsal plates: one (0); two (1).
 
