@@ -350,7 +350,7 @@
 
 75. Large rectangular aperture on ventral wall of trunk shield: absent (0); present (1).
 
-> Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang & Zhu (2018), Character 67.
+> Young (1984, 1988), Character 15; Retchie et al. (1992), Character 5; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang & Zhu (2018), Character 67.
 
 76. Spinal plate: absent (0); present (1).
 
