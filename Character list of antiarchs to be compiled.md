@@ -372,11 +372,11 @@
 
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 72.
 
-81. Brachial process: simple (0); helmet-shaped (1);
+81. Brachial process: simple (0); developed (1); helmet-shaped (2);
 
-> Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
+> Modified from Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
 
-> - **How to define the states in sinolepids?**
+> - Brachial process of Sinolepids was coded as "simple" states in previous studies, here we identified state "developed" represent antiarchs (e.g., *Grenfellaspis*, Retchie et al., 1992) bear fossa articularis pectoralis and foramen axillare of anterior ventrolateral plate, without processus brachialis. **should be considered as ordered character?**
 
 82. Axillary foramen: small (0); large (1).
 
@@ -404,3 +404,44 @@
 
 > Zhu (1996), Character 9; Jia, Zhu & Zhao (2010), Character 30; Pan et al. (2017), Character 9; Wang & Zhu (2018), Character 79.
 
+88.	Lateral position of infraorbital sensory canal on paranuchal and lateral plate, forming narrow lateral divisions: absent (0); present (1).
+
+> Retchie et al. (1992, Character 1)
+
+> - Only available in Sinolepids, may be deleted in antiarch matrix.
+
+89.	Broad anterior margin of anterior median dorsal plate: absent (0); present (1).
+
+> Retchie et al. (1992, Character 2)
+
+> - Only available in Sinolepids, may be deleted in antiarch matrix.
+
+90.	Short posterolateral margin of anterior median dorsal plate: absent (0); present (1).
+
+> Retchie et al. (1992, Character 3)
+
+> - Only available in Sinolepids, may be deleted in antiarch matrix.
+
+91.	Square shaped of anterior median dorsal plate, with reduced lateral processes: absent (0); present (1).
+
+> Retchie et al. (1992, Character 3)
+
+> - Only available in Sinolepids, may be deleted in antiarch matrix
+
+92.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
+
+> Retchie et al. (1992, Character 6)
+
+> - Retchie et al. (1992) regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
+
+93.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
+
+> Retchie et al. (1992, Character 7)
+
+> - Few researchers have noticed that character, Retchie regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
+
+94.	Mesial marginal plate 1 restricted to mesial wall of pectoral fin: absent (0); present (1).
+
+> Retchie et al. (1992, Character 8)
+
+> - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
