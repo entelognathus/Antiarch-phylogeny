@@ -34,7 +34,7 @@ Antiarchs:
 
 *Grenfellaspis*: Late Famennian; Hunter Siltstone; (Ritchie et al., 1992)
 
-*Sinolepis*: (Liu & P'an, 1958);(Pan et al., 1987); (Ritchie et al., 1992)
+*Sinolepis*: Famennian; Wutung Formation, Zhongning Formation; (Liu & P'an, 1958);(Pan et al., 1987); (Ritchie et al., 1992)
 
 *Luquanolepis*: (Zhang & Young, 1992)
 
