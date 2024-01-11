@@ -374,9 +374,9 @@
 
 81. Brachial process: simple (0); helmet-shaped (1);
 
-> Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
+> Young (1984, 1988), Character 9; Retchie et al. (1992), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
 
-> - Antiarchs have foramen axillare and funnel pit of processus brachialis but no processus brachialis were coded as "simple" states (e.g., Sinolepidae), primitive articulations (e.g., *Yunnanolepis*) were identified as brachial process "absent" in the previous Charater. 
+> - Antiarchs have foramen axillare and funnel pit of processus brachialis but no processus brachialis were coded as "simple" states (e.g., Sinolepidae), primitive articulations (e.g., *Yunnanolepis*) were identified as brachial process "absent" in the previous Character. 
 
 82. Axillary foramen: small (0); large (1).
 
@@ -386,7 +386,7 @@
 
 83. Pectoral appendage: unjointed (0); jointed (1).
 
-> Young (1984, 1988), Character 10; Zhu (1996), Character 5; Jia, Zhu & Zhao (2010), Character 27; Pan et al. (2017), Character 5; Wang & Zhu (2018), Character 75.
+> Young (1984, 1988), Character 10; Retchie et al. (1992), Character 10; Zhu (1996), Character 5; Jia, Zhu & Zhao (2010), Character 27; Pan et al. (2017), Character 5; Wang & Zhu (2018), Character 75.
 
 84. Dorsal central plate 1 and dorsal central plate 2 of pectoral appendage: in contact (0); separated (1).
 
@@ -408,25 +408,25 @@
 
 > Retchie et al. (1992, Character 1)
 
-> - Only available in Sinolepids, may be deleted in antiarch matrix.
+> - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
 
 89.	Broad anterior margin of anterior median dorsal plate: absent (0); present (1).
 
 > Retchie et al. (1992, Character 2)
 
-> - Only available in Sinolepids, may be deleted in antiarch matrix.
+> - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r1 between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).”
 
 90.	Short posterolateral margin of anterior median dorsal plate: absent (0); present (1).
 
 > Retchie et al. (1992, Character 3)
 
-> - Only available in Sinolepids, may be deleted in antiarch matrix.
+> - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).”
 
-91.	Square shaped of anterior median dorsal plate, with reduced lateral processes: absent (0); present (1).
+91.	Square shaped of posterior median dorsal plate, with reduced lateral processes: absent (0); present (1).
 
-> Retchie et al. (1992, Character 3)
+> Retchie et al. (1992, Character 4)
 
-> - Only available in Sinolepids, may be deleted in antiarch matrix
+> - Present in *Sinolepis* and *Grenfellaspis*. Check whether it is redundant with the character "Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).".
 
 92.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
 
@@ -445,3 +445,9 @@
 > Retchie et al. (1992, Character 8)
 
 > - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
+
+95. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
+
+> Retchie et al. (1992), Character 11.
+
+> - Retchie et al. (1992) regarded it is a synapomorphy of sinolepids and euantiarchs.
