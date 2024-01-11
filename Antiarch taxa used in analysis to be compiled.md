@@ -26,7 +26,7 @@ Antiarchs:
 
 *Minicrania*: Lochkovian; Xishancun Formation, Formation de Khao Lôc; (Zhu & Janvier, 1996); (Janvier & Phuong, 1999）
 
-*Liujiangolepis*: Pragian; Nakaoling Formation; (Wang, 1987)
+*Liujiangolepis*: Mensian? Pragian; Nakaoling Formation; (Wang, 1987)
 
 *Dayaoshania*: Early Emsian; Dayaoshan Group; (Ritchie et al., 1992)
 
