@@ -32,7 +32,7 @@ Antiarchs:
 
 *Xichonolepis*: Eifelian-Givetian; Haikou Formation; (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
 
-*Grenfellaspis*: (Ritchie et al., 1992)
+*Grenfellaspis*: Late Famennian; Hunter Siltstone; (Ritchie et al., 1992)
 
 *Sinolepis*: (Liu & P'an, 1958);(Pan et al., 1987); (Ritchie et al., 1992)
 
