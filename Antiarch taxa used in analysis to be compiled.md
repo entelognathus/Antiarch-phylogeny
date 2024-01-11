@@ -28,7 +28,7 @@ Antiarchs:
 
 *Liujiangolepis*: Pragian; Nakaoling Formation; (Wang, 1987)
 
-*Dayaoshania*: (Ritchie et al., 1992)
+*Dayaoshania*: Early Emsian; Dayaoshan Group; (Ritchie et al., 1992)
 
 *Xichonolepis*: (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
 
