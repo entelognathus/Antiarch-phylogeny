@@ -30,7 +30,7 @@ Antiarchs:
 
 *Dayaoshania*: Early Emsian; Dayaoshan Group; (Ritchie et al., 1992)
 
-*Xichonolepis*: (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
+*Xichonolepis*: Eifelian-Givetian; Haikou Formation; (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
 
 *Grenfellaspis*: (Ritchie et al., 1992)
 
