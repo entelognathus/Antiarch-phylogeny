@@ -8,15 +8,15 @@ Follow this model.
 
 Antiarchs:
 
-*Vanchienolepis*: Lower Pragian; Formation de Bac Bun; (Tông-Dzuy & Janvier, 1990); (Janvier & Phuong, 1999）
+*Vanchienolepis*: Early Pragian; Formation de Bac Bun; (Tông-Dzuy & Janvier, 1990); (Janvier & Phuong, 1999）
 
-*Chuchinolepis*: Lochkovian-Lower Pragian; Xitun Formation, Xishancun Formation, Guijiatun Formation, Lianhuashan Formation, Formation de Bac Bun; (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
+*Chuchinolepis*: Lochkovian-Early Pragian; Xitun Formation, Xishancun Formation, Guijiatun Formation, Lianhuashan Formation, Formation de Bac Bun; (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
 
 *Heteroyunnanolepis*: Lochkovian; Xishancun Formation; (Wang, 1994); (Zhu, 1996)
 
 *Zhanjilepis*: Lochkovian; Xitun Formation, Xishancun Formation, Formation de Khao Lôc; (Zhang, 1978); (Zhu, 1996); (Liu, 1992); (Janvier & Phuong, 1999）
 
-*Yunnanolepis*: Early Devonian; Cuifengshan Group, Xitun Formation, Xishancun Formation, Formation de Bac Bun; (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996);(Tông-Dzuy & Janvier, 1990); (Tông-Dzuy & Janvier, 1994); (Janvier & Phuong, 1999）
+*Yunnanolepis*: Lochkovian-Early Pragian; Xitun Formation, Xishancun Formation, Lianhuashan Formation, Guijiatun Formation, Hexian Formation, Formation de Bac Bun; (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996);(Tông-Dzuy & Janvier, 1990); (Tông-Dzuy & Janvier, 1994); (Janvier & Phuong, 1999）
 
 *Mizia*: Early Devonian; Cuifengshan Group, Xujiachong Formation; (Zhang, 1978); (Zhu, 1996)
 
