@@ -96,7 +96,9 @@
 
 > - Postpineal and nuchal plates have length greater than width was identified as "short and broad".
 
-> - *B. zhujiangyuanensis* seems different from other *Bothriolepis* species in its nuchal shape. 
+> - *B. zhujiangyuanensis* seems different from other *Bothriolepis* species in its nuchal shape.
+
+> - This is caused by the visual error. After reobservation to fossil materials. *B. zhujiangyuanensis* is the same as other this *Bothriolepis* species in its nuchal shape. 
 
 22. Pronounced postpineal thickening on the visceral view of postpineal plate: absent (0); present (1).
 
@@ -113,6 +115,8 @@
 > Young (1984, 1988), Character 26; Zhang and Young (1992), Character 16; Zhu (1996), Character 58; Jia, Zhu & Zhao (2010), Character 14; Pan et al. (2017), Character 58; Wang & Zhu (2018), Character 24.
 
 > - ***B. zhujiangyuanensis* with a narrow facet, indeed or not?， The relative width of the orbital facet should be a character.**
+
+> - *B. zhujiangyuanensis* has a typital facet, not narrow. Narrow facet is a visual error from reconstruction.
 
 25. Supraotic thickening on the visceral view of nuchal plate: absent (0); present (1).
 
