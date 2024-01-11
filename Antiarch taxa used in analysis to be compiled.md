@@ -24,7 +24,7 @@ Antiarchs:
 
 *Parayunnanolepis*: Lochkovian; Xitun Formation; (Zhang et al., 2001); (Zhu et al.,2011); (Wang & Zhu, 2021); (Wang & Zhu, 2022); (Zhu et al., 2023)
 
-*Minicrania*: (Zhu & Janvier, 1996)
+*Minicrania*: Lochkovian; Xishancun Formation, Formation de Khao Lôc; (Zhu & Janvier, 1996); (Janvier & Phuong, 1999）
 
 *Liujiangolepis*: (Wang, 1987)
 
