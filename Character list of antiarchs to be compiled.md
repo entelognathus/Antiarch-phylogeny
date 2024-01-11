@@ -170,6 +170,9 @@
 
 > Zhu (1996), Character 40; Jia, Zhu & Zhao (2010), Character 22; Pan et al. (2017), Character 40; Wang & Zhu (2018), Character 32.
 
+36. The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior corner of the paranuchal plate(1).
+>Rtich et al.(1992), Character 1.
+
 36. Semicircular pit-line: absent (0); present (1).
 
 > Zhu (1996), Character 41; Jia, Zhu & Zhao (2010), Character 23; Pan et al. (2017), Character 41; Wang & Zhu (2018), Character 33.
