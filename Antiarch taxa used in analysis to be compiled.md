@@ -20,7 +20,7 @@ Antiarchs:
 
 *Mizia*: Lochkovian-Pragian; Xitun Formation, Xujiachong Formation; (Zhang, 1978); (Zhu, 1996)
 
-*Phymolepis*: (Chang, 1978); (Zhang, 1978); (Zhu, 1996); (Wang & Zhu, 2018)
+*Phymolepis*: Lochkovian; Xishancun Formation, Xitun Formation; (Chang, 1978); (Zhang, 1978); (Zhu, 1996); (Wang & Zhu, 2018)
 
 *Parayunnanolepis*: Lochkovian; Xitun Formation; (Zhang et al., 2001); (Zhu et al.,2011); (Wang & Zhu, 2021); (Wang & Zhu, 2022); (Zhu et al., 2023)
 
