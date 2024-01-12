@@ -36,7 +36,7 @@ Antiarchs:
 
 *Sinolepis*: Famennian; Wutung Formation, Zhongning Formation; (Liu & P'an, 1958);(Pan et al., 1987); (Ritchie et al., 1992)
 
-*Luquanolepis*: (Zhang & Young, 1992)
+*Luquanolepis*: Emsian; A sandstone locality in Luquan County; (Zhang & Young, 1992)
 
 *Nawagiaspis*: (Young, 1990)
 
