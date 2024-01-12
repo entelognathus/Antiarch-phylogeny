@@ -444,10 +444,13 @@
 
 > Retchie et al. (1992, Character 8)
 
-> - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
+> - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view. 
 
 95. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
 
 > Retchie et al. (1992), Character 11.
 
 > - Retchie et al. (1992) regarded it is a synapomorphy of sinolepids and euantiarchs.
+
+96. Index r3 between anterior and posterior divisions of posterior median dorsal plate (ordered): r3<300 (0); r3>300 (1).
+> **Newly added character(Yan).**
