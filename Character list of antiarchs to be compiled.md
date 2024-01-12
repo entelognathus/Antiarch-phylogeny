@@ -318,6 +318,8 @@
     
 > **Newly added character.**
 
+68. Large rectangular aperture on ventral wall of trunk shield: absent (0); present (1).
+
 >- Modified from Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018), Character 67 to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
 
 68. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
