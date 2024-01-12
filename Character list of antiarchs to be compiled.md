@@ -242,6 +242,10 @@
 
 > - **very low trunk shield in *Xichonolepis* should be a derived feature. Is this a feature of sinolepids? How to define it?**
 
+51. Anterior and posterior lateral of trunk shield: all absent (0); one of present or all of present (1).
+
+> **Newly added character (Yan).**
+
 51. Number of median dorsal plates: one (0); two (1).
 
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan et al. (2017), Character 11; Wang & Zhu (2018), Character 48. 
