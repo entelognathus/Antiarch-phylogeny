@@ -48,7 +48,7 @@ Antiarchs:
 
 *Hohsienolepis*: Eifelian; Xindu Formation (P'an & Wang, 1978); (Pan, 1984)
 
-*Wufengshania*: (Pan et al., 2018)
+*Wufengshania*: Late Emsian; Jiucheng Formation (Pan et al., 2018)
 
 *Grossilepis*: (W.  Gross, 1941)a; (Gross, 1942a); (Stensiö, 1948); (Miles, 1968); (Lukševičs, 2001); (Olive, )
 
