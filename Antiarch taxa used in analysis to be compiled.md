@@ -40,7 +40,7 @@ Antiarchs:
 
 *Nawagiaspis*: Givetien; Broken River Formation; (Young, 1990)
 
-*Dianolepis*: (Chang, 1965); (Pan et al., 2018)
+*Dianolepis*: Emsian; Haikou Formation; (Chang, 1965); (Pan et al., 2018)
 
 *Wudinolepis*: (Chang, 1965)
 
