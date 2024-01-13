@@ -44,7 +44,7 @@ Antiarchs:
 
 *Wudinolepis*: Middle Devonian; Southeast Xiangshui Country, Wuding; (Chang, 1965)
 
-*Microbrachius*: (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., ); (Mark-Kurik et al., 2018)
+*Microbrachius*: Emsian-Givetian; John O'Groats Sandstone, Flagstones associated with yellow sandstones of Deerness, Essi Farm site, Chuandong Formation, Qujing Formation (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., 2015); (Mark-Kurik et al., 2018)
 
 *Hohsienolepis*: (P'an & Wang, 1978); (Pan, 1984)
 
