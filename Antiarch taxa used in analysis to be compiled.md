@@ -38,7 +38,7 @@ Antiarchs:
 
 *Luquanolepis*: Emsian; A sandstone locality in Luquan County; (Zhang & Young, 1992)
 
-*Nawagiaspis*: (Young, 1990)
+*Nawagiaspis*: Givetien; Broken River Formation; (Young, 1990)
 
 *Dianolepis*: (Chang, 1965); (Pan et al., 2018)
 
