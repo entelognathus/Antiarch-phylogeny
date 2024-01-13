@@ -42,7 +42,7 @@ Antiarchs:
 
 *Dianolepis*: Emsian; Haikou Formation; (Chang, 1965); (Pan et al., 2018)
 
-*Wudinolepis*: (Chang, 1965)
+*Wudinolepis*: Middle Devonian; Southeast Xiangshui Country, Wuding; (Chang, 1965)
 
 *Microbrachius*: (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., ); (Mark-Kurik et al., 2018)
 
