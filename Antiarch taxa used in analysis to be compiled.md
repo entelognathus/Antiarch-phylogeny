@@ -42,7 +42,7 @@ Antiarchs:
 
 *Dianolepis*: Emsian; Haikou Formation; (Chang, 1965); (Pan et al., 2018)
 
-*Wudinolepis*: Middle Devonian; Southeast Xiangshui Country, Wuding; (Chang, 1965)
+*Wudinolepis*: Emsian; Jiucheng Formation; (Chang, 1965)
 
 *Microbrachius*: Emsian-Givetian; John O'Groats Sandstone, Flagstones associated with yellow sandstones of Deerness, Essi Farm site, Chuandong Formation, Qujing Formation (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., 2015); (Mark-Kurik et al., 2018)
 
