@@ -52,7 +52,7 @@ Antiarchs:
 
 *Grossilepis*: Frasnian-Famennian; Hazeldean Burn beds, Montfort/Evieux Formation, Pļaviņas Formation, Ogre Formation; (W. Gross, 1941)a; (Gross, 1942a); (Stensiö, 1948); (Miles, 1968); (Lukševičs, 1996); (Lukševičs, 2001); (Olive, 2015)
 
-*Bothriolepis*: (Gross, 1942b); (Stensiö, 1948); (Chang, 1965); (Miles, 1968); (Liu, 1973); (Pan et al., 1980); (Long, 1983); (Young, 1984); (Long & Werdelin, 1986); (Young, 1988); (Johanson, 1997a); (Lukševičs, 2001); (Thomson & Thomas, 2001); (Blom et al., 2007); (Moloshnikov, 2008); (Moloshnikov, 2011); (Olive, 2015); (Downs et al., 2016); (Lukševičs et al., 2017); (Luo et al., 2023)
+*Bothriolepis*: (Anderson et al., 1994); (Long et al., 1997); (Lukševičs, 1996); (Dupret et al., 2023); (Лярская, 1986); (Graham-Smith, 1978); (szrek, 2004); (Malinovskaya, 1992); (Johansonl & Young, 1999); (Watson, 1961); (Young & Moody, 2008); (Johanson, 1998); (Pan, 1964); (Arsenault et al., 2004); (Béchard et al., 2014); (Burrow, 2005); (Charest et al., 2018); (Downs et al., 2011); (Janvier et al., 2007); (Pan et al., 1980); (Pan et al., 1987); (Chang, 1963); (Liu, 1973); (Liu, 1962); (Chi, 1940); (Lu, 1988); (Gross, 1942b); (Stensiö, 1948); (Chang, 1965); (Miles, 1968); (Liu, 1973); (Pan et al., 1980); (Long, 1983); (Young, 1984); (Long & Werdelin, 1986); (Young, 1988); (Johanson, 1997a); (Lukševičs, 2001); (Thomson & Thomas, 2001); (Blom et al., 2007); (Moloshnikov, 2003); (Moloshnikov, 2008); (Moloshnikov, 2011); (Moloshnikov, 2012);(Olive, 2015); (Downs et al., 2016); (Lukševičs et al., 2017); (Luo et al., 2023)
 
 *Monarolepis*: (Young & Gorter, 1981); (Young, 1988); (Long et al., 1990)
 
