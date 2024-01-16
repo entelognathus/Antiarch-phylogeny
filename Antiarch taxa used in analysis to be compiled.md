@@ -2,13 +2,15 @@
 
 New taxa and references added along with the research.
 
+**不需要什么什么组，只需要时代。最好到有效种名，种名才是可靠的OTU。**
+
 Follow this model.
 
 *Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
 
 Antiarchs:
 
-*Vanchienolepis*: Early Pragian; Formation de Bac Bun; (Tông-Dzuy & Janvier, 1990); (Janvier & Phuong, 1999）
+*Vanchienolepis*: Early Pragian, Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999）**(按照统一的规则排列，按作者，按年代）**
 
 *Chuchinolepis*: Lochkovian-Early Pragian; Xitun Formation, Xishancun Formation, Guijiatun Formation, Lianhuashan Formation, Formation de Bac Bun; (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
 
