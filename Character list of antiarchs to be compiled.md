@@ -464,8 +464,10 @@
 
 > **Newly added character.**
 
-97. Index r3 between anterior and posterior divisions of posterior median dorsal plate: r3<300 (0); r3>300 (1).
+> - Do you mean the contact face? How to define narrow or wide?
+
+97. Index r3 between anterior and posterior divisions of posterior median dorsal plate: r3<300 (0); r3>=300 (1).
 
 > **Newly added character.**
 
-> - In _Xichonoiepis_, the ratio of the lateral process to the posterior margin divisions and lateral process to anterior margin divisions is less than 300 in the posterior median dorsal plate of the Zhujiangyuan specimen,  and the ratio of the lateral process to the posterior margin divisions and lateral process to anterior margin divisions is greater than 300 in the posterior median dorsal plate of the Wuding specimen.
+> - In _Xichonolepis_, the ratio of the Zhujiangyuan specimen is less than 300,  and the ratio is greater than 300 in the Wuding specimen.
