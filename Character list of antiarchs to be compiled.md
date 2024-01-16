@@ -462,9 +462,10 @@
 
 96. Overlying area of posterolateral margin of anterior median dorsal plate: narrow (0); wide (1).
 
-  >**Newly added character.**
+> **Newly added character.**
 
-97. Index r3 between anterior and posterior divisions of posterior median dorsal plate (ordered): r3<300 (0); r3>300 (1).
+97. Index r3 between anterior and posterior divisions of posterior median dorsal plate: r3<300 (0); r3>300 (1).
 
-  >**Newly added character.**
-> - In _"Xichonoiepis"_, the ratio of the lateral process to the posterior margin divisions and lateral process to anterior margin divisions is less than 300 in the posterior median dorsal plate of the Zhujiangyuan,  and the ratio of the lateral process to the posterior margin divisions and lateral process to anterior margin divisions is greater than 300 in the posterior median dorsal plate of the Wuding.
+> **Newly added character.**
+
+> - In _Xichonoiepis_, the ratio of the lateral process to the posterior margin divisions and lateral process to anterior margin divisions is less than 300 in the posterior median dorsal plate of the Zhujiangyuan specimen,  and the ratio of the lateral process to the posterior margin divisions and lateral process to anterior margin divisions is greater than 300 in the posterior median dorsal plate of the Wuding specimen.
