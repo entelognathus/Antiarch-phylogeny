@@ -86,6 +86,8 @@
 
 19. Relative position of orbital fenestra (ordered): anterior (0); slightly anterior (1); slightly posterior (2); posterior (3).
 
+    > we subdivide the skull-roof length into two portions by the centre of the orbital fenestra and adopt the index between the length of the posterior portion and the length of the anterior one. we code the index larger than 200 (anterior) as 0, between 200 and 140 (slightly anterior) as 1, between 140 and 90 (slightly posterior) as 2, smaller than 90 (posterior) as 3.
+
 > Zhu (1996), Character 56; Jia, Zhu & Zhao (2010), Character 11; Pan et al. (2017), Character 56; Wang & Zhu (2018), Character 19.
 
 20. Nasal opening: at anterolateral corners of rostral plate (0); at anterior margin of rostral plate (1).
