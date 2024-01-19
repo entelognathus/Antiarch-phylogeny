@@ -12,31 +12,35 @@ Antiarchs:
 
 *Vanchienolepis*: Early Pragian, Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999）**(按照统一的规则排列，按作者，按年代）**
 
-*Chuchinolepis*: Lochkovian-Early Pragian; Xitun Formation, Xishancun Formation, Guijiatun Formation, Lianhuashan Formation, Formation de Bac Bun; (Chang, 1978); (Zhang, 1978); (Zhang, 1984); (Tông-Dzuy & Janvier, 1990); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996)
+*Chuchinolepis*: Lochkovian-Early Pragian; Early Devonian; Chang, 1978; Zhang, 1978; Zhang, 1984; Tông-Dzuy & Janvier, 1990; Liu, 1992; Zhu et al., 1994; Zhu, 1996.
 
-*Heteroyunnanolepis*: Lochkovian; Xishancun Formation; (Wang, 1994); (Zhu, 1996)
+*Heteroyunnanolepis*: Lochkovian; Early Devonian; Wang, 1994; Zhu, 1996.
 
-*Zhanjilepis*: Lochkovian; Xitun Formation, Xishancun Formation, Formation de Khao Lôc; (Zhang, 1978); (Zhu, 1996); (Liu, 1992); (Janvier & Phuong, 1999）
+*Zhanjilepis*: Lochkovian; Early Devonian; Zhang, 1978; Zhu, 1996; Liu, 1992; Janvier & Phuong, 1999.
 
-*Yunnanolepis*: Lochkovian-Early Pragian; Xitun Formation, Xishancun Formation, Lianhuashan Formation, Guijiatun Formation, Hexian Formation, Formation de Bac Bun; (Liu, 1963); (Chang, 1978); (Zhang, 1978); (M. M. Zhang, 1980); (Liu, 1992); (Zhu et al., 1994); (Zhu, 1996);(Tông-Dzuy & Janvier, 1990); (Tông-Dzuy & Janvier, 1994); (Janvier & Phuong, 1999）
+*Yunnanolepis*: Lochkovian-Early Pragian; Early Devonian; Liu, 1963; Chang, 1978; Zhang, 1978; Zhang, 1980; Liu, 1992; Zhu *et al*., 1994; Zhu, 1996;Tông-Dzuy & Janvier, 1990; Tông-Dzuy & Janvier, 1994; Janvier & Phuong, 1999.
 
-*Mizia*: Lochkovian-Pragian; Xitun Formation, Xujiachong Formation; (Zhang, 1978); (Zhu, 1996)
+*Mizia*: Lochkovian-Pragian; Early Devonian; Zhang, 1978; Zhu, 1996.
 
-*Phymolepis*: Lochkovian; Xishancun Formation, Xitun Formation; (Chang, 1978); (Zhang, 1978); (Zhu, 1996); (Wang & Zhu, 2018)
+*Phymolepis*: Lochkovian; Early Devonian; Chang, 1978; Zhang, 1978; Zhu, 1996; Wang & Zhu, 2018.
 
-*Parayunnanolepis*: Lochkovian; Xitun Formation; (Zhang et al., 2001); (Zhu et al.,2011); (Wang & Zhu, 2021); (Wang & Zhu, 2022); (Zhu et al., 2023)
+*Parayunnanolepis*: Lochkovian; Early Devonian; Zhang *et al*., 2001; Zhu *et al*., 2011; Wang & Zhu, 2021; Wang & Zhu, 2022; Zhu *et al*., 2023.
 
-*Minicrania*: Lochkovian; Xishancun Formation, Formation de Khao Lôc; (Zhu & Janvier, 1996); (Janvier & Phuong, 1999）
+*Minicrania*: Lochkovian; Early Devonian; Zhu & Janvier, 1996; Janvier & Phuong, 1999.
 
-*Liujiangolepis*: Mensian? Pragian; Nakaoling Formation; (Wang, 1987)
+*Liujiangolepis suni*: Pragian; Early Devonian; Wang, 1987.
 
-*Dayaoshania*: Early Emsian; Dayaoshan Group; (Ritchie et al., 1992)
+*Dayaoshania youngi*: Emsian; Early Devonian; Ritchie *et al*., 1992; Wang *et al*., 2001.
 
-*Xichonolepis*: Eifelian-Givetian; Haikou Formation; (P'an & Wang, 1978); (G. R. Zhang, 1980); (Ritchie et al., 1992)
+*Xichonolepis qujingensis*: Eifelian-Givetian; Early-Middle Devonian; Liu & Wang, 1973; P'an & Wang, 1978; Zhang, 1980; Ritchie *et al*., 1992.
 
-*Grenfellaspis*: Late Famennian; Hunter Siltstone; (Ritchie et al., 1992)
+*Grenfellaspis branagani*: Late Famennian; Late Devonian; Ritchie *et al*., 1992.
 
-*Sinolepis*: Famennian; Wutung Formation, Zhongning Formation; (Liu & P'an, 1958);(Pan et al., 1987); (Ritchie et al., 1992)
+*Sinolepis macrocephala*: Famennian; Late Devonian; Liu & P'an, 1958; Ritchie *et al*., 1992.
+
+*Sinolepis wutungensis*: Famennian; Late Devonian; Liu & P'an, 1958.
+
+*Sinolepis szei*: Famennian; Late Devonian; Pan et al., 1987.
 
 *Luquanolepis*: Emsian; A sandstone locality in Luquan County; (Zhang & Young, 1992)
 
