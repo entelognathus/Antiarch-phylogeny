@@ -10,9 +10,9 @@ Follow this model.
 
 Antiarchs:
 
-*Vanchienolepis*: Early Pragian, Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999）**(按照统一的规则排列，按作者，按年代）**
+*Vanchienolepis langsonensis*: Early Pragian, Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999）**(按照统一的规则排列，按作者，按年代）**
 
-*Chuchinolepis*: Lochkovian-Early Pragian; Early Devonian; Chang, 1978; Zhang, 1978; Zhang, 1984; Tông-Dzuy & Janvier, 1990; Liu, 1992; Zhu et al., 1994; Zhu, 1996.
+*Chuchinolepis*: Lochkovian-Early Pragian; Early Devonian; Chang (1978); Zhang (1978); Zhang (1984); Tông-Dzuy & Janvier (1990); Liu (1992); Zhu et al. (1994); Zhu (1996).
 
 *Heteroyunnanolepis*: Lochkovian; Early Devonian; Wang, 1994; Zhu, 1996.
 
@@ -42,11 +42,11 @@ Antiarchs:
 
 *Sinolepis szei*: Famennian; Late Devonian; Pan et al., 1987.
 
-*Luquanolepis*: Emsian; A sandstone locality in Luquan County; (Zhang & Young, 1992)
+*Luquanolepis*: Emsian; Middle Devonian; (Zhang & Young, 1992)
 
-*Nawagiaspis*: Givetien; Broken River Formation; (Young, 1990)
+*Nawagiaspis*: Givetien; Middle Devonian; (Young, 1990)
 
-*Dianolepis*: Emsian; Haikou Formation; (Chang, 1965); (Pan et al., 2018)
+*Dianolepis*: Emsian; Middle Devonian; (Chang, 1965); (Pan et al., 2018)
 
 *Wudinolepis*: Emsian; Jiucheng Formation; (Chang, 1965)
 
