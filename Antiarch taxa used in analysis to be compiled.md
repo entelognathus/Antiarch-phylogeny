@@ -10,9 +10,17 @@ Follow this model.
 
 Antiarchs:
 
-*Vanchienolepis langsonensis*: Early Pragian, Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999）**(按照统一的规则排列，按作者，按年代）**
+*Vanchienolepis langsonensis*: Early Pragian, Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999)**(按照统一的规则排列，按作者，按年代）**
 
-*Chuchinolepis*: Lochkovian-Early Pragian; Early Devonian; Chang (1978); Zhang (1978); Zhang (1984); Tông-Dzuy & Janvier (1990); Liu (1992); Zhu et al. (1994); Zhu (1996).
+*Chuchinolepis gracilis*: Lochkovian-Pragian; Early Devonian; Chang (1978); Zhang (1978); Liu (1992); Zhu (1996).
+
+*Chuchinolepis qujingensis*: Lochkovian-Early Pragian; Early Devonian; Zhang (1984); Zhu et al. (1994); Zhu (1996).
+
+*Chuchinolepis dongmoensis*: Pragian; Early Devonian; Tông-Dzuy & Janvier (1990); Janvier & Phuong (1999).
+
+*Chuchinolepis robusta*: Lochkovian; Early Devonian; Zhu (1996).
+
+*Chuchinolepis Sulcata*: Lochkovian; Early Devonian; Zhu (1996).
 
 *Heteroyunnanolepis*: Lochkovian; Early Devonian; Wang, 1994; Zhu, 1996.
 
