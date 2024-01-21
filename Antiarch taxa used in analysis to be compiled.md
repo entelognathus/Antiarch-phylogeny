@@ -24,7 +24,7 @@ Antiarchs:
 
 *Heteroyunnanolepis qujingensis*: Lochkovian; Early Devonian; Wang (1994); Zhu (1996).
 
-*Zhanjilepis*: Lochkovian; Early Devonian; Zhang (1978); Zhu (1996); Liu (1992); Janvier & Phuong (1999).
+*Zhanjilepis aspratilis*: Lochkovian; Early Devonian; Zhang (1978); Zhu (1996); Liu (1992); Janvier & Phuong (1999).
 
 *Yunnanolepis*: Lochkovian-Early Pragian; Early Devonian; Liu, 1963; Chang, 1978; Zhang, 1978; Zhang, 1980; Liu, 1992; Zhu *et al*., 1994; Zhu, 1996;Tông-Dzuy & Janvier, 1990; Tông-Dzuy & Janvier, 1994; Janvier & Phuong, 1999.
 
