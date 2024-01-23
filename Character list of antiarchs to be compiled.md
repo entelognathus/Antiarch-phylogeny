@@ -418,13 +418,13 @@
 
 88.	Lateral position of infraorbital sensory canal on paranuchal and lateral plate, forming narrow lateral divisions: absent (0); present (1).
 
-> Retchie et al. (1992, Character 1)
+> Retchie et al. (1992, Character 1)和36条重复
 
 > - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
 
 89.	Broad anterior margin of anterior median dorsal plate: absent (0); present (1).
 
-> Retchie et al. (1992, Character 2)
+> Retchie et al. (1992, Character 2)和52条重复？
 
 > - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r1 between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).”
 
