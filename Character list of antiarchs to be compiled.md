@@ -475,3 +475,9 @@
 > **Newly added character.**
 
 > - In _Xichonolepis_, the ratio of the Zhujiangyuan specimen is less than 300,  and the ratio is greater than 300 in the Wuding specimen.
+
+98. Index r4 between the length of anterior and posterior median dorsal plates: r4<100 (0); 100≤r4<200 (1); r4≥200 (2).
+
+> **Newly added character.**
+
+> - Compared with Yunnanlepiforms, the large index may be a plesiomorphy. Besides, some members of Euantiarcha like  _Sherbonaspis_ and _Stegolepis_ also possess the character. Most antiarchs' anterior median dorsal plate is slightly larger than the posterior, while the situation in  _Luquanolepis_ and _Hunanolepis_ is opposite, which considered here as a derived character.
