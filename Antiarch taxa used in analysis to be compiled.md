@@ -26,37 +26,37 @@ Antiarchs:
 
 *Zhanjilepis aspratilis*: Lochkovian; Early Devonian; Zhang (1978); Zhu (1996); Liu (1992); Janvier & Phuong (1999).
 
-*Yunnanolepis*: Lochkovian-Early Pragian; Early Devonian; Liu, 1963; Chang, 1978; Zhang, 1978; Zhang, 1980; Liu, 1992; Zhu *et al*., 1994; Zhu, 1996;Tông-Dzuy & Janvier, 1990; Tông-Dzuy & Janvier, 1994; Janvier & Phuong, 1999.
+*Yunnanolepis*: Lochkovian-Early Pragian; Early Devonian; Liu (1963); Chang (1978); Zhang (1978); Zhang (1980); Liu (1992); Zhu *et al*. (1994); Zhu (1996); Tông-Dzuy & Janvier (1990); Tông-Dzuy & Janvier (1994); Janvier & Phuong (1999).
 
-*Mizia*: Lochkovian-Pragian; Early Devonian; Zhang, 1978; Zhu, 1996.
+*Mizia*: Lochkovian-Pragian; Early Devonian; Zhang (1978); Zhu (1996).
 
-*Phymolepis*: Lochkovian; Early Devonian; Chang, 1978; Zhang, 1978; Zhu, 1996; Wang & Zhu, 2018.
+*Phymolepis*: Lochkovian; Early Devonian; Chang (1978); Zhang (1978); Zhu (1996); Wang & Zhu (2018).
 
-*Parayunnanolepis*: Lochkovian; Early Devonian; Zhang *et al*., 2001; Zhu *et al*., 2011; Wang & Zhu, 2021; Wang & Zhu, 2022; Zhu *et al*., 2023.
+*Parayunnanolepis*: Lochkovian; Early Devonian; Zhang *et al*. (2001); Zhu *et al*. (2011); Wang & Zhu (2021); Wang & Zhu (2022); Zhu *et al*. (2023).
 
-*Minicrania*: Lochkovian; Early Devonian; Zhu & Janvier, 1996; Janvier & Phuong, 1999.
+*Minicrania*: Lochkovian; Early Devonian; Zhu & Janvier (1996); Janvier & Phuong (1999).
 
-*Liujiangolepis suni*: Pragian; Early Devonian; Wang, 1987.
+*Liujiangolepis suni*: Pragian; Early Devonian; Wang (1987).
 
-*Dayaoshania youngi*: Emsian; Early Devonian; Ritchie *et al*., 1992; Wang *et al*., 2001.
+*Dayaoshania youngi*: Emsian; Early Devonian; Ritchie *et al*. (1992); Wang *et al*. (2001).
 
-*Xichonolepis qujingensis*: Eifelian-Givetian; Early-Middle Devonian; Liu & Wang, 1973; P'an & Wang, 1978; Zhang, 1980; Ritchie *et al*., 1992.
+*Xichonolepis qujingensis*: Eifelian-Givetian; Early-Middle Devonian; Liu & Wang (1973); P'an & Wang (1978); Zhang (1980); Ritchie *et al*. (1992).
 
-*Grenfellaspis branagani*: Late Famennian; Late Devonian; Ritchie *et al*., 1992.
+*Grenfellaspis branagani*: Late Famennian; Late Devonian; Ritchie *et al*. (1992).
 
-*Sinolepis macrocephala*: Famennian; Late Devonian; Liu & P'an, 1958; Ritchie *et al*., 1992.
+*Sinolepis macrocephala*: Famennian; Late Devonian; Liu & P'an (1958); Ritchie *et al*. (1992).
 
-*Sinolepis wutungensis*: Famennian; Late Devonian; Liu & P'an, 1958.
+*Sinolepis wutungensis*: Famennian; Late Devonian; Liu & P'an (1958).
 
-*Sinolepis szei*: Famennian; Late Devonian; Pan et al., 1987.
+*Sinolepis szei*: Famennian; Late Devonian; Pan et al. (1987).
 
-*Luquanolepis*: Emsian; Middle Devonian; (Zhang & Young, 1992)
+*Luquanolepis pileos*: Emsian; Early Devonian; Zhang & Young (1992)
 
-*Nawagiaspis*: Givetien; Middle Devonian; (Young, 1990)
+*Nawagiaspis  wadeae*: Givetien; Middle Devonian; Young (1990)
 
-*Dianolepis*: Emsian; Middle Devonian; (Chang, 1965); (Pan et al., 2018)
+*Dianolepis liui*: Givetian; Middle Devonian; Chang (1965); Pan *et al.* (2018).
 
-*Wudinolepis*: Emsian; Jiucheng Formation; (Chang, 1965)
+*Wudinolepis weni*: Emsian; Early Devonian; Chang (1965)；Liu (1994); Pan *et al.* (2018). 
 
 *Microbrachius*: Emsian-Givetian; John O'Groats Sandstone, Flagstones associated with yellow sandstones of Deerness, Essi Farm site, Chuandong Formation, Qujing Formation (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., 2015); (Mark-Kurik et al., 2018)
 
