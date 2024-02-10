@@ -26,7 +26,15 @@ Antiarchs:
 
 *Zhanjilepis aspratilis*: Lochkovian; Early Devonian; Zhang (1978); Zhu (1996); Liu (1992); Janvier & Phuong (1999).
 
-*Yunnanolepis*: Lochkovian-Early Pragian; Early Devonian; Liu (1963); Chang (1978); Zhang (1978); Zhang (1980); Liu (1992); Zhu *et al*. (1994); Zhu (1996); Tông-Dzuy & Janvier (1990); Tông-Dzuy & Janvier (1994); Janvier & Phuong (1999).
+*Yunnanolepis chii*: Lochkovian-Early Pragian; Early Devonian; Liu (1963); Zhang (1978); Liu (1992); Zhu (1996).
+
+*Yunnanolepis bacboensis*: Pragian; Early Devonian; Tông-Dzuy & Janvier (1990)
+
+*Yunnanolepis deprati*: Early Pragian; Early Devonian; Tông-Dzuy & Janvier (1990)
+
+*Yunnanolepis meemannae*: Pragian; Early Devonian; Tông-Dzuy & Janvier (1994)
+
+*Yunnanolepis porifera*: Lochkovian; Early Devonian; Zhang (1980); Zhu (1996)
 
 *Mizia*: Lochkovian-Pragian; Early Devonian; Zhang (1978); Zhu (1996).
 
