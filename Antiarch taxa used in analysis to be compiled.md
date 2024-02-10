@@ -72,11 +72,17 @@ Antiarchs:
 
 *Wudinolepis weni*: Emsian; Early Devonian; Chang (1965)；Liu (1994); Pan *et al.* (2018). 
 
-*Microbrachius*: Emsian-Givetian; John O'Groats Sandstone, Flagstones associated with yellow sandstones of Deerness, Essi Farm site, Chuandong Formation, Qujing Formation (Hemmings, 1978); (Pan, 1984); (Wang & Zhang, 1999); (Long et al., 2015); (Mark-Kurik et al., 2018)
+*Microbrachius dicki*: Middle Givetian; Middle Devonian; Hemmings (1978); Long *et al.* (2015).
 
-*Hohsienolepis*: Eifelian; Xindu Formation (P'an & Wang, 1978); (Pan, 1984)
+*Microbrachius sinensis*: Givetian; Middle Devonian; Pan (1984).
 
-*Wufengshania*: Late Emsian; Jiucheng Formation (Pan et al., 2018)
+*Microbrachius chuandongensis*: Emsian; Middle Devonian; Wang & Zhang (1999).
+
+*Microbrachius kedoae*: Givetian; Middle Devonian; Mark-Kurik *et al.* (2017).
+
+*Hohsienolepis*: Eifelian; Middle Devonian; P'an & Wang (1978); Pan (1984).
+
+*Wufengshania*: Late Emsian; Early Devonian; Pan *et al.* (2018).
 
 *Grossilepis*: Frasnian-Famennian; Hazeldean Burn beds, Montfort/Evieux Formation, Pļaviņas Formation, Ogre Formation; (W. Gross, 1941)a; (Gross, 1942a); (Stensiö, 1948); (Miles, 1968); (Lukševičs, 1996); (Lukševičs, 2001); (Olive, 2015)
 
