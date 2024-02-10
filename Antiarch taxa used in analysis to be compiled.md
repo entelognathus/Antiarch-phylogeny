@@ -36,13 +36,19 @@ Antiarchs:
 
 *Yunnanolepis porifera*: Lochkovian; Early Devonian; Zhang (1980); Zhu (1996)
 
-*Mizia*: Lochkovian-Pragian; Early Devonian; Zhang (1978); Zhu (1996).
+*Mizia parvus*: Lochkovian; Early Devonian; Zhang (1978); Zhu (1996).
 
-*Phymolepis*: Lochkovian; Early Devonian; Chang (1978); Zhang (1978); Zhu (1996); Wang & Zhu (2018).
+*Mizia longhuaensis*: Pragian; Early Devonian; Zhu (1996).
 
-*Parayunnanolepis*: Lochkovian; Early Devonian; Zhang *et al*. (2001); Zhu *et al*. (2011); Wang & Zhu (2021); Wang & Zhu (2022); Zhu *et al*. (2023).
+*Phymolepis cuifengshanensis*: Lochkovian; Early Devonian; Chang (1978); Zhang (1978); Zhu (1996); Wang & Zhu (2018).
 
-*Minicrania*: Lochkovian; Early Devonian; Zhu & Janvier (1996); Janvier & Phuong (1999).
+*Phymolepis guoruii*: Lochkovian; Early Devonian; Zhu (1996).
+
+*Parayunnanolepis xitunensis*: Lochkovian; Early Devonian; Zhang *et al*. (2001); Zhu *et al*. (2011); Wang & Zhu (2021); Wang & Zhu (2022); Zhu *et al*. (2023).
+
+*Minicrania lirouyii*: Lochkovian; Early Devonian; Zhu & Janvier (1996).
+
+*Minicrania lissa*: Lochkovian-Pragian; Early Devonian; Janvier & Phuong (1999).
 
 *Liujiangolepis suni*: Pragian; Early Devonian; Wang (1987).
 
