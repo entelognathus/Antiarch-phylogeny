@@ -90,9 +90,9 @@ Antiarchs:
 
 *Grossilepis brandi*: Frasnian; Late Devonian; Miles (1968).
 
-*Grossilepis spinosa*: Frasnian; Late Devonian; (Stensiö, 1948); (Lukševičs, 1996); (Lukševičs, 2001).
+*Grossilepis spinosa*: Frasnian; Late Devonian; Stensiö, (1948); Lukševičs, (1996); Lukševičs, (2001).
 
-*Grossilepis tuberculata*: Frasnian; Late Devonian; (Stensiö, 1948); (Lukševičs, 1996); (Lukševičs, 2001).
+*Grossilepis tuberculata*: Frasnian; Late Devonian; Stensiö, (1948); Lukševičs, (1996); Lukševičs, (2001).
 
 *Grossilepis rikiki*: Famennian; Late Devonian; Olive (2015).
 
@@ -104,9 +104,9 @@ Antiarchs:
 
 *Nawagiaspis wadeae*: Givetian; Middle Devonian; Young, (1990)
 
-*Tenizolepis asiatica*: Givetian; Middle Devonian; (Malinovskaya, 1977); (Moloshnikov, 2010); (Moloshnikov, 2011); (Moloshnikov, 2012).
+*Tenizolepis asiatica*: Givetian; Middle Devonian; Malinovskaya, (1977); Moloshnikov, (2010); Moloshnikov, (2011); Moloshnikov, (2012).
 
-*Tenizolepis rara*: Givetian; Middle Devonian; (Moloshnikov, 2011); (Moloshnikov, 2012).
+*Tenizolepis rara*: Givetian; Middle Devonian; Moloshnikov, (2011); Moloshnikov, (2012).
 
 *Vietnamaspis trii*: Givetian-Frasnian; Middle Devonian; Long et al., (1990).
 
@@ -116,19 +116,19 @@ Antiarchs:
 
 *Ningxialepis spinosa*: Famennia; Late Devonian; Jia et al., (2010).
 
-*Sherbonaspis hillsi*: Eifelian; Middle Devonian; (Young & Gorter, 1981).
+*Sherbonaspis hillsi*: Eifelian; Middle Devonian; Young & Gorter, (1981).
 
-*Sherbonaspis andreannae*: Givetian; Middle Devonian; (Panteleyev, 1993); (Moloshnikov, 2012).
+*Sherbonaspis andreannae*: Givetian; Middle Devonian; Panteleyev, (1993); Moloshnikov, (2012).
 
-*Sherbonaspis talimaae*: Emsian; Early Devonian; (Plax & Lukševičs, 2023).
+*Sherbonaspis talimaae*: Emsian; Early Devonian; Plax & Lukševičs, (2023).
 
-*Wurungulepis*: (Young, 1990)
+*Wurungulepis denisoni*: Eifelian; Middle Devonian; Young, (1990).
 
-*Pterichthyodes*: (Hemmings, 1978); (Long et al., 2015)
+*Pterichthyodes miller*: Givetian; Middle Devonian; Hemmings, (1978); Long et al., (2015)
 
-*Hunnanolepis*: (P'an & Wang, 1978)
+*Hunanolepis tieni*: Givetian; Middle Devonian; P'an & Wang, (1978); Wang, (1991).
 
-*Kirgisolepis*: (Panteleyev, 1992)
+*Kirgisolepis karabaltaensis*: Late Devonian; Panteleyev, (1992); Moloshnikov, (2012).
 
 *Byssacanthus*: (Woodward, 1895); (Karatajūte-Talimaa, 1960)
 
