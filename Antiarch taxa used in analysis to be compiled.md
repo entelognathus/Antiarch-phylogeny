@@ -116,7 +116,11 @@ Antiarchs:
 
 *Ningxialepis spinosa*: Famennia; Late Devonian; Jia et al., (2010).
 
-*Sherbonaspis*: (Young & Gorter, 1981); (Plax & Lukševičs, 2023)
+*Sherbonaspis hillsi*: Eifelian; Middle Devonian; (Young & Gorter, 1981).
+
+*Sherbonaspis andreannae*: Givetian; Middle Devonian; (Panteleyev, 1993); (Moloshnikov, 2012).
+
+*Sherbonaspis talimaae*: Emsian; Early Devonian; (Plax & Lukševičs, 2023).
 
 *Wurungulepis*: (Young, 1990)
 
