@@ -96,13 +96,17 @@ Antiarchs:
 
 *Bothriolepis*: (Anderson et al., 1994); (Long et al., 1997); (Lukševičs, 1996); (Dupret et al., 2023); (Лярская, 1986); (Graham-Smith, 1978); (szrek, 2004); (Malinovskaya, 1992); (Johansonl & Young, 1999); (Watson, 1961); (Young & Moody, 2008); (Johanson, 1998); (Pan, 1964); (Arsenault et al., 2004); (Béchard et al., 2014); (Burrow, 2005); (Charest et al., 2018); (Downs et al., 2011); (Janvier et al., 2007); (Pan et al., 1980); (Pan et al., 1987); (Chang, 1963); (Liu, 1973); (Liu, 1962); (Chi, 1940); (Lu, 1988); (Gross, 1942b); (Stensiö, 1948); (Chang, 1965); (Miles, 1968); (Liu, 1973); (Pan et al., 1980); (Long, 1983); (Young, 1984); (Long & Werdelin, 1986); (Young, 1988); (Johanson, 1997a); (Lukševičs, 2001); (Thomson & Thomas, 2001); (Blom et al., 2007); (Moloshnikov, 2003); (Moloshnikov, 2008); (Moloshnikov, 2011); (Moloshnikov, 2012);(Olive, 2015); (Downs et al., 2016); (Lukševičs et al., 2017); (Luo et al., 2023)
 
-*Monarolepis*: (Young & Gorter, 1981); (Young, 1988); (Long et al., 1990)
+*Monarolepis verrucosa*: Eifelian; Middle Devonian; Young & Gorter (1981); Long *et al.* , (1990)
 
-*Briagalepis*: (Long et al., 1990)
+*Briagalepis warreni*: Frasnian; Late Devonian; Long, (1983); Long *et al.* , (1990)
 
-*Tenizolepis*: (Malinovskaya, 1992); (Moloshnikov, 2011)
+*Nawagiaspis wadeae*: Givetian, Middle Devonian; Young, (1990)
 
-*Vietnamaspis*: (Long et al., 1990)
+*Tenizolepis asiatica*: Givetian, Middle Devonian; (Malinovskaya, 1977); (Moloshnikov, 2010); (Moloshnikov, 2011); (Moloshnikov, 2012).
+
+*Tenizolepis rara*: Givetian, Middle Devonian; (Moloshnikov, 2011); (Moloshnikov, 2012).
+
+*Vietnamaspis trii*: Givetian-Frasnian; Middle Devonian; (Long et al., 1990)
 
 *Jiangxilepis*: (Zhang & Liu, 1991)
 
