@@ -48,7 +48,9 @@ Antiarchs:
 
 *Minicrania lirouyii*: Lochkovian; Early Devonian; Zhu & Janvier (1996).
 
-*Minicrania lissa*: Lochkovian-Pragian; Early Devonian; Janvier & Phuong (1999).
+*Minicrania lirouyii*: Lochkovian; Early Devonian; Zhu & Janvier (1996).
+
+*Grammaspis callima*: Lochkovian-Pragian; Early Devonian; Pan & Lu (1997).
 
 *Liujiangolepis suni*: Pragian; Early Devonian; Wang (1987).
 
@@ -100,17 +102,19 @@ Antiarchs:
 
 *Briagalepis warreni*: Frasnian; Late Devonian; Long, (1983); Long *et al.* , (1990)
 
-*Nawagiaspis wadeae*: Givetian, Middle Devonian; Young, (1990)
+*Nawagiaspis wadeae*: Givetian; Middle Devonian; Young, (1990)
 
-*Tenizolepis asiatica*: Givetian, Middle Devonian; (Malinovskaya, 1977); (Moloshnikov, 2010); (Moloshnikov, 2011); (Moloshnikov, 2012).
+*Tenizolepis asiatica*: Givetian; Middle Devonian; (Malinovskaya, 1977); (Moloshnikov, 2010); (Moloshnikov, 2011); (Moloshnikov, 2012).
 
-*Tenizolepis rara*: Givetian, Middle Devonian; (Moloshnikov, 2011); (Moloshnikov, 2012).
+*Tenizolepis rara*: Givetian; Middle Devonian; (Moloshnikov, 2011); (Moloshnikov, 2012).
 
-*Vietnamaspis trii*: Givetian-Frasnian; Middle Devonian; (Long et al., 1990)
+*Vietnamaspis trii*: Givetian-Frasnian; Middle Devonian; Long et al., (1990).
 
-*Jiangxilepis*: (Zhang & Liu, 1991)
+*Jiangxilepis sinensis*: Famennia; Late Devonian; Pan, (1964).
 
-*Ningxialepis*:(Jia et al., 2010)
+*Jiangxilepis longibrachius*: Famennia; Late Devonian; Zhang, (1991).
+
+*Ningxialepis spinosa*: Famennia; Late Devonian; Jia et al., (2010).
 
 *Sherbonaspis*: (Young & Gorter, 1981); (Plax & Lukševičs, 2023)
 
