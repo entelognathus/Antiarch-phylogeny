@@ -108,7 +108,7 @@ Antiarchs:
 
 *Tenizolepis rara*: Givetian; Middle Devonian; Moloshnikov, (2011); Moloshnikov, (2012).
 
-*Vietnamaspis trii*: Givetian-Frasnian; Middle Devonian; Long et al., (1990).
+*Vietnamaspis trii*: Givetian-Frasnian; Middle Devonian-Late Devonian; Long et al., (1990).
 
 *Jiangxilepis sinensis*: Famennia; Late Devonian; Pan, (1964).
 
@@ -130,9 +130,17 @@ Antiarchs:
 
 *Kirgisolepis karabaltaensis*: Late Devonian; Panteleyev, (1992); Moloshnikov, (2012).
 
-*Byssacanthus*: (Woodward, 1895); (Karatajūte-Talimaa, 1960)
+*Byssacanthus crenulatus*: Eifelian; Middle Devonian; (Woodward, 1895); (Denison, 1978).
 
-*Gerdalepis*: (W. Gross, 1941)b; (Friman & Koln, 1982)
+*Byssacanthus dilatatus*: Eifelian; Middle Devonian; (Karatajūte-Talimaa, 1960); (Denison, 1978).
+
+*Byssacanthus gosseleti*: Frasnian; Late Devonian; (Denison, 1978).
+
+*Gerdalepis dohmi*: Frasnian; Late Devonian; (Gross, 1933); (Denison, 1978).
+
+*Gerdalepis rhenana*: Eifelian; Middle Devonian; (Gross, 1933); (Denison, 1978).
+
+*Gerdalepis jesseni*: Eifelian; Middle Devonian; (Friman & Koln, 1982)
 
 *Lepadolepis*: (Obruchev, 1964); (Denison, 1978)
 
