@@ -140,21 +140,27 @@ Antiarchs:
 
 *Gerdalepis rhenana*: Eifelian; Middle Devonian; (Gross, 1933); (Denison, 1978).
 
-*Gerdalepis jesseni*: Eifelian; Middle Devonian; (Friman & Koln, 1982)
+*Gerdalepis jesseni*: Eifelian; Middle Devonian; (Friman & Koln, 1982).
 
-*Lepadolepis*: (Obruchev, 1964); (Denison, 1978)
+*Lepadolepis stensioei*: Frasnian; Late Devonian; (Gross, 1933); (Obruchev, 1964); (Denison, 1978).
 
-*Grossaspis*: (Denison, 1978)
+*Grossaspis carinata*: Givetian; Middle Devonian; (Gross, 1937); (Denison, 1978).
 
-*Stegolepis*: (Malinovskaya, 1973)
+*Stegolepis jugata*: Frasnian; Late Devonian; (Malinovskaya, 1973); (Denison, 1978); (Moloshnikov, 2012).
 
-*Asterolepis*: (Lyarskaya, 1977); (Moloshnikov, 2008); (Olive, 2015); (Michael et al., 2019)
+*Stegolepis tuberculata*: Frasnian; Late Devonian; (Obrucheva, 1955); (Malinovskaya, 1973); (Denison, 1978); (Moloshnikov, 2012).
 
-*Pambulaspis*: (Young, 1983)
+*Asterolepis*: (Lyarskaya, 1977); (Moloshnikov, 2008); (Olive, 2015); (Michael et al., 2019).
+
+*Pambulaspis cobandrahensis*: Frasnian; Late Devonian; (Young, 1983).
+
+*Pambulaspis antarctica*: Givetian; Middle Devonian; (Young, 1988).
 
 *Remigolepis*: (Andrews, 1978); (Pan et al., 1980); (Pan et al., 1987); (Olive, 2015); (Johanson, 1997b); (Moloshnikov, 2008); (Olive, 2015)
 
-*Tubalepis*: (Panteleyev & Moloshnikov, 2003); (Moloshnikov, 2012), 
+*Tubalepis babichevi*: Givetian; Middle Devonian; (Malinovskaya, 1922); (Moloshnikov, 2011); (Moloshnikov, 2012).
+
+*Tubalepis extensa*: Famennian; Late Devonian; (Sergienko, 1961); (Panteleyev & Moloshnikov, 2003); (Moloshnikov, 2012).
 
 *Asperaspis*: (Gross, 1933b); (Panteleyev, 1993); (Plax & Lukševičs, 2023) **unmatched data, may be deleted**
 
