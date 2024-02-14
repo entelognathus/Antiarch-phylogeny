@@ -166,11 +166,11 @@ Antiarchs:
 
 *Merimbulaspis*: (Young, 2010); (Plax & Lukševičs, 2023) **unmatched data, may be deleted**
 
-*Walterilepis*: (Gross, 1933a); (Lukševičs, 2021); (Plax & Lukševičs, 2023)
+*Walterilepis speciosa*: Frasnian; Late Devonian; (Gross, 1933a); (Lukševičs, 2021); (Plax & Lukševičs, 2023).
 
-*Livnolepis*: (Moloshnikov, 2008); (Moloshnikov & Linkevich, 2020)
+*Livnolepis zadonica*: Famennian, Late Devonian; (Obrucheva, 1983); (Moloshnikov, 2008); (Moloshnikov, 2010).
 
-
+*Livnolepis heckeri*: Famennian, Late Devonian; (Lukševičs, 2001); (Moloshnikov & Kirilishina, 2019); (Moloshnikov & Linkevich, 2020)
 
 **References**
 
