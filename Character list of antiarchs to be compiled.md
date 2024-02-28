@@ -168,7 +168,7 @@
 
 > - Also termed 'preopercular sensory line on postmarginal plate'.
 
-> - Character 168 in 'early gnathostome phylogeny dataset'.
+> - Character 168 in **'early gnathostome phylogeny dataset'**.
 
 35. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 
