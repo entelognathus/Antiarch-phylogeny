@@ -42,9 +42,11 @@
 
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia, Zhu & Zhao (2010), Character 3; Pan et al. (2017), Character 53; Wang & Zhu (2018), Character 9.
 
-10. Rostral width/orbital width index of premedian plate: smaller than 200 (0); larger than 200 (1).
+10. Rostral width/orbital width index of premedian plate: smaller than 100 (0); between 100% and 200% (1); larger than 200 (2).
 
 > Zhu (1996), Character 54; Jia, Zhu & Zhao (2010), Character 4; Pan et al. (2017), Character 54; Wang & Zhu (2018), Character 10.
+
+> - Modified 
 
 11. Lateral plate: absent (0); present (1).
 
