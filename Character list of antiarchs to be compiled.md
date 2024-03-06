@@ -250,11 +250,15 @@
 
 > - **very low trunk shield in *Xichonolepis* should be a derived feature. Is this a feature of sinolepids?**
 
+> - Among the sinolepids, *S. macrocephala, Liujiangolepis Suni, Dayaoshania youngi* and *Grenfellaspis branagani* with preserved trunk shield all show relatively low trunk shield.
+
 51. Anterior and posterior lateral plate of trunk shield: all absent (0); one of present or all of present (1).
 
 > **Newly added character (Yan).**
 
 > - **make no sence, anterior and posterior lateral plate of dorsal or vebtral? if u mean dorsolateral plates, this may be the same character with PDL/MxL ones.**
+
+> - The anterior and posterior lateral plate refer to the dorsal ones. My understanding is that in Sinolepids, they all lack anterior and posterior lateral plates, with the posterior lateral plates not fused with the PDL or PVL.
 
 52. Number of median dorsal plates: one (0); two (1).
 
