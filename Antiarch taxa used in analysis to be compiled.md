@@ -21,8 +21,9 @@ New taxa and references added along with the research.
 
 [*Asperaspis carinata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Lukševičs. E, 1996 
 > Givetian, Middle Devonian
+
 > - [horizon and locality]
-> - [Lukševičs. E, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - Panteleyev, 1993; [Lukševičs. E, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 384.4, 382.7
@@ -36,19 +37,22 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
-*Bothriolepis canadensis*
-> Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Arsenault *et al*., 2004; Béchard *et al*., 2014; Burrow, 2005; Charest *et al*., 2018; Charest *et al*., 2022; Downs and Donoghue, 2009; Janvier *et al*., 2007; Long *et al*., 2015; Stensiö, 1948; Werdelin and Long, 1986)
+[*Bothriolepis canadensis*](https://www.deepbone.cn/index/index/index#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
+> Frasnian, Late Devonian, 
 
-*Briagalepis warreni*
-> Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Long, 1983; Long *et al*., 1990; Long and Werdelin, 1986)
+> - Escuminac Formation of Miguasha (Quebec, Canada).
+> - Eichwald, 1840; Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); [Arsenault *et al*., 2004](http://www.pfeil-verlag.de/wp-content/uploads/2015/05/3_52d20.pdf); [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
-*Byssacanthus dilatatus*
-> Eifelian to early Frasnian, Middle to Late Devonian 
-> - [horizon and locality]
+[*Briagalepis warreni*](https://www.deepbone.cn/index/index/index#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long, 1983
+> Frasnian, Late Devonian, 
+
+> - Snowy plains, Eastern Australia
+> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146); [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
+
+[*Byssacanthus dilatatus*](https://www.deepbone.cn/index/index/index#/explor?s_id=3332&functionId=Deepbone_header_searchResultOpen) Eichwald, 1844
+> Eifelian to early Frasnian, Middle to Late Devonian
+
+> - the Vileyka Buried Ridge of the northeastern part of the Belarusian Anteclise
 > - (Eichwald, 1844; Plax, 2016); (Karatajūte-Talimaa, 1960)
 
 *Chuchinolepis gracilis*
