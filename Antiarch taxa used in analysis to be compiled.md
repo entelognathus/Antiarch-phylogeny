@@ -23,6 +23,7 @@ New taxa and references added along with the research.
 > Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 > - [horizon and locality]
 > - [Lukševičs. 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - **no specimen data in deepbone**
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 384.4, 382.7
