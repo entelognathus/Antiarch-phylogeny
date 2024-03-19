@@ -37,20 +37,20 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
-*Bothriolepis canadensis*
-> Frasnian, Upper Devonian 
-> - [horizon and locality]
-> - (Arsenault *et al*., 2004; Béchard *et al*., 2014; Burrow, 2005; Charest *et al*., 2018; Charest *et al*., 2022; Downs and Donoghue, 2009; Janvier *et al*., 2007; Long *et al*., 2015; Stensiö, 1948; Werdelin and Long, 1986)
+[*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Miguasha, Québec, Canada, and Orkney Islands, Scotland.
+> - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
 
-*Briagalepis warreni* Long et al. 1990
-> Frasnian, Upper Devonian 
-> - [horizon and locality]
-> - Long, 1983; Long *et al*., 1990; Long and Werdelin, 1986
+[*Briagalepis warreni*](https://deepbone.org/public/#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long et al. 1990
+> Frasnian, Upper Devonian, 382.7, 372.2 
+> - Freestone Creek, and Bindaree Road, Victoria
+> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146); [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
 
-*Byssacanthus dilatatus*
-> Eifelian to lower Frasnian, Middle to Upper Devonian 
-> - [horizon and locality]
-> - (Eichwald, 1844; Plax, 2016); (Karatajūte-Talimaa, 1960)
+[*Byssacanthus dilatatus*](https://deepbone.org/public/#/explor?s_id=3332&functionId=Deepbone_header_searchResultOpen) Eichwald, 1844
+> Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
+> - Kerman, Tabas Region, eastern Iran
+> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016](https://www.scirp.org/journal/nr/)
 
 *Chuchinolepis gracilis*
 > Lochkovian, Lower Devonian 
