@@ -2,7 +2,7 @@
 
 New taxa and references added along with the research.
 
-**不需要什么什么组，只需要时代。最好到有效种名，种名才是可靠的OTU。**
+**最好到有效种名，种名才是可靠的OTU。**
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
 [Taxon name with Deepbone link] Author(s), Date
@@ -14,12 +14,15 @@ New taxa and references added along with the research.
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
 > Asselian to Sakmarian, Cisuralian, Permian, 298.9, 290.1
 
-> -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
+> - ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
 > - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  [Coates, 1994](https://journals.biologists.com/dev/article/1994/Supplement/169/49484/The-origin-of-vertebrate-limbs); [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
 
 **Antiarchs**
 
-*Asperaspis carinata*, Givetian, Middle Devonian, Devonian (Gross, 1933b; Panteleyev, 1993; Plax and Lukševičs, 2023)
+*Asperaspis carinata*
+> Givetian, Middle Devonian
+> - [horizon and locality]
+> - (Gross, 1933b; Panteleyev, 1993; Plax and Lukševičs, 2023)
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 384.4, 382.7
@@ -33,59 +36,113 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
-*Bothriolepis canadensis*, Frasnian, Late Devonian, Devonian (Arsenault *et al*., 2004; Béchard *et al*., 2014; Burrow, 2005; Charest *et al*., 2018; Charest *et al*., 2022; Downs and Donoghue, 2009; Janvier *et al*., 2007; Long *et al*., 2015; Stensiö, 1948; Werdelin and Long, 1986)
+*Bothriolepis canadensis*, Frasnian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Arsenault *et al*., 2004; Béchard *et al*., 2014; Burrow, 2005; Charest *et al*., 2018; Charest *et al*., 2022; Downs and Donoghue, 2009; Janvier *et al*., 2007; Long *et al*., 2015; Stensiö, 1948; Werdelin and Long, 1986)
 
-*Briagalepis warreni*, Frasnian, Late Devonian, Devonian (Long, 1983; Long *et al*., 1990; Long and Werdelin, 1986)
+*Briagalepis warreni*, Frasnian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Long, 1983; Long *et al*., 1990; Long and Werdelin, 1986)
 
-*Byssacanthus dilatatus*, Eifelian to early Frasnian, Middle to Late Devonian (Eichwald, 1844; Plax, 2016); (Karatajūte-Talimaa, 1960)
+*Byssacanthus dilatatus*, Eifelian to early Frasnian, Middle to Late Devonian 
+> - [horizon and locality]
+> - (Eichwald, 1844; Plax, 2016); (Karatajūte-Talimaa, 1960)
 
-*Chuchinolepis gracilis*, Lochkovian, Early Devonian (Chang, 1978; Liu, 1992; Pan and Wang, 1978; Zhu, 1996)
+*Chuchinolepis gracilis*, Lochkovian, Early Devonian 
+> - [horizon and locality]
+> - (Chang, 1978; Liu, 1992; Pan and Wang, 1978; Zhu, 1996)
 
-*Chuchinolepis qujingensis*, Lochkovian, Early Devonian (Chang, 1978; Zhang, 1984; Zhu, 1996; Zhu *et al*., 1994)
+*Chuchinolepis qujingensis*, Lochkovian, Early Devonian 
+> - [horizon and locality]
+> - (Chang, 1978; Zhang, 1984; Zhu, 1996; Zhu *et al*., 1994)
 
-*Dayaoshania youngi*, early Emsian, Early Devonian, Devonian (Ritchie *et al*., 1992)
+*Dayaoshania youngi*, early Emsian, Early Devonian, Devonian 
+> - [horizon and locality]
+> - (Ritchie *et al*., 1992)
 
-*Dianolepis liui*, Givetian, Middle Devonian, Devonian (Chang, 1965; Pan *et al*., 2018)
+*Dianolepis liui*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Chang, 1965; Pan *et al*., 2018)
 
-*Gerdalepis jesseni*, middle Eifelian, Middle Devonian, Devonian (Friman and Koln, 1982; Gross, 1941b)
+*Gerdalepis jesseni*, middle Eifelian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Friman and Koln, 1982; Gross, 1941b)
 
-*Grenfellaspis branagani*, late Famennian, Late Devonian, Devonian (Johanson, 2002; Ritchie *et al*., 1992)
+*Grenfellaspis branagani*, late Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Johanson, 2002; Ritchie *et al*., 1992)
 
-*Grossaspis carinata*, early Givetian, Middle Devonian (Denison, 1978)
+*Grossaspis carinata*, early Givetian, Middle Devonian 
+> - [horizon and locality]
+> - (Denison, 1978)
 
-*Grossilepis tuberculate*, early Frasnian, Late Devonian, Devonian (Gross, 1941a; 1942a; Lukševičs, 1995; 2001; Stensiö, 1948)
+*Grossilepis tuberculate*, early Frasnian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Gross, 1941a; 1942a; Lukševičs, 1995; 2001; Stensiö, 1948)
 
-*Grossilepis brandi*, Frasnian, Late Devonian, Devonian (Miles, 1968)
+*Grossilepis brandi*, Frasnian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Miles, 1968)
 
-*Grossilepis spinosa*, late Givetian to Frasnian, Devonian (Lukševičs, 2001)
+*Grossilepis spinosa*, late Givetian to Frasnian, Devonian 
+> - [horizon and locality]
+> - (Lukševičs, 2001)
 
-*Grossilepis rikiki*, late Famennian, Late Devonian, Devonian (Olive, 2015)
+*Grossilepis rikiki*, late Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Olive, 2015)
 
-*Hohsienolepis hsintuensis*, (Pan and Wang, 1978)
+*Hohsienolepis hsintuensis*, 
+> - [horizon and locality]
+> - (Pan and Wang, 1978)
 
-*Heteroyunnanolepis qujingensis*, Lochkovian, Early Devonian (Wang, 1994; Zhu, 1996)
+*Heteroyunnanolepis qujingensis*, Lochkovian, Early Devonian 
+> - [horizon and locality]
+> - (Wang, 1994; Zhu, 1996)
 
-*Hunanolepis tieni*, Givetian, Middle Devonian, Devonian (P'an and Wang, 1978; Wang, 1991)
+*Hunanolepis tieni*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (P'an and Wang, 1978; Wang, 1991)
 
-*Kirgisolepis karabaltaensis*, Late Devonian; Devonian (Moloshnikov, 2012; Panteleyev, 1992)
+*Kirgisolepis karabaltaensis*, Late Devonian; Devonian 
+> - [horizon and locality]
+> - (Moloshnikov, 2012; Panteleyev, 1992)
 
-*Lepadolepis stensioei*, Givetian, Middle Devonian, Devonian (Denison, 1978; Obruchev, 1964)
+*Lepadolepis stensioei*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Denison, 1978; Obruchev, 1964)
 
-*Liujiangolepis suni*, Pragian to early Emsian, Early Devonian, Devonian (Wang, 1987)
+*Liujiangolepis suni*, Pragian to early Emsian, Early Devonian, Devonian 
+> - [horizon and locality]
+> - (Wang, 1987)
 
-*Livnolepis zadonica*, middle Famennian, Late Devonian, Devonian (Moloshnikov, 2008)
+*Livnolepis zadonica*, middle Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Moloshnikov, 2008)
 
-*Luquanolepis pileos*, Emsian, Early Devonian, Devonian (Zhang and Young, 1992)
+*Luquanolepis pileos*, Emsian, Early Devonian, Devonian 
+> - [horizon and locality]
+> - (Zhang and Young, 1992)
 
-*Merimbulaspis meemannae*, Givetian-Frasnian, Middle Devonian, Devonian (Young, 2010)
+*Merimbulaspis meemannae*, Givetian-Frasnian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Young, 2010)
 
-*Microbrachius dicki*, late Givetian, Middle Devonian, Devonian (Hemmings, 1978; Long *et al*., 2015)
+*Microbrachius dicki*, late Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Hemmings, 1978; Long *et al*., 2015)
 
-*Microbrachius sinensis*, Givetian, Middle Devonian, Devonian (Mark-Kurik *et al*., 2018; Pan, 1984)
+*Microbrachius sinensis*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Mark-Kurik *et al*., 2018; Pan, 1984)
 
-*Microbrachius sinensis*, Givetian, Middle Devonian, Devonian (Mark-Kurik *et al*., 2018; Pan, 1984)
+*Microbrachius sinensis*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Mark-Kurik *et al*., 2018; Pan, 1984)
 
-*Microbrachius kedoae*, Givetian, Middle Devonian, Devonian (Mark-Kurik *et al*., 2018)
+*Microbrachius kedoae*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Mark-Kurik *et al*., 2018)
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
 > lower Lochkovian, 419.2, 415.0
@@ -93,23 +150,41 @@ New taxa and references added along with the research.
 > - Xishancun Formation; Qujing, Yunnan, China.
 > - Zhu and Janvier, 1996
 
-*Mizia longhuaensis*, Pragian, Early Devonian (Zhu, 1996)
+*Mizia longhuaensis*, Pragian, Early Devonian 
+> - [horizon and locality]
+> - (Zhu, 1996)
 
-*Monarolepis verrucose*, late Eifelian, Middle Devonian, Devonian (Long *et al*., 1990; Young, 1988; Young and Gorter, 1981)
+*Monarolepis verrucose*, late Eifelian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Long *et al*., 1990; Young, 1988; Young and Gorter, 1981)
 
-*Nawagiaspis wadeae*, Givetian, Middle Devonian, Devonian (Young, 1990)
+*Nawagiaspis wadeae*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Young, 1990)
 
-*Ningxialepis spinosa*, Famennian, Late Devonian, Devonian (Jia and Zhu, 2010)
+*Ningxialepis spinosa*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Jia and Zhu, 2010)
 
-*Pambulaspis antarctica*, middle Givetian, Middle Devonian, Devonian (Young, 1988; Young and Moody, 2002)
+*Pambulaspis antarctica*, middle Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Young, 1988; Young and Moody, 2002)
 
-*Pambulaspis cobandrahensis*, Frasnian, Late Devonian, Devonian (Young, 1983)
+*Pambulaspis cobandrahensis*, Frasnian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Young, 1983)
 
-*Parayunnanolepis xitunensis*, Lochkovian, Early Devonian, Devonian (Wang and Zhu, 2021; 2022; Young and Zhang, 1996; Zhang et al., 2001; Zhu *et al*.,2012; Zhu et al., 2023)
+*Parayunnanolepis xitunensis*, Lochkovian, Early Devonian, Devonian 
+> - [horizon and locality]
+> - (Wang and Zhu, 2021; 2022; Young and Zhang, 1996; Zhang et al., 2001; Zhu *et al*.,2012; Zhu et al., 2023)
 
-*Phymolepis guoruii*, Lochkovian, Early Devonian (Zhu, 1996)
+*Phymolepis guoruii*, Lochkovian, Early Devonian 
+> - [horizon and locality]
+> - (Zhu, 1996)
 
-*Phymolepis cuifengshanensis*, Lochkovian, Early Devonian (Chang, 1978; Wang and Zhu, 2018; Zhang, 1978; Zhu, 1996)
+*Phymolepis cuifengshanensis*, Lochkovian, Early Devonian 
+> - [horizon and locality]
+> - (Chang, 1978; Wang and Zhu, 2018; Zhang, 1978; Zhu, 1996)
 
 [*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz, 1859)
 > upper Eifelian, 389.6, 387.7
@@ -124,30 +199,54 @@ New taxa and references added along with the research.
 > - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
 
-*Remigolepis xixiaensis*, Famennian, Late Devonian, Devonian (Pan *et al*., 1987)
+*Remigolepis xixiaensis*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan *et al*., 1987)
 
-*Remigolepis major*, Famennian, Late Devonian, Devonian (Pan *et al*., 1987)
+*Remigolepis major*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan *et al*., 1987)
 
-*Remigolepis microcephala*, Famennian, Late Devonian, Devonian (Pan *et al*., 1987)
+*Remigolepis microcephala*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan *et al*., 1987)
 
-*Remigolepis xiangshanensis*, Famennian, Late Devonian, Devonian (Pan *et al*., 1987)
+*Remigolepis xiangshanensis*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan *et al*., 1987)
 
-*Remigolepis zhongweiensis*, Famennian, Late Devonian, Devonian (Pan *et al*., 1987)
+*Remigolepis zhongweiensis*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan *et al*., 1987)
 
-*Remigolepis zhongningensis*, Famennian, Late Devonian, Devonian (Pan *et al*., 1987)
+*Remigolepis zhongningensis*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan *et al*., 1987)
 
-*Remigolepis walkeri*, early Famennian, Late Devonian, Devonian (Johanson, 1997)
+*Remigolepis walkeri*, early Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Johanson, 1997)
 
-*Remigolepis redcliffensis*, late Famennian, Late Devonian, Devonian (Johanson, 1997)
+*Remigolepis redcliffensis*, late Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Johanson, 1997)
 
-*Remigolepis armata*, Famennian, Late Devonian, Devonian (Lukševičs, 1991; Moloshnikov, 2008)
+*Remigolepis armata*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Lukševičs, 1991; Moloshnikov, 2008)
 
-*Remigolepis karakoliensis*, Famennian, Late Devonian, Devonian (Panteleyev, 1992)
+*Remigolepis karakoliensis*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Panteleyev, 1992)
 
-*Remigolepis durnalensis*, Famennian, Late Devonian, Devonian (Olive, 2015)
+*Remigolepis durnalensis*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Olive, 2015)
 
 
-*Sherbonaspis hillsi*, Eifelian, Middle Devonian, Devonian (Young and Gorter 1981)
+*Sherbonaspis hillsi*, Eifelian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Young and Gorter 1981)
 
 
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
@@ -156,33 +255,59 @@ New taxa and references added along with the research.
 > - Wutung Formation; Nanjing, Jiangsu, China
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
-*Sinolepis szei*, Famennian, Late Devonian, Devonian (Pan et al., 1987)
+*Sinolepis szei*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan et al., 1987)
 
-*Sinolepis wutungensis*, Famennian, Late Devonian, Devonian (Liu and P'an, 1958)
+*Sinolepis wutungensis*, Famennian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Liu and P'an, 1958)
 
-*Stegolepis jugata*, Givetian, Middle Devonian, Devonian (Malinovskaya, 1973)
+*Stegolepis jugata*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Malinovskaya, 1973)
 
-*Stegolepis tuberculate*, Givetian, Middle Devonian, Devonian (Malinovskaya, 1973; Moloshnikov, 2012)
+*Stegolepis tuberculate*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Malinovskaya, 1973; Moloshnikov, 2012)
 
-*Tenizolepis asiatica*, Givetian, Middle Devonian, Devonian (Moloshnikov, 2010; 2012)
+*Tenizolepis asiatica*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Moloshnikov, 2010; 2012)
 
-*Tenizolepis rara*, Givetian, Middle Devonian, Devonian (Moloshnikov, 2011; Moloshnikov, 2012)
+*Tenizolepis rara*, Givetian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Moloshnikov, 2011; Moloshnikov, 2012)
 
 *Tubalepis extensa*, Famennian, Late Devonian, Devonian (Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003)
 
-*Vanchienolepis langsonensis*, Bac Bun, Pragian, Early Devonian (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
+*Vanchienolepis langsonensis*, Bac Bun, Pragian, Early Devonian 
+> - [horizon and locality]
+> - (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
-*Vietnamaspis trii*, Givetian-Frasnian, Devonian, Devonian (Long *et al*., 1990)
+*Vietnamaspis trii*, Givetian-Frasnian, Devonian, Devonian 
+> - [horizon and locality]
+> - (Long *et al*., 1990)
 
-*Walterilepis speciosa*, Frasnian, Late Devonian, Devonian (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
+*Walterilepis speciosa*, Frasnian, Late Devonian, Devonian 
+> - [horizon and locality]
+> - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
 
-*Wudinolepis weni*, Eifelian, Middle Devonian, Devonian (Chang, 1965)
+*Wudinolepis weni*, Eifelian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Chang, 1965)
 
-*Wufengshania magniforaminis*, Emsian, Early Devonian, Devonian (Pan, 1984; Pan *et al*., 2018)
+*Wufengshania magniforaminis*, Emsian, Early Devonian, Devonian 
+> - [horizon and locality]
+> - (Pan, 1984; Pan *et al*., 2018)
 
-*Wurungulepis denisoni*, Eifelian, Middle Devonian, Devonian (Burrow, 1999; Burrow and Turner, 1998; Young, 1990)
+*Wurungulepis denisoni*, Eifelian, Middle Devonian, Devonian 
+> - [horizon and locality]
+> - (Burrow, 1999; Burrow and Turner, 1998; Young, 1990)
 
-*Xichonolepis qujingensis*, Givetian, Middle Devonian (Pan and Wang, 1983; Ritchie *et al*., 1992; Zhang, 1980)
+*Xichonolepis qujingensis*, Givetian, Middle Devonian 
+> - [horizon and locality]
+> - (Pan and Wang, 1983; Ritchie *et al*., 1992; Zhang, 1980)
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
@@ -190,9 +315,13 @@ New taxa and references added along with the research.
 > - South China and northern Vietnam.
 > - Zhang, 1980; Zhu, 1996
 
-*Yunnanolepis chii*, Lochkovian to Pragian, Early Devonian (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
+*Yunnanolepis chii*, Lochkovian to Pragian, Early Devonian 
+> - [horizon and locality]
+> - (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
 
-*Zhanjilepis aspratilis*, Lochkovian, Early Devonian (Janvier, 1999; Zhang, 1978; Zhu, 1996)
+*Zhanjilepis aspratilis*, Lochkovian, Early Devonian 
+> - [horizon and locality]
+> - (Janvier, 1999; Zhang, 1978; Zhu, 1996)
 
 
 
