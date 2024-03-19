@@ -19,10 +19,10 @@ New taxa and references added along with the research.
 
 **Antiarchs**
 
-*Asperaspis carinata*
+[*Asperaspis carinata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Lukševičs. E, 1996 
 > Givetian, Middle Devonian
 > - [horizon and locality]
-> - (Gross, 1933b; Panteleyev, 1993; Plax and Lukševičs, 2023)
+> - [Lukševičs. E, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 384.4, 382.7
