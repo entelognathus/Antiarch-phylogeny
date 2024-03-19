@@ -22,7 +22,7 @@ New taxa and references added along with the research.
 [*Asperaspis carinata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
 > Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 > - [horizon and locality]
-> - [Lukševičs. 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 > - **no specimen data in deepbone**
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
@@ -42,10 +42,10 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Arsenault *et al*., 2004; Béchard *et al*., 2014; Burrow, 2005; Charest *et al*., 2018; Charest *et al*., 2022; Downs and Donoghue, 2009; Janvier *et al*., 2007; Long *et al*., 2015; Stensiö, 1948; Werdelin and Long, 1986)
 
-*Briagalepis warreni*
+*Briagalepis warreni* Long et al. 1990
 > Frasnian, Late Devonian 
 > - [horizon and locality]
-> - (Long, 1983; Long *et al*., 1990; Long and Werdelin, 1986)
+> - Long, 1983; Long *et al*., 1990; Long and Werdelin, 1986
 
 *Byssacanthus dilatatus*
 > Eifelian to early Frasnian, Middle to Late Devonian 
@@ -67,10 +67,10 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Ritchie *et al*., 1992)
 
-*Dianolepis liui*
+*Dianolepis liui* Chang, 1965
 > Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Chang, 1965; Pan *et al*., 2018)
+> - Wuding, Yunnan, China.
+> - Chang, 1965; Pan *et al*., 2018
 
 *Gerdalepis jesseni*
 > middle Eifelian, Middle Devonian 
@@ -86,25 +86,26 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Denison, 1978)
 
-*Grossilepis tuberculate*
+*Grossilepis tuberculata* (Gross) 1941
 > early Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Gross, 1941a; 1942a; Lukševičs, 1995; 2001; Stensiö, 1948)
+> - Snetogor beds, Latvia.
+> - Gross, 1941a; 1942a; Lukševičs, 1995; 2001; Stensiö, 1948
+> - Type species.
 
-*Grossilepis brandi*
+*Grossilepis brandi* Miles, 1968
 > Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Miles, 1968)
+> - Hazeldean Burn beds, Scotland.
+> - Miles, 1968
 
-*Grossilepis spinosa*
+*Grossilepis spinosa* (Gross) 1942
 > late Givetian to Frasnian, Devonian 
-> - [horizon and locality]
-> - (Lukševičs, 2001)
+> - Horizon e, Latvia.
+> - Lukševičs, 2001
 
-*Grossilepis rikiki*
+*Grossilepis rikiki* Olive, 2015
 > late Famennian, Late Devonian 
-> - [horizon and locality]
-> - (Olive, 2015)
+> - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
+> - Olive, 2015
 
 *Hohsienolepis hsintuensis*, 
 > - [horizon and locality]
@@ -115,15 +116,21 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Wang, 1994; Zhu, 1996)
 
+Houershanaspis
+Hyracanaspis
+
 *Hunanolepis tieni*
 > Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (P'an and Wang, 1978; Wang, 1991)
 
-*Kirgisolepis karabaltaensis*
+Jiangxilepis longibrachius Zhang and Liu 1991
+Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
+
+*Kirgisolepis karabaltaensis* Panteleyev, 1992
 > Late Devonian; Devonian 
 > - [horizon and locality]
-> - (Moloshnikov, 2012; Panteleyev, 1992)
+> - Moloshnikov, 2012; Panteleyev, 1992
 
 *Lepadolepis stensioei*
 > Givetian, Middle Devonian 
@@ -135,7 +142,7 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Wang, 1987)
 
-*Livnolepis zadonica*
+*Livnolepis zadonica* (Obrucheva, 1983)
 > middle Famennian, Late Devonian 
 > - [horizon and locality]
 > - (Moloshnikov, 2008)
@@ -150,25 +157,21 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Young, 2010)
 
-*Microbrachius dicki*
+*Microbrachius dicki* Traquair, 1888
 > late Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Hemmings, 1978; Long *et al*., 2015)
+> - John O'Groats sandstone, Caithness; and Eday beds, Orkney Islands, Scotland.
+> - Hemmings, 1978; Long *et al*., 2015
+> - Type species.
 
 *Microbrachius sinensis*
 > Givetian, Middle Devonian 
 > - [horizon and locality]
-> - (Mark-Kurik *et al*., 2018; Pan, 1984)
-
-*Microbrachius sinensis*
-> Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Mark-Kurik *et al*., 2018; Pan, 1984)
+> - Pan, 1984
 
 *Microbrachius kedoae*
 > Givetian, Middle Devonian 
 > - [horizon and locality]
-> - (Mark-Kurik *et al*., 2018)
+> - Mark-Kurik *et al*., 2018
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
 > lower Lochkovian, 419.2, 415.0
@@ -322,17 +325,22 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Malinovskaya, 1973; Moloshnikov, 2012)
 
-*Tenizolepis asiatica*
+*Tenizolepis asiatica* (Obrucheva) 1955
 > Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (Moloshnikov, 2010; 2012)
 
-*Tenizolepis rara*
+*Tenizolepis rara* Malinovskaya, 1977
 > Givetian, Middle Devonian 
 > - [horizon and locality]
-> - (Moloshnikov, 2011; Moloshnikov, 2012)
+> - Moloshnikov, 2011; Moloshnikov, 2012
 
-*Tubalepis extensa*, Famennian, Late Devonian (Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003)
+*Tenizolepis bychkovi* Malinovskaya 1992
+
+*Tubalepis extensa* (Sergienko, 1961)
+> Famennian, Late Devonian>
+> - [horizon and locality]
+> - Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003
 
 *Vanchienolepis langsonensis*
 > Bac Bun, Pragian, Early Devonian 
@@ -349,15 +357,15 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
 
-*Wudinolepis weni*
-> Eifelian, Middle Devonian 
-> - [horizon and locality]
-> - (Chang, 1965)
+*Wudinolepis weni* Chang, 1965
+> Upper Emsian, Lower Devonian 
+> - Jiucheng Formation, Wuding, Yunnan.
+> - Chang, 1965
 
 *Wufengshania magniforaminis*
-> Emsian, Early Devonian 
-> - [horizon and locality]
-> - (Pan, 1984; Pan *et al*., 2018)
+> Upper Emsian, Lower Devonian 
+> - Jiucheng Formation, Wuding, Yunnan.
+> - Pan, 1984; Pan *et al*., 2018
 
 *Wurungulepis denisoni*
 > Eifelian, Middle Devonian 
