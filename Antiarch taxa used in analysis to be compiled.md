@@ -17,13 +17,13 @@ New taxa and references added along with the research.
 > -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
 > - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  [Coates, 1994](https://journals.biologists.com/dev/article/1994/Supplement/169/49484/The-origin-of-vertebrate-limbs); [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
 
-
 **Antiarchs**
+
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 384.4, 382.7
 
 > - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
-> - [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
+> - Nilsson, 1941; Upeniece, 2001; Upeniece and Upenieks, 1992; [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
 
 
 
@@ -47,8 +47,7 @@ New taxa and references added along with the research.
 > upper Eifelian, 389.6, 387.7
 
 > - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
-> - Hemmings, 1978
-
+> - Nilsson, 1941; Hemmings, 1978; Long *et al*., 2015.
 
 [*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
@@ -152,8 +151,6 @@ New taxa and references added along with the research.
 
 *Wurungulepis denisoni*, Eifelian, Middle Devonian, Devonian (Burrow, 1999; Burrow and Turner, 1998; Young, 1990)
 
-*Pterichthyodes milleri*, early Givetian, Middle Devonian, Devonian (Hemmings, 1978; Long, *et al*., 2015; Nilsson, 1941)
-
 *Hunanolepis tieni*, Givetian, Middle Devonian, Devonian (P'an and Wang, 1978; Wang, 1991)
 
 *Kirgisolepis karabaltaensis*, Late Devonian; Devonian (Moloshnikov, 2012; Panteleyev, 1992)
@@ -170,7 +167,6 @@ New taxa and references added along with the research.
 
 *Stegolepis tuberculate*, Givetian, Middle Devonian, Devonian (Malinovskaya, 1973; Moloshnikov, 2012)
 
-*Asterolepis ornata*, latest Givetian, Middle Devonian, Devonian (Hemmings, 1978; Lukševičs, 2001; Nilsson, 1941; Upeniece, 2001; Upeniece and Upenieks, 1992)
 
 *Pambulaspis antarctica*, middle Givetian, Middle Devonian, Devonian (Young, 1988; Young and Moody, 2002)
 
