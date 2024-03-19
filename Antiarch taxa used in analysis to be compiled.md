@@ -1,15 +1,74 @@
-**List of antiarch taxa, geological range, and references**
+**List of taxa, geological range (Ma), horizon and locality, and references**
 
 New taxa and references added along with the research.
 
 **不需要什么什么组，只需要时代。最好到有效种名，种名才是可靠的OTU。**
+**每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
-Follow this model.
+[Taxon name with Deepbone link] Author(s), Date
+> [geological range], XXX (maximum age), YYY (minimum age)
 
-*Acanthodes bronni*, Asselian to Sakmarian, Cisuralian, Permian (Brazeau and Valerie, 2015; Coates, 1994; Davis *et al*., 2012; Gross, 1935; Miles, 1973a; b; Watson, 1937)
+> - [horizon and locality]
+> - [references]
+
+[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
+> Asselian to Sakmarian, Cisuralian, Permian, 298.9, 290.1
+
+> -  ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
+> - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  [Coates, 1994](https://journals.biologists.com/dev/article/1994/Supplement/169/49484/The-origin-of-vertebrate-limbs); [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
 
 
-Antiarchs:
+**Antiarchs**
+[*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
+> upper Givetian, 384.4, 382.7
+
+> - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
+> - [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
+
+
+
+
+[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
+> upper Emsian to Famennian, 400.45, 358.9
+
+> - wide distribution.
+> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
+
+
+
+[*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
+> lower Lochkovian, 419.2, 415.0
+
+> - Xishancun Formation; Qujing, Yunnan, China.
+> - Zhu and Janvier, 1996
+>
+
+[*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) (Miller ex Agassiz, 1859)
+> upper Eifelian, 389.6, 387.7
+
+> - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
+> - Hemmings, 1978
+
+
+[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
+> Famennian, 372.2, 358.9
+
+> - wide distribution.
+> - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
+
+
+[*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
+> Famennian, 372.2, 358.9
+
+> - Wutung Formation; Nanjing, Jiangsu, China
+> - Liu and P'an, 1958; Ritchie et al., 1992
+
+
+[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, 419.2, 410.8 
+
+> - South China and northern Vietnam.
+> - Zhang, 1980; Zhu, 1996
 
 *Vanchienolepis langsonensis*, Bac Bun, Pragian, Early Devonian (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
