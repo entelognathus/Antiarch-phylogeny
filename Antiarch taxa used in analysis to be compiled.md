@@ -4,6 +4,7 @@ New taxa and references added along with the research.
 
 **最好到有效种名，种名才是可靠的OTU。**
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
+**方括号与圆括号之间不要有空格，才能构成关联**
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -57,36 +58,36 @@ New taxa and references added along with the research.
 > Lochkovian, 419.2, 410.8 
 
 > - [horizon and locality]
-> - [Chang, 1978]; [Liu, 1992] (https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Pan and Wang, 1978]; [Zhu, 1996] (https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+> - [Chang, 1978]; [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Pan and Wang, 1978]; [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian, 419.2, 410.8 
 
 > - [horizon and locality]
-> - [Chang, 1978]; [Zhang, 1984] (http://www.irgrid.ac.cn/handle/1471x/51840); [Zhu, 1996] (https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Zhu *et al*., 1994] (https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1)
+> - [Chang, 1978]; [Zhang, 1984] (http://www.irgrid.ac.cn/handle/1471x/51840); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Zhu *et al*., 1994] (https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1)
 
 
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Emsian, 407.6, 393.3 
 > - [Yuantou, Pingle County, Guangxi Province, in the upper part of the Dayaoshan Group]
-> - [Ritchie *et al*., 1992] (https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
+> - [Ritchie *et al*., 1992](https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
 
 [*Dianolepis liui*](https://www.deepbone.cn/public/#/explor?s_id=48&functionId=Deepbone_header_searchResultOpen) Chang, 1965
 > Givetian, 387.7, 382.7 
 > - [horizon and locality]
-> - [Chang, 1965]; [Pan *et al*., 2018] (https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
+> - [Chang, 1965]; [Pan *et al*., 2018](https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
 
 
 [*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
 > middle Eifelian, 393.3, 387.7 
 > - [horizon and locality]
-> - [Friman and Koln, 1982] (https://link.springer.com/article/10.1007/BF02988800); [Gross, 1941b] ()
+> - [Friman and Koln, 1982](https://link.springer.com/article/10.1007/BF02988800); [Gross, 1941b] ()
 
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > late Famennian, 372.2, 358.9 
-> - [Redcliff Mountain, about 20 km north-east of Grenfell, NSW. Hunter Siltstone of the Beargamil Sub-Group of the Hervey Group]
-> - [Johanson, 2002] (https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992] (https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
+> - Redcliff Mountain, about 20 km north-east of Grenfell, NSW. Hunter Siltstone of the Beargamil Sub-Group of the Hervey Group.
+> - [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992] (https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
 
 
 *Grossaspis carinata*
