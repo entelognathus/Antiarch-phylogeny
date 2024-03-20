@@ -4,6 +4,8 @@ New taxa and references added along with the research.
 
 **最好到有效种名，种名才是可靠的OTU。**
 
+**以后我们的矩阵，要以种为OTU。Included species在下面标出来。因此，小罗与小颜的文章要完成，首先要把这个list弄完成才行。**
+
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 
 **方括号与圆括号之间不要有空格，才能构成关联**
@@ -13,6 +15,8 @@ New taxa and references added along with the research.
 **这儿空一行，才代表段落。大家注意留心github的语法，很简单。**
 
 **大家只有做了，才能发现问题，熟悉github语法，以及相关属种的各种信息。多看，多接触，就能在脑子里留下深刻影响。对于每个属种有什么疑惑或问题或想法，也可以在下面直接注解出来。你们之间相互解答，也能共同提高。**
+
+**我对大家出现的问题，一般不直接去改。给一个comments，让相关同学去解决，也能举一反三。其他同学也能学到。从发现错误或不规范中，领会怎么做学问。**
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -91,12 +95,12 @@ New taxa and references added along with the research.
 > middle Eifelian, 393.3, 387.7 
 > - [horizon and locality]
 > - [Friman and Koln, 1982](https://link.springer.com/article/10.1007/BF02988800); [Gross, 1941b] ()
-
+> - **命名者与年份显然是错误的。不要想当然。**
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > late Famennian, 372.2, 358.9 
 > - Redcliff Mountain, about 20 km north-east of Grenfell, NSW. Hunter Siltstone of the Beargamil Sub-Group of the Hervey Group.
-> - [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
+> - [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia); [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships).
 
 
 *Grossaspis carinata*
@@ -255,7 +259,6 @@ Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
 
 > - wide distribution.
 > - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
-
 
 *Remigolepis xixiaensis*
 > Famennian, Upper Devonian 
