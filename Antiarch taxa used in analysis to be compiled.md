@@ -1,4 +1,4 @@
-**List of taxa, geological range (Ma), horizon and locality, and references**
+![image](https://github.com/entelognathus/Antiarch-phylogeny/assets/133229646/bcb95bdc-20bb-4634-a2cc-ff3a2aefa502)**List of taxa, geological range (Ma), horizon and locality, and references**
 
 New taxa and references added along with the research.
 
@@ -50,6 +50,7 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 > - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
+> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
 
 [*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
 > Frasnian, Upper Devonian, 382.7, 372.2
@@ -64,8 +65,7 @@ New taxa and references added along with the research.
 [*Byssacanthus dilatatus*](https://deepbone.org/public/#/explor?s_id=3332&functionId=Deepbone_header_searchResultOpen) Eichwald, 1844
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
 > - Kerman, Tabas Region, eastern Iran
-> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016](https://www.scirp.org/journal/nr/)
-> - **plax的链接不对**
+> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016]([https://www.scirp.org/journal/nr/](https://scholar.googleusercontent.com/scholar?q=cache:Wdy8vuS0g-wJ:scholar.google.com/+Stratigraphic+ichthyofauna+assemblages+of+the+Devonian+deposits+in+the+Vileyka+Buried+Ridge+of+the+Belarusian+Anticlise.&hl=zh-CN&as_sdt=0,5))
 
 
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
