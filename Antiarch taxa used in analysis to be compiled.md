@@ -3,14 +3,19 @@
 New taxa and references added along with the research.
 
 **最好到有效种名，种名才是可靠的OTU。**
+
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
+
 **方括号与圆括号之间不要有空格，才能构成关联**
+
 **大家发现什么问题，就用黑体指出来或者就直接解决掉。解决完，就可以将相关的注解删掉。**
+
+**这儿空一行，才代表段落。大家注意留心github的语法，很简单。**
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
-> - [horizon and locality]
+> - [horizon and locality]**先层位，后地点**
 > - [references]
 
 [*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
@@ -67,7 +72,6 @@ New taxa and references added along with the research.
 
 > - [horizon and locality]
 > - [Chang, 1978]; [Zhang, 1984](http://www.irgrid.ac.cn/handle/1471x/51840); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Zhu *et al*., 1994](https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1)
-
 
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Emsian, 407.6, 393.3 
@@ -128,6 +132,7 @@ New taxa and references added along with the research.
 > - (Wang, 1994; Zhu, 1996)
 
 Houershanaspis
+
 Hyracanaspis
 
 *Hunanolepis tieni*
@@ -136,6 +141,7 @@ Hyracanaspis
 > - (P'an and Wang, 1978; Wang, 1991)
 
 Jiangxilepis longibrachius Zhang and Liu 1991
+
 Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
 
 *Kirgisolepis karabaltaensis* Panteleyev, 1992
