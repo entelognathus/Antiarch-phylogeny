@@ -19,10 +19,11 @@ New taxa and references added along with the research.
 
 **Antiarchs**
 
-*Asperaspis carinata*
-> Givetian, Middle Devonian
+[*Asperaspis carinata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
+> Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
 > - [horizon and locality]
-> - (Gross, 1933b; Panteleyev, 1993; Plax and Lukševičs, 2023)
+> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - **no specimen data in deepbone**
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 384.4, 382.7
@@ -36,30 +37,34 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
 
-*Bothriolepis canadensis*
-> Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Arsenault *et al*., 2004; Béchard *et al*., 2014; Burrow, 2005; Charest *et al*., 2018; Charest *et al*., 2022; Downs and Donoghue, 2009; Janvier *et al*., 2007; Long *et al*., 2015; Stensiö, 1948; Werdelin and Long, 1986)
+[*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
+> Frasnian, Upper Devonian, 382.7, 372.2
+> - Miguasha, Québec, Canada, and Orkney Islands, Scotland.
+> - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
 
-*Briagalepis warreni*
-> Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Long, 1983; Long *et al*., 1990; Long and Werdelin, 1986)
+[*Briagalepis warreni*](https://deepbone.org/public/#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long et al. 1990
+> Frasnian, Upper Devonian, 382.7, 372.2 
+> - Freestone Creek, and Bindaree Road, Victoria
+> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146); [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
 
-*Byssacanthus dilatatus*
-> Eifelian to early Frasnian, Middle to Late Devonian 
-> - [horizon and locality]
-> - (Eichwald, 1844; Plax, 2016); (Karatajūte-Talimaa, 1960)
+[*Byssacanthus dilatatus*](https://deepbone.org/public/#/explor?s_id=3332&functionId=Deepbone_header_searchResultOpen) Eichwald, 1844
+> Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
+> - Kerman, Tabas Region, eastern Iran
+> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016](https://www.scirp.org/journal/nr/)
+
 
 [*Chuchinolepis gracilis*] (https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian, 419.2, 410.8 
+
 > - [horizon and locality]
 > - [Chang, 1978]; [Liu, 1992] (https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Pan and Wang, 1978]; [Zhu, 1996] (https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis qujingensis*] (https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian, 419.2, 410.8 
+
 > - [horizon and locality]
 > - [Chang, 1978]; [Zhang, 1984] (http://www.irgrid.ac.cn/handle/1471x/51840); [Zhu, 1996] (https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Zhu *et al*., 1994] (https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1)
+
 
 [*Dayaoshania youngi*] (https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Emsian, 407.6, 393.3 
@@ -71,59 +76,69 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - [Chang, 1965]; [Pan *et al*., 2018] (https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
 
+
 [*Gerdalepis jesseni*] (https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
 > middle Eifelian, 393.3, 387.7 
 > - [horizon and locality]
 > - [Friman and Koln, 1982] (https://link.springer.com/article/10.1007/BF02988800); [Gross, 1941b] ()
+
 
 [*Grenfellaspis branagani*] (https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > late Famennian, 372.2, 358.9 
 > - [Redcliff Mountain, about 20 km north-east of Grenfell, NSW. Hunter Siltstone of the Beargamil Sub-Group of the Hervey Group]
 > - [Johanson, 2002] (https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992] (https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
 
+
 *Grossaspis carinata*
-> early Givetian, Middle Devonian 
+> lower Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (Denison, 1978)
 
-*Grossilepis tuberculate*
-> early Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Gross, 1941a; 1942a; Lukševičs, 1995; 2001; Stensiö, 1948)
+*Grossilepis tuberculata* (Gross) 1941
+> lower Frasnian, Upper Devonian 
+> - Snetogor beds, Latvia.
+> - Gross, 1941a; 1942a; Lukševičs, 1995; 2001; Stensiö, 1948
+> - Type species.
 
-*Grossilepis brandi*
-> Frasnian, Late Devonian 
-> - [horizon and locality]
-> - (Miles, 1968)
+*Grossilepis brandi* Miles, 1968
+> Frasnian, Upper Devonian 
+> - Hazeldean Burn beds, Scotland.
+> - Miles, 1968
 
-*Grossilepis spinosa*
-> late Givetian to Frasnian, Devonian 
-> - [horizon and locality]
-> - (Lukševičs, 2001)
+*Grossilepis spinosa* (Gross) 1942
+> upper Givetian to Frasnian, Devonian 
+> - Horizon e, Latvia.
+> - Lukševičs, 2001
 
-*Grossilepis rikiki*
-> late Famennian, Late Devonian 
-> - [horizon and locality]
-> - (Olive, 2015)
+*Grossilepis rikiki* Olive, 2015
+> upper Famennian, Upper Devonian 
+> - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
+> - Olive, 2015
 
 *Hohsienolepis hsintuensis*, 
 > - [horizon and locality]
 > - (Pan and Wang, 1978)
 
 *Heteroyunnanolepis qujingensis*
-> Lochkovian, Early Devonian 
+> Lochkovian, Lower Devonian 
 > - [horizon and locality]
 > - (Wang, 1994; Zhu, 1996)
+
+Houershanaspis
+Hyracanaspis
 
 *Hunanolepis tieni*
 > Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (P'an and Wang, 1978; Wang, 1991)
 
-*Kirgisolepis karabaltaensis*
-> Late Devonian; Devonian 
+Jiangxilepis longibrachius Zhang and Liu 1991
+Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
+
+*Kirgisolepis karabaltaensis* Panteleyev, 1992
+> Upper Devonian; Devonian 
 > - [horizon and locality]
-> - (Moloshnikov, 2012; Panteleyev, 1992)
+> - Moloshnikov, 2012; Panteleyev, 1992
 
 *Lepadolepis stensioei*
 > Givetian, Middle Devonian 
@@ -131,17 +146,17 @@ New taxa and references added along with the research.
 > - (Denison, 1978; Obruchev, 1964)
 
 *Liujiangolepis suni*
-> Pragian to early Emsian, Early Devonian 
+> Pragian to lower Emsian, Lower Devonian 
 > - [horizon and locality]
 > - (Wang, 1987)
 
-*Livnolepis zadonica*
-> middle Famennian, Late Devonian 
+*Livnolepis zadonica* (Obrucheva, 1983)
+> middle Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Moloshnikov, 2008)
 
 *Luquanolepis pileos*
-> Emsian, Early Devonian 
+> Emsian, Lower Devonian 
 > - [horizon and locality]
 > - (Zhang and Young, 1992)
 
@@ -150,25 +165,21 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Young, 2010)
 
-*Microbrachius dicki*
-> late Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Hemmings, 1978; Long *et al*., 2015)
+*Microbrachius dicki* Traquair, 1888
+> upper Givetian, Middle Devonian 
+> - John O'Groats sandstone, Caithness; and Eday beds, Orkney Islands, Scotland.
+> - Hemmings, 1978; Long *et al*., 2015
+> - Type species.
 
 *Microbrachius sinensis*
 > Givetian, Middle Devonian 
 > - [horizon and locality]
-> - (Mark-Kurik *et al*., 2018; Pan, 1984)
-
-*Microbrachius sinensis*
-> Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Mark-Kurik *et al*., 2018; Pan, 1984)
+> - Pan, 1984
 
 *Microbrachius kedoae*
 > Givetian, Middle Devonian 
 > - [horizon and locality]
-> - (Mark-Kurik *et al*., 2018)
+> - Mark-Kurik *et al*., 2018
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
 > lower Lochkovian, 419.2, 415.0
@@ -177,12 +188,12 @@ New taxa and references added along with the research.
 > - Zhu and Janvier, 1996
 
 *Mizia longhuaensis*
-> Pragian, Early Devonian 
+> Pragian, Lower Devonian 
 > - [horizon and locality]
 > - (Zhu, 1996)
 
 *Monarolepis verrucose*
-> late Eifelian, Middle Devonian 
+> upper Eifelian, Middle Devonian 
 > - [horizon and locality]
 > - (Long *et al*., 1990; Young, 1988; Young and Gorter, 1981)
 
@@ -192,7 +203,7 @@ New taxa and references added along with the research.
 > - (Young, 1990)
 
 *Ningxialepis spinosa*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Jia and Zhu, 2010)
 
@@ -202,22 +213,22 @@ New taxa and references added along with the research.
 > - (Young, 1988; Young and Moody, 2002)
 
 *Pambulaspis cobandrahensis*
-> Frasnian, Late Devonian 
+> Frasnian, Upper Devonian 
 > - [horizon and locality]
 > - (Young, 1983)
 
 *Parayunnanolepis xitunensis*
-> Lochkovian, Early Devonian 
+> Lochkovian, Lower Devonian 
 > - [horizon and locality]
 > - (Wang and Zhu, 2021; 2022; Young and Zhang, 1996; Zhang et al., 2001; Zhu *et al*.,2012; Zhu et al., 2023)
 
 *Phymolepis guoruii*
-> Lochkovian, Early Devonian 
+> Lochkovian, Lower Devonian 
 > - [horizon and locality]
 > - (Zhu, 1996)
 
 *Phymolepis cuifengshanensis*
-> Lochkovian, Early Devonian 
+> Lochkovian, Lower Devonian 
 > - [horizon and locality]
 > - (Chang, 1978; Wang and Zhu, 2018; Zhang, 1978; Zhu, 1996)
 
@@ -235,57 +246,57 @@ New taxa and references added along with the research.
 
 
 *Remigolepis xixiaensis*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
 *Remigolepis major*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
 *Remigolepis microcephala*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
 *Remigolepis xiangshanensis*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
 *Remigolepis zhongweiensis*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
 *Remigolepis zhongningensis*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
 *Remigolepis walkeri*
-> early Famennian, Late Devonian 
+> lower Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Johanson, 1997)
 
 *Remigolepis redcliffensis*
-> late Famennian, Late Devonian 
+> upper Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Johanson, 1997)
 
 *Remigolepis armata*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Lukševičs, 1991; Moloshnikov, 2008)
 
 *Remigolepis karakoliensis*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Panteleyev, 1992)
 
 *Remigolepis durnalensis*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Olive, 2015)
 
@@ -303,12 +314,12 @@ New taxa and references added along with the research.
 > - Liu and P'an, 1958; Ritchie et al., 1992
 
 *Sinolepis szei*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan et al., 1987)
 
 *Sinolepis wutungensis*
-> Famennian, Late Devonian 
+> Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Liu and P'an, 1958)
 
@@ -322,20 +333,25 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Malinovskaya, 1973; Moloshnikov, 2012)
 
-*Tenizolepis asiatica*
+*Tenizolepis asiatica* (Obrucheva) 1955
 > Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (Moloshnikov, 2010; 2012)
 
-*Tenizolepis rara*
+*Tenizolepis rara* Malinovskaya, 1977
 > Givetian, Middle Devonian 
 > - [horizon and locality]
-> - (Moloshnikov, 2011; Moloshnikov, 2012)
+> - Moloshnikov, 2011; Moloshnikov, 2012
 
-*Tubalepis extensa*, Famennian, Late Devonian (Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003)
+*Tenizolepis bychkovi* Malinovskaya 1992
+
+*Tubalepis extensa* (Sergienko, 1961)
+> Famennian, Upper Devonian>
+> - [horizon and locality]
+> - Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003
 
 *Vanchienolepis langsonensis*
-> Bac Bun, Pragian, Early Devonian 
+> Bac Bun, Pragian, Lower Devonian 
 > - [horizon and locality]
 > - (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
@@ -345,19 +361,19 @@ New taxa and references added along with the research.
 > - (Long *et al*., 1990)
 
 *Walterilepis speciosa*
-> Frasnian, Late Devonian 
+> Frasnian, Upper Devonian 
 > - [horizon and locality]
 > - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
 
-*Wudinolepis weni*
-> Eifelian, Middle Devonian 
-> - [horizon and locality]
-> - (Chang, 1965)
+*Wudinolepis weni* Chang, 1965
+> Upper Emsian, Lower Devonian 
+> - Jiucheng Formation, Wuding, Yunnan.
+> - Chang, 1965
 
 *Wufengshania magniforaminis*
-> Emsian, Early Devonian 
-> - [horizon and locality]
-> - (Pan, 1984; Pan *et al*., 2018)
+> Upper Emsian, Lower Devonian 
+> - Jiucheng Formation, Wuding, Yunnan.
+> - Pan, 1984; Pan *et al*., 2018
 
 *Wurungulepis denisoni*
 > Eifelian, Middle Devonian 
@@ -376,12 +392,12 @@ New taxa and references added along with the research.
 > - Zhang, 1980; Zhu, 1996
 
 *Yunnanolepis chii*
-> Lochkovian to Pragian, Early Devonian 
+> Lochkovian to Pragian, Lower Devonian 
 > - [horizon and locality]
 > - (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
 
 *Zhanjilepis aspratilis*
-> Lochkovian, Early Devonian 
+> Lochkovian, Lower Devonian 
 > - [horizon and locality]
 > - (Janvier, 1999; Zhang, 1978; Zhu, 1996)
 
@@ -402,7 +418,7 @@ Burrow, C.J., & Turner, S. (1999). A review of placoderm scales, and their signi
 
 Chang, K.J. (1965). New antiarchs from the Middle Devonian of Yunnan. *Vertebrata PalAsiatica*, 9 (1), 1-9.
 
-Charest, F., Johanson, Z., & Cloutier, R. (2018). Loss in the making: absence of pelvic fins and presence of paedomorphic pelvic girdles in a Late Devonian antiarch placoderm (jawed stem-gnathostome). *Biology Letters*, **14**(6).
+Charest, F., Johanson, Z., & Cloutier, R. (2018). Loss in the making: absence of pelvic fins and presence of paedomorphic pelvic girdles in a Upper Devonian antiarch placoderm (jawed stem-gnathostome). *Biology Letters*, **14**(6).
 
 Charest, F., Johanson, Z., & Cloutier, R. (2022). The preorbital depression and recess of antiarch placoderms (jawed stem-gnathostomes) revisited from an ontogenetic (saltatory) point of view. *Journal of Vertebrate Paleontology*, **42**(1), e2116335.
 
@@ -430,7 +446,7 @@ Janvier, P. (1995). The brachial articulation and pectoral fin in antiarchs (Pla
 
 Janvier, P., & Phuong, T.H. (1999). Les vertébrés (Placodermi, Galeaspida) du Dévonien inférieur de la coupe de Lung Cô-Mia Lé, province de Hà Giang, Viêt Nam, avec des données complémentaires sur les gisements à vertébrés du Dévonian du Bac Bo oriental. *Geodiversitas*, **21**, 33-67.
 
-Janvier, P., Desbiens, S., & Willett, J.A. (2007). New evidence for the controversial 'lungs' of the late Devonian antiarch *Bothriolepis canadensis* (Whiteaves, 1880) (Placodermi: Antiarcha). *Journal of Vertebrate Paleontology*, **27**(3), 709-710.
+Janvier, P., Desbiens, S., & Willett, J.A. (2007). New evidence for the controversial 'lungs' of the Upper Devonian antiarch *Bothriolepis canadensis* (Whiteaves, 1880) (Placodermi: Antiarcha). *Journal of Vertebrate Paleontology*, **27**(3), 709-710.
 
 Jia, L.T., Zhu, M., & Zhao, W.J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145.
 
@@ -448,9 +464,9 @@ Liu, Y.H. (1963). On the Antiarchi from Chutsing, Yunnan. *Vertebrata PalAsiatic
 
 Long, J. A., Mark-Kurik, E., Johanson, Z., Lee, M. S., Young, G. C., Min, Z., ... & Trinajstic, K. (2015). Copulation in antiarch placoderms and the origin of gnathostome internal fertilization. *Nature*, **517**(7533), 196-199.
 
-Long, J.A. (1983). New bothriolepid fish from the late Devonian of Victoria, Australia. *Palaeontology*, **26**(2), 295-320.
+Long, J.A. (1983). New bothriolepid fish from the Upper Devonian of Victoria, Australia. *Palaeontology*, **26**(2), 295-320.
 
-Long, J.A., & Werdelin, L. (1986). A new Late Devonian bothriolepid (Placodermi, Antiarcha) from Victoria, with description of other species from the state. *Alcheringa*, **10**, 355-399.
+Long, J.A., & Werdelin, L. (1986). A new Upper Devonian bothriolepid (Placodermi, Antiarcha) from Victoria, with description of other species from the state. *Alcheringa*, **10**, 355-399.
 
 Long, J.A., Burrett, C.F., Ngan, P.K., & Janvier, P. (1990). A new bothriolepid antiarch (Pisces, Placodermi) from the Devonian of Do Son peninsula, northern Vietnam. *Alcheringa*, **14**(3), 181-194.
 
@@ -480,7 +496,7 @@ Moloshnikov, S.V. (2010). Middle Devonian bothriolepiform antiarchs (Pisces, Pla
 
 Moloshnikov, S.V. (2011). Bothriolepiform antiarchs (Pisces, Placodermi) from the Devonian of Central Kazakhstan. *Paleontological Journal*, **45**(3), 291-304.
 
-Moloshnikov, S.V. (2012). Middle-late Devonian placoderms (Pisces: Antiarchi) from Central and northern Asia. *Paleontological Journal*, **46**(10), 1097-1196.
+Moloshnikov, S.V. (2012). Middle-Upper Devonian placoderms (Pisces: Antiarchi) from Central and northern Asia. *Paleontological Journal*, **46**(10), 1097-1196.
 
 Nilsson, T. (1941). The Downtonian and Devonian vertebrates of Spitsbergen. VII, Order Antiarchi. *Skrifter om Svalbard og Ishavet*, **82**, 1-54.
 
@@ -494,7 +510,7 @@ Pan, J., Huo, F.C., Cao, J.X., Gu, Q.C., Liu, S.Y., Wang, J.Q., Gao, L.D., & Liu
 
 P'an, K., & Wang, S.T. (1978). Devonian Agnatha and Pisces of South China. In: Institute of Geology and Mineral Resources, the Chinese Academy of Geological Sciences, (eds), Symposium on the Devonian System of South China. Beijing: *Geological Press*, 298-333.
 
-Pan, Z.H., Zhu, M., Zhu, Y.A., & Jia, L.T. (2018). A new antiarch placoderm from the Emsian (Early Devonian) of Wuding, Yunnan, China. *Alcheringa*, **42**, 10-21.
+Pan, Z.H., Zhu, M., Zhu, Y.A., & Jia, L.T. (2018). A new antiarch placoderm from the Emsian (Lower Devonian) of Wuding, Yunnan, China. *Alcheringa*, **42**, 10-21.
 
 Panteleyev, N. (1992). New remigolepids and high armoured antiarchs of Kirgizia. In: Mark-Kurik, E. (eds), Fossil Fishes as Living Animals. Tallinn: *Academy of Sciences of Estonia*, 185-192.
 
@@ -504,7 +520,7 @@ Panteleyev, N., & Moloshnikov, S. (2003). Tubalepis gen. nov. (Placodermi, Antia
 
 Plax, D. P. (2016). Stratigraphic ichthyofauna assemblages of the Devonian deposits in the Vileyka Buried Ridge of the Belarusian Anticlise. *Natural Resources*, (2), 14-44.
 
-Plax, D. P., & Lukševičs, E. (2023). A new Early Devonian antiarch placoderm from Belarus, and the phylogeny of Asterolepidoidei. *Acta Palaeontologica Polonica*, **68**(3), 513-527.
+Plax, D. P., & Lukševičs, E. (2023). A new Lower Devonian antiarch placoderm from Belarus, and the phylogeny of Asterolepidoidei. *Acta Palaeontologica Polonica*, **68**(3), 513-527.
 
 Ritchie, A., Wang, S.T., Young, G.C., & Zhang, G.R. (1992). The Sinolepidae, a family of antiarchs (placoderm fishes) from the Devonian of South China and eastern Australia. *Records of the Australian Museum*, **44**(3), 319-370.
 
@@ -522,7 +538,7 @@ Wang, J.Q. (1991). New material of Hunanolepis from the Middle Devonian of Hunan
 
 Wang, J.Q., & Zhang, G.R. (1999). New material of *Microbrachius* from lower Devonian of Qujing, Yunnan, China. *Vertebrata PalAsiatica*, **37**(3), 200-211.
 
-Wang, S.T. (1987). A new antiarch from the Early Devonian of Guangxi. *Vertebrata PalAsiatica*, **25**, 81-90.
+Wang, S.T. (1987). A new antiarch from the Lower Devonian of Guangxi. *Vertebrata PalAsiatica*, **25**, 81-90.
 
 Wang, Y.J., & Zhu, M. (2018). Redescription of *Phymolepis cuifengshanensis* (Antiarcha: Yunnanolepididae) using high-resolution computed tomography and new insights into anatomical details of the endocranium in antiarchs. *PeerJ*, **6**, e4808.
 
@@ -534,7 +550,7 @@ Wang, Z.S. (1994). New discovery of yunnanolepids-*Heteroyunnanolepis qujingensi
 
 Werdelin, L., & Long, J.A. (1986). Allometry in the placoderm *Bothriolepis canadensis* and its significance to antiarch evolution. *Lethaia*, **19**, 161-169.
 
-Young, G.C. (1983). A new antiarchan fish (Placodermi) from the Late Devonian of southeastern Australia. *BMR Journal of Australian Geology & Geophysics*, **8**, 71-81.
+Young, G.C. (1983). A new antiarchan fish (Placodermi) from the Upper Devonian of southeastern Australia. *BMR Journal of Australian Geology & Geophysics*, **8**, 71-81.
 
 Young, G.C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltstone, southern Victoria Land, Antarctica. *Palaeontographica Abt. A*, **202**, 1-125.
 
@@ -544,31 +560,31 @@ Young, G.C. (2010). A new antiarch (placoderm fish: Devonian) from the south coa
 
 Young, G.C., & Gorter, J.D. (1981). A new fish fauna of Middle Devonian age from the Taemas/Wee Jasper region of New South Wales. *Bulletin of the Bureau of Mineral Resources Geology and Geophysics Australia*, **209**, 85-147.
 
-Young, G.C., & Moody, J.M. (2002). A Middle-Late Devonian fish fauna from the Sierra de Perijá western Venezuela, South America. *Mitt. Mus. Nat.kd. Berl., Geowiss. Reihe*, **5**, 155-206.
+Young, G.C., & Moody, J.M. (2002). A Middle-Upper Devonian fish fauna from the Sierra de Perijá western Venezuela, South America. *Mitt. Mus. Nat.kd. Berl., Geowiss. Reihe*, **5**, 155-206.
 
 Young, G.C., & Zhang, G.R. (1992). Structure and function of the pectoral joint and operculum in Antiarchs, Devonian placoderm fishes. *Palaeontology*, **35**(2), 443-464.
 
-Young, G.C., & Zhang, G.R. (1996). New information on the morphology of yunnanolepid antiarchs (placoderm fishes) from the Early Devonian of South China. *Journal of Vertebrate Paleontology*, **16**(4), 623-641.
+Young, G.C., & Zhang, G.R. (1996). New information on the morphology of yunnanolepid antiarchs (placoderm fishes) from the Lower Devonian of South China. *Journal of Vertebrate Paleontology*, **16**(4), 623-641.
 
-Zhang, G.R. (1978). The antiarchs from the Early Devonian of Yunnan. *Vertebrata PalAsiatica*, **16** (3), 147-186.
+Zhang, G.R. (1978). The antiarchs from the Lower Devonian of Yunnan. *Vertebrata PalAsiatica*, **16** (3), 147-186.
 
 Zhang, G.R. (1980). New material of *Xichonolepis qujingensis* and discussion on some of its morphological characteristics. *Vertebrata PalAsiatica*, **18** (4), 272-280.
 
-Zhang, G.R. (1984). New form of the Antiarchi with primitive brachial process from Early Devonian of Yunnan. *Vertebrata PalAsiatica*, **22** (2), 81-91.
+Zhang, G.R. (1984). New form of the Antiarchi with primitive brachial process from Lower Devonian of Yunnan. *Vertebrata PalAsiatica*, **22** (2), 81-91.
 
 Zhang, G.R., & Liu, Y.G. (1991). A new antiarch from the Upper Devonian of Jiangxi, China. In: Chang, M.M., Liu, Y.H., and Zhang, G.R. (eds), Early Vertebrates and Related Problems of Evolutionary Biology. Beijing: *Science Press*, 195-212.
 
-Zhang, G.R., & Young, G.C. (1992). A new antiarch (placoderm fish) from the Early Devonian of South China. *Alcheringa*, **16**, 219-240.
+Zhang, G.R., & Young, G.C. (1992). A new antiarch (placoderm fish) from the Lower Devonian of South China. *Alcheringa*, **16**, 219-240.
 
 Zhang, G.R., Wang, J.Q., & Wang, N.Z. (2001). The structure of pectoral fin and tail of Yunnanolepidoidei, with a discussion of the pectoral fin of chuchinolepids. *Vertebrata PalAsiatica*, **39**(1), 1-13.
 
 Zhang, M.M. (1980). Preliminary note on a Lower Devonian antiarch from Yunnan, China. *Vertebrata PalAsiatica*, **18**(3), 179-190.
 
-Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum nationa1 d'Histoire naturelle*, **18**, 233-347.
+Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Lower Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum nationa1 d'Histoire naturelle*, **18**, 233-347.
 
-Zhu, M., & Janvier, P., 1996. A small antiarch, *Minicrania lirouyii* gen. et sp. nov., from the Early Devonian of Qujing, Yunnan (China), with remarks on antiarch phylogeny. *Journal of Vertebrate Paleontology*, **16**(1), 1-15.
+Zhu, M., & Janvier, P., 1996. A small antiarch, *Minicrania lirouyii* gen. et sp. nov., from the Lower Devonian of Qujing, Yunnan (China), with remarks on antiarch phylogeny. *Journal of Vertebrate Paleontology*, **16**(1), 1-15.
 
-Zhu, M., Wang, J.Q., & Fan, J.H. (1994). Early Devonian fishes from Guijiatun and Xujiachong formations of Qujing, Yunnan, and related biostratigraphic problems. *Vertebrata PalAsiatica*, **32**(1), 1-20.
+Zhu, M., Wang, J.Q., & Fan, J.H. (1994). Lower Devonian fishes from Guijiatun and Xujiachong formations of Qujing, Yunnan, and related biostratigraphic problems. *Vertebrata PalAsiatica*, **32**(1), 1-20.
 
 Zhu, M., Yu, X.B., Choo, B., Wang, J.Q, & Jia, L.T. (2012). An antiarch placoderm shows that pelvic girdles arose at the root of jawed vertebrates. *Biology Letters*, **8**(3), 453-456.
 
