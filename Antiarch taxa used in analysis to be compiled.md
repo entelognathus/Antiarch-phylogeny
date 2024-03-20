@@ -5,6 +5,7 @@ New taxa and references added along with the research.
 **最好到有效种名，种名才是可靠的OTU。**
 **每个属种下的参考文献按年份排列，大家编辑时随手调整。**
 **方括号与圆括号之间不要有空格，才能构成关联**
+**大家发现什么问题，就用黑体指出来或者就直接解决掉。解决完，就可以将相关的注解删掉。**
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -70,7 +71,7 @@ New taxa and references added along with the research.
 
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Emsian, 407.6, 393.3 
-> - [Yuantou, Pingle County, Guangxi Province, in the upper part of the Dayaoshan Group]
+> - Yuantou, Pingle County, Guangxi Province, in the upper part of the Dayaoshan Group
 > - [Ritchie *et al*., 1992](https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
 
 [*Dianolepis liui*](https://www.deepbone.cn/public/#/explor?s_id=48&functionId=Deepbone_header_searchResultOpen) Chang, 1965
@@ -88,7 +89,7 @@ New taxa and references added along with the research.
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > late Famennian, 372.2, 358.9 
 > - Redcliff Mountain, about 20 km north-east of Grenfell, NSW. Hunter Siltstone of the Beargamil Sub-Group of the Hervey Group.
-> - [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992] (https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
+> - [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992](https://journals.australian.museum/ritchie-et-al-1992-rec-aust-mus-443-319370/)
 
 
 *Grossaspis carinata*
