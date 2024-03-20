@@ -52,6 +52,7 @@ New taxa and references added along with the research.
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
 > - Kerman, Tabas Region, eastern Iran
 > - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016](https://www.scirp.org/journal/nr/)
+> - **plax的链接不对**
 
 
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
@@ -64,7 +65,7 @@ New taxa and references added along with the research.
 > Lochkovian, 419.2, 410.8 
 
 > - [horizon and locality]
-> - [Chang, 1978]; [Zhang, 1984] (http://www.irgrid.ac.cn/handle/1471x/51840); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Zhu *et al*., 1994] (https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1)
+> - [Chang, 1978]; [Zhang, 1984](http://www.irgrid.ac.cn/handle/1471x/51840); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Zhu *et al*., 1994](https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1)
 
 
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
