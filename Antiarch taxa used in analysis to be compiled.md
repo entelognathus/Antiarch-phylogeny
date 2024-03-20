@@ -99,7 +99,7 @@ New taxa and references added along with the research.
 > - Eifel, Germany.
 
 > - [Gross, 1941b]; [Friman and Koln, 1982](https://link.springer.com/article/10.1007/BF02988800).
-> - This is not the type species of *Gerdalepis*. The type species is %%.
+> - This is not the type species of *Gerdalepis*. The type species is *Gerdalepis rhenana* (Beyrich).
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > late Famennian, 372.2, 358.9 
