@@ -12,6 +12,8 @@ New taxa and references added along with the research.
 
 **这儿空一行，才代表段落。大家注意留心github的语法，很简单。**
 
+**大家只有做了，才能发现问题，熟悉github语法，以及相关属种的各种信息。多看，多接触，就能在脑子里留下深刻影响。对于每个属种有什么疑惑或问题或想法，也可以在下面直接注解出来。你们之间相互解答，也能共同提高。**
+
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
 
@@ -43,6 +45,7 @@ New taxa and references added along with the research.
 
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
+> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
 
 [*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
 > Frasnian, Upper Devonian, 382.7, 372.2
