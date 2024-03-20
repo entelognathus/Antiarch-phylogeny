@@ -1,4 +1,4 @@
-![image](https://github.com/entelognathus/Antiarch-phylogeny/assets/133229646/bcb95bdc-20bb-4634-a2cc-ff3a2aefa502)**List of taxa, geological range (Ma), horizon and locality, and references**
+**List of taxa, geological range (Ma), horizon and locality, and references**
 
 New taxa and references added along with the research.
 
