@@ -80,6 +80,7 @@ New taxa and references added along with the research.
 > 
 > -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
+
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Wang, 1992
 > Emsian, Middle Devonian; 407.6, 393.3 
 > - in the upper part of the Dayaoshan Group, Yuantou, Pingle County, Guangxi Province.
@@ -96,14 +97,13 @@ New taxa and references added along with the research.
 > middle Eifelian, 393.3, 387.7 
 
 > - Eifel, Germany.
-
 > - [Gross, 1941b]; [Friman and Koln, 1982](https://link.springer.com/article/10.1007/BF02988800).
 > - This is not the type species of *Gerdalepis*. The type species is *Gerdalepis rhenana* (Beyrich).
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > late Famennian, 372.2, 358.9 
 
-> Grenfell, Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia.
+> - Grenfell, Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia.
 > - [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 
@@ -332,18 +332,20 @@ Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > Famennian, 372.2, 358.9
 
-> - Wutung Formation; Nanjing, Jiangsu, China
-> - Liu and P'an, 1958; Ritchie et al., 1992
+> - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
+> - [Liu and P'an, 1958]; [Ritchie et al., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
-*Sinolepis szei*
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Pan et al., 1987)
+[*Sinolepis szei*](https://deepbone.org/public/#/explor?s_id=3310&functionId=Deepbone_header_searchResultOpen) Pan et al., 1987
+> Famennian, 372.2, 358.9 
 
-*Sinolepis wutungensis*
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Liu and P'an, 1958)
+> - [Zhongning Formation; Near Yantongshan, Zhongning, Ningxia,China]
+> - [Pan et al., 1987]
+
+[*Sinolepis wutungensis*](https://deepbone.org/public/#/explor?s_id=3309&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
+> Famennian, 372.2, 358.9 
+
+> - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
+> - [Liu and P'an, 1958]
 
 *Stegolepis jugata*
 > Givetian, Middle Devonian 
@@ -402,10 +404,11 @@ Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
 > - [horizon and locality]
 > - (Burrow, 1999; Burrow and Turner, 1998; Young, 1990)
 
-*Xichonolepis qujingensis*
-> Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Pan and Wang, 1983; Ritchie *et al*., 1992; Zhang, 1980)
+[*Xichonolepis qujingensis*](https://deepbone.org/public/#/explor?s_id=3307&functionId=Deepbone_header_searchResultOpen)
+> Givetian, 387.7, 382.7 
+
+> - [Haikou Formation, Yunnan Province: Xichong and Zhangjiaying, near Qujing; Dashishan, near Tonghai; Panxi, near Huaning; Zhaojiazhuang and the nearby cement quarry near Wuding]
+> - [Pan and Wang, 1978]; [Zhang, 1980](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090427_2386344.html); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
