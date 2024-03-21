@@ -70,20 +70,19 @@ New taxa and references added along with the research.
 
 
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
-> Lochkovian, 419.2, 410.8 
-
-> - [horizon and locality]
+> Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
+> - Qujing, Yunnan; Liujing, Heng county, Guangxi
 > - [Chang, 1978]; [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Pan and Wang, 1978]; [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
-> Lochkovian, 419.2, 410.8 
+> Lochkovian, Lower Devonian; 419.2, 410.8 
+> Qujing, Yunnan
+> 
+> -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
-> - [horizon and locality]
-> - [Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Wang, 1992
-> Emsian, 407.6, 393.3 
-
+> Emsian, Middle Devonian; 407.6, 393.3 
 > - in the upper part of the Dayaoshan Group, Yuantou, Pingle County, Guangxi Province.
 > - [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
@@ -114,30 +113,30 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - (Denison, 1978)
 
-[*Grossilepis tuberculata*] (Gross) 1941
+[*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) (Gross) 1941
 > lower Frasnian, Upper Devonian 
 > - Snetogor beds, Latvia.
-> - Gross, 1941a; 1942a; Lukševičs, 1995; 2001; Stensiö, 1948
+> - Gross, 1941a; 1942a; [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); Stensiö, 1948
 > - Type species.
 
-*Grossilepis brandi* Miles, 1968
+[*Grossilepis brandi*](https://www.deepbone.cn/public/#/explor?s_id=3325&functionId=Deepbone_header_searchResultOpen) Miles, 1968
 > Frasnian, Upper Devonian 
 > - Hazeldean Burn beds, Scotland.
 > - Miles, 1968
 
-*Grossilepis spinosa* (Gross) 1942
+[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) (Gross) 1942
 > upper Givetian to Frasnian, Devonian 
 > - Horizon e, Latvia.
-> - Lukševičs, 2001
+> - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf)
 
-*Grossilepis rikiki* Olive, 2015
+[*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > upper Famennian, Upper Devonian 
 > - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
-> - Olive, 2015
+> - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
-*Hohsienolepis hsintuensis*, 
+[*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > - [horizon and locality]
-> - (Pan and Wang, 1978)
+> - Pan and Wang, 1978; Pan, 1984
 
 *Heteroyunnanolepis qujingensis*
 > Lochkovian, Lower Devonian 
