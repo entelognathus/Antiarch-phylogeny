@@ -54,12 +54,12 @@ New taxa and references added along with the research.
 
 [*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
 > Frasnian, Upper Devonian, 382.7, 372.2
-> - Miguasha, Québec, Canada, and Orkney Islands, Scotland.
-> - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
+> - Miguasha, Québec, Canada; Catskill Formation” of Pennsylvania, North America; Orkney Islands, Scotland.
+> - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
 
 [*Briagalepis warreni*](https://deepbone.org/public/#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long et al. 1990
 > Frasnian, Upper Devonian, 382.7, 372.2 
-> - Freestone Creek, and Bindaree Road, Victoria
+> - Freestone Creek and Bindaree Road, Victoria
 > - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146); [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
 
 [*Byssacanthus dilatatus*](https://deepbone.org/public/#/explor?s_id=3332&functionId=Deepbone_header_searchResultOpen) Eichwald, 1844
