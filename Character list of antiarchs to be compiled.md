@@ -479,8 +479,12 @@
 > - Do you mean the contact face? How to define narrow or wide?
 > - The overlying area of posterolateral margin of anterior median dorsal plate refers to the contact face where the anterior median dorsal plate overlap the posterior dorsolateral plate. In the _Xichonolepis_ collected in Wuding, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 5 mm, which gradually decreases from the posteriolateral corner towards the lateral corner. In the _Xichonolepis_ collected in the Pearl River source, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 2 mm, which gradually decreases from the posteriolateral corner towards the lateral corner, and disappearing at approximately 3/4 of the length of the posterolateral margin.
 
-98. Index r3 between anterior and posterior divisions of posterior median dorsal plate: r3<300 (0); r3>=300 (1).
+98. Index r3 between anterior and posterior divisions of posterior median dorsal plate: r3<400 (0); r3>400 (1).
 
 > **Newly added character.**
 
-> - In _Xichonolepis_, the ratio of the Zhujiangyuan specimen is less than 300,  and the ratio is greater than 300 in the Wuding specimen.
+> - In _Xichonolepis_, the ratio of the Zhujiangyuan specimen is greater than 400,  and the ratio is less than 400 in the Wuding specimen.
+
+99. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
+
+> **Newly added character.**
