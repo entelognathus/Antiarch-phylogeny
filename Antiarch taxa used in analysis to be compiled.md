@@ -230,9 +230,9 @@ Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
 > - [horizon and locality]
 > - (Jia and Zhu, 2010)
 
-*Pambulaspis antarctica*
-> middle Givetian, Middle Devonian 
-> - [horizon and locality]
+*Pambulaspis antarctica* Young, 1988
+> Givetian, Middle Devonian 
+> - Aztec Sandstone, Southern Victoria Land, Antarctica.
 > - (Young, 1988; Young and Moody, 2002)
 
 *Pambulaspis cobandrahensis*
