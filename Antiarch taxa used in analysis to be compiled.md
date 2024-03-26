@@ -135,7 +135,7 @@ New taxa and references added along with the research.
 > - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
 [*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> - Eifelian, Middle Devonian, 393.3, 387.7
+> Eifelian, Middle Devonian, 393.3, 387.7
 > - Xindu Formation, He County, Guangxi
 > - Pan and Wang, 1978; Pan, 1984
 
@@ -145,12 +145,13 @@ New taxa and references added along with the research.
 > - [Wang, 1994](https://www.vertpala.ac.cn/EN/abstract/abstract600.shtml); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
-> - Late Pragian, Lower Devonian, 410.8, 407.6
+> Late Pragian, Lower Devonian, 410.8, 407.6
 > - Danlin Formation, Dushan, Guizhou
 > - Lu *et al*, 2017
 
 [*Hyrcanaspis bliecki*](https://www.deepbone.cn/public/#/explor?s_id=3525&functionId=Deepbone_header_searchResultOpen) Janvier and Pan, 1982
-> - Eifelian?, Middle Devonian, 393.3, 387.7
+> Eifelian?, Middle Devonian, 393.3, 387.7
+
 > - Khush-Yeilagh Formation, Khush-Yeilagh village, Mazenderan province, Iran
 > - Janvier and Pan, 1982
 
