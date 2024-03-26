@@ -89,7 +89,7 @@ New taxa and references added along with the research.
 [*Dianolepis liui*](https://www.deepbone.cn/public/#/explor?s_id=48&functionId=Deepbone_header_searchResultOpen) Chang, 1965
 > Givetian, 387.7, 382.7 
 
-> - [horizon and locality]
+> - Wuding, Yunnan
 > - [Chang, 1965]; [Pan *et al*., 2018](https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
 
 
@@ -110,45 +110,52 @@ New taxa and references added along with the research.
 [*Grossaspis carinata*](https://deepbone.org/public/#/explor?s_id=3342&functionId=Deepbone_header_searchResultOpen) Schluter, 1887
 > lower Givetian, 387.7, 382.7 
 
-> - [horizon and locality]
+> - Eifel, Germany
 > - (Denison, 1978)
 
 [*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) (Gross) 1941
-> lower Frasnian, Upper Devonian 
+> lower Frasnian, Upper Devonian, 382.7, 372.2
 > - Snetogor beds, Latvia.
-> - Gross, 1941a; 1942a; [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); Stensiö, 1948
+> - Gross, 1941a; 1942a; [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); Stensiö, 1948; [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 > - Type species.
 
 [*Grossilepis brandi*](https://www.deepbone.cn/public/#/explor?s_id=3325&functionId=Deepbone_header_searchResultOpen) Miles, 1968
-> Frasnian, Upper Devonian 
+> Frasnian, Upper Devonian, 382.7, 372.2
 > - Hazeldean Burn beds, Scotland.
 > - Miles, 1968
 
 [*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) (Gross) 1942
-> upper Givetian to Frasnian, Devonian 
-> - Horizon e, Latvia.
-> - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf)
+> upper Givetian to Frasnian, Middle-Upper Devonian, 387.7, 372.2
+> - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
+> - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 
 [*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
-> upper Famennian, Upper Devonian 
+> upper Famennian, Upper Devonian, 372.2, 358.9
 > - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
 > - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
 [*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> - [horizon and locality]
+> - Eifelian, Middle Devonian, 393.3, 387.7
+> - Xindu Formation, He County, Guangxi
 > - Pan and Wang, 1978; Pan, 1984
 
-*Heteroyunnanolepis qujingensis*
-> Lochkovian, Lower Devonian 
-> - [horizon and locality]
-> - (Wang, 1994; Zhu, 1996)
+[*Heteroyunnanolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=3296&functionId=Deepbone_header_searchResultOpen) Wang, 1994
+> Lochkovian, Lower Devonian, 419.2, 410.8
+> - Xishancun Formation, Qujing, Yunnan
+> - [Wang, 1994](https://www.vertpala.ac.cn/EN/abstract/abstract600.shtml); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
-Houershanaspis
+[*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
+> - Late Pragian, Lower Devonian, 410.8, 407.6
+> - Danlin Formation, Dushan, Guizhou
+> - Lu *et al*, 2017
 
-Hyracanaspis
+[*Hyrcanaspis bliecki*](https://www.deepbone.cn/public/#/explor?s_id=3525&functionId=Deepbone_header_searchResultOpen) Janvier and Pan, 1982
+> - Eifelian?, Middle Devonian, 393.3, 387.7
+> - Khush-Yeilagh Formation, Khush-Yeilagh village, Mazenderan province, Iran
+> - Janvier and Pan, 1982
 
 [*Hunanolepis tieni*](https://deepbone.org/public/#/explor?s_id=3323&functionId=Deepbone_header_searchResultOpen) P'an and Tzeng, 1973
-> Givetian, 387.7, 382.7 
+> Givetian, Middle Devonian, 387.7, 382.7 
 
 > - [Tiaomajian Formation, Tiaomajian, Yiyang, Hunan Province]
 > - [P'an and Wang, 1978]; [Wang, 1991]
