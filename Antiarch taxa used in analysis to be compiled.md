@@ -89,7 +89,7 @@ New taxa and references added along with the research.
 [*Dianolepis liui*](https://www.deepbone.cn/public/#/explor?s_id=48&functionId=Deepbone_header_searchResultOpen) Chang, 1965
 > Givetian, 387.7, 382.7 
 
-> - Wuding, Yunnan
+> - Haikou Formation, Wuding, Yunnan
 > - [Chang, 1965]; [Pan *et al*., 2018](https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
 
 
@@ -101,20 +101,20 @@ New taxa and references added along with the research.
 > - This is not the type species of *Gerdalepis*. The type species is *Gerdalepis rhenana* (Beyrich).
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
-> late Famennian, 372.2, 358.9 
+> Late Famennian, 372.2, 358.9 
 
 > - Grenfell, Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia.
 > - [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 
 [*Grossaspis carinata*](https://deepbone.org/public/#/explor?s_id=3342&functionId=Deepbone_header_searchResultOpen) Schluter, 1887
-> lower Givetian, 387.7, 382.7 
+> Early Givetian, 387.7, 382.7 
 
 > - Eifel, Germany
 > - (Denison, 1978)
 
 [*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) (Gross) 1941
-> lower Frasnian, Upper Devonian, 382.7, 372.2
+> Early Frasnian, Upper Devonian, 382.7, 372.2
 > - Snetogor beds, Latvia.
 > - Gross, 1941a; 1942a; [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); Stensiö, 1948; [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 > - Type species.
@@ -125,12 +125,12 @@ New taxa and references added along with the research.
 > - Miles, 1968
 
 [*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) (Gross) 1942
-> upper Givetian to Frasnian, Middle-Upper Devonian, 387.7, 372.2
+> Late Givetian to Frasnian, Middle-Upper Devonian, 387.7, 372.2
 > - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
 > - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 
 [*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
-> upper Famennian, Upper Devonian, 372.2, 358.9
+> Late Famennian, Upper Devonian, 372.2, 358.9
 > - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
 > - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
