@@ -113,7 +113,7 @@ New taxa and references added along with the research.
 > - Eifel, Germany
 > - (Denison, 1978)
 
-[*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) (Gross) 1941
+[*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) Gross 1941
 > Early Frasnian, Upper Devonian, 382.7, 372.2
 > - Snetogor beds, Latvia.
 > - Gross, 1941a; 1942a; [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); Stensiö, 1948; [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
@@ -124,7 +124,7 @@ New taxa and references added along with the research.
 > - Hazeldean Burn beds, Scotland.
 > - Miles, 1968
 
-[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) (Gross) 1942
+[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross 1942
 > Late Givetian to Frasnian, Middle-Upper Devonian, 387.7, 372.2
 > - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
 > - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
@@ -158,12 +158,20 @@ New taxa and references added along with the research.
 [*Hunanolepis tieni*](https://deepbone.org/public/#/explor?s_id=3323&functionId=Deepbone_header_searchResultOpen) P'an and Tzeng, 1973
 > Givetian, Middle Devonian, 387.7, 382.7 
 
-> - [Tiaomajian Formation, Tiaomajian, Yiyang, Hunan Province]
+> - Tiaomajian Formation, Tiaomajian, Yiyang, Hunan; Haikou Formation and Tanglishu Formation, Qujing and Kunming, Yunnan; Laohutou Formation, Shaoguan and Lechang, Guangdong
 > - [P'an and Wang, 1978]; [Wang, 1991]
 
-Jiangxilepis longibrachius Zhang and Liu 1991
+[*Jiangxilepis longibrachius*](https://deepbone.org/public/#/explor?s_id=42&functionId=Deepbone_header_searchResultOpen) Zhang and Liu 1991
+> Famennian, Upper Devonian, 372.2, 358.9
 
-Jiangxilepis sinensis (P'an) 1957 also in P'an 1964
+> - Sanmentan Formation, Yudu, Chongyi and Quannan, Jiangxi
+> - Zhang and Liu, 1991
+
+[*Jiangxilepis sinensis*](https://deepbone.org/public/#/explor?s_id=3320&functionId=Deepbone_header_searchResultOpen) P'an, 1957
+> Famennian, Upper Devonian, 372.2, 358.9
+
+> - Wutong Formation, Nanjing, Jiangsu
+> - P'an, 1957; P'an, 1964; Zhang and Liu, 1991
 
 *Kirgisolepis karabaltaensis* Panteleyev, 1992
 > Upper Devonian; Devonian 
