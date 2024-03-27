@@ -159,7 +159,7 @@ New taxa and references added along with the research.
 > Givetian, Middle Devonian, 387.7, 382.7 
 
 > - Tiaomajian Formation, Tiaomajian, Yiyang, Hunan; Haikou Formation and Tanglishu Formation, Qujing and Kunming, Yunnan; Laohutou Formation, Shaoguan and Lechang, Guangdong
-> - [P'an and Wang, 1978]; [Wang, 1991]
+> - P'an and Wang, 1978; Wang, 1991
 
 [*Jiangxilepis longibrachius*](https://deepbone.org/public/#/explor?s_id=42&functionId=Deepbone_header_searchResultOpen) Zhang and Liu 1991
 > Famennian, Upper Devonian, 372.2, 358.9
