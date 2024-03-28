@@ -197,7 +197,7 @@ New taxa and references added along with the research.
 > - Bilovo Beds, outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
 > - [Lukševics, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševics, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform); [Moloshnikov, 2009](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249527205_New_Data_on_Late_Devonian_Bothriolepidid_Placoderms_Pisces_Antiarchi_from_Tuva/links/55181f9f0cf29ab36bc49a7b/New-Data-on-Late-Devonian-Bothriolepidid-Placoderms-Pisces-Antiarchi-from-Tuva.pdf)
 
-[*Livnolepis zadonica*](https://deepbone.org/public/#/explor?s_id=3466&functionId=Deepbone_header_searchResultOpen) (Obrucheva, 1983)
+[*Livnolepis zadonica*](https://deepbone.org/public/#/explor?s_id=3466&functionId=Deepbone_header_searchResultOpen) Obrucheva, 1983
 > Middle Famennian, Upper Devonian, 372.2, 358.9
 
 > - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
