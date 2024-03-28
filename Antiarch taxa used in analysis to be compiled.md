@@ -197,15 +197,17 @@ New taxa and references added along with the research.
 > - Bilovo Beds, outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
 > - [Lukševics, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševics, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform); [Moloshnikov, 2009](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249527205_New_Data_on_Late_Devonian_Bothriolepidid_Placoderms_Pisces_Antiarchi_from_Tuva/links/55181f9f0cf29ab36bc49a7b/New-Data-on-Late-Devonian-Bothriolepidid-Placoderms-Pisces-Antiarchi-from-Tuva.pdf)
 
-*Livnolepis zadonica* (Obrucheva, 1983)
-> middle Famennian, Upper Devonian 
-> - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
-> - (Moloshnikov, 2008)
+[*Livnolepis zadonica*](https://deepbone.org/public/#/explor?s_id=3466&functionId=Deepbone_header_searchResultOpen) (Obrucheva, 1983)
+> Middle Famennian, Upper Devonian, 372.2, 358.9
 
-*Luquanolepis pileos*
-> Emsian, Lower Devonian 
-> - [horizon and locality]
-> - (Zhang and Young, 1992)
+> - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
+> - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
+
+[*Luquanolepis pileos*](https://deepbone.org/public/#/explor?s_id=11&functionId=Deepbone_header_searchResultOpen) Zhang and Young, 1992
+> Emsian, Lower Devonian
+
+> - Near the village of Chahuajing, Luquan, Kunming, Yunnan
+> - [Zhang and Young, 1992](https://www.tandfonline.com/doi/abs/10.1080/03115519208619120)
 
 *Merimbulaspis meemannae*
 > Givetian-Frasnian, Middle Devonian 
