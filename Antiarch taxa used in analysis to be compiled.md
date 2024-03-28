@@ -173,25 +173,33 @@ New taxa and references added along with the research.
 > - Wutong Formation, Nanjing, Jiangsu
 > - P'an, 1957; P'an, 1964; Zhang and Liu, 1991
 
-*Kirgisolepis karabaltaensis* Panteleyev, 1992
-> Upper Devonian; Devonian 
-> - [horizon and locality]
-> - Moloshnikov, 2012; Panteleyev, 1992
+[*Kirgisolepis karabaltaensis*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
+> Upper Devonian, 382.7, 358.9
 
-*Lepadolepis stensioei*
-> Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Denison, 1978; Obruchev, 1964)
+> - Lenses of marl, siltstone and sandstone of the lower part of the Lower Taldybulak Subformation, at the mouth of the Uzunbulak Stream in the Kara-Balta River Basin, Kyrgyzstan
+> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); Panteleyev, 1992
+
+[*Lepadolepis stensioei*](https://deepbone.org/public/#/explor?s_id=41703&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> Frasnian, Upper Devonian, 382.7, 372.2
+
+> - Kellwasserkalk of the Mimticoceras beds; Bad Wildungen, Germany
+> - Gross, 1933; Denison, 1978; Obruchev, 1964
 
 [*Liujiangolepis suni*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Wang, 1987
 > Pragian to lower Emsian, 410.8, 393.3 
 
-> - [Xiaoshan Formation (Nagaoling Formation), Luomai village, Dale Town, Xiangzhou County, Guangxi Province]
+> - Xiaoshan Formation (Nagaoling Formation), Luomai village, Dale Town, Xiangzhou County, Guangxi Province
 > - [Wang, 1987](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200903/t20090316_2386077.html)
+
+[*Livnolepis heckeri*](https://deepbone.org/public/#/explor?s_id=1391&functionId=Deepbone_header_searchResultOpen) Lukševics, 1996
+> Famennian, Upper Devonian, 372.2, 358.9
+
+> - Bilovo Beds, outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
+> - [Lukševics, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševics, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform); [Moloshnikov, 2009](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249527205_New_Data_on_Late_Devonian_Bothriolepidid_Placoderms_Pisces_Antiarchi_from_Tuva/links/55181f9f0cf29ab36bc49a7b/New-Data-on-Late-Devonian-Bothriolepidid-Placoderms-Pisces-Antiarchi-from-Tuva.pdf)
 
 *Livnolepis zadonica* (Obrucheva, 1983)
 > middle Famennian, Upper Devonian 
-> - [horizon and locality]
+> - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
 > - (Moloshnikov, 2008)
 
 *Luquanolepis pileos*
