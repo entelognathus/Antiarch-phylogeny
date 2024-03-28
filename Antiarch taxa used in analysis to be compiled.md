@@ -209,32 +209,36 @@ New taxa and references added along with the research.
 > - Near the village of Chahuajing, Luquan, Kunming, Yunnan
 > - [Zhang and Young, 1992](https://www.tandfonline.com/doi/abs/10.1080/03115519208619120)
 
-*Merimbulaspis meemannae*
-> Givetian-Frasnian, Middle Devonian 
-> - [horizon and locality]
-> - (Young, 2010)
+[*Merimbulaspis meemannae*](https://deepbone.org/public/#/explor?s_id=1389&functionId=Deepbone_header_searchResultOpen) Young, 2010
+> Givetian-Frasnian, Middle-Late Devonian, 387.7, 372.2
 
-*Microbrachius dicki* Traquair, 1888
-> upper Givetian, Middle Devonian 
+> - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
+> - Young, 2010
+
+[*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
+> upper Givetian, Middle Devonian, 387.7, 382.7
+
 > - John O'Groats sandstone, Caithness; and Eday beds, Orkney Islands, Scotland.
-> - Hemmings, 1978; Long *et al*., 2015
+> - [Hemmings, 1978](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131737); [Long *et al*., 2015](https://d1wqtxts1xzle7.cloudfront.net/42328654/Copulation_in_antiarch_placoderms_and_th20160207-26192-1kzkgtg-libre.pdf?1454874008=&response-content-disposition=inline%3B+filename%3DCopulation_in_antiarch_placoderms_and_th.pdf&Expires=1711639177&Signature=RNU6UmYY0BW4KTtuCfYXr~Xi07q1qq0yVUzrZU7HfQHdUJvQsH7trxRxGSUJqtk5L0SvFogalDyqLeALzaPhMecTs51dHZ-WN00ByMMzrMJjKuR~KPIOpat-n8M8skZ-hqfAYJ6SXKiCVyoedqWEqGhi5EiPr2K~fdiOiWypfxUo0gpaXYJxy551sx-FeUgD~95m6VPZ6rkUURx1yXT4TdCd7HWZ14FZCNfHKCsSlctn93Bad986y7BLIM7qhQV2SHTBhJnpGNbaCZAgrKDbJEYBpOOgGuuX6iE9SRZgDvyKnqChTabZ2fGW2jsbzPdJ9BzUef1N5lBAsMsXFIQYCQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 > - Type species.
 
-*Microbrachius sinensis*
-> Givetian, Middle Devonian 
-> - [horizon and locality]
+[*Microbrachius sinensis*](https://deepbone.org/public/#/explor?s_id=3218&functionId=Deepbone_header_searchResultOpen) Pan, 1984
+> Eifelian, Middle Devonian, 393.3, 387.7
+
+> - Upper Qujing Formation, Mount Taoyuandong, Zhanyi county, Qujing, Yunnan
 > - Pan, 1984
 
-*Microbrachius kedoae*
-> Givetian, Middle Devonian 
-> - [horizon and locality]
-> - Mark-Kurik *et al*., 2018
+[*Microbrachius kedoae*](https://deepbone.org/public/#/explor?s_id=1523&functionId=Deepbone_header_searchResultOpen) Mark-Kurik *et al*., 2018
+> Givetian, Middle Devonian, 387.7, 382.7
+
+> - Moroch Beds, Gavrilchitsy 45 borehole near the village of Gavrilchitsy, southwest of Soligorsk, southern Belarus
+> - [Mark-Kurik *et al*., 2018](https://www.researchgate.net/profile/Ursula-Toom/publication/323170523_A_new_species_of_the_antiarch_Microbrachius_from_the_Middle_Devonian_Givetian_of_Belarus/links/5b224629458515270fc796c6/A-new-species-of-the-antiarch-Microbrachius-from-the-Middle-Devonian-Givetian-of-Belarus.pdf)
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
 > lower Lochkovian, 419.2, 415.0
 
 > - Xishancun Formation; Qujing, Yunnan, China.
-> - Zhu and Janvier, 1996
+> - [Zhu and Janvier, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011278)
 
 *Mizia longhuaensis*
 > Pragian, Lower Devonian 
