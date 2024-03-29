@@ -243,28 +243,38 @@ New taxa and references added along with the research.
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
 > lower Lochkovian, 419.2, 415.0
 
-> - Xishancun Formation; Qujing, Yunnan, China.
+> - Xishancun Formation; Qujing, Yunnan.
 > - [Zhu and Janvier, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011278)
 
-*Mizia longhuaensis*
-> Pragian, Lower Devonian 
-> - [horizon and locality]
-> - (Zhu, 1996)
+[*Mizia parvus*](https://deepbone.org/public/#/explor?s_id=30&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
+> Late Lochkovian, 419.2, 415.0
 
-*Monarolepis verrucose*
-> upper Eifelian, Middle Devonian 
-> - [horizon and locality]
-> - (Long *et al*., 1990; Young, 1988; Young and Gorter, 1981)
+> - Xitun Formation, Qujing, Yunnan
+> - Zhang, 1978; [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
-*Nawagiaspis wadeae*
-> Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Young, 1990)
+[*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Pragian, Lower Devonian, 410.8; 407.6
 
-*Ningxialepis spinosa*
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Jia and Zhu, 2010)
+> - Xujiachong Formation, Longhua hill, Qujing, Yunnan
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
+[*Monarolepis verrucosa*](https://deepbone.org/public/#/explor?s_id=4060&functionId=Deepbone_header_searchResultOpen) Young and Gorter, 1981
+> upper Eifelian, Middle Devonian, 393.3, 387.7
+
+> - Hatchery Creek Conglomerate, Brindabella, southeastern New South Wales, Australia
+> - [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054); Young and Gorter, 1981
+
+[*Nawagiaspis wadeae*](https://deepbone.org/public/#/explor?s_id=3496&functionId=Deepbone_header_searchResultOpen) Young, 1990
+> Givetian, Middle Devonian, 387.7, 382.7
+
+> - Broken River Formation, northern Queensland, Australia
+> - Young, 1990
+
+[*Ningxialepis spinosa*](https://deepbone.org/public/#/explor?s_id=45&functionId=Deepbone_header_searchResultOpen) Jia *et al*., 2010
+> Famennian, Upper Devonian, 372.2, 358.9
+
+> - Zhongning Formation, Shixiagou, Qingtongxia, Ningxia
+> - [Jia *et al*., 2010](https://www.cas.cn/ky/kyjz/201009/P020100901552408114164.pdf)
 
 *Pambulaspis antarctica* Young, 1988
 > Givetian, Middle Devonian 
