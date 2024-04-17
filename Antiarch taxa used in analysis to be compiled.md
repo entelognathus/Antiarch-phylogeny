@@ -276,18 +276,20 @@ New taxa and references added along with the research.
 > - Zhongning Formation, Shixiagou, Qingtongxia, Ningxia
 > - [Jia *et al*., 2010](https://www.cas.cn/ky/kyjz/201009/P020100901552408114164.pdf)
 
-*Pambulaspis antarctica* Young, 1988
-> Givetian, Middle Devonian 
-> - Aztec Sandstone, Southern Victoria Land, Antarctica.
-> - (Young, 1988; Young and Moody, 2002)
+[*Pambulaspis antarctica*](https://deepbone.org/public/#/explor?s_id=3510&functionId=Deepbone_header_searchResultOpen) Young, 1988
+> Givetian, Middle Devonian, 387.7, 382.7
 
-*Pambulaspis cobandrahensis*
-> Frasnian, Upper Devonian 
-> - [horizon and locality]
-> - (Young, 1983)
+> - Aztec Sandstone, Southern Victoria Land, Antarctica
+> - Young, 1988; [Young and Moody, 2002](https://fr.copernicus.org/articles/5/155/2002/fr-5-155-2002.pdf)
 
-*Parayunnanolepis xitunensis*
-> Lochkovian, Lower Devonian 
+[*Pambulaspis cobandrahensis*](https://deepbone.org/public/#/explor?s_id=3523&functionId=Deepbone_header_searchResultOpen) Young, 1983
+> Frasnian, Upper Devonian, 382.7, 372.2
+
+> - Boyd Volcanic Complex, 7510E 59081N, Pambula, south coast of New South Wales, Australia
+> - Young, 1983
+
+[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) 
+> Lochkovian, Lower Devonian, 419.2, 415.0
 > - [horizon and locality]
 > - (Wang and Zhu, 2021; 2022; Young and Zhang, 1996; Zhang et al., 2001; Zhu *et al*.,2012; Zhu et al., 2023)
 
