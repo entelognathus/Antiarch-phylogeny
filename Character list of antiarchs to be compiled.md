@@ -156,7 +156,7 @@
 
 > - Character 98 in 'early gnathostome phylogeny dataset', "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
 
-> - **Present in all antiarchs?**. Moloshnikov (2011) established a new family Tubalepididae accroding to a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of luna B (*Heterocrania*)
+> - Moloshnikov (2011) established a new family Tubalepididae accroding to a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of *Huizelepis*
 
 33.	Postmarginal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 
