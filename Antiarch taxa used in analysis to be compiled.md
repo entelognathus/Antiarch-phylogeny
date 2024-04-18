@@ -234,7 +234,7 @@ New taxa and references added along with the research.
 > - Moroch Beds, Gavrilchitsy 45 borehole near the village of Gavrilchitsy, southwest of Soligorsk, southern Belarus
 > - [Mark-Kurik *et al*., 2018](https://www.researchgate.net/profile/Ursula-Toom/publication/323170523_A_new_species_of_the_antiarch_Microbrachius_from_the_Middle_Devonian_Givetian_of_Belarus/links/5b224629458515270fc796c6/A-new-species-of-the-antiarch-Microbrachius-from-the-Middle-Devonian-Givetian-of-Belarus.pdf)
 
-[*Minicrania chuandongensis*](https://deepbone.org/public/#/explor?s_id=3219&functionId=Deepbone_header_searchResultOpen) Wang and Zhang, 1999
+[*Microbranchius chuandongensis*](https://deepbone.org/public/#/explor?s_id=3219&functionId=Deepbone_header_searchResultOpen) Wang and Zhang, 1999
 > Emsian, Lower Devonian, 407.6, 393.3
 
 > - Chuandong Formation, Qujing, Yunnan
