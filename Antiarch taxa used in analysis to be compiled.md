@@ -33,19 +33,19 @@ New taxa and references added along with the research.
 **Antiarchs**
 
 [*Asperaspis carinata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
-> Givetian, Middle Devonian, XXX (maximum age), YYY (minimum age)
+> Givetian, Middle Devonian, 387.7, 382.7
 > - [horizon and locality]
 > - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 > - **no specimen data in deepbone**
 
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
-> upper Givetian, 384.4, 382.7
+> upper Givetian, 387.7, 382.7
 
 > - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
 > - Nilsson, 1941; Upeniece and Upenieks, 1992; [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian to Famennian, 400.45, 358.9
+> upper Emsian to Famennian, 407.6, 358.9
 
 > - wide distribution.
 > - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
@@ -204,7 +204,7 @@ New taxa and references added along with the research.
 > - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
 
 [*Luquanolepis pileos*](https://deepbone.org/public/#/explor?s_id=11&functionId=Deepbone_header_searchResultOpen) Zhang and Young, 1992
-> Emsian, Lower Devonian
+> Emsian, Lower Devonian, 407.6, 393.3
 
 > - Near the village of Chahuajing, Luquan, Kunming, Yunnan
 > - [Zhang and Young, 1992](https://www.tandfonline.com/doi/abs/10.1080/03115519208619120)
@@ -241,13 +241,13 @@ New taxa and references added along with the research.
 > - [Wang and Zhang, 1999](https://www.vertpala.ac.cn/EN/abstract/abstract763.shtml)
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
-> lower Lochkovian, 419.2, 415.0
+> lower Lochkovian, 419.2, 410.8
 
 > - Xishancun Formation; Qujing, Yunnan.
 > - [Zhu and Janvier, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011278)
 
 [*Mizia parvus*](https://deepbone.org/public/#/explor?s_id=30&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
-> Late Lochkovian, 419.2, 415.0
+> Late Lochkovian, 419.2, 410.8
 
 > - Xitun Formation, Qujing, Yunnan
 > - Zhang, 1978; [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
@@ -288,10 +288,10 @@ New taxa and references added along with the research.
 > - Boyd Volcanic Complex, 7510E 59081N, Pambula, south coast of New South Wales, Australia
 > - Young, 1983
 
-[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) 
-> Lochkovian, Lower Devonian, 419.2, 415.0
-> - [horizon and locality]
-> - (Wang and Zhu, 2021; 2022; Young and Zhang, 1996; Zhang et al., 2001; Zhu *et al*.,2012; Zhu et al., 2023)
+[*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2001
+> Lochkovian, Lower Devonian, 419.2, 410.8
+> - Xitun Formation, Mount Cuifeng, Qujing, Yunnan, China
+> - [Young and Zhang, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011353); [Zhang et al., 2001](https://www.vertpala.ac.cn/EN/abstract/abstract813.shtml); [Zhu *et al*.,2012](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2011.1033); [Wang and Zhu, 2021](https://www.tandfonline.com/doi/abs/10.1080/02724634.2020.1855189); [2022](https://elifesciences.org/articles/76661); [Zhu et al., 2023](https://www.vertpala.ac.cn/EN/abstract/abstract1397.shtml)
 
 *Phymolepis guoruii*
 > Lochkovian, Lower Devonian 
