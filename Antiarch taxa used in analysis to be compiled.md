@@ -322,63 +322,63 @@ New taxa and references added along with the research.
 > - wide distribution.
 > - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
-[*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
-[*Remigolepis major*](https://deepbone.org/public/#/explor?s_id=3516&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis major*](https://deepbone.org/public/#/explor?s_id=3516&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
-[*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
-[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
-[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
-[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Pan *et al*., 1987)
 
-[*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
 > lower Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Johanson, 1997)
 
-[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
 > upper Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Johanson, 1997)
 
-[*Remigolepis armata*](https://deepbone.org/public/#/explor?s_id=3463&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis armata*](https://deepbone.org/public/#/explor?s_id=3463&functionId=Deepbone_header_searchResultOpen) Luksevics, 1991
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Lukševičs, 1991; Moloshnikov, 2008)
 
-[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Panteleyev, 1992)
 
-[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen)
+[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > Famennian, Upper Devonian 
 > - [horizon and locality]
 > - (Olive, 2015)
 
 
-[*Sherbonaspis hillsi*](https://deepbone.org/public/#/explor?s_id=6401&functionId=Deepbone_header_searchResultOpen)
+[*Sherbonaspis hillsi*](https://deepbone.org/public/#/explor?s_id=6401&functionId=Deepbone_header_searchResultOpen) Young and Gorter, 1981
 > Eifelian, Middle Devonian 
 > - [horizon and locality]
 > - (Young and Gorter 1981)
@@ -402,12 +402,12 @@ New taxa and references added along with the research.
 > - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
 > - [Liu and P'an, 1958]
 
-[*Stegolepis jugata*](https://deepbone.org/public/#/explor?s_id=3447&functionId=Deepbone_header_searchResultOpen)
+[*Stegolepis jugata*](https://deepbone.org/public/#/explor?s_id=3447&functionId=Deepbone_header_searchResultOpen) Malinovskaja, 1973
 > Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (Malinovskaya, 1973)
 
-*Stegolepis tuberculate*
+[*Stegolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=74596&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1973
 > Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (Malinovskaya, 1973; Moloshnikov, 2012)
@@ -429,17 +429,17 @@ New taxa and references added along with the research.
 > - [horizon and locality]
 > - Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003
 
-[*Vanchienolepis langsonensis*](https://deepbone.org/public/#/explor?s_id=3488&functionId=Deepbone_header_searchResultOpen)
+[*Vanchienolepis langsonensis*](https://deepbone.org/public/#/explor?s_id=3488&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Bac Bun, Pragian, Lower Devonian 
 > - [horizon and locality]
 > - (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
-[*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen)
+[*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
 > Givetian-Frasnian, Devonian 
 > - [horizon and locality]
 > - (Long *et al*., 1990)
 
-[*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen)
+[*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > Frasnian, Upper Devonian 
 > - [horizon and locality]
 > - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
@@ -449,17 +449,17 @@ New taxa and references added along with the research.
 > - Jiucheng Formation, Wuding, Yunnan.
 > - Chang, 1965
 
-[*Wufengshania magniforaminis*](https://deepbone.org/public/#/explor?s_id=16&functionId=Deepbone_header_searchResultOpen)
+[*Wufengshania magniforaminis*](https://deepbone.org/public/#/explor?s_id=16&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2017
 > Upper Emsian, Lower Devonian 
 > - Jiucheng Formation, Wuding, Yunnan.
 > - Pan, 1984; Pan *et al*., 2018
 
-[*Wurungulepis denisoni*](https://deepbone.org/public/#/explor?s_id=8131&functionId=Deepbone_header_searchResultOpen)
+[*Wurungulepis denisoni*](https://deepbone.org/public/#/explor?s_id=8131&functionId=Deepbone_header_searchResultOpen) Young, 1990
 > Eifelian, Middle Devonian 
 > - [horizon and locality]
 > - (Burrow, 1999; Burrow and Turner, 1998; Young, 1990)
 
-[*Xichonolepis qujingensis*](https://deepbone.org/public/#/explor?s_id=3307&functionId=Deepbone_header_searchResultOpen)
+[*Xichonolepis qujingensis*](https://deepbone.org/public/#/explor?s_id=3307&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Givetian, 387.7, 382.7 
 
 > - [Haikou Formation, Yunnan Province: Xichong and Zhangjiaying, near Qujing; Dashishan, near Tonghai; Panxi, near Huaning; Zhaojiazhuang and the nearby cement quarry near Wuding]
@@ -471,12 +471,12 @@ New taxa and references added along with the research.
 > - South China and northern Vietnam.
 > - Zhang, 1980; Zhu, 1996
 
-[*Yunnanolepis chii*](https://deepbone.org/public/#/explor?s_id=29&functionId=Deepbone_header_searchResultOpen)
+[*Yunnanolepis chii*](https://deepbone.org/public/#/explor?s_id=29&functionId=Deepbone_header_searchResultOpen) Liu, 1963
 > Lochkovian to Pragian, Lower Devonian 
 > - [horizon and locality]
 > - (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
 
-[*Zhanjilepis aspratilis*](https://deepbone.org/public/#/explor?s_id=53&functionId=Deepbone_header_searchResultOpen)
+[*Zhanjilepis aspratilis*](https://deepbone.org/public/#/explor?s_id=53&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
 > Lochkovian, Lower Devonian 
 > - [horizon and locality]
 > - (Janvier, 1999; Zhang, 1978; Zhu, 1996)
