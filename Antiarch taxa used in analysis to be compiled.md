@@ -32,8 +32,9 @@ New taxa and references added along with the research.
 
 **Antiarchs**
 
-[*Asperaspis carinata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
+[*Asperaspis carinata*](https://deepbone.org/public/#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
 > Givetian, Middle Devonian, 387.7, 382.7
+
 > - [horizon and locality]
 > - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 > - **no specimen data in deepbone**
@@ -57,13 +58,15 @@ New taxa and references added along with the research.
 > - Miguasha, Québec, Canada; Catskill Formation” of Pennsylvania, North America; Orkney Islands, Scotland.
 > - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
 
-[*Briagalepis warreni*](https://deepbone.org/public/#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long et al. 1990
+[*Briagalepis warreni*](https://deepbone.org/public/#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long et al., 1990
 > Frasnian, Upper Devonian, 382.7, 372.2 
+
 > - Freestone Creek and Bindaree Road, Victoria
 > - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146); [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
 
 [*Byssacanthus dilatatus*](https://deepbone.org/public/#/explor?s_id=3332&functionId=Deepbone_header_searchResultOpen) Eichwald, 1844
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
+
 > - Kerman, Tabas Region, eastern Iran
 > - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016](https://scholar.googleusercontent.com/scholar?q=cache:Wdy8vuS0g-wJ:scholar.google.com/+Stratigraphic+ichthyofauna+assemblages+of+the+Devonian+deposits+in+the+Vileyka+Buried+Ridge+of+the+Belarusian+Anticlise.&hl=zh-CN&as_sdt=0,5)
 > - **粘贴了HTML版，不知这样是否可行**
@@ -71,18 +74,20 @@ New taxa and references added along with the research.
 
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
+
 > - Qujing, Yunnan; Liujing, Heng county, Guangxi
 > - [Chang, 1978]; [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Pan and Wang, 1978]; [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
 > Lochkovian, Lower Devonian; 419.2, 410.8 
+
 > Qujing, Yunnan
-> 
 > -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Wang, 1992
 > Emsian, Middle Devonian; 407.6, 393.3 
+
 > - in the upper part of the Dayaoshan Group, Yuantou, Pingle County, Guangxi Province.
 > - [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
@@ -104,48 +109,55 @@ New taxa and references added along with the research.
 > Late Famennian, 372.2, 358.9 
 
 > - Grenfell, Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia.
-> - [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
+> - [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia); [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships)
 
 
 [*Grossaspis carinata*](https://deepbone.org/public/#/explor?s_id=3342&functionId=Deepbone_header_searchResultOpen) Schluter, 1887
 > Early Givetian, 387.7, 382.7 
 
 > - Eifel, Germany
-> - (Denison, 1978)
+> - [Denison, 1978]
 
-[*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) Gross 1941
+[*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) Gross, 1941
 > Early Frasnian, Upper Devonian, 382.7, 372.2
+
 > - Snetogor beds, Latvia.
-> - Gross, 1941a; 1942a; [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); Stensiö, 1948; [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
+> - Gross, 1941a; 1942a; Stensiö, 1948; [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf)
 > - Type species.
 
 [*Grossilepis brandi*](https://www.deepbone.cn/public/#/explor?s_id=3325&functionId=Deepbone_header_searchResultOpen) Miles, 1968
 > Frasnian, Upper Devonian, 382.7, 372.2
+
 > - Hazeldean Burn beds, Scotland.
 > - Miles, 1968
 
-[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross 1942
+[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross, 1942
 > Late Givetian to Frasnian, Middle-Upper Devonian, 387.7, 372.2
+
 > - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
 > - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 
 [*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > Late Famennian, Upper Devonian, 372.2, 358.9
+
 > - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
 > - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
 [*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Eifelian, Middle Devonian, 393.3, 387.7
+
 > - Xindu Formation, He County, Guangxi
 > - Pan and Wang, 1978; Pan, 1984
 
 [*Heteroyunnanolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=3296&functionId=Deepbone_header_searchResultOpen) Wang, 1994
 > Lochkovian, Lower Devonian, 419.2, 410.8
+
 > - Xishancun Formation, Qujing, Yunnan
 > - [Wang, 1994](https://www.vertpala.ac.cn/EN/abstract/abstract600.shtml); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
 > Late Pragian, Lower Devonian, 410.8, 407.6
+
 > - Danlin Formation, Dushan, Guizhou
 > - Lu *et al*, 2017
 
@@ -161,7 +173,7 @@ New taxa and references added along with the research.
 > - Tiaomajian Formation, Tiaomajian, Yiyang, Hunan; Haikou Formation and Tanglishu Formation, Qujing and Kunming, Yunnan; Laohutou Formation, Shaoguan and Lechang, Guangdong
 > - P'an and Wang, 1978; Wang, 1991
 
-[*Jiangxilepis longibrachius*](https://deepbone.org/public/#/explor?s_id=42&functionId=Deepbone_header_searchResultOpen) Zhang and Liu 1991
+[*Jiangxilepis longibrachius*](https://deepbone.org/public/#/explor?s_id=42&functionId=Deepbone_header_searchResultOpen) Zhang and Liu, 1991
 > Famennian, Upper Devonian, 372.2, 358.9
 
 > - Sanmentan Formation, Yudu, Chongyi and Quannan, Jiangxi
@@ -295,14 +307,11 @@ New taxa and references added along with the research.
 > - Xitun Formation, Mount Cuifeng, Qujing, Yunnan, China
 > - [Young and Zhang, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011353); [Zhang et al., 2001](https://www.vertpala.ac.cn/EN/abstract/abstract813.shtml); [Zhu *et al*.,2012](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2011.1033); [Wang and Zhu, 2021](https://www.tandfonline.com/doi/abs/10.1080/02724634.2020.1855189); [2022](https://elifesciences.org/articles/76661); [Zhu et al., 2023](https://www.vertpala.ac.cn/EN/abstract/abstract1397.shtml)
 
-> - [Xitun Formation, CuiFengShan, Qujing, Yunnan]
-> - [Zhang et al., 2001](https://www.vertpala.ac.cn/CN/Y2001/V39/I01/1); [Zhu *et al*.,2012](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2011.1033); [Wang and Zhu, 2020](https://www.tandfonline.com/doi/abs/10.1080/02724634.2020.1855189); [Zhu et al., 2023](https://www.vertpala.ac.cn/EN/10.19615/j.cnki.2096-9899.221126)
-
 [*Phymolepis guoruii*](https://deepbone.org/public/#/explor?s_id=39&functionId=Deepbone_header_searchResultOpen) Zhu,1996
 > Lochkovian, Lower Devonian, 419.2, 410.8
 
 > - [Xitun Formation, CuiFengShan, Qujing, Yunnan]
-> - (Zhu, 1996)
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Phymolepis cuifengshanensis*](https://deepbone.org/public/#/explor?s_id=38&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian, Lower Devonian, 419.2, 410.8 
@@ -314,7 +323,7 @@ New taxa and references added along with the research.
 > upper Eifelian, 389.6, 387.7
 
 > - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
-> - Nilsson, 1941; Hemmings, 1978; Long *et al*., 2015.
+> - Nilsson, 1941; Hemmings, 1978; [Long *et al*., 2015](https://www.nature.com/articles/nature13825).
 
 [*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
