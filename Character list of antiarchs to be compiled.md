@@ -384,11 +384,20 @@
 
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 72.
 
+> - The typical brachial process (*processus brachialis*) is formed of the *pars pedalis* and the *pars condyloidea* which is helmet-shaped in euantiarchs. In *Xichonolepis*, there is the *pars pedalis* but no the *pars condyloidea*.
+
 81. Brachial process: simple (0); helmet-shaped (1);
 
 > Young (1984, 1988), Character 9; Retchie et al. (1992), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73.
 
-> - Antiarchs have foramen axillare and funnel pit of processus brachialis but no processus brachialis were coded as "simple" states (e.g., Sinolepidae), primitive articulations (e.g., *Yunnanolepis*) were identified as brachial process "absent" in the previous Character. 
+> - Antiarchs that have the *pars pedalis* but no the *pars condyloidea* are coded as the "simple" state (e.g., Sinolepidae).
+
+> - **More characters relating to the pectoral articulation to be defined.**
+> - Doral and vertral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
+> - Size of dorsal articular depression for the dermal process of pectoral appendate: short (0), long (1).
+> - Size of ventral articular depression for the dermal process of pectoral appendate: short (0), long (1).
+> - Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
+
 
 82. Axillary foramen: small (0); large (1).
 
