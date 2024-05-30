@@ -308,13 +308,13 @@ New taxa and references added along with the research.
 > Givetian, Middle Devonian, 387.7, 382.7
 
 > - Aztec Sandstone, Southern Victoria Land, Antarctica
-> - Young, 1988; [Young and Moody, 2002](https://fr.copernicus.org/articles/5/155/2002/fr-5-155-2002.pdf)
+> - [Young, 1988](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/27349/literature_id_27349_20210312094201524.pdf); [Young and Moody, 2002](https://fr.copernicus.org/articles/5/155/2002/fr-5-155-2002.pdf)
 
 [*Pambulaspis cobandrahensis*](https://deepbone.org/public/#/explor?s_id=3523&functionId=Deepbone_header_searchResultOpen) Young, 1983
 > Frasnian, Upper Devonian, 382.7, 372.2
 
 > - Boyd Volcanic Complex, 7510E 59081N, Pambula, south coast of New South Wales, Australia
-> - Young, 1983
+> - [Young, 1983](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1188/reference_id_1188_20200101100431981.pdf)
 
 
 [*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2001
@@ -348,34 +348,40 @@ New taxa and references added along with the research.
 > - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
 [*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Pan *et al*., 1987)
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
+> - [Pan *et al*., 1987]
 
 [*Remigolepis major*](https://deepbone.org/public/#/explor?s_id=3516&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Pan *et al*., 1987)
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
+> - [Pan *et al*., 1987]
 
 [*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Pan *et al*., 1987)
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
+> - [Pan *et al*., 1987]
 
 [*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Pan *et al*., 1987)
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
+> - [Pan *et al*., 1987]
 
 [*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Pan *et al*., 1987)
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
+> - [Pan *et al*., 1987]
 
 [*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Pan *et al*., 1987)
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
+> - [Pan *et al*., 1987]
 
 [*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
 > lower Famennian, Upper Devonian 
