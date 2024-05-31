@@ -84,8 +84,6 @@
 
 > - The width of orbital fenestra matchs half of the head width should be coded as "large". 
 
-> - Zhu (1996) considered the enlarged orbital fenestra is plesiomorphic, may be deleted in antiarch matrix
-
 19. Relative position of orbital fenestra **(ordered)**: anterior (0); slightly anterior (1); slightly posterior (2); posterior (3).
 
  > Zhu (1996), Character 56; Jia, Zhu & Zhao (2010), Character 11; Pan et al. (2017), Character 56; Wang & Zhu (2018), Character 19; Plax and Lukševičs (2023), Character 19.
