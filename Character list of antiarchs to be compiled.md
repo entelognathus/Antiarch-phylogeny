@@ -262,7 +262,7 @@
 
 > - The anterior median dorsal plate of antiarchs is homologous to the median dorsal plate 1 in *Qilinyu* Zhu et al. (2016) and the extrascapular plate in *Entelognathus* Zhu et al.( 2013), and some arthrodires Goujet (1973). It is absent in *Kujdanowaspis*.
 
-53. Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).
+53. Index r2 between anterior and posterior divisions of anterior median dorsal plate **(ordered)**: r2<300 (0); 300<=r2=<500 (1); r2>500 (2).
 
 > Zhu (1996), Character 13; Pan et al. (2017), Character 13; Wang & Zhu (2018), Character 50; Plax and Lukševičs (2023), Character 50.
 
