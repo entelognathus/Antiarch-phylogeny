@@ -125,7 +125,7 @@ Remigolepis spp.
 > - Prince of Wales Island, Canada.
 > - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
-**Antiarch taxa used in the analysis**
+## Antiarch taxa used in the analysis
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 387.7, 382.7
 
