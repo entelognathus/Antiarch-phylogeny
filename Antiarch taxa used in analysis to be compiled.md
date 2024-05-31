@@ -98,7 +98,7 @@ Grossaspis carinata
 
 Lepadolepis stensioei
 
-Gerdalepis jesseni
+Gerdalepis rhenana
 
 Pambulaspis cobandrahensis
 
@@ -167,12 +167,7 @@ Remigolepis spp.
 > - Haikou Formation, Wuding, Yunnan
 > - [Chang, 1965](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/92/20180522014418_2_993.pdf); [Pan *et al*., 2018](https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
 
-[*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
-> middle Eifelian, 393.3, 387.7 
-
-> - Eifel, Germany.
-> - [Gross, 1941b]; [Friman and Koln, 1982](https://link.springer.com/article/10.1007/BF02988800).
-> - This is not the type species of *Gerdalepis*. The type species is *Gerdalepis rhenana* (Beyrich).
+*Gerdalepis rhenana* (Beyrich) 1877
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Late Famennian, 372.2, 358.9 
@@ -192,24 +187,6 @@ Remigolepis spp.
 > - Snetogor beds, Latvia.
 > - Gross, 1941a; 1942a; Stensiö, 1948; [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf)
 > - Type species.
-
-[*Grossilepis brandi*](https://www.deepbone.cn/public/#/explor?s_id=3325&functionId=Deepbone_header_searchResultOpen) Miles, 1968
-> Frasnian, Upper Devonian, 382.7, 372.2
-
-> - Hazeldean Burn beds, Scotland.
-> - Miles, 1968
-
-[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross, 1942
-> Late Givetian to Frasnian, Middle-Upper Devonian, 387.7, 372.2
-
-> - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
-> - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
-
-[*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
-> Late Famennian, Upper Devonian, 372.2, 358.9
-
-> - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
-> - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
 [*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Eifelian, Middle Devonian, 393.3, 387.7
@@ -438,6 +415,30 @@ Remigolepis spp.
 
 > Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
+[*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
+> middle Eifelian, 393.3, 387.7 
+
+> - Eifel, Germany.
+> - [Gross, 1941b]; [Friman and Koln, 1982](https://link.springer.com/article/10.1007/BF02988800).
+
+[*Grossilepis brandi*](https://www.deepbone.cn/public/#/explor?s_id=3325&functionId=Deepbone_header_searchResultOpen) Miles, 1968
+> Frasnian, Upper Devonian, 382.7, 372.2
+
+> - Hazeldean Burn beds, Scotland.
+> - Miles, 1968
+
+[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross, 1942
+> Late Givetian to Frasnian, Middle-Upper Devonian, 387.7, 372.2
+
+> - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
+> - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
+
+[*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
+> Late Famennian, Upper Devonian, 372.2, 358.9
+
+> - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
+> - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
 [*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
 > Late Pragian, Lower Devonian, 410.8, 407.6
