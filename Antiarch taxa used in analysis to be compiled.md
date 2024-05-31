@@ -333,8 +333,8 @@ Remigolepis spp.
 
 
 [*Vanchienolepis langsonensis*](https://deepbone.org/public/#/explor?s_id=3488&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
-> Bac Bun, Pragian, Lower Devonian 
-> - [horizon and locality]
+> Pragian, Lower Devonian 
+> - Bac Bun, [horizon and locality]
 > - (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
 [*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
@@ -382,6 +382,7 @@ Remigolepis spp.
 > - [horizon and locality]
 > - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 > - **no specimen data in deepbone**
+> - **Added to the matrix by Plax and Lukševičs (2023)**
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
 > upper Emsian to Famennian, 407.6, 358.9
@@ -475,6 +476,7 @@ Remigolepis spp.
 
 > - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
 > - Young, 2010
+> - **Added to the matrix by Plax and Lukševičs (2023)**
 
 [*Microbrachius sinensis*](https://deepbone.org/public/#/explor?s_id=3218&functionId=Deepbone_header_searchResultOpen) Pan, 1984
 > Eifelian, Middle Devonian, 393.3, 387.7
@@ -573,6 +575,14 @@ Remigolepis spp.
 > - [horizon and locality]
 > - (Olive, 2015)
 
+*Sherbonaspis andreannae* (Panteleyev 1993)
+> Givetian, Middle Devonian, 387.7, 382.7
+
+
+*Sherbonaspis talimaae* Plax and Lukševičs, 2023
+> Upper Emsian, Lower Devonian 
+
+
 [*Sinolepis szei*](https://deepbone.org/public/#/explor?s_id=3310&functionId=Deepbone_header_searchResultOpen) Pan et al., 1987
 > Famennian, 372.2, 358.9 
 
@@ -599,6 +609,7 @@ Remigolepis spp.
 > Frasnian, Upper Devonian 
 > - [horizon and locality]
 > - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
+> - **Added to the matrix by Plax and Lukševičs (2023)**
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
