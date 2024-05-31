@@ -17,38 +17,63 @@ New taxa and references added along with the research.
 **大家只有做了，才能发现问题，熟悉github语法，以及相关属种的各种信息。多看，多接触，就能在脑子里留下深刻影响。对于每个属种有什么疑惑或问题或想法，也可以在下面直接注解出来。你们之间相互解答，也能共同提高。**
 
 **我对大家出现的问题，一般不直接去改。给一个comments，让相关同学去解决，也能举一反三。其他同学也能学到。从发现错误或不规范中，领会怎么做学问。**
+
 Kujdanowiaspis podolica
+
 Romundina stellina
+
 Chuchinolepis dongmoensis
+
 Vanchienolepis langsonensis
+
 Zhanjilepis aspratilis 
+
 Heteroyunnanolepis qujingensis
+
 Yunnanolepis chii
+
 Mizia parvus
+
 Phymolepis cuifengshanensis
+
 Parayunnanolepis xitunensis
-Minicrania
-Liujiangolepis
+
+Minicrania lirouyii
+
+Liujiangolepis suni
+
 Xichonolepis
+
 Dayaoshania youngi
+
 Grenfellaspis branagani
+
 Sinolepis
+
 Wudinolepis
+
 Hohsienolepis hsintuensis
-Microbrachius
+
+Microbrachius dicki
+
 Bothriolepis canadensis
+
 Grossilepis tuberculata
+
 Wufengshania
+
 Briagalepis warreni
-Monarolepis
+
+Monarolepis verrucosa
+
 Vietnamaspis
 Dianolepis liui
 Tenizolepis
-Luquanolepis
-Nawagiaspis
+Luquanolepis pileos
+Nawagiaspis wadeae
 Jiangxilepis longibrachius
-Ningxialepis
-Kirgisolepis
+Ningxialepis spinosa
+Kirgisolepis karabaltaensis
 Hunanolepis tieni
 Wurungulepis
 Sherbonaspis
@@ -56,7 +81,7 @@ Stegolepis
 Byssacanthus
 Pterichthyodes
 Grossaspis carinata
-Lepadolepis
+Lepadolepis stensioei
 Gerdalepis jesseni
 Pambulaspis
 Asterolepis ornata
@@ -136,7 +161,6 @@ Remigolepis
 > - Grenfell, Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia.
 > - [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia); [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships)
 
-
 [*Grossaspis carinata*](https://deepbone.org/public/#/explor?s_id=3342&functionId=Deepbone_header_searchResultOpen) Schluter, 1887
 > Early Givetian, 387.7, 382.7 
 
@@ -210,29 +234,11 @@ Remigolepis
 > - Xiaoshan Formation (Nagaoling Formation), Luomai village, Dale Town, Xiangzhou County, Guangxi Province
 > - [Wang, 1987](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200903/t20090316_2386077.html)
 
-[*Livnolepis heckeri*](https://deepbone.org/public/#/explor?s_id=1391&functionId=Deepbone_header_searchResultOpen) Lukševics, 1996
-> Famennian, Upper Devonian, 372.2, 358.9
-
-> - Bilovo Beds, outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
-> - [Lukševics, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševics, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform); [Moloshnikov, 2009](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249527205_New_Data_on_Late_Devonian_Bothriolepidid_Placoderms_Pisces_Antiarchi_from_Tuva/links/55181f9f0cf29ab36bc49a7b/New-Data-on-Late-Devonian-Bothriolepidid-Placoderms-Pisces-Antiarchi-from-Tuva.pdf)
-
-[*Livnolepis zadonica*](https://deepbone.org/public/#/explor?s_id=3466&functionId=Deepbone_header_searchResultOpen) Obrucheva, 1983
-> Middle Famennian, Upper Devonian, 372.2, 358.9
-
-> - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
-> - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
-
 [*Luquanolepis pileos*](https://deepbone.org/public/#/explor?s_id=11&functionId=Deepbone_header_searchResultOpen) Zhang and Young, 1992
 > Emsian, Lower Devonian, 407.6, 393.3
 
 > - Near the village of Chahuajing, Luquan, Kunming, Yunnan
 > - [Zhang and Young, 1992](https://www.tandfonline.com/doi/abs/10.1080/03115519208619120)
-
-[*Merimbulaspis meemannae*](https://deepbone.org/public/#/explor?s_id=1389&functionId=Deepbone_header_searchResultOpen) Young, 2010
-> Givetian-Frasnian, Middle-Late Devonian, 387.7, 372.2
-
-> - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
-> - Young, 2010
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > upper Givetian, Middle Devonian, 387.7, 382.7
@@ -240,24 +246,6 @@ Remigolepis
 > - John O'Groats sandstone, Caithness; and Eday beds, Orkney Islands, Scotland.
 > - [Hemmings, 1978](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131737); [Long *et al*., 2015](https://d1wqtxts1xzle7.cloudfront.net/42328654/Copulation_in_antiarch_placoderms_and_th20160207-26192-1kzkgtg-libre.pdf?1454874008=&response-content-disposition=inline%3B+filename%3DCopulation_in_antiarch_placoderms_and_th.pdf&Expires=1711639177&Signature=RNU6UmYY0BW4KTtuCfYXr~Xi07q1qq0yVUzrZU7HfQHdUJvQsH7trxRxGSUJqtk5L0SvFogalDyqLeALzaPhMecTs51dHZ-WN00ByMMzrMJjKuR~KPIOpat-n8M8skZ-hqfAYJ6SXKiCVyoedqWEqGhi5EiPr2K~fdiOiWypfxUo0gpaXYJxy551sx-FeUgD~95m6VPZ6rkUURx1yXT4TdCd7HWZ14FZCNfHKCsSlctn93Bad986y7BLIM7qhQV2SHTBhJnpGNbaCZAgrKDbJEYBpOOgGuuX6iE9SRZgDvyKnqChTabZ2fGW2jsbzPdJ9BzUef1N5lBAsMsXFIQYCQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 > - Type species.
-
-[*Microbrachius sinensis*](https://deepbone.org/public/#/explor?s_id=3218&functionId=Deepbone_header_searchResultOpen) Pan, 1984
-> Eifelian, Middle Devonian, 393.3, 387.7
-
-> - Upper Qujing Formation, Mount Taoyuandong, Zhanyi county, Qujing, Yunnan
-> - Pan, 1984
-
-[*Microbrachius kedoae*](https://deepbone.org/public/#/explor?s_id=1523&functionId=Deepbone_header_searchResultOpen) Mark-Kurik *et al*., 2018
-> Givetian, Middle Devonian, 387.7, 382.7
-
-> - Moroch Beds, Gavrilchitsy 45 borehole near the village of Gavrilchitsy, southwest of Soligorsk, southern Belarus
-> - [Mark-Kurik *et al*., 2018](https://www.researchgate.net/profile/Ursula-Toom/publication/323170523_A_new_species_of_the_antiarch_Microbrachius_from_the_Middle_Devonian_Givetian_of_Belarus/links/5b224629458515270fc796c6/A-new-species-of-the-antiarch-Microbrachius-from-the-Middle-Devonian-Givetian-of-Belarus.pdf)
-
-[*Microbranchius chuandongensis*](https://deepbone.org/public/#/explor?s_id=3219&functionId=Deepbone_header_searchResultOpen) Wang and Zhang, 1999
-> Emsian, Lower Devonian, 407.6, 393.3
-
-> - Chuandong Formation, Qujing, Yunnan
-> - [Wang and Zhang, 1999](https://www.vertpala.ac.cn/EN/abstract/abstract763.shtml)
 
 [*Minicrania lirouyii*](https://deepbone.org/public/#/explor?s_id=43&functionId=Deepbone_header_searchResultOpen) Zhu and Janvier, 1996
 > lower Lochkovian, 419.2, 410.8
@@ -300,7 +288,6 @@ Remigolepis
 
 > - Boyd Volcanic Complex, 7510E 59081N, Pambula, south coast of New South Wales, Australia
 > - [Young, 1983](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1188/reference_id_1188_20200101100431981.pdf)
-
 
 [*Parayunnanolepis xitunensis*](https://deepbone.org/public/#/explor?s_id=50&functionId=Deepbone_header_searchResultOpen) Zhang *et al*., 2001
 > Lochkovian, Lower Devonian, 419.2, 410.8
@@ -552,6 +539,42 @@ Remigolepis
 
 > - Wutong Formation, Nanjing, Jiangsu
 > - P'an, 1957; P'an, 1964; Zhang and Liu, 1991
+
+[*Livnolepis heckeri*](https://deepbone.org/public/#/explor?s_id=1391&functionId=Deepbone_header_searchResultOpen) Lukševics, 1996
+> Famennian, Upper Devonian, 372.2, 358.9
+
+> - Bilovo Beds, outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
+> - [Lukševics, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševics, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform); [Moloshnikov, 2009](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249527205_New_Data_on_Late_Devonian_Bothriolepidid_Placoderms_Pisces_Antiarchi_from_Tuva/links/55181f9f0cf29ab36bc49a7b/New-Data-on-Late-Devonian-Bothriolepidid-Placoderms-Pisces-Antiarchi-from-Tuva.pdf)
+
+[*Livnolepis zadonica*](https://deepbone.org/public/#/explor?s_id=3466&functionId=Deepbone_header_searchResultOpen) Obrucheva, 1983
+> Middle Famennian, Upper Devonian, 372.2, 358.9
+
+> - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
+> - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
+
+[*Merimbulaspis meemannae*](https://deepbone.org/public/#/explor?s_id=1389&functionId=Deepbone_header_searchResultOpen) Young, 2010
+> Givetian-Frasnian, Middle-Late Devonian, 387.7, 372.2
+
+> - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
+> - Young, 2010
+
+[*Microbrachius sinensis*](https://deepbone.org/public/#/explor?s_id=3218&functionId=Deepbone_header_searchResultOpen) Pan, 1984
+> Eifelian, Middle Devonian, 393.3, 387.7
+
+> - Upper Qujing Formation, Mount Taoyuandong, Zhanyi county, Qujing, Yunnan
+> - Pan, 1984
+
+[*Microbrachius kedoae*](https://deepbone.org/public/#/explor?s_id=1523&functionId=Deepbone_header_searchResultOpen) Mark-Kurik *et al*., 2018
+> Givetian, Middle Devonian, 387.7, 382.7
+
+> - Moroch Beds, Gavrilchitsy 45 borehole near the village of Gavrilchitsy, southwest of Soligorsk, southern Belarus
+> - [Mark-Kurik *et al*., 2018](https://www.researchgate.net/profile/Ursula-Toom/publication/323170523_A_new_species_of_the_antiarch_Microbrachius_from_the_Middle_Devonian_Givetian_of_Belarus/links/5b224629458515270fc796c6/A-new-species-of-the-antiarch-Microbrachius-from-the-Middle-Devonian-Givetian-of-Belarus.pdf)
+
+[*Microbranhius chuandongensis*](https://deepbone.org/public/#/explor?s_id=3219&functionId=Deepbone_header_searchResultOpen) Wang and Zhang, 1999
+> Emsian, Lower Devonian, 407.6, 393.3
+
+> - Chuandong Formation, Qujing, Yunnan
+> - [Wang and Zhang, 1999](https://www.vertpala.ac.cn/EN/abstract/abstract763.shtml)
 
 [*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
 > Pragian, Lower Devonian, 410.8; 407.6
