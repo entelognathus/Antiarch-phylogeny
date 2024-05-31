@@ -18,7 +18,7 @@ New taxa and references added along with the research.
 
 **我对大家出现的问题，一般不直接去改。给一个comments，让相关同学去解决，也能举一反三。其他同学也能学到。从发现错误或不规范中，领会怎么做学问。**
 
-Kujdanowiaspis Romundina Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia Phymolepis Parayunnanolepis Minicrania Liujiangolepis Xichonolepis Dayaoshania Grenfellaspis Sinolepis Wudinolepis Hohsienolepis Microbrachius Bothriolepis Grossilepis Wufengshania Briagalepis Monarolepis Vietnamaspis Dianolepis Tenizolepis Luquanolepis Nawagiaspis Jiangxilepis Ningxialepis Kirgisolepis Hunanolepis Wurungulepis Sherbonaspis Stegolepis Byssacanthus Pterichthyodes Grossaspis Lepadolepis Gerdalepis Pambulaspis Asterolepis Remigolepis 
+Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia Phymolepis Parayunnanolepis Minicrania Liujiangolepis Xichonolepis Dayaoshania Grenfellaspis Sinolepis Wudinolepis Hohsienolepis Microbrachius Bothriolepis Grossilepis Wufengshania Briagalepis Monarolepis Vietnamaspis Dianolepis Tenizolepis Luquanolepis Nawagiaspis Jiangxilepis Ningxialepis Kirgisolepis Hunanolepis Wurungulepis Sherbonaspis Stegolepis Byssacanthus Pterichthyodes Grossaspis Lepadolepis Gerdalepis Pambulaspis Asterolepis Remigolepis 
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -27,16 +27,19 @@ Kujdanowiaspis Romundina Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanol
 > - [references]
 
 ## outgroup taxa
+[*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen) Dupret, 2010
+> upper Lochkovian to lower Pragian, 415.0, 409.2
 
+> - Dnister Series; Podolia, Ukraine
+> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
-[*Acanthodes bronni*](https://deepbone.org/public/#/explor?s_id=3058&functionId=Deepbone_header_searchResultOpen) Agassiz, 1835
-> Asselian to Sakmarian, Cisuralian, Permian, 298.9, 290.1
+[*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
+> upper Lochkovian, 415.0, 410.8
 
-> - ironstone nodules from the Lebach shales, Lebach, Saar-Nahe basin, southwestern Germany.
-> - Gross, 1935; [Watson, 1937](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1937.0009); [Miles, 1973a](https://archive.org/download/biostor-265757/biostor-265757.pdf); Miles, 1973b;  [Coates, 1994](https://journals.biologists.com/dev/article/1994/Supplement/169/49484/The-origin-of-vertebrate-limbs); [Davis *et al*., 2012](https://www.nature.com/articles/nature11080); [Brazeau and Valerie, 2015](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.2210);
+> - Prince of Wales Island, Canada.
+> - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
-**Antiarchs**
-
+**Antiarch taxa used in the analysis**
 [*Asperaspis carinata*](https://deepbone.org/public/#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
 > Givetian, Middle Devonian, 387.7, 382.7
 
@@ -73,38 +76,13 @@ Kujdanowiaspis Romundina Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanol
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
 
 > - Kerman, Tabas Region, eastern Iran
-> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016](https://scholar.googleusercontent.com/scholar?q=cache:Wdy8vuS0g-wJ:scholar.google.com/+Stratigraphic+ichthyofauna+assemblages+of+the+Devonian+deposits+in+the+Vileyka+Buried+Ridge+of+the+Belarusian+Anticlise.&hl=zh-CN&as_sdt=0,5)
-> - **粘贴了HTML版，不知这样是否可行**
+> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016]
 
 [*Chuchinolepis dongmoensis*](https://www.deepbone.cn/index/index/index#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Pragian, Lower Devonian; 407.6, 410.8
 
 > - Sika Formation, Trang Xa, Bac Thai; Dông Mo, Lang Son, northern Vietnam
 > - [Tông-Dzuy and Janvier, 1990](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/24236/reference_id_24236_20201031142711722.pdf)
-
-[*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
-> Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
-
-> - Qujing, Yunnan; Liujing, Heng county, Guangxi
-> - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
-
-[*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
-> Lochkovian, Lower Devonian; 419.2, 410.8 
-
-> Qujing, Yunnan
-> -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
-
-[*Chuchinolepis robusta*](https://www.deepbone.cn/index/index/index#/explor?s_id=1298&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
-> Lochkovian, Lower Devonian; 419.2, 410.8 
-
-> Qujing, Yunnan
-> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Wang *et al*., 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/156/reference_id_156_20180719151638930.pdf) 
-
-[*Chuchinolepis sulcata*](https://www.deepbone.cn/index/index/index#/explor?s_id=1154&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
-> Lochkovian, Lower Devonian; 419.2, 410.8 
-
-> Qujing, Yunnan
-> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Wang, 1992
 > Emsian, Middle Devonian; 407.6, 393.3 
@@ -525,7 +503,31 @@ Kujdanowiaspis Romundina Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanol
 > - Qujing, Yunnan
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
 
+## Antiarch taxa not used in the analysis
+[*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
+> Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
 
+> - Qujing, Yunnan; Liujing, Heng county, Guangxi
+> - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+> - Type species.
+
+[*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
+> Lochkovian, Lower Devonian; 419.2, 410.8 
+
+> Qujing, Yunnan
+> -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
+[*Chuchinolepis robusta*](https://www.deepbone.cn/index/index/index#/explor?s_id=1298&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Lochkovian, Lower Devonian; 419.2, 410.8 
+
+> Qujing, Yunnan
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Wang *et al*., 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/156/reference_id_156_20180719151638930.pdf) 
+
+[*Chuchinolepis sulcata*](https://www.deepbone.cn/index/index/index#/explor?s_id=1154&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Lochkovian, Lower Devonian; 419.2, 410.8 
+
+> Qujing, Yunnan
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 
 **References**
