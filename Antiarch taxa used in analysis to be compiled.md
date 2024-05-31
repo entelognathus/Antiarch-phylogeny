@@ -42,15 +42,15 @@ Minicrania lirouyii
 
 Liujiangolepis suni
 
-Xichonolepis
+Xichonolepis qujingensis
 
 Dayaoshania youngi
 
 Grenfellaspis branagani
 
-Sinolepis
+Sinolepis macrocephala
 
-Wudinolepis
+Wudinolepis weni
 
 Hohsienolepis hsintuensis
 
@@ -60,32 +60,51 @@ Bothriolepis canadensis
 
 Grossilepis tuberculata
 
-Wufengshania
+Wufengshania magniforaminis
 
 Briagalepis warreni
 
 Monarolepis verrucosa
 
-Vietnamaspis
+Vietnamaspis trii
+
 Dianolepis liui
-Tenizolepis
+
+Tenizolepis bychkovi
+
 Luquanolepis pileos
+
 Nawagiaspis wadeae
+
 Jiangxilepis longibrachius
+
 Ningxialepis spinosa
+
 Kirgisolepis karabaltaensis
+
 Hunanolepis tieni
-Wurungulepis
-Sherbonaspis
-Stegolepis
-Byssacanthus
-Pterichthyodes
+
+Wurungulepis denisoni
+
+Sherbonaspis hillsi
+
+Stegolepis jugata
+
+Byssacanthus dilatatus
+
+Pterichthyodes milleri
+
 Grossaspis carinata
+
 Lepadolepis stensioei
+
 Gerdalepis jesseni
-Pambulaspis
+
+Pambulaspis cobandrahensis
+
 Asterolepis ornata
-Remigolepis 
+
+Remigolepis spp.
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -277,12 +296,6 @@ Remigolepis
 > - Zhongning Formation, Shixiagou, Qingtongxia, Ningxia
 > - [Jia *et al*., 2010](https://www.cas.cn/ky/kyjz/201009/P020100901552408114164.pdf)
 
-[*Pambulaspis antarctica*](https://deepbone.org/public/#/explor?s_id=3510&functionId=Deepbone_header_searchResultOpen) Young, 1988
-> Givetian, Middle Devonian, 387.7, 382.7
-
-> - Aztec Sandstone, Southern Victoria Land, Antarctica
-> - [Young, 1988](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/27349/literature_id_27349_20210312094201524.pdf); [Young and Moody, 2002](https://fr.copernicus.org/articles/5/155/2002/fr-5-155-2002.pdf)
-
 [*Pambulaspis cobandrahensis*](https://deepbone.org/public/#/explor?s_id=3523&functionId=Deepbone_header_searchResultOpen) Young, 1983
 > Frasnian, Upper Devonian, 382.7, 372.2
 
@@ -313,73 +326,10 @@ Remigolepis
 > - wide distribution.
 > - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
-[*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
-> - [Pan *et al*., 1987]
-
-[*Remigolepis major*](https://deepbone.org/public/#/explor?s_id=3516&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
-> - [Pan *et al*., 1987]
-
-[*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
-> - [Pan *et al*., 1987]
-
-[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
-> - [Pan *et al*., 1987]
-
-[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
-> - [Pan *et al*., 1987]
-
-[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
-> - [Pan *et al*., 1987]
-
-[*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
-> lower Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Johanson, 1997)
-
-[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
-> upper Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Johanson, 1997)
-
-[*Remigolepis armata*](https://deepbone.org/public/#/explor?s_id=3463&functionId=Deepbone_header_searchResultOpen) Luksevics, 1991
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Lukševičs, 1991; Moloshnikov, 2008)
-
-[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Panteleyev, 1992)
-
-[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
-> Famennian, Upper Devonian 
-> - [horizon and locality]
-> - (Olive, 2015)
-
-
 [*Sherbonaspis hillsi*](https://deepbone.org/public/#/explor?s_id=6401&functionId=Deepbone_header_searchResultOpen) Young and Gorter, 1981
 > Eifelian, Middle Devonian 
 > - [horizon and locality]
 > - (Young and Gorter 1981)
-
 
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > Famennian, 372.2, 358.9
@@ -387,27 +337,10 @@ Remigolepis
 > - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
 > - [Liu and P'an, 1958]; [Ritchie et al., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
-[*Sinolepis szei*](https://deepbone.org/public/#/explor?s_id=3310&functionId=Deepbone_header_searchResultOpen) Pan et al., 1987
-> Famennian, 372.2, 358.9 
-
-> - [Zhongning Formation; Near Yantongshan, Zhongning, Ningxia,China]
-> - [Pan et al., 1987]
-
-[*Sinolepis wutungensis*](https://deepbone.org/public/#/explor?s_id=3309&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
-> Famennian, 372.2, 358.9 
-
-> - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
-> - [Liu and P'an, 1958]
-
 [*Stegolepis jugata*](https://deepbone.org/public/#/explor?s_id=3447&functionId=Deepbone_header_searchResultOpen) Malinovskaja, 1973
 > Givetian, Middle Devonian 
 > - [horizon and locality]
 > - (Malinovskaya, 1973)
-
-[*Stegolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=74596&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1973
-> Givetian, Middle Devonian 
-> - [horizon and locality]
-> - (Malinovskaya, 1973; Moloshnikov, 2012)
 
 [*Tenizolepis asiatica*](https://deepbone.org/public/#/explor?s_id=2111&functionId=Deepbone_header_searchResultOpen) Obrucheva 1955
 > Givetian, Middle Devonian 
@@ -421,10 +354,6 @@ Remigolepis
 
 [*Tenizolepis bychkovi*](https://deepbone.org/public/#/explor?s_id=2109&functionId=Deepbone_header_searchResultOpen) Malinovskaya 1992
 
-[*Tubalepis extensa*](https://deepbone.org/public/#/explor?s_id=3462&functionId=Deepbone_header_searchResultOpen) Sergienko, 1961
-> Famennian, Upper Devonian>
-> - [horizon and locality]
-> - Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003
 
 [*Vanchienolepis langsonensis*](https://deepbone.org/public/#/explor?s_id=3488&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Bac Bun, Pragian, Lower Devonian 
@@ -435,11 +364,6 @@ Remigolepis
 > Givetian-Frasnian, Devonian 
 > - [horizon and locality]
 > - (Long *et al*., 1990)
-
-[*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-> Frasnian, Upper Devonian 
-> - [horizon and locality]
-> - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
 
 [*Wudinolepis weni*](https://deepbone.org/public/#/explor?s_id=26&functionId=Deepbone_header_searchResultOpen) Chang, 1965
 > Upper Emsian, Lower Devonian 
@@ -462,12 +386,6 @@ Remigolepis
 > - [Haikou Formation, Yunnan Province: Xichong and Zhangjiaying, near Qujing; Dashishan, near Tonghai; Panxi, near Huaning; Zhaojiazhuang and the nearby cement quarry near Wuding]
 > - [Pan and Wang, 1978]; [Zhang, 1980](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090427_2386344.html); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
-[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
-> Lochkovian, 419.2, 410.8 
-
-> - South China and northern Vietnam.
-> - Zhang, 1980; Zhu, 1996
-
 [*Yunnanolepis chii*](https://deepbone.org/public/#/explor?s_id=29&functionId=Deepbone_header_searchResultOpen) Liu, 1963
 > Lochkovian to Pragian, Lower Devonian 
 > - [horizon and locality]
@@ -487,7 +405,6 @@ Remigolepis
 > - [horizon and locality]
 > - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
 > - **no specimen data in deepbone**
-
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
 > upper Emsian to Famennian, 407.6, 358.9
@@ -582,17 +499,112 @@ Remigolepis
 > - Xujiachong Formation, Longhua hill, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
+[*Pambulaspis antarctica*](https://deepbone.org/public/#/explor?s_id=3510&functionId=Deepbone_header_searchResultOpen) Young, 1988
+> Givetian, Middle Devonian, 387.7, 382.7
+
+> - Aztec Sandstone, Southern Victoria Land, Antarctica
+> - [Young, 1988](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/27349/literature_id_27349_20210312094201524.pdf); [Young and Moody, 2002](https://fr.copernicus.org/articles/5/155/2002/fr-5-155-2002.pdf)
+
 [*Phymolepis guoruii*](https://deepbone.org/public/#/explor?s_id=39&functionId=Deepbone_header_searchResultOpen) Zhu,1996
 > Lochkovian, Lower Devonian, 419.2, 410.8
 
 > - [Xitun Formation, CuiFengShan, Qujing, Yunnan]
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
+[*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
+> - [Pan *et al*., 1987]
+
+[*Remigolepis major*](https://deepbone.org/public/#/explor?s_id=3516&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
+> - [Pan *et al*., 1987]
+
+[*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
+> - [Pan *et al*., 1987]
+
+[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
+> - [Pan *et al*., 1987]
+
+[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
+> - [Pan *et al*., 1987]
+
+[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
+> - [Pan *et al*., 1987]
+
+[*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
+> lower Famennian, Upper Devonian 
+> - [horizon and locality]
+> - (Johanson, 1997)
+
+[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
+> upper Famennian, Upper Devonian 
+> - [horizon and locality]
+> - (Johanson, 1997)
+
+[*Remigolepis armata*](https://deepbone.org/public/#/explor?s_id=3463&functionId=Deepbone_header_searchResultOpen) Luksevics, 1991
+> Famennian, Upper Devonian 
+> - [horizon and locality]
+> - (Lukševičs, 1991; Moloshnikov, 2008)
+
+[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
+> Famennian, Upper Devonian 
+> - [horizon and locality]
+> - (Panteleyev, 1992)
+
+[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
+> Famennian, Upper Devonian 
+> - [horizon and locality]
+> - (Olive, 2015)
+
+[*Sinolepis szei*](https://deepbone.org/public/#/explor?s_id=3310&functionId=Deepbone_header_searchResultOpen) Pan et al., 1987
+> Famennian, 372.2, 358.9 
+
+> - [Zhongning Formation; Near Yantongshan, Zhongning, Ningxia,China]
+> - [Pan et al., 1987]
+
+[*Sinolepis wutungensis*](https://deepbone.org/public/#/explor?s_id=3309&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
+> Famennian, 372.2, 358.9 
+
+> - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
+> - [Liu and P'an, 1958]
+
+[*Stegolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=74596&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1973
+> Givetian, Middle Devonian 
+> - [horizon and locality]
+> - (Malinovskaya, 1973; Moloshnikov, 2012)
+
+[*Tubalepis extensa*](https://deepbone.org/public/#/explor?s_id=3462&functionId=Deepbone_header_searchResultOpen) Sergienko, 1961
+> Famennian, Upper Devonian>
+> - [horizon and locality]
+> - Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003
+
+[*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
+> Frasnian, Upper Devonian 
+> - [horizon and locality]
+> - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
+
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
 
 > - South China and northern Vietnam.
 > - Zhang, 1980; Zhu, 1996
+
 > - *Yunnanolepis bacboensis* Tông-Dzuy and Janvier 1990, early Pragian
 > - *Yunnanolepis deprati* Tong-Dzuy and Janvier 1990, Pragian
 > - *Yunnanolepis meemannae* Tong-Dzuy and Janvier 1994
