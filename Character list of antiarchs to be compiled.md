@@ -86,7 +86,7 @@
 
 > - Zhu (1996) considered the enlarged orbital fenestra is plesiomorphic, may be deleted in antiarch matrix
 
-19. Relative position of orbital fenestra (ordered): anterior (0); slightly anterior (1); slightly posterior (2); posterior (3).
+19. Relative position of orbital fenestra **(ordered)**: anterior (0); slightly anterior (1); slightly posterior (2); posterior (3).
 
  > Zhu (1996), Character 56; Jia, Zhu & Zhao (2010), Character 11; Pan et al. (2017), Character 56; Wang & Zhu (2018), Character 19; Plax and Lukševičs (2023), Character 19.
 
@@ -256,7 +256,7 @@
 
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan et al. (2017), Character 11; Wang & Zhu (2018), Character 48; Plax and Lukševičs (2023), Character 48. 
 
-52. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).
+52. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate **(ordered)**: r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).
 
 > Young (1984, 1988), Character 22; Zhang and Young (1992), Character 3; Zhu (1996), Character 12; Jia, Zhu & Zhao (2010), Character 33; Pan et al. (2017), Character 12; Wang & Zhu (2018), Character 49; Plax and Lukševičs (2023), Character 49.
 
