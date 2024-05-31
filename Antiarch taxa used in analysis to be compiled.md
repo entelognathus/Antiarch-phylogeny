@@ -506,6 +506,13 @@ New taxa and references added along with the research.
 > Lochkovian to Pragian, Lower Devonian 
 > - [horizon and locality]
 > - (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
+> - Type species. **The taxon used in the analysis.**
+> - *Yunnanolepis bacboensis* Tông-Dzuy and Janvier 1990, early Pragian
+> - *Yunnanolepis deprati* Tong-Dzuy and Janvier 1990, Pragian
+> - *Yunnanolepis meemannae* Tong-Dzuy and Janvier 1994
+> - *Yunnanolepis porifera* Zhu 1996, Lochkovian
+> - *Yunnanolepis spinulosa* Janvier and Phuong 1999, Lochkovian
+> - *Yunnanolepis* sp. (Tông-Dzuy and Janvier 1990: Pragian; Tông-Dzuy and Janvier, 1987, Lochkovian)
 
 [*Zhanjilepis aspratilis*](https://deepbone.org/public/#/explor?s_id=53&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
 > Lochkovian, Lower Devonian, 419.2, 410.8
