@@ -46,7 +46,7 @@
 
 > Zhu (1996), Character 54; Jia, Zhu & Zhao (2010), Character 4; Pan et al. (2017), Character 54; Wang & Zhu (2018), Character 10; Plax and Lukševičs (2023), Character 10.
 
-> - Modified 
+> - This character is reformulated with three states. It used to have two states (smaller than 200, larger than 200). 
 
 11. Lateral plate: absent (0); present (1).
 
