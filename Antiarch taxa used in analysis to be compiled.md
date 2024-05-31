@@ -17,8 +17,50 @@ New taxa and references added along with the research.
 **大家只有做了，才能发现问题，熟悉github语法，以及相关属种的各种信息。多看，多接触，就能在脑子里留下深刻影响。对于每个属种有什么疑惑或问题或想法，也可以在下面直接注解出来。你们之间相互解答，也能共同提高。**
 
 **我对大家出现的问题，一般不直接去改。给一个comments，让相关同学去解决，也能举一反三。其他同学也能学到。从发现错误或不规范中，领会怎么做学问。**
-
-Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia Phymolepis Parayunnanolepis Minicrania Liujiangolepis Xichonolepis Dayaoshania Grenfellaspis Sinolepis Wudinolepis Hohsienolepis Microbrachius Bothriolepis Grossilepis Wufengshania Briagalepis Monarolepis Vietnamaspis Dianolepis Tenizolepis Luquanolepis Nawagiaspis Jiangxilepis Ningxialepis Kirgisolepis Hunanolepis Wurungulepis Sherbonaspis Stegolepis Byssacanthus Pterichthyodes Grossaspis Lepadolepis Gerdalepis Pambulaspis Asterolepis Remigolepis 
+Kujdanowiaspis podolica
+Romundina stellina
+Chuchinolepis dongmoensis
+Vanchienolepis langsonensis
+Zhanjilepis aspratilis 
+Heteroyunnanolepis qujingensis
+Yunnanolepis chii
+Mizia parvus
+Phymolepis cuifengshanensis
+Parayunnanolepis xitunensis
+Minicrania
+Liujiangolepis
+Xichonolepis
+Dayaoshania youngi
+Grenfellaspis branagani
+Sinolepis
+Wudinolepis
+Hohsienolepis hsintuensis
+Microbrachius
+Bothriolepis canadensis
+Grossilepis tuberculata
+Wufengshania
+Briagalepis warreni
+Monarolepis
+Vietnamaspis
+Dianolepis liui
+Tenizolepis
+Luquanolepis
+Nawagiaspis
+Jiangxilepis longibrachius
+Ningxialepis
+Kirgisolepis
+Hunanolepis tieni
+Wurungulepis
+Sherbonaspis
+Stegolepis
+Byssacanthus
+Pterichthyodes
+Grossaspis carinata
+Lepadolepis
+Gerdalepis jesseni
+Pambulaspis
+Asterolepis ornata
+Remigolepis 
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -40,26 +82,11 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 > - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
 **Antiarch taxa used in the analysis**
-[*Asperaspis carinata*](https://deepbone.org/public/#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
-> Givetian, Middle Devonian, 387.7, 382.7
-
-> - [horizon and locality]
-> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
-> - **no specimen data in deepbone**
-
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 387.7, 382.7
 
 > - Liepaja quarry, Latvia, and Ligat, Livonia and Dorpat, Estonia.
 > - Nilsson, 1941; Upeniece and Upenieks, 1992; [Lukševičs, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0687%3ATONAOA%5D2.0.CO%3B2); [Upeniece, 2001](https://onlinelibrary.wiley.com/doi/abs/10.1002/mmng.20010040108); [Vaskaninova, 2009](https://app.geology.cz/zgv/en/detail/2008-37b#)
-
-[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian to Famennian, 407.6, 358.9
-
-> - wide distribution.
-> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
-> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
-> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
 
 [*Bothriolepis canadensis*](https://deepbone.org/public/#/explor?s_id=3476&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1880
 > Frasnian, Upper Devonian, 382.7, 372.2
@@ -95,7 +122,6 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 
 > - Haikou Formation, Wuding, Yunnan
 > - [Chang, 1965](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/92/20180522014418_2_993.pdf); [Pan *et al*., 2018](https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
-
 
 [*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
 > middle Eifelian, 393.3, 387.7 
@@ -154,18 +180,6 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 > - Xishancun Formation, Qujing, Yunnan
 > - [Wang, 1994](https://www.vertpala.ac.cn/EN/abstract/abstract600.shtml); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
 
-[*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
-> Late Pragian, Lower Devonian, 410.8, 407.6
-
-> - Danlin Formation, Dushan, Guizhou
-> - Lu *et al*, 2017
-
-[*Hyrcanaspis bliecki*](https://www.deepbone.cn/public/#/explor?s_id=3525&functionId=Deepbone_header_searchResultOpen) Janvier and Pan, 1982
-> Eifelian?, Middle Devonian, 393.3, 387.7
-
-> - Khush-Yeilagh Formation, Khush-Yeilagh village, Mazenderan province, Iran
-> - Janvier and Pan, 1982
-
 [*Hunanolepis tieni*](https://deepbone.org/public/#/explor?s_id=3323&functionId=Deepbone_header_searchResultOpen) P'an and Tzeng, 1973
 > Givetian, Middle Devonian, 387.7, 382.7 
 
@@ -177,12 +191,6 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 
 > - Sanmentan Formation, Yudu, Chongyi and Quannan, Jiangxi
 > - Zhang and Liu, 1991
-
-[*Jiangxilepis sinensis*](https://deepbone.org/public/#/explor?s_id=3320&functionId=Deepbone_header_searchResultOpen) P'an, 1957
-> Famennian, Upper Devonian, 372.2, 358.9
-
-> - Wutong Formation, Nanjing, Jiangsu
-> - P'an, 1957; P'an, 1964; Zhang and Liu, 1991
 
 [*Kirgisolepis karabaltaensis*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
 > Upper Devonian, 382.7, 358.9
@@ -257,17 +265,11 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 > - Xishancun Formation; Qujing, Yunnan.
 > - [Zhu and Janvier, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011278)
 
-[*Mizia parvus*](https://deepbone.org/public/#/explor?s_id=30&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
+[*Mizia parvus*](https://deepbone.org/public/#/explor?s_id=30&functionId=Deepbone_header_searchResultOpen) (Zhang, 1978)
 > Late Lochkovian, 419.2, 410.8
 
 > - Xitun Formation, Qujing, Yunnan
 > - Zhang, 1978; [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
-
-[*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
-> Pragian, Lower Devonian, 410.8; 407.6
-
-> - Xujiachong Formation, Longhua hill, Qujing, Yunnan
-> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Monarolepis verrucosa*](https://deepbone.org/public/#/explor?s_id=4060&functionId=Deepbone_header_searchResultOpen) Young and Gorter, 1981
 > upper Eifelian, Middle Devonian, 393.3, 387.7
@@ -305,12 +307,6 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 
 > - Xitun Formation, Mount Cuifeng, Qujing, Yunnan, China
 > - [Young and Zhang, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011353); [Zhang et al., 2001](https://www.vertpala.ac.cn/EN/abstract/abstract813.shtml); [Zhu *et al*.,2012](https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2011.1033); [Wang and Zhu, 2021](https://www.tandfonline.com/doi/abs/10.1080/02724634.2020.1855189); [2022](https://elifesciences.org/articles/76661); [Zhu et al., 2023](https://www.vertpala.ac.cn/EN/abstract/abstract1397.shtml)
-
-[*Phymolepis guoruii*](https://deepbone.org/public/#/explor?s_id=39&functionId=Deepbone_header_searchResultOpen) Zhu,1996
-> Lochkovian, Lower Devonian, 419.2, 410.8
-
-> - [Xitun Formation, CuiFengShan, Qujing, Yunnan]
-> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Phymolepis cuifengshanensis*](https://deepbone.org/public/#/explor?s_id=38&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian, Lower Devonian, 419.2, 410.8 
@@ -489,13 +485,7 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 > Lochkovian to Pragian, Lower Devonian 
 > - [horizon and locality]
 > - (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
-> - Type species. **The taxon used in the analysis.**
-> - *Yunnanolepis bacboensis* Tông-Dzuy and Janvier 1990, early Pragian
-> - *Yunnanolepis deprati* Tong-Dzuy and Janvier 1990, Pragian
-> - *Yunnanolepis meemannae* Tong-Dzuy and Janvier 1994
-> - *Yunnanolepis porifera* Zhu 1996, Lochkovian
-> - *Yunnanolepis spinulosa* Janvier and Phuong 1999, Lochkovian
-> - *Yunnanolepis* sp. (Tông-Dzuy and Janvier 1990: Pragian; Tông-Dzuy and Janvier, 1987, Lochkovian)
+> - Type species.
 
 [*Zhanjilepis aspratilis*](https://deepbone.org/public/#/explor?s_id=53&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
 > Lochkovian, Lower Devonian, 419.2, 410.8
@@ -504,6 +494,22 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
 
 ## Antiarch taxa not used in the analysis
+[*Asperaspis carinata*](https://deepbone.org/public/#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
+> Givetian, Middle Devonian, 387.7, 382.7
+
+> - [horizon and locality]
+> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - **no specimen data in deepbone**
+
+
+[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
+> upper Emsian to Famennian, 407.6, 358.9
+
+> - wide distribution.
+> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
+> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
+> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
+
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
 
@@ -528,6 +534,49 @@ Chuchinolepis Vanchienolepis Zhanjilepis Heteroyunnanolepis Yunnanolepis Mizia P
 
 > Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
+[*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
+> Late Pragian, Lower Devonian, 410.8, 407.6
+
+> - Danlin Formation, Dushan, Guizhou
+> - Lu *et al*, 2017
+
+[*Hyrcanaspis bliecki*](https://www.deepbone.cn/public/#/explor?s_id=3525&functionId=Deepbone_header_searchResultOpen) Janvier and Pan, 1982
+> Eifelian?, Middle Devonian, 393.3, 387.7
+
+> - Khush-Yeilagh Formation, Khush-Yeilagh village, Mazenderan province, Iran
+> - Janvier and Pan, 1982
+
+[*Jiangxilepis sinensis*](https://deepbone.org/public/#/explor?s_id=3320&functionId=Deepbone_header_searchResultOpen) P'an, 1957
+> Famennian, Upper Devonian, 372.2, 358.9
+
+> - Wutong Formation, Nanjing, Jiangsu
+> - P'an, 1957; P'an, 1964; Zhang and Liu, 1991
+
+[*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Pragian, Lower Devonian, 410.8; 407.6
+
+> - Xujiachong Formation, Longhua hill, Qujing, Yunnan
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
+[*Phymolepis guoruii*](https://deepbone.org/public/#/explor?s_id=39&functionId=Deepbone_header_searchResultOpen) Zhu,1996
+> Lochkovian, Lower Devonian, 419.2, 410.8
+
+> - [Xitun Formation, CuiFengShan, Qujing, Yunnan]
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
+[*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
+> Lochkovian, 419.2, 410.8 
+
+> - South China and northern Vietnam.
+> - Zhang, 1980; Zhu, 1996
+> - *Yunnanolepis bacboensis* Tông-Dzuy and Janvier 1990, early Pragian
+> - *Yunnanolepis deprati* Tong-Dzuy and Janvier 1990, Pragian
+> - *Yunnanolepis meemannae* Tong-Dzuy and Janvier 1994
+> - *Yunnanolepis porifera* Zhu 1996, Lochkovian
+> - *Yunnanolepis spinulosa* Janvier and Phuong 1999, Lochkovian
+> - *Yunnanolepis* sp. (Tông-Dzuy and Janvier 1990: Pragian; Tông-Dzuy and Janvier, 1987, Lochkovian)
+
 
 
 **References**
