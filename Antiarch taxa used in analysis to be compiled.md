@@ -158,7 +158,7 @@ Remigolepis spp.
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Wang, 1992
 > Emsian, Middle Devonian; 407.6, 393.3 
 
-> - in the upper part of the Dayaoshan Group, Yuantou, Pingle County, Guangxi Province.
+> - Upper part of the Dayaoshan Group, Yuantou, Pingle County, Guangxi, China
 > - [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 [*Dianolepis liui*](https://www.deepbone.cn/public/#/explor?s_id=48&functionId=Deepbone_header_searchResultOpen) Chang, 1965
@@ -402,19 +402,19 @@ Remigolepis spp.
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
 > Lochkovian, Lower Devonian; 419.2, 410.8 
 
-> Qujing, Yunnan
+> - Qujing, Yunnan
 > -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis robusta*](https://www.deepbone.cn/index/index/index#/explor?s_id=1298&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
 > Lochkovian, Lower Devonian; 419.2, 410.8 
 
-> Qujing, Yunnan
+> - Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Wang *et al*., 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/156/reference_id_156_20180719151638930.pdf) 
 
 [*Chuchinolepis sulcata*](https://www.deepbone.cn/index/index/index#/explor?s_id=1154&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
 > Lochkovian, Lower Devonian; 419.2, 410.8 
 
-> Qujing, Yunnan
+> - Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
