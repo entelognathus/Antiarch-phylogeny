@@ -575,11 +575,11 @@ Remigolepis spp.
 > - [horizon and locality]
 > - (Olive, 2015)
 
-*Sherbonaspis andreannae* (Panteleyev 1993)
+[*Sherbonaspis andreannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=3446&functionId=Deepbone_header_searchResultOpen) Panteleyev 1993
 > Givetian, Middle Devonian, 387.7, 382.7
 
 
-*Sherbonaspis talimaae* Plax and Lukševičs, 2023
+[*Sherbonaspis talimaae*](https://www.deepbone.cn/index/index/index#/explor?s_id=172078&functionId=Deepbone_header_searchResultOpen) Plax and Lukševičs, 2023
 > Upper Emsian, Lower Devonian 
 
 
