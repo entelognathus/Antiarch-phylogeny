@@ -126,6 +126,13 @@ Remigolepis spp.
 > - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
 
 ## Antiarch taxa used in the analysis
+[*Asperaspis carinata*](https://deepbone.org/public/#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
+> Givetian, Middle Devonian, 387.7, 382.7
+
+> - [horizon and locality]
+> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
+> - **no specimen data in deepbone**
+
 [*Asterolepis ornata*](https://deepbone.org/public/#/explor?s_id=1514&functionId=Deepbone_header_searchResultOpen) Eichwald, 1840
 > upper Givetian, 387.7, 382.7
 
@@ -235,6 +242,12 @@ Remigolepis spp.
 
 > - Near the village of Chahuajing, Luquan, Kunming, Yunnan
 > - [Zhang and Young, 1992](https://www.tandfonline.com/doi/abs/10.1080/03115519208619120)
+
+[*Merimbulaspis meemannae*](https://deepbone.org/public/#/explor?s_id=1389&functionId=Deepbone_header_searchResultOpen) Young, 2010
+> Givetian-Frasnian, Middle-Late Devonian, 387.7, 372.2
+
+> - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
+> - Young, 2010
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > upper Givetian, Middle Devonian, 387.7, 382.7
@@ -375,14 +388,12 @@ Remigolepis spp.
 > - Qujing, Yunnan
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
 
-## Antiarch taxa not used in the analysis
-[*Asperaspis carinata*](https://deepbone.org/public/#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
-> Givetian, Middle Devonian, 387.7, 382.7
-
+[*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
+> Frasnian, Upper Devonian 
 > - [horizon and locality]
-> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
-> - **no specimen data in deepbone**
-> - **Added to the matrix by Plax and Lukševičs (2023)**
+> - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
+
+## Antiarch taxa not used in the analysis
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
 > upper Emsian to Famennian, 407.6, 358.9
@@ -470,13 +481,6 @@ Remigolepis spp.
 
 > - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
 > - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
-
-[*Merimbulaspis meemannae*](https://deepbone.org/public/#/explor?s_id=1389&functionId=Deepbone_header_searchResultOpen) Young, 2010
-> Givetian-Frasnian, Middle-Late Devonian, 387.7, 372.2
-
-> - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
-> - Young, 2010
-> - **Added to the matrix by Plax and Lukševičs (2023)**
 
 [*Microbrachius sinensis*](https://deepbone.org/public/#/explor?s_id=3218&functionId=Deepbone_header_searchResultOpen) Pan, 1984
 > Eifelian, Middle Devonian, 393.3, 387.7
@@ -601,15 +605,16 @@ Remigolepis spp.
 > - (Malinovskaya, 1973; Moloshnikov, 2012)
 
 [*Tubalepis extensa*](https://deepbone.org/public/#/explor?s_id=3462&functionId=Deepbone_header_searchResultOpen) Sergienko, 1961
-> Famennian, Upper Devonian>
-> - [horizon and locality]
-> - Moloshnikov, 2012; Panteleyev and Moloshnikov, 2003
+> Famennian, 372.2, 358.9
 
-[*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-> Frasnian, Upper Devonian 
-> - [horizon and locality]
-> - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
-> - **Added to the matrix by Plax and Lukševičs (2023)**
+> - [Tuba Regional Stage, Minusinsk Trough, Russia]
+> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
+
+[*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
+> Famennian, 372.2, 358.9
+
+> - [Tuba Regional Stage, Minusinsk Trough, Russia]
+> - [Malinovskaya, 1992 ](https://www.deepbone.cn/public/#/literature_details/1211); [Moloshnikov, 1992](https://www.deepbone.cn/public/#/literature_details/1270)
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
