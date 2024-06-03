@@ -414,6 +414,7 @@
 97. Posterior lateral of trunk shield: absent(0); present(1).
 
 > **Newly added character.**
+> **Explanation?**
 
 98. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
 
