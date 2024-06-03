@@ -3,29 +3,23 @@
 *Ornamentation, histology and scales*
 
 1. Adult ornamentation: tubercular (0); reticular (1).
-
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia, Zhu & Zhao (2010), Character 46; Pan et al. (2017), Character 33; Wang & Zhu (2018), Character 1; Plax and Lukševičs (2023), Character 1.
 
 2. Adult ornamentation: non-ridged (0); ridged (1).
-
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia, Zhu & Zhao (2010), Character 47, part; Pan et al. (2017), Character 34, part; Wang & Zhu (2018), Character 2; Plax and Lukševičs (2023), Character 2.
 
 3. Ridges on dorsal wall of trunk shield: converging (0); subparallel (1).
-
 > Zhang and Young (1992), Character 9; Zhu (1996), Character 34, part; Jia, Zhu & Zhao (2010), Character 48, part; Pan et al. (2017), Character 34, part; Wang & Zhu (2018), Character 3; Plax and Lukševičs (2023), Character 3.
 
 4. Dorsal spongy layer in dermal bone of trunk shield: absent (0); present (1).
-
 > Young (1984, 1988), Character 34; Zhu (1996), Character 36; Pan et al. (2017), Character 36; Wang & Zhu (2018), Character 4; Plax and Lukševičs (2023), Character 4.
 
 5. Ridged scales: absent (0); present (1).
-
 > Zhu (1996), Character 35; Pan et al. (2017), Character 35; Wang & Zhu (2018), Character 5; Plax and Lukševičs (2023), Character 5.
 
 *Head shield and neurocranium*
 
 6. Premedian plate: absent (0); present (1).
-
 > Young (1984, 1988), Character 7; Zhu (1996), Character 44; Pan et al. (2017), Character 44; Wang & Zhu (2018), Character 6; Plax and Lukševičs (2023), Character 6.
 
 7. Premedian plate: short and broad (0); long and narrow (1).
