@@ -363,13 +363,13 @@
 > - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
 
 89.	Broad anterior margin of anterior median dorsal plate: absent (0); present (1).
-> **How to indentify the 'broad' in antiarchs?**
+
 > Retchie et al. (1992, Character 2)
 
 > - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r1 between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).”
 
-90.	Short posterolateral margin of anterior median dorsal plate: absent (0); present (1).
-> **How to indentify the 'short' in antiarchs?**
+90.	Short posterolateral margin of anterior median dorsal plate (for : absent (0); present (1).
+
 > Retchie et al. (1992, Character 3)
 
 > - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).”
