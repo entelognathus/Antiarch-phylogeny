@@ -411,7 +411,7 @@
 > - Do you mean the contact face? How to define narrow or wide?
 > - The overlying area of posterolateral margin of anterior median dorsal plate refers to the contact face where the anterior median dorsal plate overlap the posterior dorsolateral plate. In the _Xichonolepis_ collected in Wuding, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 5 mm, which gradually decreases from the posteriolateral corner towards the lateral corner. In the _Xichonolepis_ collected in the Pearl River source, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 2 mm, which gradually decreases from the posteriolateral corner towards the lateral corner, and disappearing at approximately 3/4 of the length of the posterolateral margin.
 
-97. Posterior lateral of trunk shield: present(0); absent(1).
+97. Posterior lateral of trunk shield: absent(0); present(1).
 
 > **Newly added character.**
 
