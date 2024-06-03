@@ -381,26 +381,17 @@
 > Plax and Lukševičs (2023), Character 80.
 
 81.	Postmarginal plate: absent (0); present (1).
-
-> **Newly added character.**
-
-> - Character 98 in 'early gnathostome phylogeny dataset', "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
+> Character 98 in 'early gnathostome phylogeny dataset': "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
 
 > - Moloshnikov (2011) established a new family Tubalepididae accroding to a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of *Huizelepis*
 
-82.	Postmarginal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
-
-> **Newly added character.**
-
-> - Some antiarchs like *Bothriolepis* and *Dianolepis* have postmarginal plate that on the anteriolateral of paranuchal plate, and anteriolateral angle on postmarginal plate; others like *Microbrachius* has postmarginal plate that on the posteriolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
+82.	Position of ostmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
+> - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* has the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
 
 83.	Postmarginal canal: absent (0); present (1).
+> Character 168 in 'early gnathostome phylogeny dataset'.
 
-> **Newly added character.**
-
-> - Also termed 'preopercular sensory line on postmarginal plate'. Few Middle and late Devonian taxa bears sensory line on postmarginal plate, may considered as plesiomorphy.
-
-> - Character 168 in 'early gnathostome phylogeny dataset'.
+> - Also termed 'preopercular sensory line on postmarginal plate'. Few Middle and Late Devonian taxa bear the sensory line on postmarginal plate.
 
 84.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
     
@@ -415,9 +406,6 @@
 > **Newly added character.**
 
 87. Median ventral plate: absent (0); present (1).
-    
-> **Newly added character.**
-
 > Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018),
 
 >- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
