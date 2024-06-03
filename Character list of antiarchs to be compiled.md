@@ -380,8 +380,7 @@
 
 > Plax and Lukševičs (2023), Character 80.
 
-
-32.	Postmarginal plate: absent (0); present (1).
+81.	Postmarginal plate: absent (0); present (1).
 
 > **Newly added character.**
 
@@ -389,13 +388,13 @@
 
 > - Moloshnikov (2011) established a new family Tubalepididae accroding to a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of *Huizelepis*
 
-33.	Postmarginal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
+82.	Postmarginal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 
 > **Newly added character.**
 
 > - Some antiarchs like *Bothriolepis* and *Dianolepis* have postmarginal plate that on the anteriolateral of paranuchal plate, and anteriolateral angle on postmarginal plate; others like *Microbrachius* has postmarginal plate that on the posteriolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
 
-34.	Postmarginal canal: absent (0); present (1).
+83.	Postmarginal canal: absent (0); present (1).
 
 > **Newly added character.**
 
@@ -403,30 +402,25 @@
 
 > - Character 168 in 'early gnathostome phylogeny dataset'.
 
-60.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
+84.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
     
 > **Newly added character.**
 
-61.	Anterior and posterior median dorsal plates alternately overlapping each other: absent (0); present (1).
+85.	Anterior and posterior median dorsal plates alternately overlapping each other: absent (0); present (1).
 
 > **Newly added character.**
 
-64.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
+86.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
 
 > **Newly added character.**
 
-67. Median ventral plate: absent (0); present (1).
+87. Median ventral plate: absent (0); present (1).
     
 > **Newly added character.**
 
 > Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018),
 
 >- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
-
-68. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
-
-> Plax and Lukševičs (2023), Character 80.
-
 
 88.The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
 
@@ -486,7 +480,6 @@
 97. Posterior lateral of trunk shield: present(0); absent(1).
 
 > **Newly added character.**
-
 
 98. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
 
