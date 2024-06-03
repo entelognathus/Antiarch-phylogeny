@@ -96,12 +96,25 @@ BEGIN CHARACTERS;
 		78 'Lateral marginal plate 2 relative to trunk-shield:' /  short elongated,
 		79 Number_of_Ml_plates_of_the_distal_segment /  three two,
 		80 Posterior_dorsolateral_plate_overlaps_anterior_dorsolateral_plate_in_dorsal_part_and_is_overlapped_in ventral_part /  absent present,
-		81 Postmarginal_plate / anterolateral_of_paranuchal_plate posterolateral_of_paranuchal plate,
-		82 Postmarginal_canal / absent present,
-		83 Ventral_tuberosity_on_anterior_median_dorsal_plate / absent conspicuous,
-		84 Ventral_tuberosity_on_posterior_median_dorsal_plate / absent conspicuous,
-		85 Anterior_and_posterior_median_dorsal_plates_alternately_overlapping_each_other / absent present,
-                86 Median_ventral_plate / absent present ;
+		81 Postmarginal_plate /  absent present,
+		82 Postmarginal_plate / anterolateral_of_paranuchal_plate posterolateral_of_paranuchal plate,
+		83 Postmarginal_canal / absent present,
+		84 Ventral_tuberosity_on_anterior_median_dorsal_plate / absent conspicuous,
+		85 Ventral_tuberosity_on_posterior_median_dorsal_plate / absent conspicuous,
+		86 Anterior_and_posterior_median_dorsal_plates_alternately_overlapping_each_other / absent present,
+                87 Median_ventral_plate / absent present,
+		88 The_area_where_infraorbital_canal_divides_the_paranuchal_plate / forming_wide_lateral_divisions forming_narrow_lateral_divisions,_the_ifc_passes_through_the_posterior_lateral_corner_of_the_paranuchal_plate
+		89 Broad_anterior_margin_of_anterior_median_dorsal_plate /  absent present,
+		90 Short_posterolateral_margin_of_anterior_median_dorsal_plate /  absent present,
+		91 Square_shaped_of_posterior_median_dorsal_plate,_with_reduced_lateral_processes /  absent present,
+		92 Dorsal_central_plate_1_and_ventral_central_plate_1_have_large_semicircular_articular_areas,_similar_in_size_and_closely_integrated_to_ornamented_part_of_bone /  absent present,
+		93 Mesial_lamina_on_dorsal_central_plate_1 /  absent present,
+		94 Mesial_marginal_plate_1_restricted_to_mesial_wall_of_pectoral_fin /  absent present,
+		95 Nerves_and_vessels_to_pectoral_fin_passing_through_a_single_axillary_foramen /  absent present,
+		96 Overlying_area_of_posterolateral_margin_of_anterior_median_dorsal_plate /  absent present,
+		97 Posterior_lateral_of_trunk_shield /  absent present,
+		98 The_width_of_the_PMD_anterior_margin_and_the_width_of_the_narrowing_region_before_the_lateral_process /  absent present ;
+
 	MATRIX
 	Kujdanowiaspis                   00-000----0-?-??000???-000101111000000000-110000--------?00010000001000---------01---1
 	Romundina                        00-00100000-1-0-000000-000111111000000000-??0011?-------?00010000-11000---------01---1
