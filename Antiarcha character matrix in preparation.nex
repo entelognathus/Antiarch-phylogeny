@@ -112,8 +112,8 @@ BEGIN CHARACTERS;
 		94 Mesial_marginal_plate_1_restricted_to_mesial_wall_of_pectoral_fin /  absent present,
 		95 Nerves_and_vessels_to_pectoral_fin_passing_through_a_single_axillary_foramen /  absent present,
 		96 Overlying_area_of_posterolateral_margin_of_anterior_median_dorsal_plate /  absent present,
-		97 Posterior_lateral_of_trunk_shield /  absent present,
-		98 The_width_of_the_PMD_anterior_margin_and_the_width_of_the_narrowing_region_before_the_lateral_process /  absent present ;
+		97 Posterior_lateral_of_trunk_shield /  present absent,
+		98 The_width_of_the_PMD_anterior_margin_and_the_width_of_the_narrowing_region_before_the_lateral_process /  less_than approach greater_than ;
 
 	MATRIX
 	Kujdanowiaspis                   00-000----0-?-??000???-000101111000000000-110000--------?00010000001000---------01---1
@@ -166,7 +166,6 @@ BEGIN CHARACTERS;
 	Yunnanolepis_chii                00-0?1000011100-110?0000000001110000110000????013000000100010110000?1110-00000-0010001
 	Zhanjilepis_aspratilis           00-0?????????????????0????????????????????????013000000100000?100?0???????????-0??000?
 	Not used
-	
 	Bothriolepis_spp.
 	Chuchinolepis_qujingensis	
 	Chuchinolepis_robusta
