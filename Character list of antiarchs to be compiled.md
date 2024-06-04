@@ -363,62 +363,43 @@
 
 > - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
 
-~~89.	Broad anterior margin of anterior median dorsal plate: absent (0); present (1).~~
-
-> Retchie et al. (1992, Character 2)
-
-> - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r1 between width of anterior margin and maximum width of anterior median dorsal plate (ordered): r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3).”
-
-90.	Short posterolateral margin of anterior median dorsal plate (for : absent (0); present (1).
+89.	Short posterolateral margin of anterior median dorsal plate (for : absent (0); present (1).
 
 > Retchie et al. (1992, Character 3)
 
 > - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).”
 
-~~91.	Square shaped of posterior median dorsal plate, with reduced lateral processes: absent (0); present (1).~~
-
-> Retchie et al. (1992, Character 4)
-
-> - Present in *Sinolepis* and *Grenfellaspis*. Check whether it is redundant with the character "Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).".
-
-92.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
+90.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
 
 > Retchie et al. (1992, Character 6)
 
 > - Retchie et al. (1992) regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
 
-93.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
+91.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
 
 > Retchie et al. (1992, Character 7)
 
 > - Few researchers have noticed that character, Retchie regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
 
-94.	Mesial marginal plate 1 restricted to mesial wall of pectoral fin: absent (0); present (1).
+92.	Mesial marginal plate 1 restricted to mesial wall of pectoral fin: absent (0); present (1).
 
 > Retchie et al. (1992, Character 8)
 
 > - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
 
-95. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
+93. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
 
 > Retchie et al. (1992), Character 11.
 
 > - Retchie et al. (1992) regarded it is a synapomorphy of sinolepids and euantiarchs.
 
-96. Overlying area of posterolateral margin of anterior median dorsal plate: narrow (0); wide (1).
+94. Overlying area of posterolateral margin of anterior median dorsal plate: narrow (0); wide (1).
 
 > **Newly added character.**
 
 > - Do you mean the contact face? How to define narrow or wide?
 > - The overlying area of posterolateral margin of anterior median dorsal plate refers to the contact face where the anterior median dorsal plate overlap the posterior dorsolateral plate. In the _Xichonolepis_ collected in Wuding, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 5 mm, which gradually decreases from the posteriolateral corner towards the lateral corner. In the _Xichonolepis_ collected in the Pearl River source, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 2 mm, which gradually decreases from the posteriolateral corner towards the lateral corner, and disappearing at approximately 3/4 of the length of the posterolateral margin.
 
-~~97. Posterior lateral plate: absent(0); present(1).~~
-
-> **Newly added character.**
-> **Explanation?**
-> -In Sinolepidae, the Posterior lateral plate is missing and does not fused to the posterior dorsolateral plate or the posterior ventrolateral plate.
-> - redundant with characters 64 and 65.
-
-98. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
+95. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
 
 > **Newly added character.**
