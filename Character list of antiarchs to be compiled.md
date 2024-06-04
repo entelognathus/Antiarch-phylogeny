@@ -362,6 +362,8 @@
 
 > - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
 
+> **Hard to identify in all antiarchs group, considering the shape changes of paranuchal plate, may delete**
+
 89.	Short posterolateral margin of anterior median dorsal plate (for : absent (0); present (1).
 
 > Retchie et al. (1992, Character 3)
