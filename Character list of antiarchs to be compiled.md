@@ -406,3 +406,5 @@
 95. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
 
 > **Newly added character.**
+
+> **Havent see any antiarchs in state 2**
