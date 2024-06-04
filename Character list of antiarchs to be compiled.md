@@ -354,8 +354,7 @@
 87. Median ventral plate: absent (0); present (1).
 > Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018),
 
->- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).'
->- This character and character 67 needed to re-formulated. Charecter 30 as absent or present of median ventral plate. Character 87 as median ventral fenestra of trunk shield where median ventral plate is absent, absent or small, large rectangular.
+>- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
 
 88.The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
 
