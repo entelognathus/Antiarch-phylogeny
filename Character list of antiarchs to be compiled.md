@@ -407,4 +407,4 @@
 
 > **Newly added character.**
 
-> **Havent see any antiarchs in state 2**
+> **Havent seen any antiarchs in state 2**
