@@ -364,11 +364,11 @@
 
 > **Hard to identify in all antiarchs group, considering the shape changes of paranuchal plate, may delete**
 
-89.	Short posterolateral margin of anterior median dorsal plate (for : absent (0); present (1).
+89.	Short posterolateral margin of anterior median dorsal plate : absent (0); present (1).
 
 > Retchie et al. (1992, Character 3)
 
-> - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).”
+> - **Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2)”, may delete**
 
 90.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
 
