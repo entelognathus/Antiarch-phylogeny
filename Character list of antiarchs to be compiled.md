@@ -331,7 +331,7 @@
 
 > - Moloshnikov (2011) established a new family Tubalepididae on the basis of a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of *Huizelepis*
 
-82.	Position of ostmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
+82.	Position of postmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* has the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
 
 83.	Postmarginal canal: absent (0); present (1).
