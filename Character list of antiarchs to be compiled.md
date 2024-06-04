@@ -329,7 +329,7 @@
 81.	Postmarginal plate: absent (0); present (1).
 > Character 98 in 'early gnathostome phylogeny dataset': "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
 
-> - Moloshnikov (2011) established a new family Tubalepididae accroding to a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of *Huizelepis*
+> - Moloshnikov (2011) established a new family Tubalepididae on the basis of a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of *Huizelepis*
 
 82.	Position of ostmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* has the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
@@ -354,7 +354,8 @@
 87. Median ventral plate: absent (0); present (1).
 > Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia, Zhu & Zhao (2010), Character 45; Pan et al. (2017), Character 30; Wang and Zhu (2018),
 
->- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
+>- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).'
+>- This character and character 67 needed to re-formulated. Charecter 30 as absent or present of median ventral plate. Character 87 as median ventral fenestra of trunk shield where median ventral plate is absent, absent or small, large rectangular.
 
 88.The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
 
@@ -362,7 +363,7 @@
 
 > - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
 
-89.	Broad anterior margin of anterior median dorsal plate: absent (0); present (1).
+~~89.	Broad anterior margin of anterior median dorsal plate: absent (0); present (1).~~
 
 > Retchie et al. (1992, Character 2)
 
@@ -374,7 +375,7 @@
 
 > - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2).”
 
-91.	Square shaped of posterior median dorsal plate, with reduced lateral processes: absent (0); present (1).
+~~91.	Square shaped of posterior median dorsal plate, with reduced lateral processes: absent (0); present (1).~~
 
 > Retchie et al. (1992, Character 4)
 
@@ -411,11 +412,12 @@
 > - Do you mean the contact face? How to define narrow or wide?
 > - The overlying area of posterolateral margin of anterior median dorsal plate refers to the contact face where the anterior median dorsal plate overlap the posterior dorsolateral plate. In the _Xichonolepis_ collected in Wuding, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 5 mm, which gradually decreases from the posteriolateral corner towards the lateral corner. In the _Xichonolepis_ collected in the Pearl River source, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 2 mm, which gradually decreases from the posteriolateral corner towards the lateral corner, and disappearing at approximately 3/4 of the length of the posterolateral margin.
 
-97. Posterior lateral plate: absent(0); present(1).
+~~97. Posterior lateral plate: absent(0); present(1).~~
 
 > **Newly added character.**
 > **Explanation?**
 > -In Sinolepidae, the Posterior lateral plate is missing and does not fused to the posterior dorsolateral plate or the posterior ventrolateral plate.
+> - redundant with characters 64 and 65.
 
 98. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
 
