@@ -220,7 +220,7 @@ Remigolepis spp.
 > - Sanmentan Formation, Yudu, Chongyi and Quannan, Jiangxi
 > - Zhang and Liu, 1991
 
-[*Kirgisolepis karabaltaensis*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
+[*Kirgisolepis karabaltaensis*](https://deepbone.org/public/#/explor?s_id=3454&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
 > Upper Devonian, 382.7, 358.9
 
 > - Lenses of marl, siltstone and sandstone of the lower part of the Lower Taldybulak Subformation, at the mouth of the Uzunbulak Stream in the Kara-Balta River Basin, Kyrgyzstan
