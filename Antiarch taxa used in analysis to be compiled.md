@@ -197,6 +197,7 @@ Remigolepis spp.
 
 [*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Eifelian, Middle Devonian, 393.3, 387.7
+> **No postmarginal?**
 
 > - Xindu Formation, He County, Guangxi
 > - Pan and Wang, 1978; Pan, 1984
