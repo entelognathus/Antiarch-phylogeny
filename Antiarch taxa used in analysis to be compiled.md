@@ -455,6 +455,8 @@ Remigolepis spp.
 [*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
 > Late Pragian, Lower Devonian, 410.8, 407.6
 
+> - **No postmarginal plate?**
+
 > - Danlin Formation, Dushan, Guizhou
 > - Lu *et al*, 2017
 
