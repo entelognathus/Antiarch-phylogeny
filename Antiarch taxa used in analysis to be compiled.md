@@ -518,7 +518,7 @@ Remigolepis spp.
 [*Pambulaspis antarctica*](https://deepbone.org/public/#/explor?s_id=3510&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, Middle Devonian, 387.7, 382.7
 
-> -**Differ from previous P. cobandrahensis, should be placed into Venezuelepis [Young and Moody, 2002]
+> -**Differ from previous *P. cobandrahensis*, should be placed into *Venezuelepis* [Young and Moody, 2002]**
 
 > - Aztec Sandstone, Southern Victoria Land, Antarctica
 > - [Young, 1988](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/27349/literature_id_27349_20210312094201524.pdf); [Young and Moody, 2002](https://fr.copernicus.org/articles/5/155/2002/fr-5-155-2002.pdf)
