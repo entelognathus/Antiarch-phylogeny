@@ -585,6 +585,11 @@ Remigolepis spp.
 > - [horizon and locality]
 > - (Panteleyev, 1992)
 
+[*Remigolepis suusamyrensi*](https://www.deepbone.cn/index/index/index#/explor?s_id=3452&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
+> Famennian, Upper Devonian 
+> - [horizon and locality]
+> - (Panteleyev, 1992)
+
 [*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > Famennian, Upper Devonian 
 > - [horizon and locality]
