@@ -526,6 +526,8 @@ Remigolepis spp.
 [*Phymolepis guoruii*](https://deepbone.org/public/#/explor?s_id=39&functionId=Deepbone_header_searchResultOpen) Zhu,1996
 > Lochkovian, Lower Devonian, 419.2, 410.8
 
+> - **Should the cockscomb-shaped ridge on its AMD be considered as some kind of dorsal spine?**
+
 > - [Xitun Formation, CuiFengShan, Qujing, Yunnan]
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
