@@ -350,7 +350,7 @@ Remigolepis spp.
 [*Tenizolepis bychkovi*](https://deepbone.org/public/#/explor?s_id=2109&functionId=Deepbone_header_searchResultOpen) Malinovskaya 1992
 > Givetian, 387.7, 382.7
 
-> - **Moloshnikov suggested it is regarded as asynonym of *B. babichevi* [2012](https://deepbone.org/public/#/literature_details/1272). The PMD in holotype may belong to *B. babichevi*, the AMD still differ with *Bothriolepis***
+> - **Moloshnikov suggested it is regarded as asynonym of *B. babichevi* [2012](https://deepbone.org/public/#/literature_details/1272), the AMD still differ with *Bothriolepis***
 
 > - Konyr Formation, Lower Konyr Subformation, Central Kazakhstan, right bank of the Shiderti River, Trudovoe village
 > - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099)
