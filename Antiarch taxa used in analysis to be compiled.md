@@ -602,8 +602,6 @@ Remigolepis spp.
 [*Sherbonaspis andreannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=3446&functionId=Deepbone_header_searchResultOpen) Panteleyev 1993
 > Givetian, Middle Devonian, 387.7, 382.7
 
-> - **The AMD cantacting is *Remigolepis* type, differ with the type specie *Sherbonaspis hillsi* [Young and Gorter, 1981](https://deepbone.org/public/#/literature_details/1361)**
-
 [*Sherbonaspis talimaae*](https://www.deepbone.cn/index/index/index#/explor?s_id=172078&functionId=Deepbone_header_searchResultOpen) Plax and Lukševičs, 2023
 > Upper Emsian, Lower Devonian 
 
@@ -633,6 +631,8 @@ Remigolepis spp.
 
 [*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
+
+> - ***B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
 
 > - [Tuba Regional Stage, Minusinsk Trough, Russia]
 > - [Malinovskaya, 1992 ](https://www.deepbone.cn/public/#/literature_details/1211); [Moloshnikov, 1992](https://www.deepbone.cn/public/#/literature_details/1270)
