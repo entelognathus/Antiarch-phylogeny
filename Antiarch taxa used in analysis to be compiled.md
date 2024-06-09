@@ -326,7 +326,7 @@ Remigolepis spp.
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > Famennian, 372.2, 358.9
 
-> - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
+> - Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China
 > - [Liu and P'an, 1958]; [Ritchie et al., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 [*Stegolepis jugata*](https://deepbone.org/public/#/explor?s_id=3447&functionId=Deepbone_header_searchResultOpen) Malinovskaja, 1973
@@ -362,24 +362,28 @@ Remigolepis spp.
 > - (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
 [*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
-> Givetian-Frasnian, Devonian 
-> - [horizon and locality]
-> - (Long *et al*., 1990)
+> Givetian-Frasnian, 387.7,  372.2
+
+> - Dô Son  Formation, Dô Son  peninsula, north Vietnam
+> - [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
 
 [*Wudinolepis weni*](https://deepbone.org/public/#/explor?s_id=26&functionId=Deepbone_header_searchResultOpen) Chang, 1965
-> Upper Emsian, Lower Devonian 
+> Upper Emsian, 407.6,  393.3
+
 > - Jiucheng Formation, Wuding, Yunnan.
-> - Chang, 1965
+> - [Chang, 1965]
 
 [*Wufengshania magniforaminis*](https://deepbone.org/public/#/explor?s_id=16&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2017
-> Upper Emsian, Lower Devonian 
+> Upper Emsian, 407.6,  393.3 
+
 > - Jiucheng Formation, Wuding, Yunnan.
-> - Pan, 1984; Pan *et al*., 2018
+> - [Pan *et al*., 2018](https://www.tandfonline.com/doi/full/10.1080/03115518.2017.1338357)
 
 [*Wurungulepis denisoni*](https://deepbone.org/public/#/explor?s_id=8131&functionId=Deepbone_header_searchResultOpen) Young, 1990
-> Eifelian, Middle Devonian 
-> - [horizon and locality]
-> - (Burrow, 1999; Burrow and Turner, 1998; Young, 1990)
+> Eifelian, 393.3,  387.7
+
+> - Broken River Formation,  north bank of Broken River
+> - [Young, 1990](https://www.researchgate.net/publication/292647910_New_antiarchs_Devonian_placoderm_fishes_from_Queensland_with_comments_on_placoderm_phylogeny_and_biogeography); [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Burrow and Turner, 1999](https://www.tandfonline.com/doi/abs/10.1080/02724634.1999.10011135) 
 
 [*Xichonolepis qujingensis*](https://deepbone.org/public/#/explor?s_id=3307&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Givetian, 387.7, 382.7 
@@ -388,21 +392,23 @@ Remigolepis spp.
 > - [Pan and Wang, 1978]; [Zhang, 1980](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090427_2386344.html); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 [*Yunnanolepis chii*](https://deepbone.org/public/#/explor?s_id=29&functionId=Deepbone_header_searchResultOpen) Liu, 1963
-> Lochkovian to Pragian, Lower Devonian 
-> - [horizon and locality]
-> - (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
+> Lochkovian to Pragian, 419.2, 407.6 
+
+> - Guijiatun and Xujiachong formations of Qujing, Yunnan
+> - [Liu, 1963](https://www.semanticscholar.org/paper/ON-THE-ANTIARCHI-FROM-CHUTSING%2C-YUNNAN-Liu/aabac8525e218c0177e31fc089aa32221fb60518); [Chang, 1965](https://www.semanticscholar.org/paper/NEW-ANTIARCHS-FROM-THE-MIDDLE-DEVONIAN-OF-YUNNAN-Chang/7a71b6185d61019e4a0e180c1aff09552c6150f3); [Pan and Wang, 1978]; [Zhang, 1978]（https://ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090430_2386474.html）; [Tông-Dzuy and Janvier, 1990]; [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu *et al*., 1994]（https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1）; [Zhu, 1996];
 > - Type species.
 
 [*Zhanjilepis aspratilis*](https://deepbone.org/public/#/explor?s_id=53&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
 > Lochkovian, Lower Devonian, 419.2, 410.8
 
-> - Qujing, Yunnan
+> - Xitun Formation, Cuifengshan, Qujing, Yunnan
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
 
 [*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-> Frasnian, Upper Devonian 
-> - [horizon and locality]
-> - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
+> Frasnian, 382.7, 372.2 
+
+> - Ogre  Formation, Daugava River near Bramberģe, Daugmale Parish, central Latvia
+> - [Gross, 1933a]; [Gross, 1964]; [Lukševičs, 2021]; [Plax and Lukševičs, 2023]
 
 ## Antiarch taxa not used in the analysis
 
@@ -415,28 +421,28 @@ Remigolepis spp.
 > - **好的，我在Bothriolepis data set中做好再拷贝过来。**
 
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
-> Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
+> Lochkovian-Pragian,  419.2, 407.6
 
-> - Qujing, Yunnan; Liujing, Heng county, Guangxi
+> -  Xishancun Formation, Cuifengshan, Qujing, Yunnan; Lianhuashan Formation， Liujing, Guangxi
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 > - Type species.
 
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
-> Lochkovian, Lower Devonian; 419.2, 410.8 
+> Lochkovian, 419.2, 410.8 
 
-> - Qujing, Yunnan
+> - Xishancun and Xitun Formation, Cuifengshan, Qujing, Yunnan
 > -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis robusta*](https://www.deepbone.cn/index/index/index#/explor?s_id=1298&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
 > Lochkovian, Lower Devonian; 419.2, 410.8 
 
-> - Qujing, Yunnan
+> -  Xitun Formation, Cuifengshan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Wang *et al*., 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/156/reference_id_156_20180719151638930.pdf) 
 
 [*Chuchinolepis sulcata*](https://www.deepbone.cn/index/index/index#/explor?s_id=1154&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
-> Lochkovian, Lower Devonian; 419.2, 410.8 
+> Lochkovian, 419.2, 410.8 
 
-> - Qujing, Yunnan
+> -  Xitun Formation, Cuifengshan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
