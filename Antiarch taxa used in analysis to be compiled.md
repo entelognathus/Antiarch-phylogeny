@@ -407,16 +407,6 @@ Remigolepis spp.
 > - [horizon and locality]
 > - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
 
-## Antiarch taxa not used in the analysis
-
-[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian to Famennian, 407.6, 358.9
-
-> - wide distribution.
-> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
-> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
-> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
-
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
 
@@ -632,27 +622,70 @@ Remigolepis spp.
 > - [Tuba Regional Stage, Minusinsk Trough, Russia]
 > - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
 
-[*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
-
-> - ***B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
-
-> - [Tuba Regional Stage, Minusinsk Trough, Russia]
-> - [Malinovskaya, 1992 ](https://www.deepbone.cn/public/#/literature_details/1211); [Moloshnikov, 1992](https://www.deepbone.cn/public/#/literature_details/1270)
-
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
 
 > - South China and northern Vietnam.
 > - Zhang, 1980; Zhu, 1996
 
-> - *Yunnanolepis bacboensis* Tông-Dzuy and Janvier 1990, early Pragian
-> - *Yunnanolepis deprati* Tong-Dzuy and Janvier 1990, Pragian
-> - *Yunnanolepis meemannae* Tong-Dzuy and Janvier 1994
-> - *Yunnanolepis porifera* Zhu 1996, Lochkovian
-> - *Yunnanolepis spinulosa* Janvier and Phuong 1999, Lochkovian
-> - *Yunnanolepis* sp. (Tông-Dzuy and Janvier 1990: Pragian; Tông-Dzuy and Janvier, 1987, Lochkovian)
+[*Yunnanolepis bacboensis*](https://www.deepbone.cn/index/index/index#/explor?s_id=57&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
+> Pragian, 410.8, 407.6
 
+> -  Bac Bun formation, Lang Son, Vietnam
+> - [Tông-Dzuy and Janvier, 1990](https://www.deepbone.cn/public/#/literature_details/24236)
+
+> - [*Yunnanolepis deprati*](https://www.deepbone.cn/index/index/index#/explor?s_id=58&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1990
+> Pragian, 410.8, 407.6
+
+> -  Bac Bun Formation, Lang Son, Vietnam
+> - [Tông-Dzuy and Janvier, 1990](https://www.deepbone.cn/public/#/literature_details/24236)
+
+> - [*Yunnanolepis meemannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=59&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1994
+> Pragian, 410.8, 407.6
+
+> - Bac Bun Formation, Trang Xa, Bac Thai, Vietnam.
+> - [Tong-Dzuy and Janvier, 1994](https://www.deepbone.cn/public/#/literature_details/101)
+
+> - [*Yunnanolepis porifera*](https://www.deepbone.cn/index/index/index#/explor?s_id=35&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Lochkovian, 419.2, 410.8
+
+> - Xitun Formation, Qujing, Yunnan
+> - [Zhang, 1978](https://www.deepbone.cn/public/#/literature_details/707); [Zhang, 1980](https://www.deepbone.cn/public/#/literature_details/1182); [Zhu, 1996](https://www.deepbone.cn/public/#/literature_details/669)
+
+> - [*Yunnanolepis spinulosa*](https://www.deepbone.cn/index/index/index#/explor?s_id=37&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
+> Lochkovian, 419.2, 410.8
+
+> - Si Ka Formation, Thai Nguyen, Vietnam
+> - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
+
+> - **Lack of solid materials, only AVL and scales**
+
+## Antiarch taxa not used in the analysis
+
+
+[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
+> upper Emsian to Famennian, 407.6, 358.9
+
+> - wide distribution.
+> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
+> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
+> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
+
+[*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
+> Famennian, 372.2, 358.9
+
+> - [Tuba Regional Stage, Minusinsk Trough, Russia]
+> - [Malinovskaya, 1992 ](https://www.deepbone.cn/public/#/literature_details/1211); [Moloshnikov, 1992](https://www.deepbone.cn/public/#/literature_details/1270)
+
+> - ***B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
+
+> - [*Minicrania lissa*] Janvier and Phuong, 1999
+> Lochkovian, 419.2, 410.8
+
+> - Hhao Loc Formation, Quan Ba, Vietnam
+> - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
+
+> - **Lack of description**
 
 
 **References**
