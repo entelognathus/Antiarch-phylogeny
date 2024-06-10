@@ -682,7 +682,7 @@ Remigolepis spp.
 > - [*Minicrania lissa*] Janvier and Phuong, 1999
 > Lochkovian, 419.2, 410.8
 
-> - Hhao Loc Formation, Quan Ba, Vietnam
+> - Khao Loc Formation, Quan Ba, Ha Giang, Vietnam
 > - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
 
 > - **Lack of description**
