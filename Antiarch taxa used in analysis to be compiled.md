@@ -155,7 +155,7 @@ Remigolepis spp.
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
 
 > - Kerman, Tabas Region, eastern Iran
-> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016]
+> - Eichwald, 1844; Karatajūte-Talimaa, 1960; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); [Plax, 2016](https://deepbone.org/public/#/literature_details/34924)
 
 [*Chuchinolepis dongmoensis*](https://www.deepbone.cn/index/index/index#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Pragian, Lower Devonian; 407.6, 410.8
@@ -175,7 +175,10 @@ Remigolepis spp.
 > - Haikou Formation, Wuding, Yunnan
 > - [Chang, 1965](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/92/20180522014418_2_993.pdf); [Pan *et al*., 2018](https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
 
-[*Gerdalepis rhenana*] (Beyrich) 1877
+[*Gerdalepis rhenana*](https://www.deepbone.cn/index/index/index#/explor?s_id=3335&functionId=Deepbone_header_searchResultOpen) Beyrich, 1877
+> Eifelian, 407.6, 393.3
+
+> - [Beyrich, 1877];[Denison, 1978](https://deepbone.org/public/#/literature_details/34513) 
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Late Famennian, 372.2, 358.9 
@@ -187,7 +190,7 @@ Remigolepis spp.
 > Early Givetian, 387.7, 382.7 
 
 > - Eifel, Germany
-> - [Denison, 1978]
+> - [Denison, 1978](https://deepbone.org/public/#/literature_details/34513)
 
 [*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) Gross, 1941
 > Early Frasnian, Upper Devonian, 382.7, 372.2
@@ -200,7 +203,7 @@ Remigolepis spp.
 > Eifelian, 393.3, 387.7
 
 > - Xindu Formation, He County, Guangxi
-> - Pan and Wang, 1978; Pan, 1984
+> - [Pan and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Pan, 1984](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1189/reference_id_1189_20200101100826276.pdf)
 
 [*Heteroyunnanolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=3296&functionId=Deepbone_header_searchResultOpen) Wang, 1994
 > Lochkovian, 419.2, 410.8
@@ -212,25 +215,25 @@ Remigolepis spp.
 > Givetian, 387.7, 382.7 
 
 > - Tiaomajian Formation, Tiaomajian, Yiyang, Hunan; Haikou Formation and Tanglishu Formation, Qujing and Kunming, Yunnan; Laohutou Formation, Shaoguan and Lechang, Guangdong
-> - P'an and Wang, 1978; Wang, 1991
+> - [P'an and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Zhang, 1979](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1210/reference_id_1210_20200101105752889.pdf); [Wang, 1991](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1210/reference_id_1210_20200101105752889.pdf)
 
 [*Jiangxilepis longibrachius*](https://deepbone.org/public/#/explor?s_id=42&functionId=Deepbone_header_searchResultOpen) Zhang and Liu, 1991
 > Famennian, 372.2, 358.9
 
 > - Sanmentan Formation, Yudu, Chongyi and Quannan, Jiangxi
-> - Zhang and Liu, 1991
+> - [Zhang and Liu, 1991](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/89/reference_id_89_20180519004752148.pdf)
 
 [*Kirgisolepis karabaltaensis*](https://deepbone.org/public/#/explor?s_id=3454&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
 > Upper Devonian, 382.7, 358.9
 
 > - Lenses of marl, siltstone and sandstone of the lower part of the Lower Taldybulak Subformation, at the mouth of the Uzunbulak Stream in the Kara-Balta River Basin, Kyrgyzstan
-> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); Panteleyev, 1992
+> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev, 1992](https://deepbone.org/public/#/literature_details/1212)
 
 [*Lepadolepis stensioei*](https://deepbone.org/public/#/explor?s_id=41703&functionId=Deepbone_header_searchResultOpen) Gross, 1933
 > Frasnian, 382.7, 372.2
 
 > - Kellwasserkalk of the Mimticoceras beds; Bad Wildungen, Germany
-> - Gross, 1933; Denison, 1978; Obruchev, 1964
+> - Gross, 1933; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); Obruchev, 1964
 
 [*Liujiangolepis suni*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Wang, 1987
 > Pragian to lower Emsian, 410.8, 393.3 
@@ -248,7 +251,7 @@ Remigolepis spp.
 > Givetian-Frasnian, 387.7, 372.2
 
 > - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
-> - Young, 2010
+> - [Young, 2010](https://www.deepbone.cn/index/index/index#/literature_details/982)
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > upper Givetian, 387.7, 382.7
