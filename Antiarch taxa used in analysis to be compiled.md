@@ -362,6 +362,12 @@ Tenizolepis bychkovi
 > - Xishancun Formation; Qujing, Yunnan.
 > - [Zhu and Janvier, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011278)
 
+[*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Pragian, 410.8; 407.6
+
+> - Xujiachong Formation, Longhua hill, Qujing, Yunnan
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
 [*Mizia parvus*](https://deepbone.org/public/#/explor?s_id=30&functionId=Deepbone_header_searchResultOpen) (Zhang, 1978)
 > Late Lochkovian, 419.2, 410.8
 
@@ -378,7 +384,7 @@ Tenizolepis bychkovi
 > Givetian, 387.7, 382.7
 
 > - Broken River Formation, northern Queensland, Australia
-> - Young, 1990
+> - [Young, 1990](https://deepbone.org/public/#/literature_details/1208)
 
 [*Ningxialepis spinosa*](https://deepbone.org/public/#/explor?s_id=45&functionId=Deepbone_header_searchResultOpen) Jia *et al*., 2010
 > Famennian, 372.2, 358.9
@@ -402,19 +408,13 @@ Tenizolepis bychkovi
 > Lochkovian, 419.2, 410.8 
 
 > - Xitun Formation, CuiFengShan, Qujing, Yunnan
-> - [Chang, 1978]; [Chang, 1980]; [Zhu, 1996]; [Young and Zhang, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011353); [Wang and Zhu, 2018](https://peerj.com/articles/4808/)
+> - [Chang, 1978](https://deepbone.org/public/#/literature_details/707); [Chang, 1980](https://deepbone.org/public/#/literature_details/1182); [Zhu, 1996](https://deepbone.org/public/#/literature_details/669); [Young and Zhang, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011353); [Wang and Zhu, 2018](https://peerj.com/articles/4808/)
 
 [*Pterichthyodes milleri*](https://deepbone.org/public/#/explor?s_id=3337&functionId=Deepbone_header_searchResultOpen) Miller ex Agassiz, 1859
 > upper Eifelian, 389.6, 387.7
 
 > - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
 > - Nilsson, 1941; Hemmings, 1978; [Long *et al*., 2015](https://www.nature.com/articles/nature13825).
-
-[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
-
-> - wide distribution.
-> - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
 [*Sherbonaspis hillsi*](https://deepbone.org/public/#/explor?s_id=6401&functionId=Deepbone_header_searchResultOpen) Young and Gorter, 1981
 > Eifelian, 393.3, 387.7 
@@ -437,7 +437,7 @@ Tenizolepis bychkovi
 [*Tenizolepis asiatica*](https://deepbone.org/public/#/explor?s_id=2111&functionId=Deepbone_header_searchResultOpen) Obrucheva 1955
 > Givetian, 387.7, 382.7 
 
-> - Middle Devonian of central Kazakhstan
+> - Taldysai Formation, ZhaksyKon Group, Kazakhstan
 > - [Moloshnikov, 2010](https://link.springer.com/article/10.1134/S0031030110020127); [2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
 [*Tenizolepis rara*](https://deepbone.org/public/#/explor?s_id=2110&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1977
@@ -457,8 +457,8 @@ Tenizolepis bychkovi
 [*Vanchienolepis langsonensis*](https://deepbone.org/public/#/explor?s_id=3488&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Pragian, 410.8, 407.6 
 
-> - Bac Bun, [horizon and locality]
-> - (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
+> - Bac Bun formation, Lang Son, Vietnam
+> - [Tông-Dzuy and Janvier, 1990](https://deepbone.org/public/#/literature_details/24236); [Janvier, 1995](https://deepbone.org/public/#/literature_details/1221); [Janvier and Phuong, 1999](https://deepbone.org/public/#/literature_details/1435)
 
 [*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
 > Givetian-Frasnian, 387.7,  372.2
@@ -470,7 +470,7 @@ Tenizolepis bychkovi
 > Upper Emsian, 407.6,  393.3
 
 > - Jiucheng Formation, Wuding, Yunnan.
-> - [Chang, 1965]
+> - [Chang, 1965](https://deepbone.org/public/#/literature_details/92)
 
 [*Wufengshania magniforaminis*](https://deepbone.org/public/#/explor?s_id=16&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2017
 > Upper Emsian, 407.6,  393.3 
@@ -488,13 +488,13 @@ Tenizolepis bychkovi
 > Givetian, 387.7, 382.7 
 
 > - [Haikou Formation, Yunnan Province: Xichong and Zhangjiaying, near Qujing; Dashishan, near Tonghai; Panxi, near Huaning; Zhaojiazhuang and the nearby cement quarry near Wuding]
-> - [Pan and Wang, 1978]; [Zhang, 1980](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090427_2386344.html); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
+> - [Pan and Wang, 1978](https://deepbone.org/public/#/literature_details/108); [Zhang, 1980](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090427_2386344.html); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 [*Yunnanolepis chii*](https://deepbone.org/public/#/explor?s_id=29&functionId=Deepbone_header_searchResultOpen) Liu, 1963
 > Lochkovian to Pragian, 419.2, 407.6 
 
 > - Guijiatun and Xujiachong formations of Qujing, Yunnan
-> - [Liu, 1963](https://www.semanticscholar.org/paper/ON-THE-ANTIARCHI-FROM-CHUTSING%2C-YUNNAN-Liu/aabac8525e218c0177e31fc089aa32221fb60518); [Chang, 1965](https://www.semanticscholar.org/paper/NEW-ANTIARCHS-FROM-THE-MIDDLE-DEVONIAN-OF-YUNNAN-Chang/7a71b6185d61019e4a0e180c1aff09552c6150f3); [Pan and Wang, 1978]; [Zhang, 1978]（https://ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090430_2386474.html）; [Tông-Dzuy and Janvier, 1990]; [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu *et al*., 1994]（https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1）; [Zhu, 1996];
+> - [Liu, 1963](https://www.semanticscholar.org/paper/ON-THE-ANTIARCHI-FROM-CHUTSING%2C-YUNNAN-Liu/aabac8525e218c0177e31fc089aa32221fb60518); [Chang, 1965](https://www.semanticscholar.org/paper/NEW-ANTIARCHS-FROM-THE-MIDDLE-DEVONIAN-OF-YUNNAN-Chang/7a71b6185d61019e4a0e180c1aff09552c6150f3); [Zhang, 1978](https://ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090430_2386474.html); [Tông-Dzuy and Janvier, 1990](https://deepbone.org/public/#/literature_details/24236); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu *et al*., 1994](https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
 > - Type species.
 
 [*Zhanjilepis aspratilis*](https://deepbone.org/public/#/explor?s_id=53&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
@@ -507,7 +507,7 @@ Tenizolepis bychkovi
 > Frasnian, 382.7, 372.2 
 
 > - Ogre  Formation, Daugava River near Bramberģe, Daugmale Parish, central Latvia
-> - [Gross, 1933a]; [Gross, 1964]; [Lukševičs, 2021]; [Plax and Lukševičs, 2023]
+> - [Gross, 1933a]; [Gross, 1964]; [Lukševičs, 2021](https://deepbone.org/public/#/literature_details/28831); [Plax and Lukševičs, 2023](https://www.app.pan.pl/archive/published/app68/app010752023.pdf)
 
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
 > Lochkovian-Pragian,  419.2, 407.6
@@ -520,7 +520,7 @@ Tenizolepis bychkovi
 > Lochkovian, 419.2, 410.8 
 
 > - Xishancun and Xitun Formation, Cuifengshan, Qujing, Yunnan
-> -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+> - [Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis robusta*](https://www.deepbone.cn/index/index/index#/explor?s_id=1298&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
 > Lochkovian, Lower Devonian; 419.2, 410.8 
@@ -544,13 +544,13 @@ Tenizolepis bychkovi
 > Frasnian, 382.7, 372.2
 
 > - Hazeldean Burn beds, Scotland.
-> - Miles, 1968
+> - [Miles, 1968](https://www.deepbone.cn/public/#/literature_details/1164)
 
 [*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross, 1942
 > Late Givetian to Frasnian, 387.7, 372.2
 
 > - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
-> - [Lukševičs, 1996]([https://www.sciencedirect.com/science/article/abs/pii/S0016699595800972](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
+> - [Lukševičs, 1996](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 
 [*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > Late Famennian, 372.2, 358.9
@@ -574,7 +574,7 @@ Tenizolepis bychkovi
 > Famennian, 372.2, 358.9
 
 > - Wutong Formation, Nanjing, Jiangsu
-> - [P'an, 1957]; [P'an, 1964]; [Zhang and Liu, 1991]
+> - [P'an, 1957]; [P'an, 1964]; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); [Li et al., 1984](https://deepbone.org/public/#/literature_details/14615); [Zhang and Liu, 1991]
 
 [*Livnolepis heckeri*](https://deepbone.org/public/#/explor?s_id=1391&functionId=Deepbone_header_searchResultOpen) Lukševics, 1996
 > Famennian, 372.2, 358.9
@@ -606,12 +606,6 @@ Tenizolepis bychkovi
 > - Chuandong Formation, Qujing, Yunnan
 > - [Wang and Zhang, 1999](https://www.vertpala.ac.cn/EN/abstract/abstract763.shtml)
 
-[*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
-> Pragian, 410.8; 407.6
-
-> - Xujiachong Formation, Longhua hill, Qujing, Yunnan
-> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
-
 [*Pambulaspis antarctica*](https://deepbone.org/public/#/explor?s_id=3510&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, 387.7, 382.7
 
@@ -625,43 +619,43 @@ Tenizolepis bychkovi
 
 > - **Should the cockscomb-shaped ridge on its AMD be considered as some kind of dorsal spine?**
 
-> - [Xitun Formation, CuiFengShan, Qujing, Yunnan]
+> - Xitun Formation, CuiFengShan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
-> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
+> - Zhongning Formation, Shixiagou, Niushoushan, Ningxia
 > - [Pan *et al*., 1987]
 
 [*Remigolepis major*](https://deepbone.org/public/#/explor?s_id=3516&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
-> - [Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu]
+> - Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu
 > - [Pan *et al*., 1987]
 
 [*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
-> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
+> - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
 > - [Pan *et al*., 1987]
 
 [*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
-> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
+> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
 > - [Pan *et al*., 1987]
 
 [*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
-> - [Zhongning Formation, Hongshiyan, Zhongwei, Ningxia]
+> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
 > - [Pan *et al*., 1987]
 
 [*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
-> - [Zhongning Formation, Shixiagou, Yantongshan, Ningxia]
+> - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
 > - [Pan *et al*., 1987]
 
 [*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
@@ -680,7 +674,7 @@ Tenizolepis bychkovi
 > Famennian, 372.2, 358.9 
 
 > - Khovanshchian Horizon, Tula Region, right bank of the Tresna River, 300 m upstream from the village of Andreevka
-> - [Lukševičs, 1991]; [Moloshnikov, 2008](https://link.springer.com/article/10.1134/S0031030108070010)
+> - [Lukševičs, 1991](https://deepbone.org/public/#/literature_details/28973); [Moloshnikov, 2008](https://link.springer.com/article/10.1134/S0031030108070010)
 
 [*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
 > Famennian, 372.2, 358.9 
@@ -692,7 +686,7 @@ Tenizolepis bychkovi
 > Famennian, 372.2, 358.9 
 
 > - Torsuj Formation, northern Tien Shan, southern slope of Kirgiz Mountain Range, right bank of Karakol Zapadnyi River mouth region of Ala-Archa stream
-> - [Panteleyev, 1992]
+> - [Panteleyev, 1992](https://www.deepbone.cn/public/#/literature_details/1212)
 
 [*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > Famennian, 372.2, 358.9 
@@ -746,25 +740,25 @@ Tenizolepis bychkovi
 > -  Bac Bun formation, Lang Son, Vietnam
 > - [Tông-Dzuy and Janvier, 1990](https://www.deepbone.cn/public/#/literature_details/24236)
 
-> - [*Yunnanolepis deprati*](https://www.deepbone.cn/index/index/index#/explor?s_id=58&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1990
+[*Yunnanolepis deprati*](https://www.deepbone.cn/index/index/index#/explor?s_id=58&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1990
 > Pragian, 410.8, 407.6
 
 > -  Bac Bun Formation, Lang Son, Vietnam
 > - [Tông-Dzuy and Janvier, 1990](https://www.deepbone.cn/public/#/literature_details/24236)
 
-> - [*Yunnanolepis meemannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=59&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1994
+[*Yunnanolepis meemannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=59&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1994
 > Pragian, 410.8, 407.6
 
 > - Bac Bun Formation, Trang Xa, Bac Thai, Vietnam.
 > - [Tong-Dzuy and Janvier, 1994](https://www.deepbone.cn/public/#/literature_details/101)
 
-> - [*Yunnanolepis porifera*](https://www.deepbone.cn/index/index/index#/explor?s_id=35&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+[*Yunnanolepis porifera*](https://www.deepbone.cn/index/index/index#/explor?s_id=35&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
 > Lochkovian, 419.2, 410.8
 
 > - Xitun Formation, Qujing, Yunnan
 > - [Zhang, 1978](https://www.deepbone.cn/public/#/literature_details/707); [Zhang, 1980](https://www.deepbone.cn/public/#/literature_details/1182); [Zhu, 1996](https://www.deepbone.cn/public/#/literature_details/669)
 
-> - [*Yunnanolepis spinulosa*](https://www.deepbone.cn/index/index/index#/explor?s_id=37&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
+[*Yunnanolepis spinulosa*](https://www.deepbone.cn/index/index/index#/explor?s_id=37&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
 > Lochkovian, 419.2, 410.8
 
 > - Si Ka Formation, Thai Nguyen, Vietnam
@@ -796,6 +790,12 @@ Tenizolepis bychkovi
 
 > - Khao Loc Formation, Quan Ba, Ha Giang, Vietnam
 > - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
+
+[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
+> Famennian, 372.2, 358.9
+
+> - wide distribution.
+> - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
 
 > - **Lack of description**
 
