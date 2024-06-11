@@ -22,89 +22,185 @@ Kujdanowiaspis podolica
 
 Romundina stellina
 
-Chuchinolepis dongmoensis
-
-Vanchienolepis langsonensis
-
-Zhanjilepis aspratilis 
-
-Heteroyunnanolepis qujingensis
-
-Yunnanolepis chii
-
-Mizia parvus
-
-Phymolepis cuifengshanensis
-
-Parayunnanolepis xitunensis
-
-Minicrania lirouyii
-
-Liujiangolepis suni
-
-Xichonolepis qujingensis
-
-Dayaoshania youngi
-
-Grenfellaspis branagani
-
-Sinolepis macrocephala
-
-Wudinolepis weni
-
-Hohsienolepis hsintuensis
-
-Microbrachius dicki
+Asperaspis carinata
 
 Bothriolepis canadensis
 
-Grossilepis tuberculata
-
-Wufengshania magniforaminis
-
 Briagalepis warreni
-
-Monarolepis verrucosa
-
-Vietnamaspis trii
-
-Dianolepis liui
-
-Tenizolepis bychkovi
-
-Luquanolepis pileos
-
-Nawagiaspis wadeae
-
-Jiangxilepis longibrachius
-
-Ningxialepis spinosa
-
-Kirgisolepis karabaltaensis
-
-Hunanolepis tieni
-
-Wurungulepis denisoni
-
-Sherbonaspis hillsi
-
-Stegolepis jugata
 
 Byssacanthus dilatatus
 
-Pterichthyodes milleri
+Chuchinolepis dongmoensis
 
-Grossaspis carinata
+Chuchinolepis gracilis 
 
-Lepadolepis stensioei
+Chuchinolepis qujingensis
+
+Chuchinolepis robusta
+
+Chuchinolepis sulcata
+
+Dayaoshania youngi
+
+Dianolepis liui
 
 Gerdalepis rhenana
 
+Gerdalepis jesseni
+
+Grenfellaspis branagani
+
+Grossaspis carinata
+
+Grossilepis brandi
+
+Grossilepis rikiki
+
+Grossilepis tuberculata
+
+Heteroyunnanolepis qujingensis
+
+Hohsienolepis hsintuensis
+
+Houershanaspis zhangi
+
+Hunanolepis tieni
+
+Hyrcanaspis bliecki
+
+Jiangxilepis longibrachius
+
+Jiangxilepis sinensis
+
+Kirgisolepis karabaltaensis
+
+Lepadolepis stensioei
+
+Liujiangolepis suni
+
+Livnolepis heckeri
+
+Livnolepis zadonica
+
+Luquanolepis pileos
+
+Merimbulaspis meemannae
+
+Microbranhius chuandongensis
+
+Microbrachius dicki
+
+Microbrachius kedoae
+
+Microbrachius sinensis
+
+Minicrania lirouyii
+
+Mizia longhuaensis
+
+Mizia parvus
+
+Monarolepis verrucosa
+
+Nawagiaspis wadeae
+
+Ningxialepis spinosa
+
+Pambulaspis antarctica
+
 Pambulaspis cobandrahensis
 
-Asterolepis ornata
+Parayunnanolepis xitunensis
 
+Phymolepis cuifengshanensis
+
+Phymolepis guoruii
+
+Pterichthyodes milleri
+
+Remigolepis armata
+
+Remigolepis durnalensis
+
+Remigolepis karakoliensis
+
+Remigolepis major
+
+Remigolepis microcephala
+
+Remigolepis redcliffensis
+
+Remigolepis suusamyrensi
+
+Remigolepis walkeri
+
+Remigolepis xiangshanensis
+
+Remigolepis xixiaensis
+
+Remigolepis zhongningensis
+
+Remigolepis zhongweiensis
+
+Sherbonaspis andreannae
+
+Sherbonaspis hillsi
+
+Sherbonaspis talimaae
+
+Sinolepis macrocephala
+
+Sinolepis szei
+
+Sinolepis wutungensis
+
+Stegolepis jugata
+
+Stegolepis tuberculata
+
+Tenizolepis asiatica
+
+Tenizolepis rara
+
+Tongdulepis
+
+Tubalepis extensa
+
+Vanchienolepis langsonensis
+
+Vietnamaspis trii
+
+Walterilepis speciosa
+
+Wudinolepis weni
+
+Wufengshania magniforaminis
+
+Wurungulepis denisoni
+
+Xichonolepis qujingensis
+
+Yunnanolepis bacboensis
+
+Yunnanolepis chii
+
+Yunnanolepis deprati
+
+Yunnanolepis meemannae
+
+Yunnanolepis porifera
+
+Yunnanolepis spinulosa
+
+Zhanjilepis aspratilis
+
+**More features required**
+Minicrania lissa
+
+**Deleted**
+Bothriolepis spp.
 Remigolepis spp.
+Tenizolepis bychkovi
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -155,7 +251,7 @@ Remigolepis spp.
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
 
 > - Kerman, Tabas Region, eastern Iran
-> - Eichwald, 1844; Karatajūte-Talimaa, 1960; Denison, 1978; [Plax, 2016]
+> - Eichwald, 1844; Karatajūte-Talimaa, 1960; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); [Plax, 2016](https://deepbone.org/public/#/literature_details/34924)
 
 [*Chuchinolepis dongmoensis*](https://www.deepbone.cn/index/index/index#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Pragian, Lower Devonian; 407.6, 410.8
@@ -175,7 +271,10 @@ Remigolepis spp.
 > - Haikou Formation, Wuding, Yunnan
 > - [Chang, 1965](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/92/20180522014418_2_993.pdf); [Pan *et al*., 2018](https://www.researchgate.net/publication/318968833_A_new_antiarch_placoderm_from_the_Emsian_Early_Devonian_of_Wuding_Yunnan_China)
 
-[*Gerdalepis rhenana*] (Beyrich) 1877
+[*Gerdalepis rhenana*](https://www.deepbone.cn/index/index/index#/explor?s_id=3335&functionId=Deepbone_header_searchResultOpen) Beyrich, 1877
+> Eifelian, 407.6, 393.3
+
+> - [Beyrich, 1877];[Denison, 1978](https://deepbone.org/public/#/literature_details/34513) 
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Late Famennian, 372.2, 358.9 
@@ -187,7 +286,7 @@ Remigolepis spp.
 > Early Givetian, 387.7, 382.7 
 
 > - Eifel, Germany
-> - [Denison, 1978]
+> - [Denison, 1978](https://deepbone.org/public/#/literature_details/34513)
 
 [*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) Gross, 1941
 > Early Frasnian, Upper Devonian, 382.7, 372.2
@@ -200,7 +299,7 @@ Remigolepis spp.
 > Eifelian, 393.3, 387.7
 
 > - Xindu Formation, He County, Guangxi
-> - Pan and Wang, 1978; Pan, 1984
+> - [Pan and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Pan, 1984](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1189/reference_id_1189_20200101100826276.pdf)
 
 [*Heteroyunnanolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=3296&functionId=Deepbone_header_searchResultOpen) Wang, 1994
 > Lochkovian, 419.2, 410.8
@@ -212,25 +311,25 @@ Remigolepis spp.
 > Givetian, 387.7, 382.7 
 
 > - Tiaomajian Formation, Tiaomajian, Yiyang, Hunan; Haikou Formation and Tanglishu Formation, Qujing and Kunming, Yunnan; Laohutou Formation, Shaoguan and Lechang, Guangdong
-> - P'an and Wang, 1978; Wang, 1991
+> - [P'an and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Zhang, 1979](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1210/reference_id_1210_20200101105752889.pdf); [Wang, 1991](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1210/reference_id_1210_20200101105752889.pdf)
 
 [*Jiangxilepis longibrachius*](https://deepbone.org/public/#/explor?s_id=42&functionId=Deepbone_header_searchResultOpen) Zhang and Liu, 1991
 > Famennian, 372.2, 358.9
 
 > - Sanmentan Formation, Yudu, Chongyi and Quannan, Jiangxi
-> - Zhang and Liu, 1991
+> - [Zhang and Liu, 1991](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/89/reference_id_89_20180519004752148.pdf)
 
 [*Kirgisolepis karabaltaensis*](https://deepbone.org/public/#/explor?s_id=3454&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
 > Upper Devonian, 382.7, 358.9
 
 > - Lenses of marl, siltstone and sandstone of the lower part of the Lower Taldybulak Subformation, at the mouth of the Uzunbulak Stream in the Kara-Balta River Basin, Kyrgyzstan
-> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); Panteleyev, 1992
+> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev, 1992](https://deepbone.org/public/#/literature_details/1212)
 
 [*Lepadolepis stensioei*](https://deepbone.org/public/#/explor?s_id=41703&functionId=Deepbone_header_searchResultOpen) Gross, 1933
 > Frasnian, 382.7, 372.2
 
 > - Kellwasserkalk of the Mimticoceras beds; Bad Wildungen, Germany
-> - Gross, 1933; Denison, 1978; Obruchev, 1964
+> - Gross, 1933; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); Obruchev, 1964
 
 [*Liujiangolepis suni*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Wang, 1987
 > Pragian to lower Emsian, 410.8, 393.3 
@@ -248,7 +347,7 @@ Remigolepis spp.
 > Givetian-Frasnian, 387.7, 372.2
 
 > - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
-> - Young, 2010
+> - [Young, 2010](https://www.deepbone.cn/index/index/index#/literature_details/982)
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > upper Givetian, 387.7, 382.7
@@ -326,7 +425,7 @@ Remigolepis spp.
 [*Sinolepis macrocephala*](https://deepbone.org/public/#/explor?s_id=61&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > Famennian, 372.2, 358.9
 
-> - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
+> - Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China
 > - [Liu and P'an, 1958]; [Ritchie et al., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 [*Stegolepis jugata*](https://deepbone.org/public/#/explor?s_id=3447&functionId=Deepbone_header_searchResultOpen) Malinovskaja, 1973
@@ -350,7 +449,7 @@ Remigolepis spp.
 [*Tenizolepis bychkovi*](https://deepbone.org/public/#/explor?s_id=2109&functionId=Deepbone_header_searchResultOpen) Malinovskaya 1992
 > Givetian, 387.7, 382.7
 
-> - **Moloshnikov suggested it is regarded as asynonym of *B. babichevi* [2012](https://deepbone.org/public/#/literature_details/1272). The PMD in holotype may belong to *B. babichevi*, the AMD still differ with *Bothriolepis* and *Tenizolepis***
+> - **Moloshnikov suggested it is regarded as asynonym of *B. babichevi* [2012](https://deepbone.org/public/#/literature_details/1272). The PMD in holotype may belong to *B. babichevi*, the AMD still differ with *Bothriolepis***
 
 > - Konyr Formation, Lower Konyr Subformation, Central Kazakhstan, right bank of the Shiderti River, Trudovoe village
 > - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099)
@@ -362,24 +461,28 @@ Remigolepis spp.
 > - (Tông-Dzuy and Janvier, 1990; Janvier, 1995; Janvier and Phuong, 1999)
 
 [*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
-> Givetian-Frasnian, Devonian 
-> - [horizon and locality]
-> - (Long *et al*., 1990)
+> Givetian-Frasnian, 387.7,  372.2
+
+> - Dô Son  Formation, Dô Son  peninsula, north Vietnam
+> - [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
 
 [*Wudinolepis weni*](https://deepbone.org/public/#/explor?s_id=26&functionId=Deepbone_header_searchResultOpen) Chang, 1965
-> Upper Emsian, Lower Devonian 
+> Upper Emsian, 407.6,  393.3
+
 > - Jiucheng Formation, Wuding, Yunnan.
-> - Chang, 1965
+> - [Chang, 1965]
 
 [*Wufengshania magniforaminis*](https://deepbone.org/public/#/explor?s_id=16&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 2017
-> Upper Emsian, Lower Devonian 
+> Upper Emsian, 407.6,  393.3 
+
 > - Jiucheng Formation, Wuding, Yunnan.
-> - Pan, 1984; Pan *et al*., 2018
+> - [Pan *et al*., 2018](https://www.tandfonline.com/doi/full/10.1080/03115518.2017.1338357)
 
 [*Wurungulepis denisoni*](https://deepbone.org/public/#/explor?s_id=8131&functionId=Deepbone_header_searchResultOpen) Young, 1990
-> Eifelian, Middle Devonian 
-> - [horizon and locality]
-> - (Burrow, 1999; Burrow and Turner, 1998; Young, 1990)
+> Eifelian, 393.3,  387.7
+
+> - Broken River Formation,  north bank of Broken River
+> - [Young, 1990](https://www.researchgate.net/publication/292647910_New_antiarchs_Devonian_placoderm_fishes_from_Queensland_with_comments_on_placoderm_phylogeny_and_biogeography); [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Burrow and Turner, 1999](https://www.tandfonline.com/doi/abs/10.1080/02724634.1999.10011135) 
 
 [*Xichonolepis qujingensis*](https://deepbone.org/public/#/explor?s_id=3307&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Givetian, 387.7, 382.7 
@@ -388,55 +491,47 @@ Remigolepis spp.
 > - [Pan and Wang, 1978]; [Zhang, 1980](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090427_2386344.html); [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia)
 
 [*Yunnanolepis chii*](https://deepbone.org/public/#/explor?s_id=29&functionId=Deepbone_header_searchResultOpen) Liu, 1963
-> Lochkovian to Pragian, Lower Devonian 
-> - [horizon and locality]
-> - (Chang, 1965; Liu, 1963; Liu, 1992; Pan and Wang, 1978; Tông-Dzuy and Janvier, 1990; Zhang, 1978; Zhu, 1996; Zhu *et al*., 1994)
+> Lochkovian to Pragian, 419.2, 407.6 
+
+> - Guijiatun and Xujiachong formations of Qujing, Yunnan
+> - [Liu, 1963](https://www.semanticscholar.org/paper/ON-THE-ANTIARCHI-FROM-CHUTSING%2C-YUNNAN-Liu/aabac8525e218c0177e31fc089aa32221fb60518); [Chang, 1965](https://www.semanticscholar.org/paper/NEW-ANTIARCHS-FROM-THE-MIDDLE-DEVONIAN-OF-YUNNAN-Chang/7a71b6185d61019e4a0e180c1aff09552c6150f3); [Pan and Wang, 1978]; [Zhang, 1978]（https://ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200904/t20090430_2386474.html）; [Tông-Dzuy and Janvier, 1990]; [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu *et al*., 1994]（https://www.vertpala.ac.cn/CN/Y1994/V32/I01/1）; [Zhu, 1996];
 > - Type species.
 
 [*Zhanjilepis aspratilis*](https://deepbone.org/public/#/explor?s_id=53&functionId=Deepbone_header_searchResultOpen) Zhang, 1978
 > Lochkovian, Lower Devonian, 419.2, 410.8
 
-> - Qujing, Yunnan
+> - Xitun Formation, Cuifengshan, Qujing, Yunnan
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
 
 [*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
-> Frasnian, Upper Devonian 
-> - [horizon and locality]
-> - (Gross, 1933a; Gross, 1964; Lukševičs, 2021; Plax and Lukševičs, 2023)
+> Frasnian, 382.7, 372.2 
 
-## Antiarch taxa not used in the analysis
-
-[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian to Famennian, 407.6, 358.9
-
-> - wide distribution.
-> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
-> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
-> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
+> - Ogre  Formation, Daugava River near Bramberģe, Daugmale Parish, central Latvia
+> - [Gross, 1933a]; [Gross, 1964]; [Lukševičs, 2021]; [Plax and Lukševičs, 2023]
 
 [*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
-> Lochkovian-Pragian, Lower Devonian; 419.2, 407.6
+> Lochkovian-Pragian,  419.2, 407.6
 
-> - Qujing, Yunnan; Liujing, Heng county, Guangxi
+> -  Xishancun Formation, Cuifengshan, Qujing, Yunnan; Lianhuashan Formation， Liujing, Guangxi
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 > - Type species.
 
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
-> Lochkovian, Lower Devonian; 419.2, 410.8 
+> Lochkovian, 419.2, 410.8 
 
-> - Qujing, Yunnan
+> - Xishancun and Xitun Formation, Cuifengshan, Qujing, Yunnan
 > -[Zhang, 1984](http://www.ivpp.ac.cn/cbw/gjzdwxb/xbwzxz/200903/t20090327_2386206.html); [Zhu *et al*., 1994](http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/200812/t20081223_2385675.html); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Chuchinolepis robusta*](https://www.deepbone.cn/index/index/index#/explor?s_id=1298&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
 > Lochkovian, Lower Devonian; 419.2, 410.8 
 
-> - Qujing, Yunnan
+> -  Xitun Formation, Cuifengshan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China); [Wang *et al*., 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/156/reference_id_156_20180719151638930.pdf) 
 
 [*Chuchinolepis sulcata*](https://www.deepbone.cn/index/index/index#/explor?s_id=1154&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
-> Lochkovian, Lower Devonian; 419.2, 410.8 
+> Lochkovian, 419.2, 410.8 
 
-> - Qujing, Yunnan
+> -  Xitun Formation, Cuifengshan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 
 [*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
@@ -608,8 +703,6 @@ Remigolepis spp.
 [*Sherbonaspis andreannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=3446&functionId=Deepbone_header_searchResultOpen) Panteleyev 1993
 > Givetian, 387.7, 382.7
 
-> - **The AMD cantacting is *Remigolepis* type, differ with the type specie *Sherbonaspis hillsi* [Young and Gorter, 1981](https://deepbone.org/public/#/literature_details/1361)**
-
 [*Sherbonaspis talimaae*](https://www.deepbone.cn/index/index/index#/explor?s_id=172078&functionId=Deepbone_header_searchResultOpen) Plax and Lukševičs, 2023
 > Upper Emsian, 407.6, 393.3
 
@@ -641,25 +734,70 @@ Remigolepis spp.
 > - Tuba Regional Stage, Minusinsk Trough, Russia
 > - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
 
-[*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
-
-> - Tuba Regional Stage, Minusinsk Trough, Russia
-> - [Malinovskaya, 1992 ](https://www.deepbone.cn/public/#/literature_details/1211); [Moloshnikov, 1992](https://www.deepbone.cn/public/#/literature_details/1270)
-
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
 
 > - South China and northern Vietnam.
 > - Zhang, 1980; Zhu, 1996
 
-> - *Yunnanolepis bacboensis* Tông-Dzuy and Janvier 1990, early Pragian
-> - *Yunnanolepis deprati* Tong-Dzuy and Janvier 1990, Pragian
-> - *Yunnanolepis meemannae* Tong-Dzuy and Janvier 1994
-> - *Yunnanolepis porifera* Zhu 1996, Lochkovian
-> - *Yunnanolepis spinulosa* Janvier and Phuong 1999, Lochkovian
-> - *Yunnanolepis* sp. (Tông-Dzuy and Janvier 1990: Pragian; Tông-Dzuy and Janvier, 1987, Lochkovian)
+[*Yunnanolepis bacboensis*](https://www.deepbone.cn/index/index/index#/explor?s_id=57&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
+> Pragian, 410.8, 407.6
 
+> -  Bac Bun formation, Lang Son, Vietnam
+> - [Tông-Dzuy and Janvier, 1990](https://www.deepbone.cn/public/#/literature_details/24236)
+
+> - [*Yunnanolepis deprati*](https://www.deepbone.cn/index/index/index#/explor?s_id=58&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1990
+> Pragian, 410.8, 407.6
+
+> -  Bac Bun Formation, Lang Son, Vietnam
+> - [Tông-Dzuy and Janvier, 1990](https://www.deepbone.cn/public/#/literature_details/24236)
+
+> - [*Yunnanolepis meemannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=59&functionId=Deepbone_header_searchResultOpen) Tong-Dzuy and Janvier, 1994
+> Pragian, 410.8, 407.6
+
+> - Bac Bun Formation, Trang Xa, Bac Thai, Vietnam.
+> - [Tong-Dzuy and Janvier, 1994](https://www.deepbone.cn/public/#/literature_details/101)
+
+> - [*Yunnanolepis porifera*](https://www.deepbone.cn/index/index/index#/explor?s_id=35&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Lochkovian, 419.2, 410.8
+
+> - Xitun Formation, Qujing, Yunnan
+> - [Zhang, 1978](https://www.deepbone.cn/public/#/literature_details/707); [Zhang, 1980](https://www.deepbone.cn/public/#/literature_details/1182); [Zhu, 1996](https://www.deepbone.cn/public/#/literature_details/669)
+
+> - [*Yunnanolepis spinulosa*](https://www.deepbone.cn/index/index/index#/explor?s_id=37&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
+> Lochkovian, 419.2, 410.8
+
+> - Si Ka Formation, Thai Nguyen, Vietnam
+> - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
+
+> - **Lack of solid materials, only AVL and scales**
+
+## Antiarch taxa not used in the analysis
+
+
+[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
+> upper Emsian to Famennian, 407.6, 358.9
+
+> - wide distribution.
+> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
+> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
+> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
+
+[*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
+> Famennian, 372.2, 358.9
+
+> - Tuba Regional Stage, Minusinsk Trough, Russia
+> - [Malinovskaya, 1992 ](https://www.deepbone.cn/public/#/literature_details/1211); [Moloshnikov, 1992](https://www.deepbone.cn/public/#/literature_details/1270)
+
+> - ***B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
+
+[*Minicrania lissa*] Janvier and Phuong, 1999
+> Lochkovian, 419.2, 410.8
+
+> - Khao Loc Formation, Quan Ba, Ha Giang, Vietnam
+> - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
+
+> - **Lack of description**
 
 
 **References**
