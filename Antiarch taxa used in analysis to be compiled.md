@@ -22,89 +22,185 @@ Kujdanowiaspis podolica
 
 Romundina stellina
 
-Chuchinolepis dongmoensis
-
-Vanchienolepis langsonensis
-
-Zhanjilepis aspratilis 
-
-Heteroyunnanolepis qujingensis
-
-Yunnanolepis chii
-
-Mizia parvus
-
-Phymolepis cuifengshanensis
-
-Parayunnanolepis xitunensis
-
-Minicrania lirouyii
-
-Liujiangolepis suni
-
-Xichonolepis qujingensis
-
-Dayaoshania youngi
-
-Grenfellaspis branagani
-
-Sinolepis macrocephala
-
-Wudinolepis weni
-
-Hohsienolepis hsintuensis
-
-Microbrachius dicki
+Asperaspis carinata
 
 Bothriolepis canadensis
 
-Grossilepis tuberculata
-
-Wufengshania magniforaminis
-
 Briagalepis warreni
-
-Monarolepis verrucosa
-
-Vietnamaspis trii
-
-Dianolepis liui
-
-Tenizolepis bychkovi
-
-Luquanolepis pileos
-
-Nawagiaspis wadeae
-
-Jiangxilepis longibrachius
-
-Ningxialepis spinosa
-
-Kirgisolepis karabaltaensis
-
-Hunanolepis tieni
-
-Wurungulepis denisoni
-
-Sherbonaspis hillsi
-
-Stegolepis jugata
 
 Byssacanthus dilatatus
 
-Pterichthyodes milleri
+Chuchinolepis dongmoensis
 
-Grossaspis carinata
+Chuchinolepis gracilis 
 
-Lepadolepis stensioei
+Chuchinolepis qujingensis
+
+Chuchinolepis robusta
+
+Chuchinolepis sulcata
+
+Dayaoshania youngi
+
+Dianolepis liui
 
 Gerdalepis rhenana
 
+Gerdalepis jesseni
+
+Grenfellaspis branagani
+
+Grossaspis carinata
+
+Grossilepis brandi
+
+Grossilepis rikiki
+
+Grossilepis tuberculata
+
+Heteroyunnanolepis qujingensis
+
+Hohsienolepis hsintuensis
+
+Houershanaspis zhangi
+
+Hunanolepis tieni
+
+Hyrcanaspis bliecki
+
+Jiangxilepis longibrachius
+
+Jiangxilepis sinensis
+
+Kirgisolepis karabaltaensis
+
+Lepadolepis stensioei
+
+Liujiangolepis suni
+
+Livnolepis heckeri
+
+Livnolepis zadonica
+
+Luquanolepis pileos
+
+Merimbulaspis meemannae
+
+Microbranhius chuandongensis
+
+Microbrachius dicki
+
+Microbrachius kedoae
+
+Microbrachius sinensis
+
+Minicrania lirouyii
+
+Mizia longhuaensis
+
+Mizia parvus
+
+Monarolepis verrucosa
+
+Nawagiaspis wadeae
+
+Ningxialepis spinosa
+
+Pambulaspis antarctica
+
 Pambulaspis cobandrahensis
 
-Asterolepis ornata
+Parayunnanolepis xitunensis
 
+Phymolepis cuifengshanensis
+
+Phymolepis guoruii
+
+Pterichthyodes milleri
+
+Remigolepis armata
+
+Remigolepis durnalensis
+
+Remigolepis karakoliensis
+
+Remigolepis major
+
+Remigolepis microcephala
+
+Remigolepis redcliffensis
+
+Remigolepis suusamyrensi
+
+Remigolepis walkeri
+
+Remigolepis xiangshanensis
+
+Remigolepis xixiaensis
+
+Remigolepis zhongningensis
+
+Remigolepis zhongweiensis
+
+Sherbonaspis andreannae
+
+Sherbonaspis hillsi
+
+Sherbonaspis talimaae
+
+Sinolepis macrocephala
+
+Sinolepis szei
+
+Sinolepis wutungensis
+
+Stegolepis jugata
+
+Stegolepis tuberculata
+
+Tenizolepis asiatica
+
+Tenizolepis rara
+
+Tongdulepis
+
+Tubalepis extensa
+
+Vanchienolepis langsonensis
+
+Vietnamaspis trii
+
+Walterilepis speciosa
+
+Wudinolepis weni
+
+Wufengshania magniforaminis
+
+Wurungulepis denisoni
+
+Xichonolepis qujingensis
+
+Yunnanolepis bacboensis
+
+Yunnanolepis chii
+
+Yunnanolepis deprati
+
+Yunnanolepis meemannae
+
+Yunnanolepis porifera
+
+Yunnanolepis spinulosa
+
+Zhanjilepis aspratilis
+
+**More features required**
+Minicrania lissa
+
+**Deleted**
+Bothriolepis spp.
 Remigolepis spp.
+Tenizolepis bychkovi
 
 [Taxon name with Deepbone link] Author(s), Date
 > [geological range], XXX (maximum age), YYY (minimum age)
@@ -679,7 +775,7 @@ Remigolepis spp.
 
 > - ***B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
 
-> - [*Minicrania lissa*] Janvier and Phuong, 1999
+[*Minicrania lissa*] Janvier and Phuong, 1999
 > Lochkovian, 419.2, 410.8
 
 > - Khao Loc Formation, Quan Ba, Ha Giang, Vietnam
