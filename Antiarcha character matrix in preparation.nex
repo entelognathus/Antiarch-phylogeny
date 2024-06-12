@@ -1,11 +1,11 @@
 #NEXUS
-[written Wed Jun 12 11:32:16 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
+[written Wed Jun 12 11:35:28 CST 2024 by Mesquite  version 3.81 (build 955) at DESKTOP-LGAA6QN/192.168.199.233]
 
 BEGIN TAXA;
 	TITLE Taxa;
 	DIMENSIONS NTAX=86;
 	TAXLABELS
-		Kujdanowiaspis_podolica Romundina_stellina Asperaspis_carinata Asterolepis_ornata Bothriolepis_canadensis Briagalepis_warreni Byssacanthus_dilatatus Chuchinolepis_dongmoensis Dayaoshania_youngi Dianolepis_liui Gerdalepis_rhenana Grenfellaspis_branagani Grossaspis_carinata Grossilepis_brandi Grossilepis_rikiki Grossilepis_tuberculata Heteroyunnanolepis_qujingensis Hohsienolepis_hsintuensis Hunanolepis_tieni Jiangxilepis_longibrachius Kirgisolepis_karabaltaensis Lepadolepis_stensioei Liujiangolepis_suni Luquanolepis_pileos Merimbulaspis_meemannae Microbrachius_dicki Minicrania_lirouyii Mizia_longhuaensis Mizia_parvus Monarolepis_verrucosa Nawagiaspis_wadeae Ningxialepis_spinosa Pambulaspis_cobandrahensis Parayunnanolepis_xitunensis Phymolepis_cuifengshanensis Pterichthyodes_milleri Remigolepis_spp. Sherbonaspis_hillsi Stegolepis_jugata Tenizolepis_asiatica Tenizolepis_rara Tenizolepis_bychkovi Tubalepis_extensa Vanchienolepis_langsonensis Vietnamaspis_trii Walterilepis_speciosa Wudinolepis_weni Wufengshania_magniforaminis Wurungulepis_denisoni Xichonolepis_qujingensis Yunnanolepis_chii Zhanjilepis_aspratilis Tongdulepis Chuchinolepis_gracilis_ Chuchinolepis_qujingensis Chuchinolepis_robusta Chuchinolepis_sulcata Gerdalepis_jesseni Houershanaspis_zhangi Hyrcanaspis_bliecki Jiangxilepis_sinensis Livnolepis_heckeri Livnolepis_zadonica Microbranhius_chuandongensis Microbrachius_kedoae Microbrachius_sinensis Pambulaspis_antarctica Phymolepis_guoruii Remigolepis_armata Remigolepis_durnalensis Remigolepis_karakoliensis Remigolepis_major Remigolepis_microcephala Remigolepis_redcliffensis Remigolepis_xiangshanensis Remigolepis_walkeri Remigolepis_xixiaensis Remigolepis_zhongningensis Remigolepis_zhongweiensis Sinolepis_macrocephala Sherbonaspis_andreannae Sherbonaspis_talimaae Sinolepis_szei Sinolepis_wutungensis Stegolepis_tuberculata Tubalepis_babichevi 
+		Kujdanowiaspis_podolica Romundina_stellina Asperaspis_carinata Asterolepis_ornata Bothriolepis_canadensis Briagalepis_warreni Byssacanthus_dilatatus Chuchinolepis_dongmoensis Dayaoshania_youngi Dianolepis_liui Gerdalepis_rhenana Grenfellaspis_branagani Grossaspis_carinata Grossilepis_brandi Grossilepis_rikiki Grossilepis_tuberculata Heteroyunnanolepis_qujingensis Hohsienolepis_hsintuensis Hunanolepis_tieni Jiangxilepis_longibrachius Kirgisolepis_karabaltaensis Lepadolepis_stensioei Liujiangolepis_suni Luquanolepis_pileos Merimbulaspis_meemannae Microbrachius_dicki Minicrania_lirouyii Mizia_longhuaensis Mizia_parvus Monarolepis_verrucosa Nawagiaspis_wadeae Ningxialepis_spinosa Pambulaspis_cobandrahensis Parayunnanolepis_xitunensis Phymolepis_cuifengshanensis Pterichthyodes_milleri Remigolepis_spp. Sherbonaspis_hillsi Sinolepis_macrocephala Stegolepis_jugata Tenizolepis_asiatica Tenizolepis_rara Tenizolepis_bychkovi Tubalepis_extensa Vanchienolepis_langsonensis Vietnamaspis_trii Walterilepis_speciosa Wudinolepis_weni Wufengshania_magniforaminis Wurungulepis_denisoni Xichonolepis_qujingensis Yunnanolepis_chii Zhanjilepis_aspratilis Tongdulepis Chuchinolepis_gracilis_ Chuchinolepis_qujingensis Chuchinolepis_robusta Chuchinolepis_sulcata Gerdalepis_jesseni Houershanaspis_zhangi Hyrcanaspis_bliecki Jiangxilepis_sinensis Livnolepis_heckeri Livnolepis_zadonica Microbranhius_chuandongensis Microbrachius_kedoae Microbrachius_sinensis Pambulaspis_antarctica Phymolepis_guoruii Remigolepis_armata Remigolepis_durnalensis Remigolepis_karakoliensis Remigolepis_major Remigolepis_microcephala Remigolepis_redcliffensis Remigolepis_xiangshanensis Remigolepis_walkeri Remigolepis_xixiaensis Remigolepis_zhongningensis Remigolepis_zhongweiensis Sherbonaspis_andreannae Sherbonaspis_talimaae Sinolepis_szei Sinolepis_wutungensis Stegolepis_tuberculata Tubalepis_babichevi 
 	;
 
 END;
@@ -150,6 +150,7 @@ BEGIN CHARACTERS;
 	Pterichthyodes_milleri          00-0111001100-10102?10101111001001010011100??11110000010010000010000111110100000?000001?0???111
 	Remigolepis_spp.                00-0?10111100-1010111100101100000101?011100??101300000010100000000001111100000-0?--10?1????????
 	Sherbonaspis_hillsi             00-0?10101100-1010??10?0??11000??101?????00???1120000010010000010?00111110100000???00?1?011?110
+	Sinolepis_macrocephala          00-0?100021011??110?00?0?00000000000?????0????010210010110??0000101011110010?000?0010?0?1000???
 	Stegolepis_jugata               0100?11101100-10101?1??0???1000001????????0???11200100000100000000001111101000?0????0?1?01??110
 	Tenizolepis_asiatica            00-0?11001110-1110201??0???01?100?????????????0100101011010000010100111??01??1?0100001100????1?
 	Tenizolepis_rara                00-0????????????????1??0????0?0???????????????0110101011010000010?00?11??01?11?0100001100????10
@@ -191,7 +192,6 @@ BEGIN CHARACTERS;
 	Remigolepis_xixiaensis          00-0????????????????????????????????????????????30000000???????????????????????????00??????????
 	Remigolepis_zhongningensis      00-0??????????????????????????????????????????01300000001???00000000?111100?0?-0???00?1?0???00-
 	Remigolepis_zhongweiensis       0??0??????10????110?00?01??0??????????????????0130??00001???00000000?11??00?1?-010?0001?0????0-
-	Sinolepis_macrocephala          00-0?100021011??110?00?0?00000000000?????0????010210010110??0000101011110010?000?0010?0?1000???
 	Sherbonaspis_andreannae         0100?101?0??????????1??0101???????????????????113000000?0???00010100??1?????????????0?1?0???110
 	Sherbonaspis_talimaae           0?????????????????????????????????????????????0??????????????00???0????110??????????????????1??
 	Sinolepis_szei                  00-0??????11????110?1??0??10??????????????????0?0?1?0??1?????????????111001?001010?0???????????
@@ -217,13 +217,13 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1718163136460;
+		timeSaved 1718163328444;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5190453487192735578;
 			tell It;
-				setSelected  43;
-				setDefaultOrder  1 2 101 95 86 82 91 17 30 78 87 22 83 18 19 81 12 43 89 92 111 80 27 31 95 34 13 40 5 44 42 111 85 0 6 81 84 77 69 40 72 73 75 19 80 83 32 100 63 20 3 11 88 8 9 10 11 15 23 25 27 31 96 36 37 38 45 49 51 52 53 54 55 56 58 59 60 61 62 28 63 65 67 68 70 95;
+				setSelected  39;
+				setDefaultOrder  1 2 101 95 86 82 91 17 30 78 87 22 83 18 19 81 12 43 89 92 111 80 27 31 95 34 13 40 5 44 42 111 85 0 6 81 84 77 28 69 40 72 73 75 19 80 83 32 100 63 20 3 11 88 8 9 10 11 15 23 25 27 31 96 36 37 38 45 49 51 52 53 54 55 56 58 59 60 61 62 63 65 67 68 70 95;
 				attachments ;
 			endTell;
 		endTell;
@@ -235,7 +235,7 @@ Begin MESQUITE;
 				attachments ;
 			endTell;
 			mqVersion 381;
-			checksumv 0 3 764236736 null  getNumChars 95 numChars 95 getNumTaxa 86 numTaxa 86   short true   bits 15   states 15   sumSquaresStatesOnly 11476.0 sumSquares 11476.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			checksumv 0 3 1375654654 null  getNumChars 95 numChars 95 getNumTaxa 86 numTaxa 86   short true   bits 15   states 15   sumSquaresStatesOnly 11476.0 sumSquares 11476.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
 			mqVersion;
 		endTell;
 		getWindow;
