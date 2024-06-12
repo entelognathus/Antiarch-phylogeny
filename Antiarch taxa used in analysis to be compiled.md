@@ -8,6 +8,8 @@
 > - [horizon and locality]
 > - [references]
 
+## Taxa used in Tongdulepis
+
 ## outgroup taxa
 [*Kujdanowiaspis podolica*](https://deepbone.org/public/#/explor?s_id=2124&functionId=Deepbone_header_searchResultOpen) Dupret, 2010
 > upper Lochkovian to lower Pragian, 415.0, 409.2
@@ -162,12 +164,6 @@
 > - Xishancun Formation; Qujing, Yunnan.
 > - [Zhu and Janvier, 1996](https://www.tandfonline.com/doi/abs/10.1080/02724634.1996.10011278)
 
-[*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
-> Pragian, 410.8; 407.6
-
-> - Xujiachong Formation, Longhua hill, Qujing, Yunnan
-> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
-
 [*Mizia parvus*](https://deepbone.org/public/#/explor?s_id=30&functionId=Deepbone_header_searchResultOpen) (Zhang, 1978)
 > Late Lochkovian, 419.2, 410.8
 
@@ -240,20 +236,6 @@
 > - Taldysai Formation, ZhaksyKon Group, Kazakhstan
 > - [Moloshnikov, 2010](https://link.springer.com/article/10.1134/S0031030110020127); [2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
-[*Tenizolepis rara*](https://deepbone.org/public/#/explor?s_id=2110&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1977
-> Givetian, 387.7, 382.7 
-
-> - ZhaksyKon Group, Taldysai Formation, upper part of the middle subformation
-> - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
-
-[*Tenizolepis bychkovi*](https://deepbone.org/public/#/explor?s_id=2109&functionId=Deepbone_header_searchResultOpen) Malinovskaya 1992
-> Givetian, 387.7, 382.7
-
-> - **Moloshnikov suggested it is regarded as asynonym of *B. babichevi* [2012](https://deepbone.org/public/#/literature_details/1272). The PMD in holotype may belong to *B. babichevi*, the AMD still differ with *Bothriolepis***
-
-> - Konyr Formation, Lower Konyr Subformation, Central Kazakhstan, right bank of the Shiderti River, Trudovoe village
-> - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099)
-
 [*Vanchienolepis langsonensis*](https://deepbone.org/public/#/explor?s_id=3488&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Pragian, 410.8, 407.6 
 
@@ -316,6 +298,65 @@
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 > - Type species.
 
+[*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
+> Late Pragian, Lower Devonian, 410.8, 407.6
+
+> - Danlin Formation, Dushan, Guizhou
+> - [Lu *et al*, 2017](https://www.cgsjournals.com/article/doi/10.3975/cagsb.2017.02.06)
+
+[*Hyrcanaspis bliecki*](https://www.deepbone.cn/public/#/explor?s_id=3525&functionId=Deepbone_header_searchResultOpen) Janvier and Pan, 1982
+> Eifelian, 393.3, 387.7
+
+> - Khush-Yeilagh Formation, Khush-Yeilagh village, Mazenderan province, Iran
+> - [Janvier and Pan, 1982](https://www.schweizerbart.de/papers/njgpa/detail/164/94038/Hyrcanaspis_bliecki_n_g_n_sp_a_new_primitive_euant?af=crossref)
+
+[*Jiangxilepis sinensis*](https://deepbone.org/public/#/explor?s_id=3320&functionId=Deepbone_header_searchResultOpen) P'an, 1957
+> Famennian, 372.2, 358.9
+
+> - Wutong Formation, Nanjing, Jiangsu
+> - [P'an, 1957]; [P'an, 1964]; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); [Li et al., 1984](https://deepbone.org/public/#/literature_details/14615); [Zhang and Liu, 1991]
+
+[*Livnolepis zadonica*](https://deepbone.org/public/#/explor?s_id=3466&functionId=Deepbone_header_searchResultOpen) Obrucheva, 1983
+> Middle Famennian, 372.2, 358.9
+
+> - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
+> - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
+
+[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
+> Famennian, 372.2, 358.9
+
+> - wide distribution.
+> - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
+
+[*Sherbonaspis talimaae*](https://www.deepbone.cn/index/index/index#/explor?s_id=172078&functionId=Deepbone_header_searchResultOpen) Plax and Lukševičs, 2023
+> Upper Emsian, 407.6, 393.3
+
+> - Vitebsk Formation, corresponding to the Lepel Beds, Vitebsk Regional Stage
+> - [Plax and Lukševičs, 2023](https://www.app.pan.pl/archive/published/app68/app010752023.pdf)
+
+[*Stegolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=74596&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1973
+> Givetian, 387.7, 382.7 
+
+> - Taldysai Formation,  central Kazakhstan, Sarysu–Teniz interfluve, right bank of the Taldysai Creek, Bulumbai burial
+> - [Malinovskaya, 1973]; [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+
+[*Tubalepis extensa*](https://deepbone.org/public/#/explor?s_id=3462&functionId=Deepbone_header_searchResultOpen) Sergienko, 1961
+> Famennian, 372.2, 358.9
+
+> - Tuba Regional Stage, Minusinsk Trough, Russia
+> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
+
+## Taxa used in later
+
+[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
+> upper Emsian to Famennian, 407.6, 358.9
+
+> - wide distribution.
+> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
+> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
+> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
+
+
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
 > Lochkovian, 419.2, 410.8 
 
@@ -346,47 +387,23 @@
 > - Hazeldean Burn beds, Scotland.
 > - [Miles, 1968](https://www.deepbone.cn/public/#/literature_details/1164)
 
-[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross, 1942
-> Late Givetian to Frasnian, 387.7, 372.2
-
-> - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
-> - [Lukševičs, 1996](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
-
 [*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > Late Famennian, 372.2, 358.9
 
 > - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
 > - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
-[*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
-> Late Pragian, Lower Devonian, 410.8, 407.6
+[*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross, 1942
+> Late Givetian to Frasnian, 387.7, 372.2
 
-> - Danlin Formation, Dushan, Guizhou
-> - [Lu *et al*, 2017](https://www.cgsjournals.com/article/doi/10.3975/cagsb.2017.02.06)
-
-[*Hyrcanaspis bliecki*](https://www.deepbone.cn/public/#/explor?s_id=3525&functionId=Deepbone_header_searchResultOpen) Janvier and Pan, 1982
-> Eifelian, 393.3, 387.7
-
-> - Khush-Yeilagh Formation, Khush-Yeilagh village, Mazenderan province, Iran
-> - [Janvier and Pan, 1982](https://www.schweizerbart.de/papers/njgpa/detail/164/94038/Hyrcanaspis_bliecki_n_g_n_sp_a_new_primitive_euant?af=crossref)
-
-[*Jiangxilepis sinensis*](https://deepbone.org/public/#/explor?s_id=3320&functionId=Deepbone_header_searchResultOpen) P'an, 1957
-> Famennian, 372.2, 358.9
-
-> - Wutong Formation, Nanjing, Jiangsu
-> - [P'an, 1957]; [P'an, 1964]; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); [Li et al., 1984](https://deepbone.org/public/#/literature_details/14615); [Zhang and Liu, 1991]
+> - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
+> - [Lukševičs, 1996](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 
 [*Livnolepis heckeri*](https://deepbone.org/public/#/explor?s_id=1391&functionId=Deepbone_header_searchResultOpen) Lukševics, 1996
 > Famennian, 372.2, 358.9
 
 > - Bilovo Beds, outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
 > - [Lukševics, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševics, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform); [Moloshnikov, 2009](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249527205_New_Data_on_Late_Devonian_Bothriolepidid_Placoderms_Pisces_Antiarchi_from_Tuva/links/55181f9f0cf29ab36bc49a7b/New-Data-on-Late-Devonian-Bothriolepidid-Placoderms-Pisces-Antiarchi-from-Tuva.pdf)
-
-[*Livnolepis zadonica*](https://deepbone.org/public/#/explor?s_id=3466&functionId=Deepbone_header_searchResultOpen) Obrucheva, 1983
-> Middle Famennian, 372.2, 358.9
-
-> - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
-> - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
 
 [*Microbrachius sinensis*](https://deepbone.org/public/#/explor?s_id=3218&functionId=Deepbone_header_searchResultOpen) Pan, 1984
 > Eifelian, 393.3, 387.7
@@ -406,6 +423,11 @@
 > - Chuandong Formation, Qujing, Yunnan
 > - [Wang and Zhang, 1999](https://www.vertpala.ac.cn/EN/abstract/abstract763.shtml)
 
+[*Mizia longhuaensis*](https://deepbone.org/public/#/explor?s_id=65&functionId=Deepbone_header_searchResultOpen) Zhu, 1996
+> Pragian, 410.8; 407.6
+
+> - Xujiachong Formation, Longhua hill, Qujing, Yunnan
+> - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
 [*Pambulaspis antarctica*](https://deepbone.org/public/#/explor?s_id=3510&functionId=Deepbone_header_searchResultOpen) Young, 1988
 > Givetian, 387.7, 382.7
 
@@ -421,7 +443,6 @@
 
 > - Xitun Formation, CuiFengShan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
-
 [*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
@@ -497,13 +518,6 @@
 [*Sherbonaspis andreannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=3446&functionId=Deepbone_header_searchResultOpen) Panteleyev 1993
 > Givetian, 387.7, 382.7
 
-[*Sherbonaspis talimaae*](https://www.deepbone.cn/index/index/index#/explor?s_id=172078&functionId=Deepbone_header_searchResultOpen) Plax and Lukševičs, 2023
-> Upper Emsian, 407.6, 393.3
-
-> - Vitebsk Formation, corresponding to the Lepel Beds, Vitebsk Regional Stage
-> - [Plax and Lukševičs, 2023](https://www.app.pan.pl/archive/published/app68/app010752023.pdf)
-
-
 [*Sinolepis szei*](https://deepbone.org/public/#/explor?s_id=3310&functionId=Deepbone_header_searchResultOpen) Pan et al., 1987
 > Famennian, 372.2, 358.9 
 
@@ -516,17 +530,19 @@
 > - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
 > - [Liu and P'an, 1958]
 
-[*Stegolepis tuberculata*](https://deepbone.org/public/#/explor?s_id=74596&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1973
+[*Tenizolepis rara*](https://deepbone.org/public/#/explor?s_id=2110&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1977
 > Givetian, 387.7, 382.7 
 
-> - Taldysai Formation,  central Kazakhstan, Sarysu–Teniz interfluve, right bank of the Taldysai Creek, Bulumbai burial
-> - [Malinovskaya, 1973]; [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+> - ZhaksyKon Group, Taldysai Formation, upper part of the middle subformation
+> - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
-[*Tubalepis extensa*](https://deepbone.org/public/#/explor?s_id=3462&functionId=Deepbone_header_searchResultOpen) Sergienko, 1961
-> Famennian, 372.2, 358.9
+[*Tenizolepis bychkovi*](https://deepbone.org/public/#/explor?s_id=2109&functionId=Deepbone_header_searchResultOpen) Malinovskaya 1992
+> Givetian, 387.7, 382.7
 
-> - Tuba Regional Stage, Minusinsk Trough, Russia
-> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
+> - **Moloshnikov suggested it is regarded as asynonym of *B. babichevi* [2012](https://deepbone.org/public/#/literature_details/1272). The PMD in holotype may belong to *B. babichevi*, the AMD still differ with *Bothriolepis***
+
+> - Konyr Formation, Lower Konyr Subformation, Central Kazakhstan, right bank of the Shiderti River, Trudovoe village
+> - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099)
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
@@ -565,17 +581,7 @@
 > - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
 
 > - **Lack of solid materials, only AVL and scales**
-
 ## Antiarch taxa not used in the analysis
-
-
-[*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
-> upper Emsian to Famennian, 407.6, 358.9
-
-> - wide distribution.
-> - [Long and Trinajstic, 2010](https://www.annualreviews.org/doi/abs/10.1146/annurev-earth-040809-152416); [Béchard et al., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi)
-> - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
-> - **好的，我在Bothriolepis data set中做好再拷贝过来。**
 
 [*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
@@ -590,14 +596,9 @@
 
 > - Khao Loc Formation, Quan Ba, Ha Giang, Vietnam
 > - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
-
-[*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
-> Famennian, 372.2, 358.9
-
-> - wide distribution.
-> - [Andrews, 1978](https://www.lyellcollection.org/doi/abs/10.1144/sjg14040311).
-
 > - **Lack of description**
+
+
 
 
 **References**
