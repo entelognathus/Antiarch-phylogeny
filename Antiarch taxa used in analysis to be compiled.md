@@ -295,17 +295,17 @@ Tenizolepis bychkovi
 > - Gross, 1941a; 1942a; Stensiö, 1948; [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf)
 > - Type species.
 
-[*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
-> Eifelian, 393.3, 387.7
-
-> - Xindu Formation, He County, Guangxi
-> - [Pan and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Pan, 1984](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1189/reference_id_1189_20200101100826276.pdf)
-
 [*Heteroyunnanolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=3296&functionId=Deepbone_header_searchResultOpen) Wang, 1994
 > Lochkovian, 419.2, 410.8
 
 > - Xishancun Formation, Qujing, Yunnan
 > - [Wang, 1994](https://www.vertpala.ac.cn/EN/abstract/abstract600.shtml); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
+
+[*Hohsienolepis hsintuensis*](https://www.deepbone.cn/public/#/explor?s_id=3319&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
+> Eifelian, 393.3, 387.7
+
+> - Xindu Formation, He County, Guangxi
+> - [Pan and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Pan, 1984](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1189/reference_id_1189_20200101100826276.pdf)
 
 [*Hunanolepis tieni*](https://deepbone.org/public/#/explor?s_id=3323&functionId=Deepbone_header_searchResultOpen) P'an and Tzeng, 1973
 > Givetian, 387.7, 382.7 
