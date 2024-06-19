@@ -37,6 +37,12 @@
 > - Miguasha, Québec, Canada; Catskill Formation” of Pennsylvania, North America; Orkney Islands, Scotland.
 > - Stensiö, 1948; [Werdelin and Long, 1986](https://www.idunn.no/doi/abs/10.1111/j.1502-3931.1986.tb00727.x); [Thomson and Thomas, 2001](https://www.tandfonline.com/doi/abs/10.1671/0272-4634(2001)021%5B0679%3AOTSOSO%5D2.0.CO%3B2); Arsenault *et al*., 2004; [Burrow, 2005](https://www.idunn.no/doi/full/10.1080/00241160510013286); [Janvier *et al*., 2007](https://www.tandfonline.com/doi/pdf/10.1671/0272-4634(2007)27%5B709%3ANEFTCL%5D2.0.CO%3B2); [Downs and Donoghue, 2009](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10765); [Béchard *et al*., 2014](https://palaeo-electronica.org/content/2014/647-3d-bothriolepi); [Long *et al*., 2015](https://www.nature.com/articles/nature13825); [Charest *et al*., 2018](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0199); [Charest *et al*., 2022](https://www.tandfonline.com/doi/abs/10.1080/02724634.2022.2116335)
 
+[*Briagalepis warreni*](https://deepbone.org/public/#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long et al., 1990
+> Frasnian, Upper Devonian, 382.7, 372.2 
+
+> - Freestone Creek and Bindaree Road, Victoria
+> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146); [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
+
 [*Byssacanthus dilatatus*](https://deepbone.org/public/#/explor?s_id=3332&functionId=Deepbone_header_searchResultOpen) Eichwald, 1844
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
 
@@ -71,6 +77,18 @@
 
 > - Grenfell, Hunter Siltstone, Hervey Group, Grenfell, New South Wales, Australia.
 > - [Ritchie *et al*., 1992](https://www.researchgate.net/publication/213774244_The_Sinolepidae_a_family_of_antiarchs_placoderm_fishes_from_the_Devonian_of_South_China_and_Eastern_Australia); [Johanson, 2002](https://www.researchgate.net/publication/229642784_Vascularization_of_the_osteostracan_and_antiarch_Placodermi_pectoral_fin_Similarities_and_implications_for_placoderm_relationships)
+
+[*Grossaspis carinata*](https://deepbone.org/public/#/explor?s_id=3342&functionId=Deepbone_header_searchResultOpen) Schluter, 1887
+> Early Givetian, 387.7, 382.7 
+
+> - Eifel, Germany
+> - [Denison, 1978](https://deepbone.org/public/#/literature_details/34513)
+
+[*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
+> Late Famennian, 372.2, 358.9
+
+> - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
+> - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
 
 [*Grossilepis tuberculata*](https://www.deepbone.cn/index/index/index#/explor?s_id=3324&functionId=Deepbone_header_searchResultOpen) Gross, 1941
 > Early Frasnian, Upper Devonian, 382.7, 372.2
@@ -109,6 +127,12 @@
 > - Lenses of marl, siltstone and sandstone of the lower part of the Lower Taldybulak Subformation, at the mouth of the Uzunbulak Stream in the Kara-Balta River Basin, Kyrgyzstan
 > - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev, 1992](https://deepbone.org/public/#/literature_details/1212)
 
+[*Lepadolepis stensioei*](https://deepbone.org/public/#/explor?s_id=41703&functionId=Deepbone_header_searchResultOpen) Gross, 1933
+> Frasnian, 382.7, 372.2
+
+> - Kellwasserkalk of the Mimticoceras beds; Bad Wildungen, Germany
+> - Gross, 1933; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); Obruchev, 1964
+
 [*Liujiangolepis suni*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Wang, 1987
 > Pragian to lower Emsian, 410.8, 393.3 
 
@@ -120,6 +144,12 @@
 
 > - Bilovo Beds, Outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
 > - Obrucheva, 1983; [Moloshnikov, 2008](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/225254536_Devonian_antiarchs_Pisces_Antiarchi_from_central_and_Southern_European_Russia/links/54e6db270cf2cd2e0290ac1f/Devonian-antiarchs-Pisces-Antiarchi-from-central-and-Southern-European-Russia.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail)
+
+[*Luquanolepis pileos*](https://deepbone.org/public/#/explor?s_id=11&functionId=Deepbone_header_searchResultOpen) Zhang and Young, 1992
+> Emsian, 407.6, 393.3
+
+> - Near the village of Chahuajing, Luquan, Kunming, Yunnan
+> - [Zhang and Young, 1992](https://www.tandfonline.com/doi/abs/10.1080/03115519208619120)
 
 [*Microbrachius dicki*](https://deepbone.org/public/#/explor?s_id=3220&functionId=Deepbone_header_searchResultOpen) Traquair, 1888
 > upper Givetian, 387.7, 382.7
@@ -188,17 +218,53 @@
 > - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
 > - Nilsson, 1941; Hemmings, 1978; [Long *et al*., 2015](https://www.nature.com/articles/nature13825).
 
+[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
+> Famennian, 372.2, 358.9 
+
+> - Montfort/Evieux Formation, Tienne-des-Marteaux quarry also called Durnal 2, Bocq valley, Spontin, Namur Province, Belgium
+> - [Olive, 2015](https://www.researchgate.net/publication/271355256_Devonian_Antiarch_Placoderms_from_Belgium_revisited)
+
+[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
+> Famennian, 372.2, 358.9 
+
+> - Torsuj Formation,  Kyrgyzstan, northern Tien Shan, right bank of the Western Karakol River
+> - [Panteleyev, 1992]; [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+
 [*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
 > - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
 > - [Pan *et al*., 1987]
 
+[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
+> upper Famennian, 372.2, 358.9 
+
+> - Hunter Siltstone, Redcliff Mountain, 20 km NE of Grenfell, New South Wales, Australia
+> - [Johanson, 1997](https://www.tandfonline.com/doi/abs/10.1080/03115519708619173)
+
 [*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
 > lower Famennian, 372.2, 358.9 
 
 > - Mandagery Sandstone,  10 km southwest of Canowindra, NSW
 > - [Johanson, 1997](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-remigolepis-placodermi-antiarchi-from-canowindra-new-south-wales-australia/F6BB8C18D6935C66AF9DD7A09F1A9DB7)
+
+[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
+> - [Pan *et al*., 1987]
+
+[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
+> - [Pan *et al*., 1987]
+
+[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
+> - [Pan *et al*., 1987]
 
 [*Sherbonaspis hillsi*](https://deepbone.org/public/#/explor?s_id=6401&functionId=Deepbone_header_searchResultOpen) Young and Gorter, 1981
 > Eifelian, 393.3, 387.7 
@@ -224,6 +290,24 @@
 > - Taldysai Formation, ZhaksyKon Group, Kazakhstan
 > - [Moloshnikov, 2010](https://link.springer.com/article/10.1134/S0031030110020127); [2012](https://link.springer.com/article/10.1134/S0031030112100012)
 
+[*Tenizolepis rara*](https://deepbone.org/public/#/explor?s_id=2110&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1977
+> Givetian, 387.7, 382.7 
+
+> - ZhaksyKon Group, Taldysai Formation, upper part of the middle subformation
+> - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+
+[*Tubalepis extensa*](https://deepbone.org/public/#/explor?s_id=3462&functionId=Deepbone_header_searchResultOpen) Sergienko, 1961
+> Famennian, 372.2, 358.9
+
+> - Tuba Regional Stage, Minusinsk Trough, Russia
+> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
+
+[*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
+> Givetian-Frasnian, 387.7,  372.2
+
+> - Dô Son  Formation, Dô Son  peninsula, north Vietnam
+> - [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
+
 [*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > Frasnian, 382.7, 372.2 
 
@@ -241,6 +325,12 @@
 
 > - Jiucheng Formation, Wuding, Yunnan.
 > - [Pan *et al*., 2018](https://www.tandfonline.com/doi/full/10.1080/03115518.2017.1338357)
+
+[*Wurungulepis denisoni*](https://deepbone.org/public/#/explor?s_id=8131&functionId=Deepbone_header_searchResultOpen) Young, 1990
+> Eifelian, 393.3,  387.7
+
+> - Broken River Formation,  north bank of Broken River
+> - [Young, 1990](https://www.researchgate.net/publication/292647910_New_antiarchs_Devonian_placoderm_fishes_from_Queensland_with_comments_on_placoderm_phylogeny_and_biogeography); [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Burrow and Turner, 1999](https://www.tandfonline.com/doi/abs/10.1080/02724634.1999.10011135) 
 
 [*Xichonolepis qujingensis*](https://deepbone.org/public/#/explor?s_id=3307&functionId=Deepbone_header_searchResultOpen) P'an and Wang, 1978
 > Givetian, 387.7, 382.7 
@@ -272,12 +362,6 @@
 > - **小鲜，你可以将Bothriolepis各个种，按此方式做出来。可以在这儿做，然后拷贝到Bothriolepis data set中。也可以在Bothriolepis github中做，再拷贝过来。**
 > - **好的，我在Bothriolepis data set中做好再拷贝过来。**
 
-[*Briagalepis warreni*](https://deepbone.org/public/#/explor?s_id=3499&functionId=Deepbone_header_searchResultOpen) Long et al., 1990
-> Frasnian, Upper Devonian, 382.7, 372.2 
-
-> - Freestone Creek and Bindaree Road, Victoria
-> - [Long, 1983](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM8320483635); [Long and Werdelin, 1986](https://www.tandfonline.com/doi/abs/10.1080/03115518608619146); [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
-
 [*Chuchinolepis qujingensis*](https://www.deepbone.cn/public/#/explor?s_id=491&functionId=Deepbone_header_searchResultOpen) Zhang, 1984
 > Lochkovian, 419.2, 410.8 
 
@@ -308,41 +392,17 @@
 > - Hazeldean Burn beds, Scotland.
 > - [Miles, 1968](https://www.deepbone.cn/public/#/literature_details/1164)
 
-[*Grossaspis carinata*](https://deepbone.org/public/#/explor?s_id=3342&functionId=Deepbone_header_searchResultOpen) Schluter, 1887
-> Early Givetian, 387.7, 382.7 
-
-> - Eifel, Germany
-> - [Denison, 1978](https://deepbone.org/public/#/literature_details/34513)
-
-[*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
-> Late Famennian, 372.2, 358.9
-
-> - Psammites et Schistes d'Evieux and Psammites du Condroz, Belgium.
-> - [Olive, 2015](https://bioone.org/journals/acta-palaeontologica-polonica/volume-60/issue-3/app.00015.2013/Devonian-Antiarch-Placoderms-from-Belgium-Revisited/10.4202/app.00015.2013.full)
-
 [*Grossilepis spinosa*](https://www.deepbone.cn/public/#/explor?s_id=3326&functionId=Deepbone_header_searchResultOpen) Gross, 1942
 > Late Givetian to Frasnian, 387.7, 372.2
 
 > - Right bank of Imula River near Genduli and Bienes hamlets as well as Velna Ala, Latvia.
 > - [Lukševičs, 1996](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Bothriolepid+antiarchs+%28Placodermi%2C+Bothriolepididae%29++from+the+north-western+part+of+East+European+Platform&btnG=); [Lukševičs, 2001](https://app.ingemmet.gob.pe/biblioteca/pdf/Geodiv23-4-489.pdf); [Lukševičs, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform)
 
-[*Lepadolepis stensioei*](https://deepbone.org/public/#/explor?s_id=41703&functionId=Deepbone_header_searchResultOpen) Gross, 1933
-> Frasnian, 382.7, 372.2
-
-> - Kellwasserkalk of the Mimticoceras beds; Bad Wildungen, Germany
-> - Gross, 1933; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); Obruchev, 1964
-
 [*Livnolepis heckeri*](https://deepbone.org/public/#/explor?s_id=1391&functionId=Deepbone_header_searchResultOpen) Lukševics, 1996
 > Famennian, 372.2, 358.9
 
 > - Bilovo Beds, outcrops at the right bank of Malyy Tuder River not far from Bilovo village, Novgorod region, Russia
 > - [Lukševics, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Lukševics, 2001](https://www.researchgate.net/publication/268055020_Bothriolepid_antiarchs_Vertebrata_Placodermi_from_the_Devonian_of_the_north-western_part_of_the_East_European_Platform); [Moloshnikov, 2009](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/249527205_New_Data_on_Late_Devonian_Bothriolepidid_Placoderms_Pisces_Antiarchi_from_Tuva/links/55181f9f0cf29ab36bc49a7b/New-Data-on-Late-Devonian-Bothriolepidid-Placoderms-Pisces-Antiarchi-from-Tuva.pdf)
-
-[*Luquanolepis pileos*](https://deepbone.org/public/#/explor?s_id=11&functionId=Deepbone_header_searchResultOpen) Zhang and Young, 1992
-> Emsian, 407.6, 393.3
-
-> - Near the village of Chahuajing, Luquan, Kunming, Yunnan
-> - [Zhang and Young, 1992](https://www.tandfonline.com/doi/abs/10.1080/03115519208619120)
 
 [*Merimbulaspis meemannae*](https://deepbone.org/public/#/explor?s_id=1389&functionId=Deepbone_header_searchResultOpen) Young, 2010
 > Givetian-Frasnian, 387.7, 372.2
@@ -394,53 +454,17 @@
 > - Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu
 > - [Pan *et al*., 1987]
 
-[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
-> - [Pan *et al*., 1987]
-
-[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
-> - [Pan *et al*., 1987]
-
-[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
-> - [Pan *et al*., 1987]
-
-[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
-> upper Famennian, 372.2, 358.9 
-
-> - Hunter Siltstone, Redcliff Mountain, 20 km NE of Grenfell, New South Wales, Australia
-> - [Johanson, 1997](https://www.tandfonline.com/doi/abs/10.1080/03115519708619173)
-
 [*Remigolepis armata*](https://deepbone.org/public/#/explor?s_id=3463&functionId=Deepbone_header_searchResultOpen) Luksevics, 1991
 > Famennian, 372.2, 358.9 
 
 > - Khovanshchian Horizon, Tula Region, right bank of the Tresna River, 300 m upstream from the village of Andreevka
 > - [Lukševičs, 1991](https://deepbone.org/public/#/literature_details/28973); [Moloshnikov, 2008](https://link.springer.com/article/10.1134/S0031030108070010)
 
-[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
-> Famennian, 372.2, 358.9 
-
-> - Torsuj Formation,  Kyrgyzstan, northern Tien Shan, right bank of the Western Karakol River
-> - [Panteleyev, 1992]; [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
-
 [*Remigolepis suusamyrensi*](https://www.deepbone.cn/index/index/index#/explor?s_id=3452&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
 > Famennian, 372.2, 358.9 
 
 > - Torsuj Formation, northern Tien Shan, southern slope of Kirgiz Mountain Range, right bank of Karakol Zapadnyi River mouth region of Ala-Archa stream
 > - [Panteleyev, 1992](https://www.deepbone.cn/public/#/literature_details/1212)
-
-[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
-> Famennian, 372.2, 358.9 
-
-> - Montfort/Evieux Formation, Tienne-des-Marteaux quarry also called Durnal 2, Bocq valley, Spontin, Namur Province, Belgium
-> - [Olive, 2015](https://www.researchgate.net/publication/271355256_Devonian_Antiarch_Placoderms_from_Belgium_revisited)
 
 [*Sherbonaspis andreannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=3446&functionId=Deepbone_header_searchResultOpen) Panteleyev 1993
 > Givetian, 387.7, 382.7
@@ -457,12 +481,6 @@
 > - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
 > - [Liu and P'an, 1958]
 
-[*Tenizolepis rara*](https://deepbone.org/public/#/explor?s_id=2110&functionId=Deepbone_header_searchResultOpen) Malinovskaya, 1977
-> Givetian, 387.7, 382.7 
-
-> - ZhaksyKon Group, Taldysai Formation, upper part of the middle subformation
-> - [Moloshnikov, 2011](https://link.springer.com/article/10.1134/S0031030111030099); [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
-
 [*Tenizolepis bychkovi*](https://deepbone.org/public/#/explor?s_id=2109&functionId=Deepbone_header_searchResultOpen) Malinovskaya 1992
 > Givetian, 387.7, 382.7
 
@@ -476,18 +494,6 @@
 
 > - Bac Bun formation, Lang Son, Vietnam
 > - [Tông-Dzuy and Janvier, 1990](https://deepbone.org/public/#/literature_details/24236); [Janvier, 1995](https://deepbone.org/public/#/literature_details/1221); [Janvier and Phuong, 1999](https://deepbone.org/public/#/literature_details/1435)
-
-[*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
-> Givetian-Frasnian, 387.7,  372.2
-
-> - Dô Son  Formation, Dô Son  peninsula, north Vietnam
-> - [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
-
-[*Wurungulepis denisoni*](https://deepbone.org/public/#/explor?s_id=8131&functionId=Deepbone_header_searchResultOpen) Young, 1990
-> Eifelian, 393.3,  387.7
-
-> - Broken River Formation,  north bank of Broken River
-> - [Young, 1990](https://www.researchgate.net/publication/292647910_New_antiarchs_Devonian_placoderm_fishes_from_Queensland_with_comments_on_placoderm_phylogeny_and_biogeography); [Burrow and Turner, 1998](https://www.tandfonline.com/doi/abs/10.1080/02724634.1998.10011097); [Burrow and Turner, 1999](https://www.tandfonline.com/doi/abs/10.1080/02724634.1999.10011135) 
 
 [*Yunnanolepis* spp.](https://deepbone.org/public/#/explor?s_id=28&functionId=Deepbone_header_searchResultOpen)
 > Lochkovian, 419.2, 410.8 
@@ -592,12 +598,6 @@
 
 > - Taldysai Formation,  central Kazakhstan, Sarysu–Teniz interfluve, right bank of the Taldysai Creek, Bulumbai burial
 > - [Malinovskaya, 1973]; [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
-
-[*Tubalepis extensa*](https://deepbone.org/public/#/explor?s_id=3462&functionId=Deepbone_header_searchResultOpen) Sergienko, 1961
-> Famennian, 372.2, 358.9
-
-> - Tuba Regional Stage, Minusinsk Trough, Russia
-> - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
 
 
 **References**
