@@ -159,7 +159,7 @@
 > - Type species.
 
 [*Microbranhius chuandongensis*](https://deepbone.org/public/#/explor?s_id=3219&functionId=Deepbone_header_searchResultOpen) Wang and Zhang, 1999
-> Emsian, 407.6, 393.3
+> Emsian, 407.6, 393.3 **Doutful, the artical said it was fund with *Bothriolepis tungsieni* (Givetian), its the only early Devonian *Microbranhius***
 
 > - Chuandong Formation, Qujing, Yunnan
 > - [Wang and Zhang, 1999](https://www.vertpala.ac.cn/EN/abstract/abstract763.shtml)
