@@ -1,11 +1,11 @@
 #NEXUS
-[written Thu Jun 20 01:50:58 CST 2024 by Mesquite  version 2.75 (build 564) at BusterMachine-7/124.16.244.235]
+[written Thu Jun 20 21:00:15 CST 2024 by Mesquite  version 2.75 (build 564) at BusterMachine-7/124.16.244.235]
 
 BEGIN TAXA;
 	TITLE Taxa;
-	DIMENSIONS NTAX=59;
+	DIMENSIONS NTAX=58;
 	TAXLABELS
-		Kujdanowiaspis_podolica Romundina_stellina Asterolepis_ornata Bothriolepis_canadensis Briagalepis_warreni Byssacanthus_dilatatus Chuchinolepis_dongmoensis Chuchinolepis_gracilis_ Dayaoshania_youngi Dianolepis_liui Gerdalepis_rhenana Grenfellaspis_branagani Grossaspis_carinata Grossilepis_rikiki Grossilepis_tuberculata Heteroyunnanolepis_qujingensis Hohsienolepis_hsintuensis Hunanolepis_tieni Jiangxilepis_longibrachius Kirgisolepis_karabaltaensis Lepadolepis_stensioei Liujiangolepis_suni Livnolepis_zadonica Luquanolepis_pileos Microbrachius_dicki Microbranhius_chuandongensis Minicrania_lirouyii Mizia_parvus Monarolepis_verrucosa Nawagiaspis_wadeae Ningxialepis_spinosa Pambulaspis_cobandrahensis Parayunnanolepis_xitunensis Phymolepis_cuifengshanensis Pterichthyodes_milleri Remigolepis_durnalensis Remigolepis_karakoliensis Remigolepis_microcephala Remigolepis_redcliffensis Remigolepis_walkeri Remigolepis_xiangshanensis Remigolepis_zhongningensis Remigolepis_zhongweiensis Sherbonaspis_andreannae Sherbonaspis_hillsi Sinolepis_macrocephala Stegolepis_jugata Stegolepis_tuberculata Tenizolepis_asiatica Tenizolepis_rara Tongdulepis Tubalepis_extensa Vietnamaspis_trii Walterilepis_speciosa Wudinolepis_weni Wufengshania_magniforaminis Wurungulepis_denisoni Xichonolepis_qujingensis Yunnanolepis_chii 
+		Kujdanowiaspis_podolica Romundina_stellina Asterolepis_ornata Bothriolepis_canadensis Briagalepis_warreni Byssacanthus_dilatatus Chuchinolepis_dongmoensis Chuchinolepis_gracilis_ Dayaoshania_youngi Dianolepis_liui Gerdalepis_rhenana Grenfellaspis_branagani Grossaspis_carinata Grossilepis_rikiki Grossilepis_tuberculata Heteroyunnanolepis_qujingensis Hohsienolepis_hsintuensis Hunanolepis_tieni Jiangxilepis_longibrachius Kirgisolepis_karabaltaensis Lepadolepis_stensioei Liujiangolepis_suni Livnolepis_zadonica Luquanolepis_pileos Microbrachius_dicki Microbranhius_chuandongensis Minicrania_lirouyii Mizia_parvus Monarolepis_verrucosa Nawagiaspis_wadeae Ningxialepis_spinosa Pambulaspis_cobandrahensis Parayunnanolepis_xitunensis Phymolepis_cuifengshanensis Pterichthyodes_milleri Remigolepis_durnalensis Remigolepis_karakoliensis Remigolepis_microcephala Remigolepis_redcliffensis Remigolepis_walkeri Remigolepis_xiangshanensis Remigolepis_zhongningensis Remigolepis_zhongweiensis Sherbonaspis_andreannae Sherbonaspis_hillsi Sinolepis_macrocephala Stegolepis_jugata Stegolepis_tuberculata Tenizolepis_asiatica Tenizolepis_rara Tongdulepis Tubalepis_extensa Walterilepis_speciosa Wudinolepis_weni Wufengshania_magniforaminis Wurungulepis_denisoni Xichonolepis_qujingensis Yunnanolepis_chii 
 	;
 
 END;
@@ -48,7 +48,7 @@ BEGIN CHARACTERS;
 	Mizia_parvus                    0100?1000111100-110000?0??00001100?0?????0100?01300000010001011000001110-00000-0100?0?1?????
 	Monarolepis_verrucosa           00-0????????????1???????111?1?0??????0111?????010010101101000000110011111011?100???101?10?01
 	Nawagiaspis_wadeae              00-0?11001100-??103?10??????00?10001?????11010111010???10100000001001111101????01000001???1?
-	Ningxialepis_spinosa            10-001????1?????1??????0???01?1??1???????0????111001101?011000010?00?1111?1011?00--?0?11???1
+	Ningxialepis_spinosa            10-001????1?????1??????0???01?1??1???????0????111001101?011000010?00?1111?1011?010-?0?11???1
 	Pambulaspis_cobandrahensis      00-0?10111100-101011110011110000010100111?0???0130000011010000000000111110?000?110010??????1
 	Parayunnanolepis_xitunensis     00-001000111100-100?00?0??00001?000??????0????0130000001000101?000001110-00000-0100?0?1????1
 	Phymolepis_cuifengshanensis     00-0??0???11???-11??00000000001?000011000?????01300000010010010000001110-00000-01010001????1
@@ -70,7 +70,6 @@ BEGIN CHARACTERS;
 	Tenizolepis_rara                00-0????????????????1??0????0?0???????????????0110101011010000010?00?11??01?11?01000011????1
 	Tongdulepis                     00-0?10100110-11110?1010???001000001????1101??0101100101????000101001111101?11?0100?0??01111
 	Tubalepis_extensa               00-0??????????????????????????????????????????0100000011111000010?00?111101111?00--000011?11
-	Vietnamaspis_trii               00-00???????0-??1?????????????????????????????011010001111000?0???001111111???10???00010??11
 	Walterilepis_speciosa           10-0?1????100-10101?1??0???11????1????????0???11??0000110100000?0?001111101000?0???000????1?
 	Wudinolepis_weni                0100?110011110??103?00?????010011101?01???????01001000110100000011001111111?01?0100000??????
 	Wufengshania_magniforaminis     00-0010001110-11102?10111?1110110001001111?????????????????????????0?1111??????0100?0???????
@@ -96,12 +95,13 @@ Begin MESQUITE;
 		MESQUITESCRIPTVERSION 2;
 		TITLE AUTO;
 		tell ProjectCoordinator;
-		timeSaved 1718819458916;
+		timeSaved 1718888415812;
 		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
 		tell It;
 			setID 0 5190453487192735578;
 			tell It;
-				setDefaultOrder  1 2 95 86 82 91 17 8 30 78 87 22 83 19 81 12 43 89 92 111 80 27 96 31 34 36 13 5 44 42 111 85 0 6 81 52 53 55 56 59 58 61 62 63 77 28 69 70 40 72 88 75 80 83 32 100 63 20 3;
+				setSelected  39;
+				setDefaultOrder  1 2 95 86 82 91 17 8 30 78 87 22 83 19 81 12 43 89 92 111 80 27 96 31 34 36 13 5 44 42 111 85 0 6 81 52 53 55 56 59 58 61 62 63 77 28 69 70 40 72 88 75 83 32 100 63 20 3;
 				attachments ;
 			endTell;
 		endTell;
@@ -113,7 +113,7 @@ Begin MESQUITE;
 				attachments ;
 			endTell;
 			mqVersion 275;
-			checksumv 0 3 3023618150 null  getNumChars 92 numChars 92 getNumTaxa 59 numTaxa 59   short true   bits 15   states 15   sumSquaresStatesOnly 9249.0 sumSquares 9249.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			checksumv 0 3 4245735181 null  getNumChars 92 numChars 92 getNumTaxa 58 numTaxa 58   short true   bits 15   states 15   sumSquaresStatesOnly 9156.0 sumSquares 9156.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
 			mqVersion;
 		endTell;
 		getWindow;
@@ -125,8 +125,8 @@ Begin MESQUITE;
 			setAnnotationSize 0;
 			setFontIncAnnot 0;
 			setFontIncExp 0;
-			setSize 1666 1290;
-			setLocation 780 0;
+			setSize 1106 1290;
+			setLocation 1340 0;
 			setFont SanSerif;
 			setFontSize 10;
 			getToolPalette;
@@ -151,8 +151,8 @@ Begin MESQUITE;
 					setAnnotationSize 20;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
-					setSize 1566 1223;
-					setLocation 780 0;
+					setSize 1006 1223;
+					setLocation 1340 0;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
@@ -186,8 +186,8 @@ Begin MESQUITE;
 					setAnnotationSize 20;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
-					setSize 1566 1223;
-					setLocation 780 0;
+					setSize 1006 1223;
+					setLocation 1340 0;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
@@ -254,8 +254,8 @@ Begin MESQUITE;
 						setAnnotationSize 20;
 						setFontIncAnnot 0;
 						setFontIncExp 0;
-						setSize 1566 1223;
-						setLocation 780 0;
+						setSize 1006 1223;
+						setLocation 1340 0;
 						setFont SanSerif;
 						setFontSize 10;
 						getToolPalette;
@@ -315,8 +315,8 @@ Begin MESQUITE;
 					setAnnotationSize 20;
 					setFontIncAnnot 0;
 					setFontIncExp 0;
-					setSize 1566 1223;
-					setLocation 780 0;
+					setSize 1006 1223;
+					setLocation 1340 0;
 					setFont SanSerif;
 					setFontSize 10;
 					getToolPalette;
