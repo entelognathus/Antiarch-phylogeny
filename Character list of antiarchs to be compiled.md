@@ -396,15 +396,7 @@
 
 > - Retchie et al. (1992) regarded it is a synapomorphy of sinolepids and euantiarchs.
 
-94. Overlying area of posterolateral margin of anterior median dorsal plate: narrow (0); wide (1).
+94. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
 
 > **Newly added character.**
 
-> - Do you mean the contact face? How to define narrow or wide?
-> - The overlying area of posterolateral margin of anterior median dorsal plate refers to the contact face where the anterior median dorsal plate overlap the posterior dorsolateral plate. In the _Xichonolepis_ collected in Wuding, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 5 mm, which gradually decreases from the posteriolateral corner towards the lateral corner. In the _Xichonolepis_ collected in the Pearl River source, the maximum width of the posterolateral overlying area of the anterior median dorsal plate is 2 mm, which gradually decreases from the posteriolateral corner towards the lateral corner, and disappearing at approximately 3/4 of the length of the posterolateral margin.
-
-95. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); approach (1); greater than (2)
-
-> **Newly added character.**
-
-> **Havent seen any antiarchs in state 2**
