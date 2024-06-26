@@ -250,7 +250,7 @@
 63. Ventrolateral fossa of trunk shield: absent (0); present (1).
 > Zhu (1996), Character 26; Pan et al. (2017), Character 26; Wang & Zhu (2018), Character 63; Plax and Lukševičs (2023), Character 63.
 
-64. Posterior dorsolateral and posterior lateral plates: independent (0); fused to form a mixilateral plate (1).
+64. Posterior dorsolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
 > Young (1984, 1988), Character 20; Zhang and Young (1992), Character 8; Zhu (1996), Character 27; Jia, Zhu & Zhao (2010), Character 41; Pan et al. (2017), Character 27; Wang & Zhu (2018), Character 64; Plax and Lukševičs (2023), Character 64.
 
 65. Posterior ventrolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
