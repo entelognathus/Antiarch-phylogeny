@@ -55,6 +55,13 @@
 > - Sika Formation, Trang Xa, Bac Thai; Dông Mo, Lang Son, northern Vietnam
 > - [Tông-Dzuy and Janvier, 1990](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/24236/reference_id_24236_20201031142711722.pdf)
 
+[*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
+> Lochkovian-Pragian,  419.2, 407.6
+
+> -  Xishancun Formation, Cuifengshan, Qujing, Yunnan; Lianhuashan Formation， Liujing, Guangxi
+> - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+> - Type species.
+
 [*Dayaoshania youngi*](https://www.deepbone.cn/public/#/explor?s_id=3306&functionId=Deepbone_header_searchResultOpen) Wang, 1992
 > Emsian, 407.6, 393.3 
 
@@ -555,13 +562,6 @@
 
 > - Xitun Formation, Cuifengshan, Qujing, Yunnan
 > - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Zhu, 1996](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/669/20180816134613_5_698.pdf)
-
-[*Chuchinolepis gracilis*](https://www.deepbone.cn/public/#/explor?s_id=56&functionId=Deepbone_header_searchResultOpen) Chang, 1978
-> Lochkovian-Pragian,  419.2, 407.6
-
-> -  Xishancun Formation, Cuifengshan, Qujing, Yunnan; Lianhuashan Formation， Liujing, Guangxi
-> - [Chang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/707/20180920101654_5_645.pdf); [Liu, 1992](https://www.vertpala.ac.cn/CN/Y1992/V30/I03/210); [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
-> - Type species.
 
 [*Houershanaspis zhangi*](https://www.deepbone.cn/public/#/explor?s_id=13&functionId=Deepbone_header_searchResultOpen) Lu *et al*, 2017
 > Late Pragian, Lower Devonian, 410.8, 407.6
