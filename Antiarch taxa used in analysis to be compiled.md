@@ -357,9 +357,8 @@
 [*Asperaspis carinata*](https://deepbone.org/public/#/explor?s_id=3450&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1993 
 > Givetian, Middle Devonian, 387.7, 382.7
 
-> - [horizon and locality]
-> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne)
-> - **no specimen data in deepbone**
+> - Taldysai Formation; Sarysu–Teniz interfluve; Kazakhstan
+> - [Lukševičs, 1996](https://sciencepress.mnhn.fr/en/periodiques/geodiversitas/23/4/bothriolepides-antiarches-vertebrata-placodermi-du-devonien-du-nord-ouest-de-la-plateforme-est-europeenne); [Moloshnikov, 2012](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1272/reference_id_1272_20200101144718413.pdf)
 
 [*Bothriolepis* spp.](https://deepbone.org/public/#/explor?s_id=1394&functionId=Deepbone_header_searchResultOpen)
 > upper Emsian to Famennian, 407.6, 358.9
