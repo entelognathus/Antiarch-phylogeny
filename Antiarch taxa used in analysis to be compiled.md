@@ -390,7 +390,7 @@
 [*Gerdalepis jesseni*](https://www.deepbone.cn/public/#/explor?s_id=3526&functionId=Deepbone_header_searchResultOpen) Friman and Koln, 1982
 > middle Eifelian, 393.3, 387.7 
 
-> - Eifel, Germany.
+> - Eifel District, Germany.
 > - [Gross, 1941b]; [Friman and Koln, 1982](https://link.springer.com/article/10.1007/BF02988800).
 
 [*Grossilepis brandi*](https://www.deepbone.cn/public/#/explor?s_id=3325&functionId=Deepbone_header_searchResultOpen) Miles, 1968
@@ -416,6 +416,7 @@
 
 > - Facies 3, Boyd Volcanic Complex, 75110E 590834N, New South Wales, Australia
 > - [Young, 2010](https://www.deepbone.cn/index/index/index#/literature_details/982)
+
 [*Microbrachius sinensis*](https://deepbone.org/public/#/explor?s_id=3218&functionId=Deepbone_header_searchResultOpen) Pan, 1984
 > Eifelian, 393.3, 387.7
 
@@ -444,8 +445,6 @@
 
 [*Phymolepis guoruii*](https://deepbone.org/public/#/explor?s_id=39&functionId=Deepbone_header_searchResultOpen) Zhu,1996
 > Lochkovian, 419.2, 410.8
-
-> - **Should the cockscomb-shaped ridge on its AMD be considered as some kind of dorsal spine?**
 
 > - Xitun Formation, CuiFengShan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
@@ -476,16 +475,19 @@
 [*Sherbonaspis andreannae*](https://www.deepbone.cn/index/index/index#/explor?s_id=3446&functionId=Deepbone_header_searchResultOpen) Panteleyev 1993
 > Givetian, 387.7, 382.7
 
+> - Basal Aidarly Formation; Ul’kenSarymbet Mountain; Kazakhstan
+> - [Panteleyev 1993]; [Moloshnikov, 2012](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1272/reference_id_1272_20200101144718413.pdf)
+
 [*Sinolepis szei*](https://deepbone.org/public/#/explor?s_id=3310&functionId=Deepbone_header_searchResultOpen) Pan et al., 1987
 > Famennian, 372.2, 358.9 
 
-> - [Zhongning Formation; Near Yantongshan, Zhongning, Ningxia,China]
+> - Zhongning Formation; Near Yantongshan, Zhongning, Ningxia,China
 > - [Pan et al., 1987]
 
 [*Sinolepis wutungensis*](https://deepbone.org/public/#/explor?s_id=3309&functionId=Deepbone_header_searchResultOpen) Liu and P'an, 1958
 > Famennian, 372.2, 358.9 
 
-> - [Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China]
+> - Upper Wutung Formation; Longtan Town Nanjing, Jiangsu, China
 > - [Liu and P'an, 1958]
 
 [*Tenizolepis bychkovi*](https://deepbone.org/public/#/explor?s_id=2109&functionId=Deepbone_header_searchResultOpen) Malinovskaya 1992
@@ -549,7 +551,7 @@
 
 > - ***B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
 
-[*Minicrania lissa*] Janvier and Phuong, 1999
+[*Minicrania lissa*](https://www.deepbone.cn/index/index/index#/explor?s_id=8354&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
 > Lochkovian, 419.2, 410.8
 
 > - Khao Loc Formation, Quan Ba, Ha Giang, Vietnam
