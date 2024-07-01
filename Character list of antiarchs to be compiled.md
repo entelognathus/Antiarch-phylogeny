@@ -356,7 +356,41 @@
 
 >- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev & Moloshnikov, 2003).
 
-88.The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
+88.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
+
+> Retchie et al. (1992, Character 6)
+
+> - Retchie et al. (1992) regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
+
+89.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
+
+> Retchie et al. (1992, Character 7)
+
+> - Few researchers have noticed that character, Retchie regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
+
+90.	Mesial marginal plate 1 restricted to mesial wall of pectoral fin: absent (0); present (1).
+
+> Retchie et al. (1992, Character 8)
+
+> - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
+
+91. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
+
+> Retchie et al. (1992), Character 11.
+
+> - Retchie et al. (1992) regarded it is a synapomorphy of sinolepids and euantiarchs.
+
+92. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
+
+> **Newly added character.**
+
+## Characters not used in *Tubalepis* matrix
+
+93. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
+
+> **Newly added character.**
+
+94.The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
 
 > Retchie et al. (1992, Character 1)
 
@@ -364,39 +398,10 @@
 
 > **Hard to identify in all antiarchs group, considering the shape changes of paranuchal plate, may be deleted**
 
-89.	Short posterolateral margin of anterior median dorsal plate : absent (0); present (1).
+95.	Short posterolateral margin of anterior median dorsal plate : absent (0); present (1).
 
 > Retchie et al. (1992, Character 3)
 
 > - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2)”.
 
 > - **May be deleted**
-
-90.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
-
-> Retchie et al. (1992, Character 6)
-
-> - Retchie et al. (1992) regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
-
-91.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
-
-> Retchie et al. (1992, Character 7)
-
-> - Few researchers have noticed that character, Retchie regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
-
-92.	Mesial marginal plate 1 restricted to mesial wall of pectoral fin: absent (0); present (1).
-
-> Retchie et al. (1992, Character 8)
-
-> - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
-
-93. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
-
-> Retchie et al. (1992), Character 11.
-
-> - Retchie et al. (1992) regarded it is a synapomorphy of sinolepids and euantiarchs.
-
-94. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
-
-> **Newly added character.**
-
