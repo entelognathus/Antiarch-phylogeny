@@ -225,53 +225,17 @@
 > - Middle Old Red Sandstone (Achanarras horizon) of Nairnshire, Banffshire, Rossshire, Caithness, Orkney and Shetland, Scotland. This fish-bed forms the boundary between the Passage beds and the Thurso flagstone group in Caithness, and between the Lower and Upper Stromness flags in Orkney.
 > - Nilsson, 1941; Hemmings, 1978; [Long *et al*., 2015](https://www.nature.com/articles/nature13825).
 
-[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
-> Famennian, 372.2, 358.9 
-
-> - Montfort/Evieux Formation, Tienne-des-Marteaux quarry also called Durnal 2, Bocq valley, Spontin, Namur Province, Belgium
-> - [Olive, 2015](https://www.researchgate.net/publication/271355256_Devonian_Antiarch_Placoderms_from_Belgium_revisited)
-
-[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
-> Famennian, 372.2, 358.9 
-
-> - Torsuj Formation,  Kyrgyzstan, northern Tien Shan, right bank of the Western Karakol River
-> - [Panteleyev, 1992]; [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
-
 [*Remigolepis microcephala*](https://deepbone.org/public/#/explor?s_id=3515&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
 > - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
 > - [Pan *et al*., 1987]
 
-[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
-> upper Famennian, 372.2, 358.9 
-
-> - Hunter Siltstone, Redcliff Mountain, 20 km NE of Grenfell, New South Wales, Australia
-> - [Johanson, 1997](https://www.tandfonline.com/doi/abs/10.1080/03115519708619173)
-
 [*Remigolepis walkeri*](https://deepbone.org/public/#/explor?s_id=3493&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
 > lower Famennian, 372.2, 358.9 
 
 > - Mandagery Sandstone,  10 km southwest of Canowindra, NSW
 > - [Johanson, 1997](https://www.cambridge.org/core/journals/geological-magazine/article/abs/new-remigolepis-placodermi-antiarchi-from-canowindra-new-south-wales-australia/F6BB8C18D6935C66AF9DD7A09F1A9DB7)
-
-[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
-> - [Pan *et al*., 1987]
-
-[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
-> - [Pan *et al*., 1987]
-
-[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
-> Famennian, 372.2, 358.9
-
-> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
-> - [Pan *et al*., 1987]
 
 [*Sherbonaspis hillsi*](https://deepbone.org/public/#/explor?s_id=6401&functionId=Deepbone_header_searchResultOpen) Young and Gorter, 1981
 > Eifelian, 393.3, 387.7 
@@ -308,12 +272,6 @@
 
 > - Tuba Regional Stage, Minusinsk Trough, Russia
 > - [Moloshnikov, 2012](https://www.researchgate.net/profile/Sergey-Moloshnikov/publication/257843315_Middle-Late_Devonian_Placoderms_Pisces_Antiarchi_from_Central_and_Northern_Asia/links/54ed80890cf2465f5330f625/Middle-Late-Devonian-Placoderms-Pisces-Antiarchi-from-Central-and-Northern-Asia.pdf); [Panteleyev and Moloshnikov, 2003](https://www.deepbone.cn/public/#/literature_details/1249)
-
-[*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
-> Givetian-Frasnian, 387.7,  372.2
-
-> - Dô Son  Formation, Dô Son  peninsula, north Vietnam
-> - [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
 
 [*Walterilepis speciosa*](https://deepbone.org/public/#/explor?s_id=3346&functionId=Deepbone_header_searchResultOpen) Gross, 1932
 > Frasnian, 382.7, 372.2 
@@ -447,17 +405,55 @@
 
 > - Xitun Formation, CuiFengShan, Qujing, Yunnan
 > - [Zhu, 1996](https://www.researchgate.net/publication/225089905_The_phylogeny_of_the_Antiarcha_Placodermi_Pisces_with_the_description_of_Early_Devonian_antiarchs_from_Qujing_Yunnan_China)
+
+[*Remigolepis durnalensis*](https://deepbone.org/public/#/explor?s_id=3444&functionId=Deepbone_header_searchResultOpen) Olive, 2015
+> Famennian, 372.2, 358.9 
+
+> - Montfort/Evieux Formation, Tienne-des-Marteaux quarry also called Durnal 2, Bocq valley, Spontin, Namur Province, Belgium
+> - [Olive, 2015](https://www.researchgate.net/publication/271355256_Devonian_Antiarch_Placoderms_from_Belgium_revisited)
+
+[*Remigolepis karakoliensis*](https://deepbone.org/public/#/explor?s_id=3451&functionId=Deepbone_header_searchResultOpen) Panteleyev, 1992
+> Famennian, 372.2, 358.9 
+
+> - Torsuj Formation,  Kyrgyzstan, northern Tien Shan, right bank of the Western Karakol River
+> - [Panteleyev, 1992]; [Moloshnikov, 2012](https://link.springer.com/article/10.1134/S0031030112100012)
+
+[*Remigolepis redcliffensis*](https://deepbone.org/public/#/explor?s_id=3492&functionId=Deepbone_header_searchResultOpen) Johanson, 1997
+> upper Famennian, 372.2, 358.9 
+
+> - Hunter Siltstone, Redcliff Mountain, 20 km NE of Grenfell, New South Wales, Australia
+> - [Johanson, 1997](https://www.tandfonline.com/doi/abs/10.1080/03115519708619173)
+
+
+[*Remigolepis xiangshanensis*](https://deepbone.org/public/#/explor?s_id=3514&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
+> - [Pan *et al*., 1987](https://www.deepbone.cn/index/index/index#/literature_details/332)
+
+[*Remigolepis zhongningensis*](https://deepbone.org/public/#/explor?s_id=3512&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - Zhongning Formation, Shixiagou, Yantongshan, Ningxia
+> - [Pan *et al*., 1987](https://www.deepbone.cn/index/index/index#/literature_details/332)
+
+[*Remigolepis zhongweiensis*](https://deepbone.org/public/#/explor?s_id=3513&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
+> Famennian, 372.2, 358.9
+
+> - Zhongning Formation, Hongshiyan, Zhongwei, Ningxia
+> - [Pan *et al*., 1987](https://www.deepbone.cn/index/index/index#/literature_details/332)
+
 [*Remigolepis xixiaensis*](https://deepbone.org/public/#/explor?s_id=3517&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
 > - Zhongning Formation, Shixiagou, Niushoushan, Ningxia
-> - [Pan *et al*., 1987]
+> - [Pan *et al*., 1987](https://www.deepbone.cn/index/index/index#/literature_details/332)
 
 [*Remigolepis major*](https://deepbone.org/public/#/explor?s_id=3516&functionId=Deepbone_header_searchResultOpen) Pan *et al*., 1987
 > Famennian, 372.2, 358.9
 
 > - Zhongning Formation, Shixiagou, Niushoushan, Ningxia; Dadaigou, Neimenggu
-> - [Pan *et al*., 1987]
+> - [Pan *et al*., 1987](https://www.deepbone.cn/index/index/index#/literature_details/332)
 
 [*Remigolepis armata*](https://deepbone.org/public/#/explor?s_id=3463&functionId=Deepbone_header_searchResultOpen) Luksevics, 1991
 > Famennian, 372.2, 358.9 
@@ -538,8 +534,15 @@
 
 > - Si Ka Formation, Thai Nguyen, Vietnam
 > - [Janvier and Phuong, 1999](https://www.deepbone.cn/index/index/index#/literature_details/1435)
-
 > - **Lack of solid materials, only AVL and scales**
+
+[*Vietnamaspis trii*](https://deepbone.org/public/#/explor?s_id=3498&functionId=Deepbone_header_searchResultOpen) Long *et al*., 1990
+> Givetian-Frasnian, 387.7,  372.2
+
+> - Dô Son  Formation, Dô Son  peninsula, north Vietnam
+> - [Long *et al*., 1990](https://www.tandfonline.com/doi/abs/10.1080/03115519008619054)
+> - **Questionable materials**
+
 ## Antiarch taxa not used in the analysis
 
 [*Tubalepis babichevi*](https://www.deepbone.cn/index/index/index#/explor?s_id=2107&functionId=Deepbone_header_searchResultOpen)
