@@ -104,9 +104,8 @@ BEGIN CHARACTERS;
 		87 Median_ventral_plate /  absent present, 
 		88 Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone' /  absent present, 
 		89 Mesial_lamina_on_dorsal_central_plate_1 /  absent present, 
-		90 Mesial_marginal_plate_1_restricted_to_mesial_wall_of_pectoral_fin /  absent present, 
-		91 Nerves_and_vessels_to_pectoral_fin_passing_through_a_single_axillary_foramen /  absent present, 
-		92 Overlying_area_of_posterolateral_margin_of_anterior_median_dorsal_plate /  absent present ; 
+		90 Mesial_marginal_plate_1_restricted_to_mesial_wall_of_pectoral_fin /  absent present ;  
+	
 
 	MATRIX
 		Kujdanowiaspis_podolica         00-000----0-?-??000???-000101111000000000-110000--------?00010000001000---------101---1---
