@@ -151,7 +151,7 @@
 38. Supraoccipital pit of head shield: absent (0); present (1).
 > Wang & Zhu (2018), Character 38; Plax and Lukševičs (2023), Character 38.
 
-> - This pit or cavity, also termed as the supraotic pit (Long & Werdelin) 1986, corresponds to the endocranial supraoccipital process.
+> - This pit or cavity, also termed as the supraotic pit (Long & Werdelin, 1986) and middle pit (Young, 1988), corresponds to the endocranial supraoccipital process.  
 
 39. Confluence between anterior and posterior semicircular canals: midway between orbital notch and transverse nuchal crista or close to orbital notch (0); close to transverse nuchal crista (1).
 > Wang & Zhu (2018), Character 39; Plax and Lukševičs (2023), Character 39.
