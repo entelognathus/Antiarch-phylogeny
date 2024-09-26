@@ -47,7 +47,7 @@
 > Eifelian to lower Frasnian, Middle to Upper Devonian, 393.3, 372.2
 
 > - Kerman, Tabas Region, eastern Iran
-> - Eichwald, 1844; Karatajūte-Talimaa, 1960; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); [Plax, 2016](https://deepbone.org/public/#/literature_details/34924)
+> - Eichwald, 1844; Karatajūte-Talimaa, 1960; [Denison, 1978]; [Plax, 2016](https://deepbone.org/public/#/literature_details/34924)
 
 [*Chuchinolepis dongmoensis*](https://www.deepbone.cn/index/index/index#/explor?s_id=3497&functionId=Deepbone_header_searchResultOpen) Tông-Dzuy and Janvier, 1990
 > Pragian, Lower Devonian; 407.6, 410.8
@@ -77,7 +77,7 @@
 [*Gerdalepis rhenana*](https://www.deepbone.cn/index/index/index#/explor?s_id=3335&functionId=Deepbone_header_searchResultOpen) Beyrich, 1877
 > Eifelian, 407.6, 393.3
 
-> - [Beyrich, 1877];[Denison, 1978](https://deepbone.org/public/#/literature_details/34513) 
+> - [Beyrich, 1877];[Denison, 1978] 
 
 [*Grenfellaspis branagani*](https://www.deepbone.cn/public/#/explor?s_id=3305&functionId=Deepbone_header_searchResultOpen) Ritchie *et al*., 1992
 > Late Famennian, 372.2, 358.9 
@@ -89,7 +89,7 @@
 > Early Givetian, 387.7, 382.7 
 
 > - Eifel, Germany
-> - [Denison, 1978](https://deepbone.org/public/#/literature_details/34513)
+> - [Denison, 1978]
 
 [*Grossilepis rikiki*](https://www.deepbone.cn/public/#/explor?s_id=3443&functionId=Deepbone_header_searchResultOpen) Olive, 2015
 > Late Famennian, 372.2, 358.9
@@ -138,7 +138,7 @@
 > Frasnian, 382.7, 372.2
 
 > - Kellwasserkalk of the Mimticoceras beds; Bad Wildungen, Germany
-> - Gross, 1933; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); Obruchev, 1964
+> - Gross, 1933; [](https://deepbone.org/public/#/literature_details/34513); Obruchev, 1964
 
 [*Liujiangolepis suni*](https://deepbone.org/public/#/explor?s_id=3312&functionId=Deepbone_header_searchResultOpen) Wang, 1987
 > Pragian to lower Emsian, 410.8, 393.3 
@@ -583,7 +583,7 @@
 > Famennian, 372.2, 358.9
 
 > - Wutong Formation, Nanjing, Jiangsu
-> - [P'an, 1957]; [P'an, 1964]; [Denison, 1978](https://deepbone.org/public/#/literature_details/34513); [Li et al., 1984](https://deepbone.org/public/#/literature_details/14615); [Zhang and Liu, 1991]
+> - [P'an, 1957]; [P'an, 1964]; [](https://deepbone.org/public/#/literature_details/34513); [Li et al., 1984](https://deepbone.org/public/#/literature_details/14615); [Zhang and Liu, 1991]
 
 [*Remigolepis* spp.](https://deepbone.org/public/#/explor?s_id=3339&functionId=Deepbone_header_searchResultOpen)
 > Famennian, 372.2, 358.9
