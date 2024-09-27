@@ -374,8 +374,6 @@
 
 > - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
 
-## Characters not used in *Tubalepis* matrix 
-
 91. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
 
 > Retchie et al. (1992), Character 11.
@@ -385,6 +383,8 @@
 92. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
 
 > **Newly added character.**
+
+## Characters not used in *Tongdulepis* matrix 
 
 93. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
 
