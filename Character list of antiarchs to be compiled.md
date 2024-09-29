@@ -226,10 +226,12 @@
 57. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 > Young (1984, 1988), Character 16; Zhu (1996), Character 20; Pan et al. (2017), Character 20; Wang & Zhu (2018), Character 57; Plax and Lukševičs (2023), Character 57.
 
-58. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
+58. Posterior interior transverse crista of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
 > Zhu (1996), Character 21; Jia, Zhu & Zhao (2010), Character 40; Pan et al. (2017), Character 21; Wang & Zhu (2018), Character 58; Plax and Lukševičs (2023), Character 58.
 
-59. Posterior ventral pit and process of posterior median dorsal plate: on *crista transversalis interna posterior* (0); posteriorly migrated behind *crista transversalis interna posterior* (1).
+>- Posterior interior transverse crista was named as *Crista transversalis interna posterior* in some articles.
+
+59. Posterior ventral pit and process of posterior median dorsal plate: on posterior interior transverse crista (0); posteriorly migrated behind posterior interior transverse crista (1).
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan et al. (2017), Character 22; Wang & Zhu (2018), Character 59; Plax and Lukševičs (2023), Character 59.
 
 >- To identify the position of *Crista transversalis interna posterior* on antiarchs have posteriorly migrated posterior ventral process.
@@ -285,20 +287,14 @@
 
 > - Character 625 in 'early gnathostome phylogeny dataset'.
 
-> - The typical brachial process (*processus brachialis*) is formed of the *pars pedalis* and the *pars condyloidea* which is helmet-shaped in euantiarchs. In *Xichonolepis*, there is the *pars pedalis* but no the *pars condyloidea*.
+> - The typical brachial process (*processus brachialis*) is formed of the pedal part (*pars pedalis*) and the *pars condyloidea* which is helmet-shaped in euantiarchs. In *Xichonolepis*, there is the pedal part but no the *pars condyloidea*.
 
 73. Brachial process: simple (0); helmet-shaped (1);
 > Young (1984, 1988), Character 9; Retchie et al. (1992), Character 9; Zhu (1996), Character 3, part; Jia, Zhu & Zhao (2010), Character 31; Pan et al. (2017), Character 3, part; Wang & Zhu (2018), Character 73; Plax and Lukševičs (2023), Character 73.
 
 > - Character 625 in 'early gnathostome phylogeny dataset'.
 
-> - Antiarchs that have the *pars pedalis* but no the *pars condyloidea* are coded as the "simple" state (e.g., Sinolepidae).
-
-> - **More characters relating to the pectoral articulation to be defined.**
-> - Doral and vertral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
-> - Size of dorsal articular depression for the dermal process of pectoral appendate: short (0), long (1).
-> - Size of ventral articular depression for the dermal process of pectoral appendate: short (0), long (1).
-> - Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
+> - Antiarchs that have the pedal part (*pars pedalis*) but no the *pars condyloidea* are coded as the "simple" state (e.g., Sinolepidae).
 
 74. Axillary foramen: small (0); large (1).
 > Young (1984, 1988), Character 27; Zhang and Young (1992), Character 15; Zhu (1996), Character 4; Jia, Zhu & Zhao (2010), Character 32; Pan et al. (2017), Character 4; Wang & Zhu (2018), Character 74; Plax and Lukševičs (2023), Character 74.
@@ -405,3 +401,19 @@
 > - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2)”.
 
 > - **May be deleted**
+
+96.	Doral and vertral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
+
+> **Newly added character.**
+
+97. Size of dorsal articular depression for the dermal process of pectoral appendate: short (0), long (1).
+
+> **Newly added character.**
+
+98. Size of ventral articular depression for the dermal process of pectoral appendate: short (0), long (1).
+
+> **Newly added character.**
+
+99. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
+
+> **Newly added character.**
