@@ -236,7 +236,7 @@
 
 >- To identify the position of *Crista transversalis interna posterior* on antiarchs have posteriorly migrated posterior ventral process.
 
-60. *Crista transversalis interna posterior* of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
+60. *Crista transversalis interna posterior* (internal posterior transverse crista) of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 > Zhu (1996), Character 23; Pan et al. (2017), Character 23; Wang & Zhu (2018), Character 60; Plax and Lukševičs (2023), Character 60. 
 
 >- To identify the position of *crista transversalis interna posterior* on antiarchs have centered posterior ventral process (e.g., *Yunnanolepis*, *Phymolepis* and *Mizia*, Zhu, 1996).
