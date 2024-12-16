@@ -607,9 +607,13 @@
 
 **References**
 
+Andrews, S. M. (1978). A possible occurrence of *Remigolepis* in the topmost Old Red Sandstone of Berwickshire. Scottish Journal of Geology, **14**(4), 311-315. 
+
 Arsenault, M., Desbiens, S., Janvier, P., & Kerr, J. (2004). New data on the soft tissues and external morphology of the antiarch *Bothriolepis canadensis* (Whiteaves, 1880) from the Upper Devonian of Miguasha, Quebec. In: Arratia, G., Wilson, M.V.H., and Cloutier, R. (eds), Recent Advances in the Origin and Early Radiation of Vertebrates. München: *Verlag Dr. Friedrich Pfeil*, 439-454.
 
 Béchard, I., Arsenault, F., Cloutier, R., & Kerr, J. (2014). The Devonian placoderm fish Bothriolepis canadensis revisited with three-dimensional digital imagery. *Palaeontologia Electronica*, **17**(1), 1-19.
+
+Burrow, C. J. (1996). Placoderm scales from the Early Devonian of New South Wales, Australia. Modern Geology, **20**, 351-369. 
 
 Burrow, C.J. (2005). Histological structure of the cancellous bone layer in *Bothriolepis canadensis* (Antiarchi, Placodermi). *Lethaia*, **38**(3), 205-210.
 
@@ -617,7 +621,9 @@ Burrow, C.J., & Turner, S. (1998). Devonian placoderm scales from Australia. *Jo
 
 Burrow, C.J., & Turner, S. (1999). A review of placoderm scales, and their significance in placoderm phylogeny. *Journal of Vertebrate Paleontology*, **19**(2), 204-219.
 
-Chang, K.J. (1965). New antiarchs from the Middle Devonian of Yunnan. *Vertebrata PalAsiatica*, 9 (1), 1-9.
+Chang, K.J. (1965). New antiarchs from the Middle Devonian of Yunnan. *Vertebrata PalAsiatica*, **9**(1), 1-9.
+
+Chang, K. J. (1978). Early Devonian antiarchs from Cuifengshan, Yunnan. In *Symposium on the Devonian System of South China* (pp. 292-297). Geological Press, Beijing.
 
 Charest, F., Johanson, Z., & Cloutier, R. (2018). Loss in the making: absence of pelvic fins and presence of paedomorphic pelvic girdles in a Upper Devonian antiarch placoderm (jawed stem-gnathostome). *Biology Letters*, **14**(6).
 
@@ -627,9 +633,21 @@ Denison, R. (1978). *Placodermi*. Gustav Fischer Verlag.
 
 Downs, J.P., & Donoghue, P.C.J. (2009). Skeletal histology of *Bothriolepis canadensis* (Placodermi, Antiarchi) and evolution of the skeleton at the origin of jawed vertebrates. *Journal of Morphology*, **270**(11), 1364-1380.
 
+Dupret, V. (2010). Revision of the genus Kujdanowiaspis Stensiö, 1942 (Placodermi, Arthrodira, “Actinolepida”) from the Early Devonian of Podolia (Ukraine). *Geodiversitas*, **32**(1), 5-63. https://doi.org/10.5252/g2010n1a1 
+
+Dupret, V., Goujet, D., & Mark-Kurik, E. (2007). A new genus of placoderm (Arthrodira: 'Actinolepida') from the Early Devonian of Podolia (Ukraine). *Journal of Vertebrate Paleontology*, **27**, 266-284. 
+
+Dupret, V., Sanchez, S., Goujet, D., & Ahlberg, P. E. (2017). The internal cranial anatomy of Romundina stellina Ørvig, 1975 (Vertebrata, Placodermi, Acanthothoraci) and the origin of jawed vertebrates - Anatomical atlas of a primitive gnathostome. *PLoS One*, **12**(2), e0171241. https://doi.org/10.1371/journal.pone.0171241 
+
+Dupret, V., Sanchez, S., Goujet, D., Tafforeau, P., & Ahlberg, P. E. (2014). A primitive placoderm sheds light on the origin of the jawed vertebrate face. *Nature*, **507**, 500-503. https://doi.org/10.1038/nature12980 
+
 Eichwald E. (1844). Über silurisch-devonischen Schichten im Petersburger Gouvernement und auf den Inseln der Ostsee. Neues Jahrbuch fur Mineralogie, Geologie und Palaontologie Beilage-Band Abteilung B, Geologie und Palaontologie (1), 41-48.
 
 Friman, L., & Koln (1982). Ein mitteldevonischer Antiarche, *Gerdalepis jesseni* n. sp., aus der SoStenicher Mulde, Nord-Eifel (Rheinisches Schiefergebirge). *Paläontologische Zeitschrift*, **56**(3/4), 229-234.
+
+Goujet, D. F. (1973). Sigaspis, un nouvel arthrodire du Dévonien inférieur du Spitsberg. *Palaeontographica Abteilung A*, **143**, 73-88. 
+
+Goujet, D. F., & Young, G. C. (2004). Placoderm anatomy and phylogeny: new insights. In Arratia, G. Wilson, M. V. H. & Cloutier, R. (Eds.), *Recent Advances in the Origin and Early Radiation of Vertebrates* (pp. 109-126). Verlag Dr. Friedrich Pfeil.
 
 Gross, W. (1933a). Die Fische des Baltischen Devons. *Palaeontographica Abteilung A*, **79**, 1-74.
 
@@ -645,17 +663,25 @@ Hemmings, S.K. (1978). The Old Red Sandstone antiarchs of Scotland, *Pterichthyo
 
 Janvier, P. (1995). The brachial articulation and pectoral fin in antiarchs (Placodermi). *Bulletin du Muséum national d'Histoire naturelle, Paris*, **17**, 143-161.
 
+Janvier, P., & Pan, J. (1982). *Hyrcanaspis bliecki* n.g. n.sp., a new primitive euantiarch (Antiarcha, Placodermi) from the Middle Devonian of northeastern Iran, with a discussion on antiarch phylogeny. *Neues Jahrbuch für Geologie und Paläontologie*, *Abhandlungen*, **164**(3), 364-392.
+
 Janvier, P., & Phuong, T.H. (1999). Les vertébrés (Placodermi, Galeaspida) du Dévonien inférieur de la coupe de Lung Cô-Mia Lé, province de Hà Giang, Viêt Nam, avec des données complémentaires sur les gisements à vertébrés du Dévonian du Bac Bo oriental. *Geodiversitas*, **21**, 33-67.
 
 Janvier, P., Desbiens, S., & Willett, J.A. (2007). New evidence for the controversial 'lungs' of the Upper Devonian antiarch *Bothriolepis canadensis* (Whiteaves, 1880) (Placodermi: Antiarcha). *Journal of Vertebrate Paleontology*, **27**(3), 709-710.
 
 Jia, L.T., Zhu, M., & Zhao, W.J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145.
 
+Johanson, Z. (1995). New informations on jaw elements of *Remigolepis* (Placodermi ; Antiarchi) from Canowindra, NSW, Australia (Late Devonian). *Geobios M. S.*, **19**, 103-107. 
+
 Johanson, Z. (1997). New *Remigolepis* (Placodermi; Antiarchi) from Canowindra, New South Wales, Australia. *Geological Magazine*, **134**(6), 813-846.
 
 Johanson, Z. (1997). New antiarchs (Placodermi) from the Hunter Siltstone (Famennian) near Grenfell, N.S.W. *Alcheringa*, **21**(3), 191-217.
 
 Johanson, Z. (2002). Vascularization of the osteostracan and antiarch (Placodermi) pectoral fin: similarities, and implications for placoderm relationships. *Lethaia*, **35**, 169-186.
+
+Karatajūte-Talimaa, V. N. (1960). *Byssacanthus dilatatus* (Eichw.) from the Middle Devonian of the USSR. *Collectanea Acta Geologica Lithuanica*, **1960**, 293-305. 
+
+Li, X. X., Cai, C. Y., & Ouyang, S. (1984). Recent advances in the study of the Wutung Formation of the Early Yangtze Valley. *Bulletin Academia Geological Sciences, China*, **9**, 119-133. 
 
 Liu, S.F. (1992). On the Lower Devonian antiarchians of Guangxi, China. *Vertebrata PalAsiatica*, **30**(3), 210-220.
 
@@ -672,6 +698,10 @@ Long, J.A., & Werdelin, L. (1986). A new Upper Devonian bothriolepid (Placodermi
 Long, J.A., Burrett, C.F., Ngan, P.K., & Janvier, P. (1990). A new bothriolepid antiarch (Pisces, Placodermi) from the Devonian of Do Son peninsula, northern Vietnam. *Alcheringa*, **14**(3), 181-194.
 
 Long, J.A., Mark-Kurik, E., Johanson, Z., Lee, M.S., Young, G.C., Zhu, M., Ahlberg, P.E., Newman, M., Jones, R., Blaauwen, J.D., Choo, B., & Trinajstic, K. (2015). Copulation in antiarch placoderms and the origin of gnathostome internal fertilization. *Nature*, **517**, 196-199.
+
+Long, J. A., & Werdelin, L. (1986). A new Late Devonian bothriolepid (Placodermi, Antiarcha) from Victoria, with descriptions of other species from the state. *Alcheringa*, **10**(4), 355-399. 
+
+Lu, L. W, Tan, K., & Wang, X. (2017). A new Antiarchi (placoderm fishes) from Devonian strata of Dushan, Guizhou Province. *Acta Geoscientica Sinica*, **38**(2), 144-148. 
 
 Lukševičs, E. (1991). New *Remigolepis* (Pisces, Antiarchi) from the Famennian deposits of the Central Devonian Field (Russia, Tula region). *Daba un muzejs*, **3**, 51-56.
 
@@ -703,13 +733,25 @@ Nilsson, T. (1941). The Downtonian and Devonian vertebrates of Spitsbergen. VII,
 
 Obruchev, D. V. (1964). Class Placodermi. In D. V. Obruchev (Ed.), *Fundamentals of Palaeontology* (pp. 552).
 
+Obrucheva, E. (1983). A new bothriolepid species from the Zadonsk Formation of the Central Devonian Field. In Obruchev, D. V. (Ed.), *Problems of Modern Paleoichthyology: Materials of the Conference* (pp. 36-42). Nauka Publishers, Moscow.
+
 Olive, S. (2015). Devonian antiarch placoderms from Belgium revisited. *Acta Palaeontologica Polonica*, **60**(3), 711-731.
 
-Pan, J. (1984). A new species of *Microbrachius* from Middle Devonian of Yunnan. *Vertebrata PalAsiatica*, **22**, 9-13.
+Ørvig, T. (1975). Description, with special reference to the dermal skeleton, of a new radotinid arthrodire from the Gedinnian of Arctic Canada. In Lehman, J. P. (Ed.), *Problèmes actuels de Paléontologie-Evolution des Vertébrés* (Vol. 218, pp. 41-71). Colloques Internationaux du Centre National de la Recherche Scientifique, Paris.
 
-Pan, J., Huo, F.C., Cao, J.X., Gu, Q.C., Liu, S.Y., Wang, J.Q., Gao, L.D., & Liu, C. (1987). Continental Devonian System of Ningxia and its Biotas. Beijing: *Geological Publishing House*, 1-237.
+P'an, K. (1957). The correlation and age of the Wutung Series of the Early Yangtze Valley, and with a special discussion on the first discovery of Devonian *Asterolepis* in China. *Acta Geologica Sinica*, **37**(4), 455-473. 
 
-P'an, K., & Wang, S.T. (1978). Devonian Agnatha and Pisces of South China. In: Institute of Geology and Mineral Resources, the Chinese Academy of Geological Sciences, (eds), Symposium on the Devonian System of South China. Beijing: *Geological Press*, 298-333.
+P'an, K. (1964). Some Devonian and Carboniferous fishes from South China. *Acta Palaeontologica Sinica*, **12**(1), 139-168.
+
+P'an, K., & Wang, S. T. (1978). Devonian Agnatha and Pisces of South China. In Institute of Geology and Mineral Resources (Ed.), *Symposium on the Devonian System of South China* (pp. 298-333). Geological Press. Beijing.
+
+Pan, J. (1984). A new species of *Microbrachius* from the Middle Devonian of Yunnan. *Vertebrata PalAsiatica*, **22**, 9-13.
+
+Pan, J., Huo, F. C., Cao, J. X., Gu, Q. C., Liu, S. Y., Wang, J. Q., Gao, L. D., & Liu, C. (1987). *Continental Devonian System of Ningxia and its Biotas*. Geological Publishing House, Beijing. 
+
+Pan, J., Lu, L. W., & Zeng, X. Y. (1999). Report of Remigolepis from Late Devonian, Hunan, South China. In Wang, Y. Q. & Deng, T. (Eds.), *Proceeding of the Seventh Annual Meeting of the Chinese Society of Vertebrate Paleontology* (pp. 61-66). China Ocean Press, Beijing. 
+
+Pan, J., Wang, S. T., Liu, S. Y., Gu, Q. C., & Jia, H. (1980). Discovery of Devonian *Bothriolepis* and *Remigolepis* in Ningxia. *Acta Geologica Sinica*, **1980**(3), 175-185. 
 
 Pan, Z.H., Zhu, M., Zhu, Y.A., & Jia, L.T. (2018). A new antiarch placoderm from the Emsian (Lower Devonian) of Wuding, Yunnan, China. *Alcheringa*, **42**, 10-21.
 
