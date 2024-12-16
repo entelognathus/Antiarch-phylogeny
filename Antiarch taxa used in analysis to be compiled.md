@@ -14,13 +14,14 @@
 > upper Lochkovian to lower Pragian, 415.0, 409.2
 
 > - Dnister Series; Podolia, Ukraine
-> - [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
+> - [Stensiö, 1963](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anatomical+studies+on+the+arthrodiran+head.&btnG=); [Dupret, 2007](https://www.researchgate.net/profile/Daniel-Goujet/publication/213770661_A_new_genus_of_placoderm_Arthrodira_'Actinolepida'_from_the_Lower_Devonian_of_Podolia_Ukraine/links/55e8655d08ae21d099c1768d/A-new-genus-of-placoderm-Arthrodira-Actinolepida-from-the-Lower-Devonian-of-Podolia-Ukraine.pdf)
+; [Dupret, 2010](https://bioone.org/journals/geodiversitas/volume-32/issue-1/g2010n1a1/Revision-of-the-genus-iKujdanowiaspis-i-Stensi%C3%B6-1942-Placodermi-Arthrodira/10.5252/g2010n1a1.short)
 
 [*Romundina stellina*](https://deepbone.org/public/#/explor?s_id=2375&functionId=Deepbone_header_searchResultOpen) Ørvig, 1975
 > upper Lochkovian, 415.0, 410.8
 
 > - Prince of Wales Island, Canada.
-> - [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241); Ørvig, 1975
+> - [Ørvig, 1975](https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=PASCALGEODEBRGM7620252248); [Dupret et al., 2014](https://www.nature.com/articles/nature12980); [Dupret *et al*., 2017](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171241)
 
 ## Antiarch taxa used in Tongdulepis
 
@@ -117,9 +118,9 @@
 > - [Pan and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Pan, 1984](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1189/reference_id_1189_20200101100826276.pdf)
 
 [*Hunanolepis tieni*](https://deepbone.org/public/#/explor?s_id=3323&functionId=Deepbone_header_searchResultOpen) P'an and Tzeng, 1973
-> Givetian, 387.7, 382.7 
+> Eifelian, 393.3, 387.7 
 
-> - Tiaomajian Formation, Tiaomajian, Yiyang, Hunan; Haikou Formation and Tanglishu Formation, Qujing and Kunming, Yunnan; Laohutou Formation, Shaoguan and Lechang, Guangdong
+> - Tiaomachien Formation, Tiaomajian, Yiyang, Hunan; Haikou Formation and Tanglishu Formation, Qujing and Kunming, Yunnan; Laohutou Formation, Shaoguan and Lechang, Guangdong
 > - [P'an and Wang, 1978](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/108/reference_id_108_20200505095707232.pdf); [Zhang, 1979](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1210/reference_id_1210_20200101105752889.pdf); [Wang, 1991](https://deepbone-image.oss-cn-hongkong.aliyuncs.com/public_html/literature/1210/reference_id_1210_20200101105752889.pdf)
 
 [*Jiangxilepis longibrachius*](https://deepbone.org/public/#/explor?s_id=42&functionId=Deepbone_header_searchResultOpen) Zhang and Liu, 1991
