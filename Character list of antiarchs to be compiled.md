@@ -377,6 +377,16 @@
 
 ## Characters haven't been used
 
+92. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
+
+> - *Huizelepis* has separated CV1/2, while these plates of *Bothriolepis* are in contact
+
+93.	Mesial marginal plate 2 restricted to mesial wall of pectoral fin: absent (0); present (1).
+
+> Modified from Ritchie et al. (1992, Character 8)
+
+> - The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.
+
 92. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
 
 93. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
