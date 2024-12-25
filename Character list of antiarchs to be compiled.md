@@ -338,7 +338,6 @@
 
 84.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
 > Luo *et al*. (2025), Character 84.     
-> **Newly added character.**
 
 85.	Anterior and posterior median dorsal plates alternately overlapping each other: absent (0); present (1).
 > Luo *et al*. (2025), Character 85.
@@ -415,7 +414,6 @@
 
 99. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
 
-> **Newly added character.**
 
 # References
 Jia, L. T., Zhu, M., & Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
