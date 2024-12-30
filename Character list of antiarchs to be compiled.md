@@ -1432,7 +1432,7 @@
 103. The width between the anterolateral angle of the PMD / the width between the lateral corner of the PMD (r3): less than 50% (0); equal to or larger than 50% (1).
 > Newly added.
 
-> - This character is mainly present in asterolepids.
+> - State 0 is mainly present in asterolepids.
 
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
