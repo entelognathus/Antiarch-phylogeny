@@ -1421,13 +1421,18 @@
 101. Large obtected nuchal area: absent (0); present (1).
 > Liu *et al.* (2023), Character 80? They didn't precisely define the character, only stating that this feature only presents in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*.
 
-> - Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equals to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
+> - Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > - This feature is mainly present in bothriolepids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
 102. Postorbital crista fusing with the median ridge of the postpineal plate: absent (0); present (1).
 > Newly added.
 
 > - This is a derived character of *Microbrachius*.
+
+103. The width between the anterolateral angle of the PMD / the width between the lateral corner of the PMD (r3): less than 50% (0); equal to or larger than 50% (1).
+> Newly added.
+
+> - This character is mainly present in asterolepids.
 
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
