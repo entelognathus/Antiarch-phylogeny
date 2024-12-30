@@ -1,6 +1,5 @@
 # Character list of Antiarches
 > All characters except Characters 19, 49, and 50 are unordered. 
-> - ask Luo: Character 10 ordered or unordered? 
 
 ## Ornamentation, histology and scales
 1. Adult ornamentation: tubercular (0); reticular (1).
@@ -10,7 +9,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -22,7 +21,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -34,7 +33,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is -.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -46,7 +45,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -58,7 +57,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -74,7 +73,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -88,7 +87,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -100,7 +99,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -112,13 +111,13 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
 10. Rostral width/orbital width index of premedian plate: smaller than 100 (0); between 100 and 200 (1); larger than 200 (2).
-> Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10.
+> Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10. Unordered
 
 > - This character is reformulated with three states. It used to have two states (smaller than 200, larger than 200). 
 
@@ -126,7 +125,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -141,7 +140,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -153,7 +152,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -165,7 +164,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -177,7 +176,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -189,7 +188,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -201,7 +200,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -213,7 +212,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -227,7 +226,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -241,7 +240,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -253,7 +252,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -265,7 +264,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -281,13 +280,22 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
 23. Position of postorbital crista: extending medially to postpineal plate (0); extending obliquely to nuchal plate (1).
 > Wang and Zhu (2018), Character 23; Plax and Lukševičs (2023), Character 23; Luo *et al*. (2025), Character 23.
+ 
+> - The coding of *Zhujielepis* is .
+> - The coding of *Yangfanyu* is .
+> - The coding of *Luquanolepis-like* is .
+
+> - The coding of *Huizelepis* is 1.
+
+> - The coding of *Xichonolepis qujingensis* is .
+> - The coding of *Xichonolepis wudingensis* is .
 
 24. Nuchal plate: without orbital facets (0); with orbital facets (1).
 > Young (1984, 1988), Character 26; Zhang and Young (1992), Character 16; Zhu (1996), Character 58; Jia *et al.* (2010), Character 14; Pan *et al.* (2018), Character 58; Wang and Zhu (2018), Character 24; Plax and Lukševičs (2023), Character 24; Luo *et al*. (2025), Character 24.
@@ -300,13 +308,22 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
 25. Supraotic thickening on the visceral view of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
+
+> - The coding of *Zhujielepis* is .
+> - The coding of *Yangfanyu* is .
+> - The coding of *Luquanolepis-like* is .
+
+> - The coding of *Huizelepis* is 1.
+
+> - The coding of *Xichonolepis qujingensis* is .
+> - The coding of *Xichonolepis wudingensis* is .
 
 26. Median occipital crista on the visceral view of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 26; Plax and Lukševičs (2023), Character 26; Luo *et al*. (2025), Character 26.
@@ -317,7 +334,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -329,7 +346,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -343,7 +360,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -357,7 +374,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -371,7 +388,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -383,7 +400,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -395,7 +412,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -407,7 +424,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -419,7 +436,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -433,7 +450,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -445,7 +462,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -457,7 +474,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -471,7 +488,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -483,7 +500,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -495,7 +512,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -507,7 +524,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -519,7 +536,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -533,7 +550,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -545,7 +562,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -559,7 +576,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -571,7 +588,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -589,7 +606,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -601,7 +618,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -615,7 +632,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -629,7 +646,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -643,7 +660,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -658,7 +675,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -670,7 +687,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -682,7 +699,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -694,7 +711,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -706,7 +723,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -718,7 +735,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -732,7 +749,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -746,7 +763,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -760,7 +777,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -774,7 +791,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -786,7 +803,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -798,7 +815,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -810,7 +827,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -822,7 +839,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -836,7 +853,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -848,7 +865,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -860,7 +877,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -874,7 +891,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -888,7 +905,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -900,7 +917,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -916,7 +933,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -932,7 +949,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -946,7 +963,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -960,7 +977,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -973,7 +990,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -985,7 +1002,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -997,7 +1014,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1009,7 +1026,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1022,7 +1039,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1037,7 +1054,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1050,7 +1067,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is -.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1065,7 +1082,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is -.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1077,7 +1094,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 0.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1089,7 +1106,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1101,7 +1118,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1115,7 +1132,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is ?.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1130,7 +1147,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1144,7 +1161,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1158,7 +1175,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1172,7 +1189,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
@@ -1180,6 +1197,8 @@
 
 ## Characters to be used in the follow-up studies
 92. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
+
+> - ** Currently antiarchs with jointed pectoral appendage should be 1, except dianolepids and bothriolepids
 
 > - 1 in *Huizelepis*, 0 in *Bothriolepis*.
 
