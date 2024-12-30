@@ -1031,7 +1031,6 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
-## Newly added characters (unclassified into the categories above)
 80. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 > Plax and Lukševičs (2023), Character 80; Luo *et al*. (2025), Character 80.
 
