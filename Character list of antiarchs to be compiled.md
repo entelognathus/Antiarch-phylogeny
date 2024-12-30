@@ -193,12 +193,12 @@
 48. Number of median dorsal plates: one (0); two (1).
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan *et al.* (2018), Character 11; Wang and Zhu (2018), Character 48; Plax and Lukševičs (2023), Character 48; Luo *et al*. (2025), Character 48. 
 
-49. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate: r1>55 (0); 35=<r1=<55 (1); 15=<r1<35 (2); <15 (3). (ordered)
+49. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate: r1>55 (0); 35≤r1≤55 (1); 15≤r1<35 (2); <15 (3). (ordered)
 > Young (1984, 1988), Character 22; Zhang and Young (1992), Character 3; Zhu (1996), Character 12; Jia *et al.* (2010), Character 33; Pan *et al.* (2018), Character 12; Wang and Zhu (2018), Character 49; Plax and Lukševičs (2023), Character 49; Luo *et al*. (2025), Character 49.
 
 > - The anterior median dorsal plate of antiarchs is homologous to the median dorsal plate 1 in *Qilinyu* Zhu *et al.* (2016) and the extrascapular plate in *Entelognathus* Zhu *et al.*( 2013), and some arthrodires Goujet (1973). It is absent in *Kujdanowaspis*.
 
-50. Index r2 between anterior and posterior divisions of anterior median dorsal plate : r2<300 (0); 300<=r2=<500 (1); r2>500 (2). (ordered)
+50. Index r2 between anterior and posterior divisions of anterior median dorsal plate : r2<300 (0); 300≤r2≤500 (1); r2>500 (2). (ordered)
 > Zhu (1996), Character 13; Pan *et al.* (2018), Character 13; Wang and Zhu (2018), Character 50; Plax and Lukševičs (2023), Character 50; Luo *et al*. (2025), Character 50.
 
 51. Tergal angle of anterior median dorsal plate: centrally or posteriorly placed (0); anteriorly placed (1).
@@ -402,7 +402,7 @@
 
 > Retchie *et al.* (1992, Character 3)
 
-> - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300<=r2=<500 (1); r2>500 (2)”.
+> - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate (ordered): r2<300 (0); 300≤r2≤500 (1); r2>500 (2)”.
 
 > - **May be deleted**
 
