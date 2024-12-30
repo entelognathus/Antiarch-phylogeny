@@ -3,7 +3,6 @@
 > - ask Luo: Character 10 ordered or unordered? 
 
 ## Ornamentation, histology and scales
-
 1. Adult ornamentation: tubercular (0); reticular (1).
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
 
@@ -276,6 +275,8 @@
 22. Pronounced postpineal thickening on the visceral view of postpineal plate: absent (0); present (1).
 > Young (1984, 1988), Character 38; Zhu (1996), Character 62; Jia *et al.* (2010), Character 13; Pan *et al.* (2018), Character 62; Wang and Zhu (2018), Character 22; Plax and Lukševičs (2023), Character 22; Luo *et al*. (2025), Character 22.
 
+> - The term ‘postpineal thickening’ used in phylogenetic analysis was named after Young (1983). This term refers to the thickening on the anterior margin of the postorbital crista in the visceral surface of postpineal plate.
+
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
@@ -284,8 +285,6 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
-
-> - The term ‘postpineal thickening’ used in phylogenetic analysis was named after Young (1983). This term refers to the thickening on the anterior margin of the postorbital crista in the visceral surface of postpineal plate.
 
 23. Position of postorbital crista: extending medially to postpineal plate (0); extending obliquely to nuchal plate (1).
 > Wang and Zhu (2018), Character 23; Plax and Lukševičs (2023), Character 23; Luo *et al*. (2025), Character 23.
@@ -578,7 +577,6 @@
 > - The coding of *Xichonolepis wudingensis* is .
 
 ## Trunk shield
-
 47. Shape of trunk shield: low and elongated (0); high and short (1).
 > Young (1984, 1988), Character 33; Zhu (1996), Character 10; Pan *et al.* (2018), Character 10; Jia *et al.* (2010), Character 25; Wang and Zhu (2018), Character 47; Plax and Lukševičs (2023), Character 47; Luo *et al*. (2025), Character 47. 
 
@@ -652,6 +650,9 @@
 
 52. Dorsal spine of anterior median dorsal plate: absent (0); present (1).
 > Zhu (1996), Character 19; Jia *et al.* (2010), Character 39; Pan *et al.* (2018), Character 19; Wang and Zhu (2018), Character 52; Plax and Lukševičs (2023), Character 52; Luo *et al*. (2025), Character 52.
+
+> - Dorsal median spine in *Ningxialepis* and *Kirgisolepis* is formed by the AMD and PMD plates, whereas that in *Jiangxilepis*, *Byssacanthus* and *Stegolepis* is only formed by the AMD plate.
+> - This character can be reformulated into two characters: dorsal median spine of trunk shield, and the composition of doral median spine (AMD plate vs AMD and PMD plates).
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
