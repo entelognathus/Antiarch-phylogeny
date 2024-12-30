@@ -358,19 +358,19 @@
 
 > Ritchie *et al.* (1992, Character 6); Luo *et al*. (2025), Character 88.
 
-> - Ritchie *et al.* (1992) regarded it as a synapomorphy of bothriolepidoids and asterolepidoids.
+> - Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids).
 
 89.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
 
 > Ritchie *et al.* (1992, Character 7); Luo *et al*. (2025), Character 89.
 
-> - Few researchers have noticed that character. Ritchie *et al.* (1992) regarded it as a synapomorphy of bothriolepidoids and asterolepidoids.
+> - Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids).
 
 90.	Mesial marginal plate 1 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 
 > Ritchie *et al.* (1992, Character 8); Luo *et al*. (2025), Character 90.
 
-> - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
+> -  Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids). **Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.** ???
 
 91. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
 
@@ -385,11 +385,11 @@
 
 > - 1 in *Huizelepis*, 0 in *Bothriolepis*.
 
-93.	Mesial marginal plate 2 restricted to mesial wall of pectoral fin: absent (0); present (1).
+93.	Mesial marginal plate 2 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 
-> Modified from Ritchie *et al.* (1992, Character 8).
+> Ritchie *et al.* (1992, Character 8). ???see Character 90 above.
 
-> - The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.
+> - **The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.** ???
 
 92. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
 
