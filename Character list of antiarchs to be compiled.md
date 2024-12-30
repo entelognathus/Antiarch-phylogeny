@@ -279,7 +279,7 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
-> - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Songmingolepis conspicilatus* is 2.
 
 20. Nasal opening: at anterolateral corners of rostral plate (0); at anterior margin of rostral plate (1).
 > Young (1984, 1988), Character 35; Zhu (1996), Character 49; Jia *et al.* (2010), Character 9; Pan *et al.* (2018), Character 49; Wang and Zhu (2018), Character 20; Plax and Lukševičs (2023), Character 20; Luo *et al*. (2025), Character 20.
