@@ -701,6 +701,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 48. Number of median dorsal plates: one (0); two (1).
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan *et al.* (2018), Character 11; Wang and Zhu (2018), Character 48; Plax and Lukševičs (2023), Character 48; Luo *et al*. (2025), Character 48. 
 
@@ -712,6 +714,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 1.
 
 49. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate: r1 > 55 (0); 35 ≤ r1 ≤55 (1); 15 ≤ r1 < 35 (2); r1 < 15 (3). (ordered)
 > Young (1984, 1988), Character 22; Zhang and Young (1992), Character 3; Zhu (1996), Character 12; Jia *et al.* (2010), Character 33; Pan *et al.* (2018), Character 12; Wang and Zhu (2018), Character 49; Plax and Lukševičs (2023), Character 49; Luo *et al*. (2025), Character 49.
@@ -727,6 +731,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 50. Index r2 between anterior and posterior divisions of anterior median dorsal plate : r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
 > Zhu (1996), Character 13; Pan *et al.* (2018), Character 13; Wang and Zhu (2018), Character 50; Plax and Lukševičs (2023), Character 50; Luo *et al*. (2025), Character 50.
 
@@ -740,6 +746,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+>
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 51. Tergal angle of anterior median dorsal plate: centrally or posteriorly placed (0); anteriorly placed (1).
 > Zhang and Young (1992), Character 2; Zhu (1996), Character 14; Jia *et al.* (2010), Character 34; Pan *et al.* (2018), Character 14; Wang and Zhu (2018), Character 51; Plax and Lukševičs (2023), Character 51; Luo *et al*. (2025), Character 51.
@@ -754,6 +762,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 1.
 
 52. Dorsal spine of anterior median dorsal plate: absent (0); present (1).
 > Zhu (1996), Character 19; Jia *et al.* (2010), Character 39; Pan *et al.* (2018), Character 19; Wang and Zhu (2018), Character 52; Plax and Lukševičs (2023), Character 52; Luo *et al*. (2025), Character 52.
@@ -770,6 +780,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 53. Anterior median dorsal plate: completely overlapping anterior dorsolateral plate (0); partly overlapping anterior dorsolateral plate (1).
 > Zhu (1996), Character 15; Jia *et al.* (2010), Character 35; Pan *et al.* (2018), Character 15; Wang and Zhu (2018), Character 53; Plax and Lukševičs (2023), Character 53; Luo *et al*. (2025), Character 53.
 
@@ -781,6 +793,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 54. Anterior median dorsal plate: underlapping or partly overlapping posterior dorsolateral (or mixilateral) plate (0); completely overlapping posterior dorsolateral (or mixilateral) plate (1).
 > Young (1984, 1988), Character 17; Zhu (1996), Character 16; Jia *et al.* (2010), Character 36; Pan *et al.* (2018), Character 16; Wang and Zhu (2018), Character 54; Plax and Lukševičs (2023), Character 54; Luo *et al*. (2025), Character 54.
@@ -794,6 +808,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 55. Anterior median dorsal plate: partly or completely overlapping posterior dorsolateral (or mixilateral) plate (0); underlapping posterior dorsolateral (or mixilateral) plate (1).
 > Young (1984, 1988), Character 21; Zhang and Young (1992), Character 4; Zhu (1996), Character 17; Jia *et al.* (2010), Character 37; Pan *et al.* (2018), Character 17; Wang and Zhu (2018), Character 55; Plax and Lukševičs (2023), Character 55; Luo *et al*. (2025), Character 55.
 
@@ -805,6 +821,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 1.
 
 56. Anterior ventral process and pit on anterior median dorsal plate: absent (0); present (1).
 > Young (1984, 1988), Character 31; Zhu (1996), Character 18; Jia *et al.* (2010), Character 38; Pan *et al.* (2018), Character 18; Wang and Zhu (2018), Character 56; Plax and Lukševičs (2023), Character 56; Luo *et al*. (2025), Character 56.
@@ -818,6 +836,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 57. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 > Young (1984, 1988), Character 16; Zhu (1996), Character 20; Pan *et al.* (2018), Character 20; Wang and Zhu (2018), Character 57; Plax and Lukševičs (2023), Character 57; Luo *et al*. (2025), Character 57.
 
@@ -829,6 +849,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 58. Posterior interior transverse crista of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
 > Zhu (1996), Character 21; Jia *et al.* (2010), Character 40; Pan *et al.* (2018), Character 21; Wang and Zhu (2018), Character 58; Plax and Lukševičs (2023), Character 58; Luo *et al*. (2025), Character 58.
@@ -844,6 +866,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 59. Posterior ventral pit and process of posterior median dorsal plate: on posterior interior transverse crista (0); posteriorly migrated behind posterior interior transverse crista (1).
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan *et al.* (2018), Character 22; Wang and Zhu (2018), Character 59; Plax and Lukševičs (2023), Character 59; Luo *et al*. (2025), Character 59.
 
@@ -857,6 +881,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 60. *Crista transversalis interna posterior* (internal posterior transverse crista) of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 > Zhu (1996), Character 23; Pan *et al.* (2018), Character 23; Wang and Zhu (2018), Character 60; Plax and Lukševičs (2023), Character 60; Luo *et al*. (2025), Character 60. 
@@ -872,6 +898,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 61. Anterior lateral plate: absent (0); present (1).
 > Young (1984, 1988), Character 2; Zhu (1996), Character 24; Pan *et al.* (2018), Character 24; Wang and Zhu (2018), Character 61; Plax and Lukševičs (2023), Character 61; Luo *et al*. (2025), Character 61.
 
@@ -886,6 +914,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 62. Chang’s apparatus: absent (0); present (1).
 > Zhu (1996), Character 25; Pan *et al.* (2018), Character 25; Wang and Zhu (2018), Character 62; Plax and Lukševičs (2023), Character 62; Luo *et al*. (2025), Character 62.
 
@@ -897,6 +927,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 63. Ventrolateral fossa of trunk shield: absent (0); present (1).
 > Zhu (1996), Character 26; Pan *et al.* (2018), Character 26; Wang and Zhu (2018), Character 63; Plax and Lukševičs (2023), Character 63; Luo *et al*. (2025), Character 63.
@@ -910,6 +942,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 64. Posterior dorsolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
 > Young (1984, 1988), Character 20; Zhang and Young (1992), Character 8; Zhu (1996), Character 27; Jia *et al.* (2010), Character 41; Pan *et al.* (2018), Character 27; Wang and Zhu (2018), Character 64; Plax and Lukševičs (2023), Character 64; Luo *et al*. (2025), Character 64.
 
@@ -922,6 +956,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is ?.
+
 65. Posterior ventrolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
 > Young (1984, 1988), Character 13; Zhang and Young (1992), Character 7; Zhu (1996), Character 28; Jia *et al.* (2010), Character 42; Pan *et al.* (2018), Character 28; Wang and Zhu (2018), Character 65; Plax and Lukševičs (2023), Character 65; Luo *et al*. (2025), Character 65.
 
@@ -933,6 +969,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is ?.
 
 66. Semilunar plate: paired (0); unpaired (1).
 > Young (1984, 1988), Character 23; Zhang and Young (1992), Character 5; Zhu (1996), Character 29; Jia *et al.* (2010), Character 44; Pan *et al.* (2018), Character 29; Wang and Zhu (2018), Character 66; Plax and Lukševičs (2023), Character 66; Luo *et al*. (2025), Character 66.
@@ -948,6 +986,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 67. Large rectangular aperture on ventral wall of trunk shield: absent (0); present (1).
 > Young (1984, 1988), Character 15; Ritchie *et al.* (1992), Character 5; Zhu (1996), Character 30; Jia *et al.* (2010), Character 45; Pan *et al.* (2018), Character 30; Wang and Zhu (2018), Character 67; Plax and Lukševičs (2023), Character 67; Luo *et al*. (2025), Character 67.
 
@@ -960,6 +1000,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 68. Spinal plate: absent (0); present (1).
 > Young (1984, 1988), Character 11, part; Zhu (1996), Character 31; Pan *et al.* (2018), Character 31; Wang and Zhu (2018), Character 68; Plax and Lukševičs (2023), Character 68; Luo *et al*. (2025), Character 68.
 
@@ -971,6 +1013,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+>
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 69. Postbranchial lamina: external and upright (0); internal and horizontal (1).
 > Zhu (1996), Character 32; Pan *et al.* (2018), Character 32; Wang and Zhu (2018), Character 69; Plax and Lukševičs (2023), Character 69; Luo *et al*. (2025), Character 69.
@@ -986,6 +1030,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 70. Pectoral fin: scale-covered (0); modified into a slender appendage covered with small dermal plates (1).
 > Young (1984, 1988), Character 8; Zhu (1996), Character 1; Pan *et al.* (2018), Character 1; Wang and Zhu (2018), Character 70; Plax and Lukševičs (2023), Character 70; Luo *et al*. (2025), Character 70.
 
@@ -1000,6 +1046,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 71. Number of plates encircling pectoral fenestra: two or more (0); one (1).
 > Zhu (1996), Character 2; Pan *et al.* (2018), Character 2; Wang and Zhu (2018), Character 71; Plax and Lukševičs (2023), Character 71; Luo *et al*. (2025), Character 71.
 
@@ -1011,6 +1059,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 1.
 
 72. Brachial process: absent (0); present (1);
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Pan *et al.* (2018), Character 3, part; Wang and Zhu (2018), Character 72; Plax and Lukševičs (2023), Character 72; Luo *et al*. (2025), Character 72.
@@ -1028,6 +1078,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 73. Brachial process: simple (0); helmet-shaped (1);
 > Young (1984, 1988), Character 9; Ritchie *et al.* (1992), Character 9; Zhu (1996), Character 3, part; Jia *et al.* (2010), Character 31; Pan *et al.* (2018), Character 3, part; Wang and Zhu (2018), Character 73; Plax and Lukševičs (2023), Character 73; Luo *et al*. (2025), Character 73.
 
@@ -1044,6 +1096,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 74. Axillary foramen: small (0); large (1).
 > Young (1984, 1988), Character 27; Zhang and Young (1992), Character 15; Zhu (1996), Character 4; Jia *et al.* (2010), Character 32; Pan *et al.* (2018), Character 4; Wang and Zhu (2018), Character 74; Plax and Lukševičs (2023), Character 74; Luo *et al*. (2025), Character 74.
 
@@ -1057,6 +1111,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is ?.
 
 75. Pectoral appendage: unjointed (0); jointed (1).
 > Young (1984, 1988), Character 10; Ritchie *et al.* (1992), Character 10; Zhu (1996), Character 5; Jia *et al.* (2010), Character 27; Pan *et al.* (2018), Character 5; Wang and Zhu (2018), Character 75; Plax and Lukševičs (2023), Character 75; Luo *et al*. (2025), Character 75.
@@ -1072,6 +1128,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 76. Dorsal central plate 1 and dorsal central plate 2 of pectoral appendage: in contact (0); separated (1).
 
 > Zhang and Young (1992), Character 18; Zhu (1996), Character 6; Jia *et al.* (2010), Character 28; Pan *et al.* (2018), Character 6; Wang and Zhu (2018), Character 76; Plax and Lukševičs (2023), Character 76; Luo *et al*. (2025), Character 76.
@@ -1085,6 +1143,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 77. Pectoral appendage: short (0); elongated (1).
 > Zhang and Young (1992), Character 12; Zhu (1996), Character 7; Jia *et al.* (2010), Character 26; Pan *et al.* (2018), Character 7; Wang and Zhu (2018), Character 77; Plax and Lukševičs (2023), Character 77; Luo *et al*. (2025), Character 77.
 
@@ -1096,6 +1156,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 1.
 
 78. Lateral marginal plate 2 relative to trunk shield: short (0); elongated (1).
 > Zhu (1996), Character 8; Jia *et al.* (2010), Character 29; Pan *et al.* (2018), Character 8; Wang and Zhu (2018), Character 78; Plax and Lukševičs (2023), Character 78; Luo *et al*. (2025), Character 78.
@@ -1109,6 +1171,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 79. Number of lateral marginal plates of distal segment: three (0); two (1).
 > Zhu (1996), Character 9; Jia *et al.* (2010), Character 30; Pan *et al.* (2018), Character 9; Wang and Zhu (2018), Character 79; Plax and Lukševičs (2023), Character 79; Luo *et al*. (2025), Character 79.
 
@@ -1121,6 +1185,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is ?.
+
 80. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 > Plax and Lukševičs (2023), Character 80; Luo *et al*. (2025), Character 80.
 
@@ -1132,6 +1198,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is ?.
 
 81.	Postmarginal plate: absent (0); present (1).
 > Luo *et al*. (2025), Character 81. 
@@ -1148,6 +1216,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 82.	Position of postmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > Luo *et al*. (2025), Character 82.
 > - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* have the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
@@ -1160,6 +1230,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 83.	Postmarginal canal: absent (0); present (1).
 > Luo *et al*. (2025), Character 83.
@@ -1176,6 +1248,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+
 84.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
 > Luo *et al*. (2025), Character 84.     
 
@@ -1187,6 +1261,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 85.	Anterior and posterior median dorsal plates alternately overlapping each other: absent (0); present (1).
 > Luo *et al*. (2025), Character 85.
@@ -1200,6 +1276,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is ?.
+
 86.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
 > Luo *et al*. (2025), Character 86.
 
@@ -1211,6 +1289,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 87. Median ventral plate: absent (0); present (1).
 > Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia *et al.* (2010), Character 45; Pan *et al.* (2018), Character 30; Wang and Zhu (2018), Character ?; Luo *et al*. (2025), Character 87.
@@ -1225,6 +1305,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 1.
 
 88.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
 
@@ -1241,6 +1323,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is 1.
+
 89.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 7); Luo *et al*. (2025), Character 89.
 
@@ -1254,6 +1338,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is ?.
 
 90.	Mesial marginal plate 1 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 8); Luo *et al*. (2025), Character 90.
@@ -1269,6 +1355,8 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
+> - The coding of *Songmingolepis conspicilatus* is ?.
+
 91. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
 > Ritchie *et al.* (1992), Character 11; Luo *et al*. (2025), Character 91.
 
@@ -1282,6 +1370,8 @@
 
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
+
+> - The coding of *Songmingolepis conspicilatus* is 1.
 
 
 ## Characters to be used in the follow-up studies
