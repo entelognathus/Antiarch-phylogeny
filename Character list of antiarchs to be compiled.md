@@ -449,7 +449,7 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
-> - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Songmingolepis conspicilatus* is 0.
 
 31. X-shaped pit-line grooves: absent (0); present (1).
 > Zhu (1996), Character 39; Jia *et al.* (2010), Character 21; Pan *et al.* (2018), Character 39; Wang and Zhu (2018), Character 31; Plax and Lukševičs (2023), Character 31; Luo *et al*. (2025), Character 31.
