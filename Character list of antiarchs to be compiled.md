@@ -73,7 +73,7 @@
 19. Relative position of orbital fenestra : anterior (0); slightly anterior (1); slightly posterior (2); posterior (3). (ordered)
  > Zhu (1996), Character 56; Jia *et al.* (2010), Character 11; Pan *et al.* (2018), Character 56; Wang and Zhu (2018), Character 19; Plax and Lukševičs (2023), Character 19; Luo *et al*. (2025), Character 19.
 
-> - We subdivide the skull-roof length into two portions by the centre of the orbital fenestra and adopt the index between the length of the posterior portion and the length of the anterior one. we code the index larger than 200 (anterior) as 0, between 200 and 140 (slightly anterior) as 1, between 140 and 90 (slightly posterior) as 2, smaller than 90 (posterior) as 3.
+> - We subdivide the skull-roof length into two portions by the centre of the orbital fenestra and adopt the index between the length of the posterior portion and the length of the anterior one. We code the index larger than 200 (anterior) as 0, between 200 and 140 (slightly anterior) as 1, between 140 and 90 (slightly posterior) as 2, smaller than 90 (posterior) as 3.
 
 20. Nasal opening: at anterolateral corners of rostral plate (0); at anterior margin of rostral plate (1).
 > Young (1984, 1988), Character 35; Zhu (1996), Character 49; Jia *et al.* (2010), Character 9; Pan *et al.* (2018), Character 49; Wang and Zhu (2018), Character 20; Plax and Lukševičs (2023), Character 20; Luo *et al*. (2025), Character 20.
@@ -185,11 +185,10 @@
 47. Shape of trunk shield: low and elongated (0); high and short (1).
 > Young (1984, 1988), Character 33; Zhu (1996), Character 10; Pan *et al.* (2018), Character 10; Jia *et al.* (2010), Character 25; Wang and Zhu (2018), Character 47; Plax and Lukševičs (2023), Character 47; Luo *et al*. (2025), Character 47. 
 
-> - Trunk shield has length greater that height should be termed as "low and elongated".
+> - The trunk shield with its length less than its height is termed as "high and short".
 
-> - **very low trunk shield in *Xichonolepis* should be a derived feature. Is this a feature of sinolepids?**
-
-> - Among the sinolepids, *S. macrocephala, Liujiangolepis Suni, Dayaoshania youngi* and *Grenfellaspis branagani* with preserved trunk shield all show relatively low trunk shield.
+> - Among the sinolepids, such as *Sinolepis macrocephala*, *Liujiangolepis suni*, *Dayaoshania youngi* and *Grenfellaspis branagani* with trunk shield preserved, all show relatively low trunk shield.
+> - **The very low trunk shield might be a derived feature of sinolepids.**
 
 48. Number of median dorsal plates: one (0); two (1).
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan *et al.* (2018), Character 11; Wang and Zhu (2018), Character 48; Plax and Lukševičs (2023), Character 48; Luo *et al*. (2025), Character 48. 
@@ -201,6 +200,8 @@
 
 50. Index r2 between anterior and posterior divisions of anterior median dorsal plate : r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
 > Zhu (1996), Character 13; Pan *et al.* (2018), Character 13; Wang and Zhu (2018), Character 50; Plax and Lukševičs (2023), Character 50; Luo *et al*. (2025), Character 50.
+
+> - Ritchie *et al.* (1992, Character 3): "short posterolateral margin of anterior median dorsal plate : absent (0); present (1). Present in *Sinolepis* and *Grenfellaspis*."  Character 3 of Retchie *et al.* (1992) is a subset of Character 50 here.
 
 51. Tergal angle of anterior median dorsal plate: centrally or posteriorly placed (0); anteriorly placed (1).
 > Zhang and Young (1992), Character 2; Zhu (1996), Character 14; Jia *et al.* (2010), Character 34; Pan *et al.* (2018), Character 14; Wang and Zhu (2018), Character 51; Plax and Lukševičs (2023), Character 51; Luo *et al*. (2025), Character 51.
