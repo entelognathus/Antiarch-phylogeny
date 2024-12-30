@@ -1214,6 +1214,8 @@
 
 99. Size of ventral articular depression for the dermal process of pectoral appendage: short (0), long (1).
 
+> - **前面三个特征跟特征88有关联，是否有重复之嫌？看看它们之间的特征编码情况。**
+
 100. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
 > - **这个特征好像跟特征91是一回事情？**
 
