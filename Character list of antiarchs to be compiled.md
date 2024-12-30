@@ -1013,7 +1013,6 @@
 > - The coding of *Xichonolepis qujingensis* is .
 > - The coding of *Xichonolepis wudingensis* is .
 
-
 ## Newly added characters (unclassified into the categories above)
 80. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 > Plax and Lukševičs (2023), Character 80; Luo *et al*. (2025), Character 80.
@@ -1136,7 +1135,6 @@
 > - The coding of *Xichonolepis wudingensis* is .
 
 89.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
-
 > Ritchie *et al.* (1992, Character 7); Luo *et al*. (2025), Character 89.
 
 > - Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids).
@@ -1151,7 +1149,6 @@
 > - The coding of *Xichonolepis wudingensis* is .
 
 90.	Mesial marginal plate 1 restricted to mesial wall of pectoral appendage: absent (0); present (1).
-
 > Ritchie *et al.* (1992, Character 8); Luo *et al*. (2025), Character 90.
 
 > -  Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids). **Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.** ???
@@ -1166,7 +1163,6 @@
 > - The coding of *Xichonolepis wudingensis* is .
 
 91. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
-
 > Ritchie *et al.* (1992), Character 11; Luo *et al*. (2025), Character 91.
 
 > - Ritchie *et al.* (1992) regarded it as a synapomorphy of sinolepids and euantiarchs.
@@ -1182,7 +1178,6 @@
 
 
 ## Characters to be used in the follow-up studies
-
 92. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
 
 > - 1 in *Huizelepis*, 0 in *Bothriolepis*.
@@ -1197,14 +1192,15 @@
 > - The coding of *Xichonolepis wudingensis* is .
 
 93.	Mesial marginal plate 2 restricted to mesial wall of pectoral appendage: absent (0); present (1).
-
 > Ritchie *et al.* (1992, Character 8). ???see Character 90 above.
 
 > - **The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.** ???
 
 94. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
+> - **Xiao Yan: I don't understand what this character means.** overlapping or overlapped? 说不清楚，你可以用中文表达。跟特征54，55有什么区别？
 
-94. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
+95. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
+> - **跟特征57是什么关系？**
 
 96. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
 
@@ -1212,14 +1208,14 @@
 
 > - Present in *Sinolepis* and *Grenfellaspis*.
 
-97.	Doral and vertral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
+97.	Dorsal and ventral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
 
 98. Size of dorsal articular depression for the dermal process of pectoral appendage: short (0), long (1).
 
 99. Size of ventral articular depression for the dermal process of pectoral appendage: short (0), long (1).
 
 100. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
-
+> - **这个特征好像跟特征91是一回事情？**
 
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
