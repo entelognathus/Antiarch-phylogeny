@@ -18,7 +18,7 @@
 5. Ridged scales: absent (0); present (1).
 > Zhu (1996), Character 35; Pan *et al.* (2018), Character 35; Wang and Zhu (2018), Character 5; Plax and Lukševičs (2023), Character 5; Luo *et al*. (2025), Character 5.
 
-*Head shield and neurocranium*
+## Head shield and neurocranium
 
 6. Premedian plate: absent (0); present (1).
 > Young (1984, 1988), Character 7; Zhu (1996), Character 44; Pan *et al.* (2018), Character 44; Wang and Zhu (2018), Character 6; Plax and Lukševičs (2023), Character 6; Luo *et al*. (2025), Character 6.
@@ -68,7 +68,7 @@
 18. Orbital fenestra: large (0); small (1).
 > Zhu (1996), Character 55; Jia *et al.* (2010), Character 10; Pan *et al.* (2018), Character 55; Wang and Zhu (2018), Character 18; Plax and Lukševičs (2023), Character 18; Luo *et al*. (2025), Character 18.
 
-> - The width of orbital fenestra attaing half of the head width is coded as "large". 
+> - The width of orbital fenestra attaining half of the head width is coded as "large". 
 
 19. Relative position of orbital fenestra : anterior (0); slightly anterior (1); slightly posterior (2); posterior (3). (ordered)
  > Zhu (1996), Character 56; Jia *et al.* (2010), Character 11; Pan *et al.* (2018), Character 56; Wang and Zhu (2018), Character 19; Plax and Lukševičs (2023), Character 19; Luo *et al*. (2025), Character 19.
@@ -180,7 +180,7 @@
 46. Suborbital plates of both sides: separated (0); meeting in the midline (1).
 > Young (1984, 1988), Character 32; Zhu (1996), Character 66; Jia *et al.* (2010), Character 19; Pan *et al.* (2018), Character 66; Wang and Zhu (2018), Character 46; Plax and Lukševičs (2023), Character 46; Luo *et al*. (2025), Character 46.
 
-*Trunk shield*
+## Trunk shield
 
 47. Shape of trunk shield: low and elongated (0); high and short (1).
 > Young (1984, 1988), Character 33; Zhu (1996), Character 10; Pan *et al.* (2018), Character 10; Jia *et al.* (2010), Character 25; Wang and Zhu (2018), Character 47; Plax and Lukševičs (2023), Character 47; Luo *et al*. (2025), Character 47. 
@@ -416,7 +416,7 @@
 99. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
 
 
-# References
+## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
 Luo, Y.C., Pan, Z.H. and Zhu, M, (2025). A new tubalepid fish (Antiarcha, Placodermi) from the Middle Devonian of Huize, Yunnan, China
