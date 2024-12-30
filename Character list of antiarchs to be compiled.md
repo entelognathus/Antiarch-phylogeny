@@ -1,5 +1,6 @@
 # Character list of Antiarches
 > All characters except Characters 19, 49, and 50 are unordered. 
+> - ask Luo: Character 10 ordered or unordered? 
 
 ## Ornamentation, histology and scales
 
