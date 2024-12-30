@@ -391,25 +391,23 @@
 
 > - **The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.** ???
 
-92. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
+94. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
 
-93. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
+94. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
 
-94. The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
+96. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
 
-> Ritchie *et al.* (1992, Character 1)
+> Ritchie *et al.* (1992, Character 1).
 
-> - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
+> - Present in *Sinolepis* and *Grenfellaspis*.
 
-> **Hard to identify in all antiarchs group, considering the shape changes of paranuchal plate, may be deleted**
+97.	Doral and vertral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
 
-96.	Doral and vertral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
+98. Size of dorsal articular depression for the dermal process of pectoral appendage: short (0), long (1).
 
-97. Size of dorsal articular depression for the dermal process of pectoral appendate: short (0), long (1).
+99. Size of ventral articular depression for the dermal process of pectoral appendage: short (0), long (1).
 
-98. Size of ventral articular depression for the dermal process of pectoral appendate: short (0), long (1).
-
-99. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
+100. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
 
 
 ## References
