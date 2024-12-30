@@ -354,15 +354,15 @@
 
 > Retchie et al. (1992, Character 6); Luo *et al*. (2025), Character 88.
 
-> - Retchie et al. (1992) regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
+> - Retchie et al. (1992) regarded it as a synapomorphy of bothriolepidoids and asterolepidoids.
 
 89.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
 
 > Retchie et al. (1992, Character 7); Luo *et al*. (2025), Character 89.
 
-> - Few researchers have noticed that character, Retchie regarded it is a synapomorphy of Bothriolepidoids and Asterolepidoids.
+> - Few researchers have noticed that character. Ritchie et al. (1992) regarded it as a synapomorphy of bothriolepidoids and asterolepidoids.
 
-90.	Mesial marginal plate 1 restricted to mesial wall of pectoral fin: absent (0); present (1).
+90.	Mesial marginal plate 1 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 
 > Retchie et al. (1992, Character 8); Luo *et al*. (2025), Character 90.
 
@@ -372,17 +372,17 @@
 
 > Retchie et al. (1992), Character 11; Luo *et al*. (2025), Character 91.
 
-> - Retchie et al. (1992) regarded it is a synapomorphy of sinolepids and euantiarchs.
+> - Retchie et al. (1992) regarded it as a synapomorphy of sinolepids and euantiarchs.
 
-## Characters haven't been used
+## Characters to be used
 
 92. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
 
-> - *Huizelepis* has separated CV1/2, while these plates of *Bothriolepis* are in contact
+> - 1 in *Huizelepis*, 0 in *Bothriolepis*.
 
 93.	Mesial marginal plate 2 restricted to mesial wall of pectoral fin: absent (0); present (1).
 
-> Modified from Ritchie et al. (1992, Character 8)
+> Modified from Ritchie et al. (1992, Character 8).
 
 > - The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.
 
@@ -390,7 +390,7 @@
 
 93. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
 
-94.The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
+94. The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
 
 > Retchie et al. (1992, Character 1)
 
