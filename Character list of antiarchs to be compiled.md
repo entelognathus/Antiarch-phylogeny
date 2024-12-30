@@ -201,7 +201,7 @@
 50. Index r2 between anterior and posterior divisions of anterior median dorsal plate : r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
 > Zhu (1996), Character 13; Pan *et al.* (2018), Character 13; Wang and Zhu (2018), Character 50; Plax and Lukševičs (2023), Character 50; Luo *et al*. (2025), Character 50.
 
-> - Ritchie *et al.* (1992, Character 3): "short posterolateral margin of anterior median dorsal plate : absent (0); present (1). Present in *Sinolepis* and *Grenfellaspis*."  Character 3 of Retchie *et al.* (1992) is a subset of Character 50 here.
+> - Ritchie *et al.* (1992, Character 3): "short posterolateral margin of anterior median dorsal plate : absent (0); present (1). Present in *Sinolepis* and *Grenfellaspis*."  Character 3 of Ritchie *et al.* (1992) is a subset of Character 50 here.
 
 51. Tergal angle of anterior median dorsal plate: centrally or posteriorly placed (0); anteriorly placed (1).
 > Zhang and Young (1992), Character 2; Zhu (1996), Character 14; Jia *et al.* (2010), Character 34; Pan *et al.* (2018), Character 14; Wang and Zhu (2018), Character 51; Plax and Lukševičs (2023), Character 51; Luo *et al*. (2025), Character 51.
@@ -264,7 +264,7 @@
 > - Character 573 in 'early gnathostome phylogeny dataset'.
 
 67. Large rectangular aperture on ventral wall of trunk shield: absent (0); present (1).
-> Young (1984, 1988), Character 15; Retchie *et al.* (1992), Character 5; Zhu (1996), Character 30; Jia *et al.* (2010), Character 45; Pan *et al.* (2018), Character 30; Wang and Zhu (2018), Character 67; Plax and Lukševičs (2023), Character 67; Luo *et al*. (2025), Character 67.
+> Young (1984, 1988), Character 15; Ritchie *et al.* (1992), Character 5; Zhu (1996), Character 30; Jia *et al.* (2010), Character 45; Pan *et al.* (2018), Character 30; Wang and Zhu (2018), Character 67; Plax and Lukševičs (2023), Character 67; Luo *et al*. (2025), Character 67.
 
 68. Spinal plate: absent (0); present (1).
 > Young (1984, 1988), Character 11, part; Zhu (1996), Character 31; Pan *et al.* (2018), Character 31; Wang and Zhu (2018), Character 68; Plax and Lukševičs (2023), Character 68; Luo *et al*. (2025), Character 68.
@@ -290,7 +290,7 @@
 > - The typical brachial process (*processus brachialis*) is formed of the pedal part (*pars pedalis*) and the *pars condyloidea* which is helmet-shaped in euantiarchs. In *Xichonolepis*, there is the pedal part but no the *pars condyloidea*.
 
 73. Brachial process: simple (0); helmet-shaped (1);
-> Young (1984, 1988), Character 9; Retchie *et al.* (1992), Character 9; Zhu (1996), Character 3, part; Jia *et al.* (2010), Character 31; Pan *et al.* (2018), Character 3, part; Wang and Zhu (2018), Character 73; Plax and Lukševičs (2023), Character 73; Luo *et al*. (2025), Character 73.
+> Young (1984, 1988), Character 9; Ritchie *et al.* (1992), Character 9; Zhu (1996), Character 3, part; Jia *et al.* (2010), Character 31; Pan *et al.* (2018), Character 3, part; Wang and Zhu (2018), Character 73; Plax and Lukševičs (2023), Character 73; Luo *et al*. (2025), Character 73.
 
 > - Character 625 in 'early gnathostome phylogeny dataset'.
 
@@ -302,7 +302,7 @@
 >- We followed Young (1988) and identified the axillary foramen larger than 30% of the lateral lamina of AVL as large axillary foramen. Young regarded the large axillary foramen is a synapomorphy of Bothriolepididae, which may be doubtful. More researchers suggested it reflects a strong muscle and improved movement capacity of fin, and is apomorphic whatever its function.
 
 75. Pectoral appendage: unjointed (0); jointed (1).
-> Young (1984, 1988), Character 10; Retchie *et al.* (1992), Character 10; Zhu (1996), Character 5; Jia *et al.* (2010), Character 27; Pan *et al.* (2018), Character 5; Wang and Zhu (2018), Character 75; Plax and Lukševičs (2023), Character 75; Luo *et al*. (2025), Character 75.
+> Young (1984, 1988), Character 10; Ritchie *et al.* (1992), Character 10; Zhu (1996), Character 5; Jia *et al.* (2010), Character 27; Pan *et al.* (2018), Character 5; Wang and Zhu (2018), Character 75; Plax and Lukševičs (2023), Character 75; Luo *et al*. (2025), Character 75.
 
 > - Character 624 in 'early gnathostome phylogeny dataset'.
 
@@ -356,27 +356,27 @@
 
 88.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
 
-> Retchie *et al.* (1992, Character 6); Luo *et al*. (2025), Character 88.
+> Ritchie *et al.* (1992, Character 6); Luo *et al*. (2025), Character 88.
 
-> - Retchie *et al.* (1992) regarded it as a synapomorphy of bothriolepidoids and asterolepidoids.
+> - Ritchie *et al.* (1992) regarded it as a synapomorphy of bothriolepidoids and asterolepidoids.
 
 89.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
 
-> Retchie *et al.* (1992, Character 7); Luo *et al*. (2025), Character 89.
+> Ritchie *et al.* (1992, Character 7); Luo *et al*. (2025), Character 89.
 
 > - Few researchers have noticed that character. Ritchie *et al.* (1992) regarded it as a synapomorphy of bothriolepidoids and asterolepidoids.
 
 90.	Mesial marginal plate 1 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 
-> Retchie *et al.* (1992, Character 8); Luo *et al*. (2025), Character 90.
+> Ritchie *et al.* (1992, Character 8); Luo *et al*. (2025), Character 90.
 
 > - Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.
 
 91. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
 
-> Retchie *et al.* (1992), Character 11; Luo *et al*. (2025), Character 91.
+> Ritchie *et al.* (1992), Character 11; Luo *et al*. (2025), Character 91.
 
-> - Retchie *et al.* (1992) regarded it as a synapomorphy of sinolepids and euantiarchs.
+> - Ritchie *et al.* (1992) regarded it as a synapomorphy of sinolepids and euantiarchs.
 
 
 ## Characters to be used in the follow-up studies
@@ -397,19 +397,11 @@
 
 94. The area where infraorbital canal divides the paranuchal plate: forming wide lateral divisions (0); forming narrow lateral divisions, the ifc passes through the posterior lateral corner of the paranuchal plate(1).
 
-> Retchie *et al.* (1992, Character 1)
+> Ritchie *et al.* (1992, Character 1)
 
 > - Present in *Sinolepis* and *Grenfellaspis*. Check the condition in other antiarchs.
 
 > **Hard to identify in all antiarchs group, considering the shape changes of paranuchal plate, may be deleted**
-
-95.	Short posterolateral margin of anterior median dorsal plate : absent (0); present (1).
-
-> Retchie *et al.* (1992, Character 3)
-
-> - Present in *Sinolepis* and *Grenfellaspis*. However, the definition of this character is subjective. It is redundant with the character “Index r2 between anterior and posterior divisions of anterior median dorsal plate: r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2) (ordered)”.
-
-> - **May be deleted**
 
 96.	Doral and vertral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
 
