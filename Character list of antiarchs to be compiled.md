@@ -1,8 +1,7 @@
- **Character list of Antiarches**
-> All characters except Characters 49, 50  
- 
+# Character list of Antiarches
+> All characters except Characters 19, 49, and 50 are unordered. 
 
-*Ornamentation, histology and scales*
+## Ornamentation, histology and scales
 
 1. Adult ornamentation: tubercular (0); reticular (1).
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
@@ -195,7 +194,7 @@
 48. Number of median dorsal plates: one (0); two (1).
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan *et al.* (2018), Character 11; Wang and Zhu (2018), Character 48; Plax and Lukševičs (2023), Character 48; Luo *et al*. (2025), Character 48. 
 
-49. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate: r1>55 (0); 35≤r1≤55 (1); 15≤r1<35 (2); <15 (3). (ordered)
+49. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate: r1 > 55 (0); 35 ≤ r1 ≤55 (1); 15 ≤ r1 < 35 (2); r1 < 15 (3). (ordered)
 > Young (1984, 1988), Character 22; Zhang and Young (1992), Character 3; Zhu (1996), Character 12; Jia *et al.* (2010), Character 33; Pan *et al.* (2018), Character 12; Wang and Zhu (2018), Character 49; Plax and Lukševičs (2023), Character 49; Luo *et al*. (2025), Character 49.
 
 > - The anterior median dorsal plate of antiarchs is homologous to the median dorsal plate 1 in *Qilinyu* Zhu *et al.* (2016) and the extrascapular plate in *Entelognathus* Zhu *et al.*( 2013), and some arthrodires Goujet (1973). It is absent in *Kujdanowaspis*.
