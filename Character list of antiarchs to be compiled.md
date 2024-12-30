@@ -318,6 +318,8 @@
 79. Number of lateral marginal plates of distal segment: three (0); two (1).
 > Zhu (1996), Character 9; Jia *et al.* (2010), Character 30; Pan *et al.* (2018), Character 9; Wang and Zhu (2018), Character 79; Plax and Lukševičs (2023), Character 79; Luo *et al*. (2025), Character 79.
 
+
+## Newly added characters (unclassified into the categories above)
 80. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 > Plax and Lukševičs (2023), Character 80; Luo *et al*. (2025), Character 80.
 
@@ -325,11 +327,11 @@
 > Luo *et al*. (2025), Character 81. 
 > Character 98 in 'early gnathostome phylogeny dataset': "Series of bones lateral to supratemporal (placoderm marginal): (0) absent; (1) single bone; (2) two bones".
 
-> - Moloshnikov (2011) established a new family Tubalepididae on the basis of a paranuchal plate that lacking anterolateral margin, the state of postmarginal plate is unknown. One material from Huize shows clearly the absence of postmarginal plate. May be deleted before the article of *Huizelepis*
+> - Moloshnikov (2011) established a new family Tubalepididae on the basis of a paranuchal plate that lacking anterolateral margin. 0 in *Huizelepis*.
 
 82.	Position of postmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > Luo *et al*. (2025), Character 82.
-> - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* has the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
+> - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* have the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
 
 83.	Postmarginal canal: absent (0); present (1).
 > Luo *et al*. (2025), Character 83.
@@ -375,7 +377,8 @@
 
 > - Retchie *et al.* (1992) regarded it as a synapomorphy of sinolepids and euantiarchs.
 
-## Characters to be used
+
+## Characters to be used in the follow-up studies
 
 92. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
 
