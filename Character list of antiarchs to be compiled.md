@@ -1434,6 +1434,15 @@
 
 > - State 0 is mainly present in asterolepids. Almost all the bothriolepids should be 1.
 
+104. The relative width of the orbital facet of the nuchal plate: narrow (0); broad (1).
+> Newly added.
+
+> - The index between the width of the orbital facet of the nuchal plate and the width of the potpineal plate smaller than 40 is considered as "narrow", while the index equal to or larger than 40 is considered as "broad".
+
+105. The composition of doral median spine: AMD plate (0); AMD and PMD plates (1).
+> Newly added.
+
+
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
@@ -1452,3 +1461,5 @@ Young, G. C. (1984). Comments on the phylogeny and biogeography of antiarchs (De
 Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltstone, southern Victoria Land, Antarctica. *Palaeontographica Abt. A*, **202**, 1-125. 
 
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
+
+Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
