@@ -766,11 +766,11 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
-52. Dorsal spine of anterior median dorsal plate: absent (0); present (1).
+52. Dorsal median spine of trunk shield: absent (0); present (1).
 > Zhu (1996), Character 19; Jia *et al.* (2010), Character 39; Pan *et al.* (2018), Character 19; Wang and Zhu (2018), Character 52; Plax and Lukševičs (2023), Character 52; Luo *et al*. (2025), Character 52.
 
 > - Dorsal median spine in *Ningxialepis* and *Kirgisolepis* is formed by the AMD and PMD plates, whereas that in *Jiangxilepis*, *Byssacanthus* and *Stegolepis* is only formed by the AMD plate.
-> - This character can be reformulated into two characters: dorsal median spine of trunk shield, and the composition of doral median spine (AMD plate vs AMD and PMD plates).
+> - This character was previously formulated as "Dorsal spine of anterior median dorsal plate: absent (0); present (1)." As this dorsal median spine in some antiarchs (*Ningxialepis* and *Kirgisolepis*) is formed by the AMD and PMD plates, we reformulate this character as "dorsal median spine of trunk shield". The composition of doral median spine (AMD plate vs AMD and PMD plates) is listed as a new character.
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
@@ -1377,11 +1377,10 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
-
 ## Characters to be used in the follow-up studies
 92. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
 
-> - ** Currently antiarchs with jointed pectoral appendage should be 1, except dianolepids and bothriolepids
+> - Currently, antiarchs with jointed pectoral appendage should be 1, except dianolepids and bothriolepids.
 
 > - 1 in *Huizelepis*, 0 in *Bothriolepis*.
 
@@ -1400,24 +1399,28 @@
 > - **The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.** ???
 > - **小罗，见上面的评述**
 
-95. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
+94. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
 > Newly added by Yan, to distinguish two species of *Xichonolepis*.
 
 > - The coding of *Xichonolepis qujingensis* is 1.
 > - The coding of *Xichonolepis wudingensis* is 0.
 
-96. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
+95. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 1).
 
 > - Present in *Sinolepis* and *Grenfellaspis*.
 
-97.	Dorsal and ventral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
+96.	Dorsal and ventral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
+> - Newly added by Yan, to distinguish sinolepids plus euantiarchs from the other antiarchs.
+> - This character is relative to Character 88.
 
-98. Size of dorsal articular depression for the dermal process of pectoral appendage: short (0), long (1).
+97. Size of dorsal articular depression for the dermal process of pectoral appendage: short (0), long (1).
+> - Newly added by Yan, to distinguish sinolepids from euantiarchs.
+> - This character is relative to Character 88.
 
-99. Size of ventral articular depression for the dermal process of pectoral appendage: short (0), long (1).
-
-> - **前面三个特征跟特征88有关联，是否有重复之嫌？看看它们之间的特征编码情况。**
+98. Size of ventral articular depression for the dermal process of pectoral appendage: short (0), long (1).
+> - Newly added by Yan, to distinguish sinolepids from euantiarchs.
+> - This character is relative to Character 88.
 
 100. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
 > - **这个特征好像跟特征91是一回事情？**
