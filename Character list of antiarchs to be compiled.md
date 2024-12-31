@@ -11,8 +11,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -25,8 +25,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -39,8 +39,8 @@
 
 > - The coding of *Huizelepis* is -.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is -.
 
@@ -53,8 +53,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -67,8 +67,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -85,8 +85,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -101,8 +101,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 8. Anterior margin of premedian plate: convex (0); slightly concave (1).
 > Zhu (1996), Character 52; Jia *et al.* (2010), Character 2; Pan *et al.* (2018), Character 52; Wang and Zhu (2018), Character 8; Plax and Lukševičs (2023), Character 8; Luo *et al*. (2025), Character 8.
@@ -113,8 +113,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -127,8 +127,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -144,8 +144,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 2.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -161,8 +161,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -175,8 +175,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -189,8 +189,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -203,8 +203,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is -.
 
@@ -217,8 +217,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -231,8 +231,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -245,8 +245,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -261,8 +261,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -277,8 +277,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 2.
 
@@ -291,8 +291,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -305,8 +305,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -323,8 +323,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -337,8 +337,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -355,8 +355,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -369,8 +369,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -385,8 +385,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -399,8 +399,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -415,8 +415,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -431,8 +431,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -447,8 +447,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -461,8 +461,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -475,8 +475,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -489,8 +489,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -503,8 +503,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -519,8 +519,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -533,8 +533,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -547,8 +547,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -563,8 +563,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -577,8 +577,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -591,8 +591,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -605,8 +605,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -619,8 +619,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -635,8 +635,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -649,8 +649,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -665,8 +665,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -679,8 +679,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -699,8 +699,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -713,8 +713,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -729,8 +729,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 2.
+> - The coding of *Xichonolepis wudingensis* is 2.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -745,8 +745,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 1.
 >
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -761,8 +761,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -778,8 +778,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -792,8 +792,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -806,8 +806,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -820,8 +820,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -834,8 +834,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -850,8 +850,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -866,8 +866,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -882,8 +882,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -898,8 +898,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -914,8 +914,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -928,8 +928,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -942,8 +942,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -956,8 +956,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -970,8 +970,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -986,8 +986,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1000,8 +1000,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -1014,8 +1014,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 >
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -1030,8 +1030,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1046,8 +1046,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1060,8 +1060,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1078,8 +1078,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1096,8 +1096,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1112,8 +1112,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -1128,8 +1128,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1143,8 +1143,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1157,8 +1157,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1171,8 +1171,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1185,8 +1185,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -1199,8 +1199,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -1216,8 +1216,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1231,8 +1231,8 @@
 
 > - The coding of *Huizelepis* is -.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -1248,8 +1248,8 @@
 
 > - The coding of *Huizelepis* is -.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -1262,8 +1262,8 @@
 
 > - The coding of *Huizelepis* is 0.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -1276,8 +1276,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -1290,8 +1290,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 
@@ -1306,8 +1306,8 @@
 
 > - The coding of *Huizelepis* is ?.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1323,8 +1323,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1339,8 +1339,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -1356,8 +1356,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
@@ -1372,8 +1372,8 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
@@ -1390,8 +1390,8 @@
 
 > - The coding of *Huizelepis* is .
 
-> - The coding of *Xichonolepis qujingensis* is .
-> - The coding of *Xichonolepis wudingensis* is .
+> - The coding of *Xichonolepis qujingensis* is ?.
+> - The coding of *Xichonolepis wudingensis* is ?.
 
 93.	Mesial marginal plate 2 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 8). ???see Character 90 above.
