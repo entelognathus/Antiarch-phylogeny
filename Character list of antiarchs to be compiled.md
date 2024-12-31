@@ -1422,10 +1422,10 @@
 > - Newly added by Yan, to distinguish sinolepids from euantiarchs.
 > - This character is relative to Character 88.
 
-100. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
+99. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
 > - **这个特征好像跟特征91是一回事情？**
 
-101. Large obtected nuchal area: absent (0); present (1).
+100. Large obtected nuchal area: absent (0); present (1).
 > Liu *et al.* (2023), Character 80? They didn't precisely define the character, only stating that this feature only presents in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*.
 
 > - **你们谁将Liu et al. 2023 加进taxa list, 以及前面的特征列表中，包括文献。类似工作就随手完成。**
@@ -1433,12 +1433,12 @@
 > - Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > - This feature is mainly present in bothriolepids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
-102. Postorbital crista fusing with the median ridge of the postpineal plate: absent (0); present (1).
+101. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
 > Newly added.
 
 > - This is a derived character of *Microbrachius*.
 
-103. The width between the anterolateral angle of the PMD / the width between the lateral corner of the PMD (r3): less than 50% (0); equal to or larger than 50% (1).
+103. Width between anterolateral processes of PMD / the width between the lateral corner of the PMD (r3): less than 50% (0); equal to or larger than 50% (1).
 > Newly added.
 
 > - State 0 is mainly present in asterolepids. Almost all the bothriolepids should be 1.
