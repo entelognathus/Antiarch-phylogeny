@@ -133,9 +133,10 @@
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
 10. Rostral width/orbital width index of premedian plate: smaller than 100 (0); between 100 and 200 (1); larger than 200 (2).
-> Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10. Unordered
+> Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10. **Unordered**??
 
-> - This character is reformulated with three states. It used to have two states (smaller than 200, larger than 200). 
+> - This character is reformulated with three states. It used to have two states (smaller than 200, larger than 200).
+> - **小罗，从逻辑上讲，这个三态特征是需要ordered。或者分成两个unordered的特征。**
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
@@ -840,6 +841,8 @@
 
 57. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 > Young (1984, 1988), Character 16; Zhu (1996), Character 20; Pan *et al.* (2018), Character 20; Wang and Zhu (2018), Character 57; Plax and Lukševičs (2023), Character 57; Luo *et al*. (2025), Character 57.
+
+> - Ritchie *et al.* (1992, Character 4): "square shape of PMD, with reduced lateral processes", present in *Sinolepis* and *Grenfellaspis*.
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
