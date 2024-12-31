@@ -1346,6 +1346,7 @@
 
 > -  Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids). **Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on visceral view.** ???
 
+> - **小罗，你上面的注解看不懂。你写的visceral应该是ventral的误写。visceral指的是脏面，是里面的结构。enclose，你想表达encircle吗？**
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
@@ -1394,10 +1395,7 @@
 > Ritchie *et al.* (1992, Character 8). ???see Character 90 above.
 
 > - **The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.** ???
-
-94. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
-> - **Xiao Yan: I don't understand what this character means.** overlapping or overlapped? 说不清楚，你可以用中文表达。跟特征54，55有什么区别？
-> - 老师，这个特征本来是想表述AMD后侧边缘覆压PDL的区域大小，后发现区别不大，建议删除。
+> - **小罗，见上面的评述**
 
 95. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
 > - **跟特征57是什么关系？**
