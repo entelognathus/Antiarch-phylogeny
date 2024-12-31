@@ -1397,9 +1397,12 @@
 
 94. Overlying area of posterolateral margin of anterior median dorsal plate: absent (0); present (1).
 > - **Xiao Yan: I don't understand what this character means.** overlapping or overlapped? 说不清楚，你可以用中文表达。跟特征54，55有什么区别？
+> - 老师，这个特征本来是想表述AMD后侧边缘覆压PDL的区域大小，后发现区别不大，建议删除。
 
 95. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
 > - **跟特征57是什么关系？**
+> - 老师，这个特征与特征57没有关系，主要是对比西冲村采集的西冲鱼与武定、珠江源的差别，在PMD的脏面，除了覆压区，PMD骨片前缘的宽度与侧突前骨片缩窄区域宽度的一个比较。由于在其他类群中保存PMD脏面的标本较少，所以我主要在西冲鱼中做了对比。西冲村PMD的前缘宽度是略大于侧突前缩窄区域的宽度；珠江源PMD的前缘宽度与侧突前缩窄区域的宽度是接近的；武定地区PMD的前缘宽度是小于侧突前缩窄区域的宽度。
+
 
 96. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
 
