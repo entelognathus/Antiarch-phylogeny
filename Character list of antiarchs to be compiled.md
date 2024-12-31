@@ -734,7 +734,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
-50. Index r2 between anterior and posterior divisions of anterior median dorsal plate : r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
+50. Length index r2 between anterior and posterior divisions of anterior median dorsal plate : r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
 > Zhu (1996), Character 13; Pan *et al.* (2018), Character 13; Wang and Zhu (2018), Character 50; Plax and Lukševičs (2023), Character 50; Luo *et al*. (2025), Character 50.
 
 > - Ritchie *et al.* (1992, Character 3): "short posterolateral margin of anterior median dorsal plate : absent (0); present (1). Present in *Sinolepis* and *Grenfellaspis*."  Character 3 of Ritchie *et al.* (1992) is a subset of Character 50 here.
@@ -1422,10 +1422,7 @@
 > - Newly added by Yan, to distinguish sinolepids from euantiarchs.
 > - This character is relative to Character 88.
 
-99. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
-> - **这个特征好像跟特征91是一回事情？**
-
-100. Large obtected nuchal area: absent (0); present (1).
+99. Obtected nuchal area: small (0); large (1).
 > Liu *et al.* (2023), Character 80? They didn't precisely define the character, only stating that this feature only presents in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*.
 
 > - **你们谁将Liu et al. 2023 加进taxa list, 以及前面的特征列表中，包括文献。类似工作就随手完成。**
@@ -1433,24 +1430,26 @@
 > - Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > - This feature is mainly present in bothriolepids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
-101. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
+100. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
 > Newly added.
 
 > - This is a derived character of *Microbrachius*.
 
-103. Width between anterolateral processes of PMD / the width between the lateral corner of the PMD (r3): less than 50% (0); equal to or larger than 50% (1).
+101. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
 > Newly added.
 
 > - State 0 is mainly present in asterolepids. Almost all the bothriolepids should be 1.
 
-104. The relative width of the orbital facet of the nuchal plate: narrow (0); broad (1).
+102. Orbital facet of nuchal plate: narrow (0); broad (1).
 > Newly added.
 
 > - The index between the width of the orbital facet of the nuchal plate and the width of the potpineal plate smaller than 40 is considered as "narrow", while the index equal to or larger than 40 is considered as "broad".
 
-105. The composition of doral median spine: AMD plate (0); AMD and PMD plates (1).
+103. Composition of doral median spine: AMD plate (0); AMD and PMD plates (1).
 > Newly added.
 
+104. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
+> - **这个特征好像跟特征91是一回事情？**
 
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
