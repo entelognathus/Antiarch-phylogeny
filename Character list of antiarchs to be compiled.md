@@ -1400,13 +1400,13 @@
 > - **The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the visceral view.** ???
 > - **小罗，见上面的评述**
 
-95. The width of the PMD anterior margin and the width of the narrowing region before the lateral process: Less than (0); be equal or greater than (1)
-> - **跟特征57是什么关系？**
-> - 老师，这个特征与特征57没有关系，主要是对比西冲村采集的西冲鱼与武定、珠江源的差别，在PMD的脏面，除了覆压区，PMD骨片前缘的宽度与侧突前骨片缩窄区域宽度的一个比较。由于在其他类群中保存PMD脏面的标本较少，所以我主要在西冲鱼中做了对比。西冲村PMD的前缘宽度是略大于侧突前缩窄区域的宽度；珠江源PMD的前缘宽度与侧突前缩窄区域的宽度是接近的；武定地区PMD的前缘宽度是小于侧突前缩窄区域的宽度。
+95. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
+> Newly added by Yan, to distinguish two species of *Xichonolepis*.
 
+> - The coding of *Xichonolepis qujingensis* is 1.
+> - The coding of *Xichonolepis wudingensis* is 0.
 
 96. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
-
 > Ritchie *et al.* (1992, Character 1).
 
 > - Present in *Sinolepis* and *Grenfellaspis*.
