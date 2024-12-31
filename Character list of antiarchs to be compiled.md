@@ -1425,6 +1425,8 @@
 101. Large obtected nuchal area: absent (0); present (1).
 > Liu *et al.* (2023), Character 80? They didn't precisely define the character, only stating that this feature only presents in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*.
 
+> - **你们谁将Liu et al. 2023 加进taxa list, 以及前面的特征列表中，包括文献。类似工作就随手完成。**
+
 > - Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > - This feature is mainly present in bothriolepids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
