@@ -66,8 +66,8 @@
 > - The coding of *Xichonolepis qujingensis* is 0.
 > - The coding of *Xichonolepis wudingensis* is 0.
 
-> - The coding of *Songmingolepis conspicilatus* is 0.
-> - The coding of *Chahuaqingolepis* is 0.
+> - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 5. Ridged scales: absent (0); present (1).
 > Zhu (1996), Character 35; Pan *et al.* (2018), Character 35; Wang and Zhu (2018), Character 5; Liu *et al*. (2023), character 5; Plax and Lukševičs (2023), Character 5; Luo *et al*. (2025), Character 5.
