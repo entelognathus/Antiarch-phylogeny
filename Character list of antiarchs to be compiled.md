@@ -37,6 +37,7 @@
 3. Ridges on dorsal wall of trunk shield: converging (0); subparallel (1).
 > Zhang and Young (1992), Character 9; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 48, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 3; Plax and Lukševičs (2023), Character 3; Luo *et al*. (2025), Character 3.
 
+> In those taxa without the ridges on the dorsal wall of trunk shiled, this character is scored as 'not applicable'
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
