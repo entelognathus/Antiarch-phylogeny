@@ -102,6 +102,8 @@
 7. Premedian plate: short and broad (0); long and narrow (1).
 > Zhu (1996), Character 51; Jia *et al.* (2010), Character 1; Pan *et al.* (2018), Character 51; Wang and Zhu (2018), Character 7; Plax and Lukševičs (2023), Character 7; Luo *et al*. (2025), Character 7.
 
+> - This character is scored contingently on the state of the previous character.
+
 > -  Premedian plate has length greater than width was identified as "short and broad".
 
 > - The coding of *Zhujielepis* is .
@@ -115,6 +117,8 @@
 
 8. Anterior margin of premedian plate: convex (0); slightly concave (1).
 > Zhu (1996), Character 52; Jia *et al.* (2010), Character 2; Pan *et al.* (2018), Character 52; Wang and Zhu (2018), Character 8; Plax and Lukševičs (2023), Character 8; Luo *et al*. (2025), Character 8.
+
+> - This character is contingent on the presence of premedian plate, Character 6 herein.
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
@@ -178,6 +182,7 @@
 12. Lateral plate: narrow (0); broad (1).
 > Zhu (1996), Character 50; Jia *et al.* (2010), Character 5; Pan *et al.* (2018), Character 50; Wang and Zhu (2018), Character 12; Plax and Lukševičs (2023), Character 12; Luo *et al*. (2025), Character 12.
 
+> - This character is scored contingently on the state of the previous character.
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
@@ -206,6 +211,8 @@
 14. Preorbital depression: extending laterally onto lateral plates (0); restricted to premedian plate (1).
 > Zhu (1996), Character 46; Jia *et al.* (2010), Character 7; Pan *et al.* (2018), Character 46; Wang and Zhu (2018), Character 14; Plax and Lukševičs (2023), Character 14; Luo *et al*. (2025), Character 14.
 
+
+> - This character is scored contingently on the state of the previous character.
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
@@ -234,6 +241,7 @@
 16. Preorbital recess: restricted to premedian plate (0); extending laterally to the lateral plates (1).
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
 
+> - This character is scored contingently on the state of the previous character.
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
@@ -356,8 +364,6 @@
 
 > - Character 145 in 'early gnathostome phylogeny dataset'.
 
-> - *The relative width of the orbital facet might be a character.*
-
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
@@ -369,7 +375,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 
-25. Supraotic thickening on the visceral view of nuchal plate: absent (0); present (1).
+25. Supraotic thickening on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
 
 > - The coding of *Zhujielepis* is .
@@ -383,10 +389,10 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 
-26. Median occipital crista on the visceral view of nuchal plate: absent (0); present (1).
+26. Median occipital crista on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 26; Plax and Lukševičs (2023), Character 26; Luo *et al*. (2025), Character 26.
 
-> - The median occipital crista, also termed as the posterior median process of head shield (Hemmings 1978), is positioned on the visceral surface head shield. It differs from the posterior process of head shield (Miles 1968; Young 1988).
+> - The median occipital crista, also termed as the posterior median process of head shield (Hemmings 1978), is positioned on the visceral surface of head shield. It differs from the posterior process of head shield (Miles 1968; Young 1988).
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
@@ -1442,6 +1448,8 @@
 100. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
 > Newly added.
 
+> - **check its relation to Character 23. How to distinguish them?**
+
 > - This is a derived character of *Microbrachius*.
 
 101. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
@@ -1457,7 +1465,13 @@
 103. Composition of doral median spine: AMD plate (0); AMD and PMD plates (1).
 > Newly added.
 
-104. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
+104. Flat trunk shield: absence (0), presence (1).
+
+> - We define the ratio of the height of trunk shield relative to the length of trunk shield ventral walll less than **0.2?** as the flat trunk shield. Considering the varablity of the posterior process of posterior median dorsal wall, We use the length of trunk shield ventral wall rather than the length of the trunk shield dorsal wall as the reference to define the relative height of trunk shield.
+
+> - The flat trunk shield is present in sinolepids, **to be checked one by one.**
+
+105. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
 > - **这个特征好像跟特征91是一回事情？**
 
 ## References
