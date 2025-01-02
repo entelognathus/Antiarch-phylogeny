@@ -1470,6 +1470,7 @@
 > Ritchie *et al.* (1992), Character 11; Luo *et al*. (2025), Character 91.
 
 > - Ritchie *et al.* (1992) regarded it as a synapomorphy of sinolepids and euantiarchs.
+> - **Some euantiarchs like *Bothriolepis macphersoni* possess rostralcaudal openings above and below the pars pedalis, should this situation be coded as 0?**
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
