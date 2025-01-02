@@ -1540,8 +1540,9 @@
 > Newly added.
 
 > - **check its relation to Character 23. How to distinguish them?**
+> - These two structures are fused in *Microbrachius*, but seperate in all other antiarchs. Character 23 only distinguishes whether postorbital crista extends to postpineal plate or nuchal plate, ignoring the fusion situation.
 
-> - This is a derived character of *Microbrachius*.
+> - This character is only seen in *Microbrachius*.
 
 101. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
 > Newly added.
