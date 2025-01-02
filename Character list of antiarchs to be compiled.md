@@ -8,7 +8,7 @@
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
-> - **Xiao Xian, dounble-check the coding of *Luquanolepis* throughout the list.**. The coding of *Luquanolepis* is .
+> - The coding of *Luquanolepis* is 0.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -25,7 +25,7 @@
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
-> - The coding of *Luquanolepis* is .
+> - The coding of *Luquanolepis* is 0.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -43,7 +43,7 @@
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
 > - The coding of *Luquanolepis-like* is .
-> - The coding of *Luquanolepis* is .
+> - The coding of *Luquanolepis* is -.
 
 > - The coding of *Huizelepis* is -.
 
@@ -59,7 +59,7 @@
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
-> - The coding of *Luquanolepis* is .
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -75,6 +75,7 @@
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -92,7 +93,7 @@
 
 > - The coding of *Zhujielepis* is 1.
 > - The coding of *Yangfanyu* is 1.
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
@@ -110,9 +111,10 @@
 
 > -  Premedian plate has length greater than width was identified as "short and broad".
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -127,9 +129,10 @@
 
 > - This character is contingent on the presence of premedian plate, Character 6 herein.
 
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 0.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -142,9 +145,10 @@
 9. Unornamented shelf and rostrocaudal groove on premedian plate: absent (0); present (1).
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -160,9 +164,10 @@
 > - This character is reformulated with three states. It used to have two states (smaller than 200, larger than 200).
 > - **小罗，从逻辑上讲，这个三态特征是需要ordered。或者分成两个unordered的特征。**
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -178,9 +183,10 @@
 >- Character 150 in 'early gnathostome phylogeny dataset'.
 > - The lateral plate is a syanpomorphy of antiarchs with a unique topology with neighboring plates. The lateral plate should be homgologous to the postorbital plate of other placoderms (equivalent of the sarcopterygian intertemporal, the actinopterygian dermosphenotic).
 
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -194,9 +200,10 @@
 > Zhu (1996), Character 50; Jia *et al.* (2010), Character 5; Pan *et al.* (2018), Character 50; Wang and Zhu (2018), Character 12; Liu *et al*. (2023), character 12; Plax and Lukševičs (2023), Character 12; Luo *et al*. (2025), Character 12.
 
 > - This character is scored contingently on the state of the previous character.
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -209,9 +216,10 @@
 13. Preorbital depression: absent (0); present (1).
 > Zhang and Young (1992), Character 11; Zhu (1996), Character 45; Jia *et al.* (2010), Character 6; Pan *et al.* (2018), Character 45; Wang and Zhu (2018), Character 13; Liu *et al*. (2023), character 13; Plax and Lukševičs (2023), Character 13; Luo *et al*. (2025), Character 13.
 
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -226,9 +234,10 @@
 
 
 > - This character is scored contingently on the state of the previous character.
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -241,9 +250,10 @@
 15. Preorbital recess: absent (0); present (1);
 > Young (1984, 1988), Character 25; Zhang and Young (1992), Character 11; Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 15; Liu *et al*. (2023), character 15; Plax and Lukševičs (2023), Character 15; Luo *et al*. (2025), Character 15.
 
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -257,9 +267,10 @@
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Liu *et al*. (2023), character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
 
 > - This character is scored contingently on the state of the previous character.
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -272,9 +283,10 @@
 17. Orbital opening: open (0); enclosed by skull roof plates (1).
 > Zhu (1996), Character 48; Pan *et al.* (2018), Character 48; Wang and Zhu (2018), Character 17; Liu *et al*. (2023), character 17; Plax and Lukševičs (2023), Character 17; Luo *et al*. (2025), Character 17.
 
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -289,9 +301,10 @@
 
 > - The width of orbital fenestra attaining half of the head width is coded as "large". 
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -306,9 +319,10 @@
 
 > - We subdivide the skull-roof length into two portions by the centre of the orbital fenestra and adopt the index between the length of the posterior portion and the length of the anterior one. We code the index larger than 200 (anterior) as 0, between 200 and 140 (slightly anterior) as 1, between 140 and 90 (slightly posterior) as 2, smaller than 90 (posterior) as 3.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
