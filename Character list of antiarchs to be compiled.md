@@ -8,6 +8,7 @@
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
+> - **Xiao Xian, dounble-check the coding of *Luquanolepis* throughout the list.**. The coding of *Luquanolepis* is .
 
 > - The coding of *Huizelepis* is 0.
 
@@ -15,6 +16,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - **Xiao Yu, make comparison with *Chahuaqingolepis*, double-check its codings throughout the list.** The coding of *Chahuaqingolepois* is .
 
 2. Adult ornamentation: non-ridged (0); ridged (1).
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 47, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 2; Plax and Lukševičs (2023), Character 2; Luo *et al*. (2025), Character 2.
@@ -22,6 +24,7 @@
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis* is .
 
 > - The coding of *Huizelepis* is 0.
 
@@ -29,9 +32,11 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepois* is .
 
 3. Ridges on dorsal wall of trunk shield: converging (0); subparallel (1).
 > Zhang and Young (1992), Character 9; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 48, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 3; Plax and Lukševičs (2023), Character 3; Luo *et al*. (2025), Character 3.
+
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
