@@ -101,6 +101,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 7. Premedian plate: short and broad (0); long and narrow (1).
 > Zhu (1996), Character 51; Jia *et al.* (2010), Character 1; Pan *et al.* (2018), Character 51; Wang and Zhu (2018), Character 7; Liu *et al*. (2023), character 7; Plax and Lukševičs (2023), Character 7; Luo *et al*. (2025), Character 7.
@@ -118,6 +119,9 @@
 > - The coding of *Xichonolepis qujingensis* is 0.
 > - The coding of *Xichonolepis wudingensis* is ?.
 
+> - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
+
 8. Anterior margin of premedian plate: convex (0); slightly concave (1).
 > Zhu (1996), Character 52; Jia *et al.* (2010), Character 2; Pan *et al.* (2018), Character 52; Wang and Zhu (2018), Character 8; Liu *et al*. (2023), character 8; Plax and Lukševičs (2023), Character 8; Luo *et al*. (2025), Character 8.
 
@@ -133,6 +137,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 9. Unornamented shelf and rostrocaudal groove on premedian plate: absent (0); present (1).
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
@@ -147,6 +152,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is 0.
 
 10. Rostral width/orbital width index of premedian plate: smaller than 100 (0); between 100 and 200 (1); larger than 200 (2).
 > Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Liu *et al*. (2023), character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10. **Unordered**??
@@ -164,6 +170,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 11. Lateral plate: absent (0); present (1).
 > Young (1984, 1988), Character 3; Zhu (1996), Character 43; Pan *et al.* (2018), Character 43; Wang and Zhu (2018), Character 11; Liu *et al*. (2023), character 11; Plax and Lukševičs (2023), Character 11; Luo *et al*. (2025), Character 11.
@@ -181,6 +188,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 12. Lateral plate: narrow (0); broad (1).
 > Zhu (1996), Character 50; Jia *et al.* (2010), Character 5; Pan *et al.* (2018), Character 50; Wang and Zhu (2018), Character 12; Liu *et al*. (2023), character 12; Plax and Lukševičs (2023), Character 12; Luo *et al*. (2025), Character 12.
@@ -196,6 +204,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 1.
 
 13. Preorbital depression: absent (0); present (1).
 > Zhang and Young (1992), Character 11; Zhu (1996), Character 45; Jia *et al.* (2010), Character 6; Pan *et al.* (2018), Character 45; Wang and Zhu (2018), Character 13; Liu *et al*. (2023), character 13; Plax and Lukševičs (2023), Character 13; Luo *et al*. (2025), Character 13.
@@ -210,6 +219,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 14. Preorbital depression: extending laterally onto lateral plates (0); restricted to premedian plate (1).
 > Zhu (1996), Character 46; Jia *et al.* (2010), Character 7; Pan *et al.* (2018), Character 46; Wang and Zhu (2018), Character 14; Liu *et al*. (2023), character 14; Plax and Lukševičs (2023), Character 14; Luo *et al*. (2025), Character 14.
@@ -226,6 +236,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is -.
+> - The coding of *Chahuaqingolepis* is -.
 
 15. Preorbital recess: absent (0); present (1);
 > Young (1984, 1988), Character 25; Zhang and Young (1992), Character 11; Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 15; Liu *et al*. (2023), character 15; Plax and Lukševičs (2023), Character 15; Luo *et al*. (2025), Character 15.
@@ -240,6 +251,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 16. Preorbital recess: restricted to premedian plate (0); extending laterally to the lateral plates (1).
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Liu *et al*. (2023), character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
@@ -255,6 +267,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 17. Orbital opening: open (0); enclosed by skull roof plates (1).
 > Zhu (1996), Character 48; Pan *et al.* (2018), Character 48; Wang and Zhu (2018), Character 17; Liu *et al*. (2023), character 17; Plax and Lukševičs (2023), Character 17; Luo *et al*. (2025), Character 17.
@@ -269,6 +282,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 18. Orbital fenestra: large (0); small (1).
 > Zhu (1996), Character 55; Jia *et al.* (2010), Character 10; Pan *et al.* (2018), Character 55; Wang and Zhu (2018), Character 18; Liu *et al*. (2023), character 18; Plax and Lukševičs (2023), Character 18; Luo *et al*. (2025), Character 18.
@@ -285,6 +299,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 19. Relative position of orbital fenestra : anterior (0); slightly anterior (1); slightly posterior (2); posterior (3). (ordered)
  > Zhu (1996), Character 56; Jia *et al.* (2010), Character 11; Pan *et al.* (2018), Character 56; Wang and Zhu (2018), Character 19; Liu *et al*. (2023), character 19; Plax and Lukševičs (2023), Character 19; Luo *et al*. (2025), Character 19.
@@ -301,6 +316,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 2.
+> - The coding of *Chahuaqingolepis* is 2.
 
 20. Nasal opening: at anterolateral corners of rostral plate (0); at anterior margin of rostral plate (1).
 > Young (1984, 1988), Character 35; Zhu (1996), Character 49; Jia *et al.* (2010), Character 9; Pan *et al.* (2018), Character 49; Wang and Zhu (2018), Character 20; Liu *et al*. (2023), character 20; Plax and Lukševičs (2023), Character 20; Luo *et al*. (2025), Character 20.
@@ -315,6 +331,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 21. Postpineal and nuchal plates: long and narrow (0); short and broad (1).
 > Zhu (1996), Character 57; Jia *et al.* (2010), Character 12; Pan *et al.* (2018), Character 57; Wang and Zhu (2018), Character 21; Liu *et al*. (2023), character 21; Plax and Lukševičs (2023), Character 21; Luo *et al*. (2025), Character 21.
@@ -329,6 +346,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 > - Postpineal and nuchal plates have length greater than width was identified as "short and broad".
 
@@ -347,6 +365,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 23. Position of postorbital crista: extending medially to postpineal plate (0); extending obliquely to nuchal plate (1).
 > Wang and Zhu (2018), Character 23; Liu *et al*. (2023), character 23; Plax and Lukševičs (2023), Character 23; Luo *et al*. (2025), Character 23.
@@ -361,6 +380,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 1.
 
 24. Nuchal plate: without orbital facets (0); with orbital facets (1).
 > Young (1984, 1988), Character 26; Zhang and Young (1992), Character 16; Zhu (1996), Character 58; Jia *et al.* (2010), Character 14; Pan *et al.* (2018), Character 58; Wang and Zhu (2018), Character 24; Liu *et al*. (2023), character 24; Plax and Lukševičs (2023), Character 24; Luo *et al*. (2025), Character 24.
@@ -377,6 +397,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is 1.
 
 25. Supraotic thickening on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Liu *et al*. (2023), character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
@@ -391,6 +412,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 26. Median occipital crista on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 26; Liu *et al*. (2023), character 26; Plax and Lukševičs (2023), Character 26; Luo *et al*. (2025), Character 26.
@@ -407,6 +429,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is 1.
 
 27. Posterior process of head shield: absent (0); present (1).
 > Wang and Zhu (2018), Character 27; Liu *et al*. (2023), character 27; Plax and Lukševičs (2023), Character 27; Luo *et al*. (2025), Character 27.
@@ -421,6 +444,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 28. Obstantic margin of skull roof: long (0); short (1).
 > Young (1984, 1988), Character 28; Zhu (1996), Character 59; Jia *et al.* (2010), Character 15; Pan *et al.* (2018), Character 59; Wang and Zhu (2018), Character 28; Liu *et al*. (2023), character 28; Plax and Lukševičs (2023), Character 28; Luo *et al*. (2025), Character 28.
@@ -437,6 +461,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 0.
 
 29. Central sensory canal: absent (0); present (1).
 > Young (1984, 1988), Character 24; Zhang and Young (1992), Character 6; Zhu (1996), Character 37; Jia *et al.* (2010), Character 20; Pan *et al.* (2018), Character 37; Wang and Zhu (2018), Character 29; Liu *et al*. (2023), character 29; Plax and Lukševičs (2023), Character 29; Luo *et al*. (2025), Character 29.
@@ -453,6 +478,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 30. Supraorbital canal: absent (0); present (1).
 > Zhu (1996), Character 38; Pan *et al.* (2018), Character 38; Wang and Zhu (2018), Character 30; Liu *et al*. (2023), character 30; Plax and Lukševičs (2023), Character 30; Luo *et al*. (2025), Character 30.
@@ -469,6 +495,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 31. X-shaped pit-line grooves: absent (0); present (1).
 > Zhu (1996), Character 39; Jia *et al.* (2010), Character 21; Pan *et al.* (2018), Character 39; Wang and Zhu (2018), Character 31; Liu *et al*. (2023), character 31; Plax and Lukševičs (2023), Character 31; Luo *et al*. (2025), Character 31.
@@ -483,6 +510,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 32. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 > Zhu (1996), Character 40; Jia *et al.* (2010), Character 22; Pan *et al.* (2018), Character 40; Wang and Zhu (2018), Character 32; Liu *et al*. (2023), character 32; Plax and Lukševičs (2023), Character 32; Luo *et al*. (2025), Character 32.
@@ -497,6 +525,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is 1.
 
 33. Semicircular pit-line: absent (0); present (1).
 > Zhu (1996), Character 41; Jia *et al.* (2010), Character 23; Pan *et al.* (2018), Character 41; Wang and Zhu (2018), Character 33; Liu *et al*. (2023), character 33; Plax and Lukševičs (2023), Character 33; Luo *et al*. (2025), Character 33.
@@ -511,6 +540,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 34. Occipital cross-commissure issued from infraorbital canal: absent or short (0); long and extending onto nuchal plate (1).
 > Young (1984, 1988), Character 19, part; Zhu (1996), Character 42; Jia *et al.* (2010), Character 24; Pan *et al.* (2018), Character 42; Wang and Zhu (2018), Character 34; Liu *et al*. (2023), character 34; Plax and Lukševičs (2023), Character 34; Luo *et al*. (2025), Character 34.
@@ -525,6 +555,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 35. Anterior postorbital process: behind anterior level of orbital notch (0); extending in front of orbital notch (1).
 > Young (1984, 1988), Character 37; Zhang and Young (1992), Character 17; Zhu (1996), Character 61; Jia *et al.* (2010), Character 17; Pan *et al.* (2018), Character 61; Wang and Zhu (2018), Character 35; Liu *et al*. (2023), character 35; Plax and Lukševičs (2023), Character 35; Luo *et al*. (2025), Character 35.
@@ -541,6 +572,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 36. Anterior postorbital process: at or behind posterior level of orbital notch (0); in front of posterior level of orbital notch (1).
 > Wang and Zhu (2018), Character 36; Liu *et al*. (2023), character 36; Plax and Lukševičs (2023), Character 36; Luo *et al*. (2025), Character 36.
@@ -555,6 +587,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 37. Cavity for cranio-spinal process: absent (0); present (1).
 > Wang and Zhu (2018), Character 37; Liu *et al*. (2023), character 37; Plax and Lukševičs (2023), Character 37; Luo *et al*. (2025), Character 37.
@@ -569,6 +602,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 38. Supraoccipital pit of head shield: absent (0); present (1).
 > Wang and Zhu (2018), Character 38; Liu *et al*. (2023), character 38; Plax and Lukševičs (2023), Character 38; Luo *et al*. (2025), Character 38.
@@ -585,6 +619,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 39. Confluence between anterior and posterior semicircular canals: midway between orbital notch and transverse nuchal crista or close to orbital notch (0); close to transverse nuchal crista (1).
 > Wang and Zhu (2018), Character 39; Liu *et al*. (2023), character 39; Plax and Lukševičs (2023), Character 39; Luo *et al*. (2025), Character 39.
@@ -599,6 +634,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 40. Endolymphatic duct through head shield: long tube (0); short tube (1).
 > Wang and Zhu (2018), Character 40; Liu *et al*. (2023), character 40; Plax and Lukševičs (2023), Character 40; Luo *et al*. (2025), Character 40.
@@ -613,6 +649,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 41. Occipital portion of endocranium: long (0); short (1).
 > Wang and Zhu (2018), Character 41; Liu *et al*. (2023), character 41; Plax and Lukševičs (2023), Character 41; Luo *et al*. (2025), Character 41.
@@ -627,6 +664,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 42. Submarginal articulation: absent (0); present (1).
 > Zhang and Young (1992), Character 13; Zhu (1996), Character 60; Jia *et al.* (2010), Character 16; Pan *et al.* (2018), Character 60; Wang and Zhu (2018), Character 42; Liu *et al*. (2023), character 42; Plax and Lukševičs (2023), Character 42; Luo *et al*. (2025), Character 42.
@@ -641,6 +679,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 43. Postsuborbital plate: absent (0); present (1).
 > Zhu (1996), Character 63; Jia *et al.* (2010), Character 18; Pan *et al.* (2018), Character 63; Wang and Zhu (2018), Character 43; Liu *et al*. (2023), character 43; Plax and Lukševičs (2023), Character 43; Luo *et al*. (2025), Character 43.
@@ -657,6 +696,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is 1.
 
 44. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
 > Zhang and Young (1992), Character14; Zhu (1996), Character 64; Pan *et al.* (2018), Character 64; Wang and Zhu (2018), Character 44; Liu *et al*. (2023), character 44; Plax and Lukševičs (2023), Character 44; Luo *et al*. (2025), Character 44.
@@ -671,6 +711,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 45. Postsuborbital plate: behind suborbital plate (0); above suborbital plate (1).
 > Zhu (1996), Character 65; Pan *et al.* (2018), Character 65; Wang and Zhu (2018), Character 45; Liu *et al*. (2023), character 45; Plax and Lukševičs (2023), Character 45; Luo *et al*. (2025), Character 45.
@@ -687,6 +728,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 46. Suborbital plates of both sides: separated (0); meeting in the midline (1).
 > Young (1984, 1988), Character 32; Zhu (1996), Character 66; Jia *et al.* (2010), Character 19; Pan *et al.* (2018), Character 66; Wang and Zhu (2018), Character 46; Liu *et al*. (2023), character 46; Plax and Lukševičs (2023), Character 46; Luo *et al*. (2025), Character 46.
@@ -701,6 +743,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 ## Trunk shield
 47. Shape of trunk shield: low and elongated (0); high and short (1).
@@ -721,6 +764,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 48. Number of median dorsal plates: one (0); two (1).
 > Young (1984, 1988), Character 1; Zhu (1996), Character 11; Pan *et al.* (2018), Character 11; Wang and Zhu (2018), Character 48; Liu *et al*. (2023), character 48; Plax and Lukševičs (2023), Character 48; Luo *et al*. (2025), Character 48. 
@@ -735,6 +779,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 49. Index r1 between width of anterior margin and maximum width of anterior median dorsal plate: r1 > 55 (0); 35 ≤ r1 ≤55 (1); 15 ≤ r1 < 35 (2); r1 < 15 (3). (ordered)
 > Young (1984, 1988), Character 22; Zhang and Young (1992), Character 3; Zhu (1996), Character 12; Jia *et al.* (2010), Character 33; Pan *et al.* (2018), Character 12; Wang and Zhu (2018), Character 49; Liu *et al*. (2023), character 49; Plax and Lukševičs (2023), Character 49; Luo *et al*. (2025), Character 49.
@@ -751,6 +796,7 @@
 > - The coding of *Xichonolepis wudingensis* is 2.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 50. Length index r2 between anterior and posterior divisions of anterior median dorsal plate : r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
 > Zhu (1996), Character 13; Pan *et al.* (2018), Character 13; Wang and Zhu (2018), Character 50; Liu *et al*. (2023), character 50; Plax and Lukševičs (2023), Character 50; Luo *et al*. (2025), Character 50.
@@ -767,6 +813,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 >
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 51. Tergal angle of anterior median dorsal plate: centrally or posteriorly placed (0); anteriorly placed (1).
 > Zhang and Young (1992), Character 2; Zhu (1996), Character 14; Jia *et al.* (2010), Character 34; Pan *et al.* (2018), Character 14; Wang and Zhu (2018), Character 51; Liu *et al*. (2023), character 51; Plax and Lukševičs (2023), Character 51; Luo *et al*. (2025), Character 51.
@@ -783,6 +830,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 52. Dorsal median spine of trunk shield: absent (0); present (1).
 > Zhu (1996), Character 19; Jia *et al.* (2010), Character 39; Pan *et al.* (2018), Character 19; Wang and Zhu (2018), Character 52; Liu *et al*. (2023), character 52; Plax and Lukševičs (2023), Character 52; Luo *et al*. (2025), Character 52.
@@ -800,6 +848,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 53. Anterior median dorsal plate: completely overlapping anterior dorsolateral plate (0); partly overlapping anterior dorsolateral plate (1).
 > Zhu (1996), Character 15; Jia *et al.* (2010), Character 35; Pan *et al.* (2018), Character 15; Wang and Zhu (2018), Character 53; Liu *et al*. (2023), character 53; Plax and Lukševičs (2023), Character 53; Luo *et al*. (2025), Character 53.
@@ -814,6 +863,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 54. Anterior median dorsal plate: underlapping or partly overlapping posterior dorsolateral (or mixilateral) plate (0); completely overlapping posterior dorsolateral (or mixilateral) plate (1).
 > Young (1984, 1988), Character 17; Zhu (1996), Character 16; Jia *et al.* (2010), Character 36; Pan *et al.* (2018), Character 16; Wang and Zhu (2018), Character 54; Liu *et al*. (2023), character 54; Plax and Lukševičs (2023), Character 54; Luo *et al*. (2025), Character 54.
@@ -828,6 +878,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 55. Anterior median dorsal plate: partly or completely overlapping posterior dorsolateral (or mixilateral) plate (0); underlapping posterior dorsolateral (or mixilateral) plate (1).
 > Young (1984, 1988), Character 21; Zhang and Young (1992), Character 4; Zhu (1996), Character 17; Jia *et al.* (2010), Character 37; Pan *et al.* (2018), Character 17; Wang and Zhu (2018), Character 55; Liu *et al*. (2023), character 55; Plax and Lukševičs (2023), Character 55; Luo *et al*. (2025), Character 55.
@@ -842,6 +893,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 56. Anterior ventral process and pit on anterior median dorsal plate: absent (0); present (1).
 > Young (1984, 1988), Character 31; Zhu (1996), Character 18; Jia *et al.* (2010), Character 38; Pan *et al.* (2018), Character 18; Wang and Zhu (2018), Character 56; Liu *et al*. (2023), character 56; Plax and Lukševičs (2023), Character 56; Luo *et al*. (2025), Character 56.
@@ -856,6 +908,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 57. Lateral process of posterior median dorsal plate: conspicuous (0); reduced (1).
 > Young (1984, 1988), Character 16; Zhu (1996), Character 20; Pan *et al.* (2018), Character 20; Wang and Zhu (2018), Character 57; Liu *et al*. (2023), character 57; Plax and Lukševičs (2023), Character 57; Luo *et al*. (2025), Character 57.
@@ -872,6 +925,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 58. Posterior interior transverse crista of trunk shield: lying laterally to posterior ventral pit and process of posterior median dorsal plate (0); lying behind posterior ventral pit and process of posterior median dorsal plate (1).
 > Zhu (1996), Character 21; Jia *et al.* (2010), Character 40; Pan *et al.* (2018), Character 21; Wang and Zhu (2018), Character 58; Liu *et al*. (2023), character 58; Plax and Lukševičs (2023), Character 58; Luo *et al*. (2025), Character 58.
@@ -888,6 +942,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 59. Posterior ventral pit and process of posterior median dorsal plate: on posterior interior transverse crista (0); posteriorly migrated behind posterior interior transverse crista (1).
 > Young (1984, 1988), Character 14; Zhu (1996), Character 22; Pan *et al.* (2018), Character 22; Wang and Zhu (2018), Character 59; Liu *et al*. (2023), character 59; Plax and Lukševičs (2023), Character 59; Luo *et al*. (2025), Character 59.
@@ -904,6 +959,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 60. *Crista transversalis interna posterior* (internal posterior transverse crista) of trunk shield: lying laterally to posterior ventral process and pit (0); turning anteriorly and in front of posterior ventral process and pit (1).
 > Zhu (1996), Character 23; Pan *et al.* (2018), Character 23; Wang and Zhu (2018), Character 60; Liu *et al*. (2023), character 60; Plax and Lukševičs (2023), Character 60; Luo *et al*. (2025), Character 60. 
@@ -920,6 +976,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 61. Anterior lateral plate: absent (0); present (1).
 > Young (1984, 1988), Character 2; Zhu (1996), Character 24; Pan *et al.* (2018), Character 24; Wang and Zhu (2018), Character 61; Liu *et al*. (2023), character 61; Plax and Lukševičs (2023), Character 61; Luo *et al*. (2025), Character 61.
@@ -936,6 +993,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 62. Chang’s apparatus: absent (0); present (1).
 > Zhu (1996), Character 25; Pan *et al.* (2018), Character 25; Wang and Zhu (2018), Character 62; Liu *et al*. (2023), character 62; Plax and Lukševičs (2023), Character 62; Luo *et al*. (2025), Character 62.
@@ -950,6 +1008,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 63. Ventrolateral fossa of trunk shield: absent (0); present (1).
 > Zhu (1996), Character 26; Pan *et al.* (2018), Character 26; Wang and Zhu (2018), Character 63; Liu *et al*. (2023), character 63; Plax and Lukševičs (2023), Character 63; Luo *et al*. (2025), Character 63.
@@ -964,6 +1023,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 64. Posterior dorsolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
 > Young (1984, 1988), Character 20; Zhang and Young (1992), Character 8; Zhu (1996), Character 27; Jia *et al.* (2010), Character 41; Pan *et al.* (2018), Character 27; Wang and Zhu (2018), Character 64; Liu *et al*. (2023), character 64; Plax and Lukševičs (2023), Character 64; Luo *et al*. (2025), Character 64.
@@ -978,6 +1038,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 65. Posterior ventrolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
 > Young (1984, 1988), Character 13; Zhang and Young (1992), Character 7; Zhu (1996), Character 28; Jia *et al.* (2010), Character 42; Pan *et al.* (2018), Character 28; Wang and Zhu (2018), Character 65; Liu *et al*. (2023), character 65; Plax and Lukševičs (2023), Character 65; Luo *et al*. (2025), Character 65.
@@ -992,6 +1053,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 66. Semilunar plate: paired (0); unpaired (1).
 > Young (1984, 1988), Character 23; Zhang and Young (1992), Character 5; Zhu (1996), Character 29; Jia *et al.* (2010), Character 44; Pan *et al.* (2018), Character 29; Wang and Zhu (2018), Character 66; Liu *et al*. (2023), character 66; Plax and Lukševičs (2023), Character 66; Luo *et al*. (2025), Character 66.
@@ -1008,6 +1070,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 67. Large rectangular aperture on ventral wall of trunk shield: absent (0); present (1).
 > Young (1984, 1988), Character 15; Ritchie *et al.* (1992), Character 5; Zhu (1996), Character 30; Jia *et al.* (2010), Character 45; Pan *et al.* (2018), Character 30; Wang and Zhu (2018), Character 67; Liu *et al*. (2023), character 67; Plax and Lukševičs (2023), Character 67; Luo *et al*. (2025), Character 67.
@@ -1022,6 +1085,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 68. Spinal plate: absent (0); present (1).
 > Young (1984, 1988), Character 11, part; Zhu (1996), Character 31; Pan *et al.* (2018), Character 31; Wang and Zhu (2018), Character 68; Liu *et al*. (2023), character 68; Plax and Lukševičs (2023), Character 68; Luo *et al*. (2025), Character 68.
@@ -1036,6 +1100,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 >
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 69. Postbranchial lamina: external and upright (0); internal and horizontal (1).
 > Zhu (1996), Character 32; Pan *et al.* (2018), Character 32; Wang and Zhu (2018), Character 69; Liu *et al*. (2023), character 69; Plax and Lukševičs (2023), Character 69; Luo *et al*. (2025), Character 69.
@@ -1052,6 +1117,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 70. Pectoral fin: scale-covered (0); modified into a slender appendage covered with small dermal plates (1).
 > Young (1984, 1988), Character 8; Zhu (1996), Character 1; Pan *et al.* (2018), Character 1; Wang and Zhu (2018), Character 70; Liu *et al*. (2023), character 70; Plax and Lukševičs (2023), Character 70; Luo *et al*. (2025), Character 70.
@@ -1068,6 +1134,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 71. Number of plates encircling pectoral fenestra: two or more (0); one (1).
 > Zhu (1996), Character 2; Pan *et al.* (2018), Character 2; Wang and Zhu (2018), Character 71; Liu *et al*. (2023), character 71; Plax and Lukševičs (2023), Character 71; Luo *et al*. (2025), Character 71.
@@ -1082,6 +1149,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 72. Brachial process: absent (0); present (1);
 > Young (1984, 1988), Character 9; Zhu (1996), Character 3, part; Pan *et al.* (2018), Character 3, part; Wang and Zhu (2018), Character 72; Liu *et al*. (2023), character 72; Plax and Lukševičs (2023), Character 72; Luo *et al*. (2025), Character 72.
@@ -1100,6 +1168,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 73. Brachial process: simple (0); helmet-shaped (1);
 > Young (1984, 1988), Character 9; Ritchie *et al.* (1992), Character 9; Zhu (1996), Character 3, part; Jia *et al.* (2010), Character 31; Pan *et al.* (2018), Character 3, part; Wang and Zhu (2018), Character 73; Liu *et al*. (2023), character 73; Plax and Lukševičs (2023), Character 73; Luo *et al*. (2025), Character 73.
@@ -1118,6 +1187,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 74. Axillary foramen: small (0); large (1).
 > Young (1984, 1988), Character 27; Zhang and Young (1992), Character 15; Zhu (1996), Character 4; Jia *et al.* (2010), Character 32; Pan *et al.* (2018), Character 4; Wang and Zhu (2018), Character 74; Liu *et al*. (2023), character 74; Plax and Lukševičs (2023), Character 74; Luo *et al*. (2025), Character 74.
@@ -1134,6 +1204,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 75. Pectoral appendage: unjointed (0); jointed (1).
 > Young (1984, 1988), Character 10; Ritchie *et al.* (1992), Character 10; Zhu (1996), Character 5; Jia *et al.* (2010), Character 27; Pan *et al.* (2018), Character 5; Wang and Zhu (2018), Character 75; Liu *et al*. (2023), character 75; Plax and Lukševičs (2023), Character 75; Luo *et al*. (2025), Character 75.
@@ -1150,6 +1221,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 76. Dorsal central plate 1 and dorsal central plate 2 of pectoral appendage: in contact (0); separated (1).
 
@@ -1165,6 +1237,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 77. Pectoral appendage: short (0); elongated (1).
 > Zhang and Young (1992), Character 12; Zhu (1996), Character 7; Jia *et al.* (2010), Character 26; Pan *et al.* (2018), Character 7; Wang and Zhu (2018), Character 77; Liu *et al*. (2023), character 77; Plax and Lukševičs (2023), Character 77; Luo *et al*. (2025), Character 77.
@@ -1179,6 +1252,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 78. Lateral marginal plate 2 relative to trunk shield: short (0); elongated (1).
 > Zhu (1996), Character 8; Jia *et al.* (2010), Character 29; Pan *et al.* (2018), Character 8; Wang and Zhu (2018), Character 78; Liu *et al*. (2023), character 78; Plax and Lukševičs (2023), Character 78; Luo *et al*. (2025), Character 78.
@@ -1193,6 +1267,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 79. Number of lateral marginal plates of distal segment: three (0); two (1).
 > Zhu (1996), Character 9; Jia *et al.* (2010), Character 30; Pan *et al.* (2018), Character 9; Wang and Zhu (2018), Character 79; Liu *et al*. (2023), character 79; Plax and Lukševičs (2023), Character 79; Luo *et al*. (2025), Character 79.
@@ -1207,6 +1282,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 80. Posterior dorsolateral plate overlaps anterior dorsolateral plate in dorsal part, and is overlapped in ventral part: absent (0); present (1);
 > Plax and Lukševičs (2023), Character 80; Luo *et al*. (2025), Character 80.
@@ -1221,6 +1297,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 81.	Postmarginal plate: absent (0); present (1).
 > Luo *et al*. (2025), Character 81. 
@@ -1238,6 +1315,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is 1.
 
 82.	Position of postmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > Luo *et al*. (2025), Character 82.
@@ -1253,6 +1331,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 83.	Postmarginal canal: absent (0); present (1).
 > Luo *et al*. (2025), Character 83.
@@ -1270,6 +1349,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is 0.
 
 84.	Ventral tuberosity on anterior median dorsal plate: absent (0); conspicuous (1).
 > Luo *et al*. (2025), Character 84.     
@@ -1284,6 +1364,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 85.	Anterior and posterior median dorsal plates alternately overlapping each other: absent (0); present (1).
 > Luo *et al*. (2025), Character 85.
@@ -1298,6 +1379,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 86.	Ventral tuberosity on posterior median dorsal plate: absent (0); conspicuous (1).
 > Luo *et al*. (2025), Character 86.
@@ -1312,6 +1394,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Chahuaqingolepis* is ?.
 
 87. Median ventral plate: absent (0); present (1).
 > Young (1984, 1988), Character 15; Zhu (1996), Character 30; Jia *et al.* (2010), Character 45; Pan *et al.* (2018), Character 30; Wang and Zhu (2018), Character ?; Luo *et al*. (2025), Character 87.
@@ -1328,6 +1411,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 88.	Dorsal central plate 1 and ventral central plate 1 have large semicircular articular areas, similar in size and closely integrated to ornamented part of bone: absent (0); present (1).
 
@@ -1345,6 +1429,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 89.	Mesial lamina on dorsal central plate 1: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 7); Luo *et al*. (2025), Character 89.
@@ -1361,6 +1446,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 90.	Mesial marginal plate 1 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 8); Luo *et al*. (2025), Character 90.
@@ -1378,6 +1464,7 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
+> - The coding of *Chahuaqingolepis* is ?.
 
 91. Nerves and vessels to pectoral fin passing through a single axillary foramen: absent (0); present (1).
 > Ritchie *et al.* (1992), Character 11; Luo *et al*. (2025), Character 91.
@@ -1394,6 +1481,7 @@
 > - The coding of *Xichonolepis wudingensis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
+> - The coding of *Chahuaqingolepis* is ?.
 
 ## Characters to be used in the follow-up studies
 92. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
