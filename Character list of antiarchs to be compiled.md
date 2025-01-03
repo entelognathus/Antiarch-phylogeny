@@ -17,7 +17,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis* is 0.
-> - **Xiao Yu, make comparison with *Chahuaqingolepis*, double-check its codings throughout the list.** The coding of *Chahuaqingolepis* is .
+> - The coding of *Chahuaqingolepis* is .
 
 2. Adult ornamentation: non-ridged (0); ridged (1).
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 47, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 2; Liu *et al*. (2023), character 2; Plax and Lukševičs (2023), Character 2; Luo *et al*. (2025), Character 2.
@@ -38,7 +38,7 @@
 3. Ridges on dorsal wall of trunk shield: converging (0); subparallel (1).
 > Zhang and Young (1992), Character 9; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 48, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 3; Liu *et al*. (2023), character 3; Plax and Lukševičs (2023), Character 3; Luo *et al*. (2025), Character 3.
 
-> In those taxa without the ridges on the dorsal wall of trunk shiled, this character is scored as 'not applicable'
+> - In those taxa without the ridges on the dorsal wall of trunk shiled, this character is scored as 'not applicable'
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
@@ -1544,12 +1544,10 @@
 > - This character is relative to Character 88.
 
 99. Obtected nuchal area: small (0); large (1).
-> Liu *et al.* (2023), Character 80. They didn't precisely define the character, only stating that this feature only presents in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*.
+> Liu *et al.* (2023), Character 80. 
 
-> - **你们谁将Liu et al. 2023 加进taxa list, 以及前面的特征列表中，包括文献。类似工作就随手完成。**
-
-> - Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
-> - This feature is mainly present in bothriolepids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
+> - Liu *et al.* (2023) didn't define the character, only stating that this feature is present in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*. Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
+> -  The large obtected nuchal area is present in some bothriolepidoids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
 100. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
 > Newly added.
