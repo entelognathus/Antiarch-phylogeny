@@ -335,9 +335,10 @@
 20. Nasal opening: at anterolateral corners of rostral plate (0); at anterior margin of rostral plate (1).
 > Young (1984, 1988), Character 35; Zhu (1996), Character 49; Jia *et al.* (2010), Character 9; Pan *et al.* (2018), Character 49; Wang and Zhu (2018), Character 20; Liu *et al*. (2023), character 20; Plax and Lukševičs (2023), Character 20; Luo *et al*. (2025), Character 20.
 
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is ?.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -350,9 +351,10 @@
 21. Postpineal and nuchal plates: long and narrow (0); short and broad (1).
 > Zhu (1996), Character 57; Jia *et al.* (2010), Character 12; Pan *et al.* (2018), Character 57; Wang and Zhu (2018), Character 21; Liu *et al*. (2023), character 21; Plax and Lukševičs (2023), Character 21; Luo *et al*. (2025), Character 21.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -369,9 +371,10 @@
 
 > - The term ‘postpineal thickening’ used in phylogenetic analysis was named after Young (1983). This term refers to the thickening on the anterior margin of the postorbital crista in the visceral surface of postpineal plate.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -384,9 +387,10 @@
 23. Position of postorbital crista: extending medially to postpineal plate (0); extending obliquely to nuchal plate (1).
 > Wang and Zhu (2018), Character 23; Liu *et al*. (2023), character 23; Plax and Lukševičs (2023), Character 23; Luo *et al*. (2025), Character 23.
  
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -401,9 +405,10 @@
 
 > - Character 145 in 'early gnathostome phylogeny dataset'.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -416,9 +421,10 @@
 25. Supraotic thickening on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Liu *et al*. (2023), character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -433,9 +439,10 @@
 
 > - The median occipital crista, also termed as the posterior median process of head shield (Hemmings 1978), is positioned on the visceral surface of head shield. It differs from the posterior process of head shield (Miles 1968; Young 1988).
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -448,9 +455,10 @@
 27. Posterior process of head shield: absent (0); present (1).
 > Wang and Zhu (2018), Character 27; Liu *et al*. (2023), character 27; Plax and Lukševičs (2023), Character 27; Luo *et al*. (2025), Character 27.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -465,9 +473,10 @@
 
 > - Character 143 in 'early gnathostome phylogeny dataset'.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -482,9 +491,10 @@
 
 > - Character 170 in 'early gnathostome phylogeny dataset'.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -499,9 +509,10 @@
 
 > - Character 171 in 'early gnathostome phylogeny dataset'.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -514,9 +525,10 @@
 31. X-shaped pit-line grooves: absent (0); present (1).
 > Zhu (1996), Character 39; Jia *et al.* (2010), Character 21; Pan *et al.* (2018), Character 39; Wang and Zhu (2018), Character 31; Liu *et al*. (2023), character 31; Plax and Lukševičs (2023), Character 31; Luo *et al*. (2025), Character 31.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -529,9 +541,10 @@
 32. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 > Zhu (1996), Character 40; Jia *et al.* (2010), Character 22; Pan *et al.* (2018), Character 40; Wang and Zhu (2018), Character 32; Liu *et al*. (2023), character 32; Plax and Lukševičs (2023), Character 32; Luo *et al*. (2025), Character 32.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -544,9 +557,10 @@
 33. Semicircular pit-line: absent (0); present (1).
 > Zhu (1996), Character 41; Jia *et al.* (2010), Character 23; Pan *et al.* (2018), Character 41; Wang and Zhu (2018), Character 33; Liu *et al*. (2023), character 33; Plax and Lukševičs (2023), Character 33; Luo *et al*. (2025), Character 33.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -559,9 +573,10 @@
 34. Occipital cross-commissure issued from infraorbital canal: absent or short (0); long and extending onto nuchal plate (1).
 > Young (1984, 1988), Character 19, part; Zhu (1996), Character 42; Jia *et al.* (2010), Character 24; Pan *et al.* (2018), Character 42; Wang and Zhu (2018), Character 34; Liu *et al*. (2023), character 34; Plax and Lukševičs (2023), Character 34; Luo *et al*. (2025), Character 34.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -576,9 +591,10 @@
 
 > - We termed the “endocranium postorbital process” as the “anterior postorbital process” and re-formulate state 0 (“short”) as “behind anterior level of orbital fenestra”.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 0.
 
@@ -591,9 +607,10 @@
 36. Anterior postorbital process: at or behind posterior level of orbital notch (0); in front of posterior level of orbital notch (1).
 > Wang and Zhu (2018), Character 36; Liu *et al*. (2023), character 36; Plax and Lukševičs (2023), Character 36; Luo *et al*. (2025), Character 36.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -606,9 +623,10 @@
 37. Cavity for cranio-spinal process: absent (0); present (1).
 > Wang and Zhu (2018), Character 37; Liu *et al*. (2023), character 37; Plax and Lukševičs (2023), Character 37; Luo *et al*. (2025), Character 37.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -623,9 +641,10 @@
 
 > - This pit or cavity, also termed as the supraotic pit (Long and Werdelin, 1986) and middle pit (Young, 1988), corresponds to the endocranial supraoccipital process.  
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -638,9 +657,10 @@
 39. Confluence between anterior and posterior semicircular canals: midway between orbital notch and transverse nuchal crista or close to orbital notch (0); close to transverse nuchal crista (1).
 > Wang and Zhu (2018), Character 39; Liu *et al*. (2023), character 39; Plax and Lukševičs (2023), Character 39; Luo *et al*. (2025), Character 39.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -653,9 +673,10 @@
 40. Endolymphatic duct through head shield: long tube (0); short tube (1).
 > Wang and Zhu (2018), Character 40; Liu *et al*. (2023), character 40; Plax and Lukševičs (2023), Character 40; Luo *et al*. (2025), Character 40.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -668,9 +689,10 @@
 41. Occipital portion of endocranium: long (0); short (1).
 > Wang and Zhu (2018), Character 41; Liu *et al*. (2023), character 41; Plax and Lukševičs (2023), Character 41; Luo *et al*. (2025), Character 41.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -683,9 +705,10 @@
 42. Submarginal articulation: absent (0); present (1).
 > Zhang and Young (1992), Character 13; Zhu (1996), Character 60; Jia *et al.* (2010), Character 16; Pan *et al.* (2018), Character 60; Wang and Zhu (2018), Character 42; Liu *et al*. (2023), character 42; Plax and Lukševičs (2023), Character 42; Luo *et al*. (2025), Character 42.
 
-> - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Zhujielepis* is ?.
+> - The coding of *Yangfanyu* is 1.
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -700,9 +723,10 @@
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -715,9 +739,10 @@
 44. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
 > Zhang and Young (1992), Character14; Zhu (1996), Character 64; Pan *et al.* (2018), Character 64; Wang and Zhu (2018), Character 44; Liu *et al*. (2023), character 44; Plax and Lukševičs (2023), Character 44; Luo *et al*. (2025), Character 44.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
 
@@ -732,9 +757,10 @@
 
 > - The suborbital was termed as the mental plate in Zhu (1996).
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
@@ -747,9 +773,10 @@
 46. Suborbital plates of both sides: separated (0); meeting in the midline (1).
 > Young (1984, 1988), Character 32; Zhu (1996), Character 66; Jia *et al.* (2010), Character 19; Pan *et al.* (2018), Character 66; Wang and Zhu (2018), Character 46; Liu *et al*. (2023), character 46; Plax and Lukševičs (2023), Character 46; Luo *et al*. (2025), Character 46.
 
-> - The coding of *Zhujielepis* is .
+> - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is ?.
 
