@@ -1,5 +1,5 @@
 # Character list of Antiarches
-> All Characters except Characters 19, 49, and 50 are unordered. 
+> All characters except Characters 19, 49, and 50 are unordered. 
 
 ## Ornamentation, histology and scales
 1. Adult ornamentation: tubercular (0); reticular (1).
@@ -1509,7 +1509,7 @@
 91.	Mesial marginal plate 1 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 8); Luo *et al*. (2025), Character 90.
 
-> -  Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids). **Mesial marginal plate 1 enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 on mesial view.**
+> -  Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids). Mesial marginal plate 1 is enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 in mesial view.
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
@@ -1543,6 +1543,7 @@
 
 ## Characters to be used in the follow-up studies
 93. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
+> Newly added by Luo.
 
 > - Currently, antiarchs with jointed pectoral appendage should be 1, except dianolepids and bothriolepids.
 
@@ -1558,9 +1559,10 @@
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 94.	Mesial marginal plate 2 restricted to mesial wall of pectoral appendage: absent (0); present (1).
-> Ritchie *et al.* (1992, Character 8). ???see Character 90 above.
+> Newly added by Luo.
 
-> - **The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 on the mesial view.**
+> - Resembling Character 90 above.
+> - The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 in mesial view.
 
 95. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
 > Newly added by Yan, to distinguish two species of *Xichonolepis*.
@@ -1588,38 +1590,37 @@
 100. Obtected nuchal area: small (0); large (1).
 > Liu *et al.* (2023), Character 80. 
 
-> - Liu *et al.* (2023) didn't define the Character, only stating that this feature is present in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*. Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
+> - Liu *et al.* (2023) didn't define the character, only stating that this feature is present in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis*. Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > -  The large obtected nuchal area is present in some bothriolepidoids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
-101. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
-> Newly added.
+101. Composition of doral median spine: AMD plate (0); AMD and PMD plates (1).
+> Newly added by Zhu.
+
+102. Flat trunk shield: absence (0), presence (1).
+> Newly added by Zhu.
+
+> - We define the ratio of the height of trunk shield relative to the length of trunk shield ventral walll less than **0.2?** as the flat trunk shield. Considering the varablity of the posterior process of posterior median dorsal wall, We use the length of trunk shield ventral wall rather than the length of the trunk shield dorsal wall as the reference to define the relative height of trunk shield.
+
+> - The flat trunk shield is present in sinolepids, **to be checked one by one.**
+
+103. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
+> Newly added by Yu?
 
 > - **check its relation to Character 23. How to distinguish them?**
 > - These two structures are fused in *Microbrachius*, but seperate in all other antiarchs. Character 23 only distinguishes whether postorbital crista extends to postpineal plate or nuchal plate, ignoring the fusion situation.
 
 > - This Character is only seen in *Microbrachius*.
 
-102. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
-> Newly added.
+104. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
+> Newly added by Yu?
 
 > - State 0 is mainly present in asterolepids. Almost all the bothriolepids should be 1.
 
-103. Orbital facet of nuchal plate: narrow (0); broad (1).
-> Newly added.
+105. Orbital facet of nuchal plate: narrow (0); broad (1).
+> Newly added by Yu?
 
 > - The index between the width of the orbital facet of the nuchal plate and the width of the potpineal plate smaller than 40 is considered as "narrow", while the index equal to or larger than 40 is considered as "broad".
 
-104. Composition of doral median spine: AMD plate (0); AMD and PMD plates (1).
-> Newly added.
-
-105. Flat trunk shield: absence (0), presence (1).
-
-> - We define the ratio of the height of trunk shield relative to the length of trunk shield ventral walll less than **0.2?** as the flat trunk shield. Considering the varablity of the posterior process of posterior median dorsal wall, We use the length of trunk shield ventral wall rather than the length of the trunk shield dorsal wall as the reference to define the relative height of trunk shield.
-
-> - The flat trunk shield is present in sinolepids, **to be checked one by one.**
-
-106. Separation of axillary formamen and funnel pit (for scapulocoracoid): no (0), yes (1).
-> - **这个特征好像跟特征91是一回事情？**
 
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
