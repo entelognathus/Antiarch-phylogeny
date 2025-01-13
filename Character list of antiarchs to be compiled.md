@@ -1605,7 +1605,7 @@
 **the character list used in the Xichonoelepis manuscript**
 
 103. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
-> Newly added by Yu?
+> Newly added by Yu.
 
 > - **check its relation to Character 23. How to distinguish them?**
 > - These two structures are fused in *Microbrachius*, but seperate in all other antiarchs. Character 23 only distinguishes whether postorbital crista extends to postpineal plate or nuchal plate, ignoring the fusion situation.
@@ -1613,12 +1613,12 @@
 > - This character is only seen in *Microbrachius*.
 
 104. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
-> Newly added by Yu?
+> Newly added by Yu
 
 > - State 0 is mainly present in asterolepids. Almost all the bothriolepids should be 1.
 
 105. Orbital facet of nuchal plate: narrow (0); broad (1).
-> Newly added by Yu?
+> Newly added by Zhu
 
 > - The index between the width of the orbital facet of the nuchal plate and the width of the potpineal plate smaller than 40 is considered as "narrow", while the index equal to or larger than 40 is considered as "broad".
 
