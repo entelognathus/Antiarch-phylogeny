@@ -166,8 +166,8 @@
 > - [Hemmings, 1978](https://www.tandfonline.com/doi/abs/10.1080/25761900.2022.12131737); [Long *et al*., 2015](https://d1wqtxts1xzle7.cloudfront.net/42328654/Copulation_in_antiarch_placoderms_and_th20160207-26192-1kzkgtg-libre.pdf?1454874008=&response-content-disposition=inline%3B+filename%3DCopulation_in_antiarch_placoderms_and_th.pdf&Expires=1711639177&Signature=RNU6UmYY0BW4KTtuCfYXr~Xi07q1qq0yVUzrZU7HfQHdUJvQsH7trxRxGSUJqtk5L0SvFogalDyqLeALzaPhMecTs51dHZ-WN00ByMMzrMJjKuR~KPIOpat-n8M8skZ-hqfAYJ6SXKiCVyoedqWEqGhi5EiPr2K~fdiOiWypfxUo0gpaXYJxy551sx-FeUgD~95m6VPZ6rkUURx1yXT4TdCd7HWZ14FZCNfHKCsSlctn93Bad986y7BLIM7qhQV2SHTBhJnpGNbaCZAgrKDbJEYBpOOgGuuX6iE9SRZgDvyKnqChTabZ2fGW2jsbzPdJ9BzUef1N5lBAsMsXFIQYCQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 > - Type species.
 
-[*Microbranhius chuandongensis*](https://deepbone.org/public/#/explor?s_id=3219&functionId=Deepbone_header_searchResultOpen) Wang and Zhang, 1999
-> Emsian, 407.6, 393.3 **Doubtful, the artical said it was fund with *Bothriolepis tungsieni* (Givetian), its the only early Devonian *Microbranhius***
+[*Microbrachius chuandongensis*](https://deepbone.org/public/#/explor?s_id=3219&functionId=Deepbone_header_searchResultOpen) Wang and Zhang, 1999
+> Emsian, 407.6, 393.3
 
 > - Chuandong Formation, Qujing, Yunnan
 > - [Wang and Zhang, 1999](https://www.vertpala.ac.cn/EN/abstract/abstract763.shtml)
