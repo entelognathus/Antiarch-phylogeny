@@ -355,13 +355,13 @@
 
 > - The coding of *Huizelepis* is 1.
 
-> - The coding of *Xichonolepis qujingensis* is 0.
+> - The coding of *Xichonolepis qujingensis* is 1.
 > - The coding of *Xichonolepis wudingensis* is ?.
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 
-> - Postpineal and nuchal plates have length greater than width was identified as "short and broad".
+> - Postpineal and nuchal plates have length greater than width was identified as "long and narrow".
 
 22. Pronounced postpineal thickening on the visceral view of postpineal plate: absent (0); present (1).
 > Young (1984, 1988), Character 38; Zhu (1996), Character 62; Jia *et al.* (2010), Character 13; Pan *et al.* (2018), Character 62; Wang and Zhu (2018), Character 22; Liu *et al*. (2023), Character 22; Plax and Lukševičs (2023), Character 22; Luo *et al*. (2025), Character 22.
