@@ -1566,7 +1566,7 @@
 > - Liu *et al.* (2023) didn't define the character, only stating that this feature is present in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis magniporus*. Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > -  The large obtected nuchal area is present in some bothriolepidoids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
-96. Composition of doral median spine: AMD plate (0); AMD and PMD plates (1).
+96. Median doral spine composed by AMD and PMD plates: absence (0), presence (1).
 > Newly added by Zhu.
 
 **the character list used in the Huizelepis manuscript**
