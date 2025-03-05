@@ -109,7 +109,7 @@
 
 > - This character is scored contingently on the state of the previous Character.
 
-> -  Premedian plate has length greater than width was identified as "short and broad".
+> -  Premedian plate has width greater than length was identified as "short and broad".
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is .
