@@ -1063,6 +1063,8 @@
 64. Posterior dorsolateral and posterior lateral plates: independent (0); fused to form (or replaced by) a single plate (1).
 > Young (1984, 1988), Character 20; Zhang and Young (1992), Character 8; Zhu (1996), Character 27; Jia *et al.* (2010), Character 41; Pan *et al.* (2018), Character 27; Wang and Zhu (2018), Character 64; Liu *et al*. (2023), Character 64; Plax and Lukševičs (2023), Character 64; Luo *et al*. (2025), Character 64.
 
+> - The codings of Jiangxilepids are 0, but the existence of either fused PVL or MxL plate in Jiangxilepididae should be reconsidered
+
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
