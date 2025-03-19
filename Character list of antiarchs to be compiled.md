@@ -1549,7 +1549,7 @@
 > - The coding of *Yangfanyu* is .
 > - The coding of *Luquanolepis-like* is .
 
-> - The coding of *Huizelepis* is .
+> - The coding of *Huizelepis* is 1.
 
 > - The coding of *Xichonolepis qujingensis* is ?.
 > - The coding of *Xichonolepis wudingensis* is ?.
@@ -1566,25 +1566,31 @@
 > - Liu *et al.* (2023) didn't define the character, only stating that this feature is present in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis magniporus*. Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > -  The large obtected nuchal area is present in some bothriolepidoids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
+> - The coding of *Huizelepis* is 1.
+
 96. Median doral spine composed by AMD and PMD plates: absence (0), presence (1).
 > Newly added by Zhu.
+> - The coding of *Huizelepis* is 0.
 
-**the character list used in the Huizelepis manuscript**
+**the character list used in the Xichonoelepis manuscript**
 
 97. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
 > Newly added by Yan, to distinguish two species of *Xichonolepis*.
 
 > - The coding of *Xichonolepis qujingensis* is 1.
 > - The coding of *Xichonolepis wudingensis* is 0.
+> - The coding of *Huizelepis* is 0.
 
 98. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 1).
 
 > - Present in *Sinolepis* and *Grenfellaspis*.
+> - The coding of *Huizelepis* is 0.
 
 99.	Dorsal and ventral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
 > - Newly added by Yan, to distinguish sinolepids plus euantiarchs from the other antiarchs.
 > - This character is relative to Character 88.
+> - The coding of *Huizelepis* is 1.
 
 100. Size of dorsal articular depression for the dermal process of pectoral appendage: short (0), long (1).
 > - Newly added by Yan, to distinguish sinolepids from euantiarchs.
@@ -1602,10 +1608,14 @@
 > - The flat trunk shield is present in sinolepids, **to be checked one by one.**
 > - Among the sinolepids, such as *Sinolepis macrocephala*, *Liujiangolepis suni*, *Dayaoshania youngi* and *Grenfellaspis branagani* with trunk shield preserved, all show very low trunk shield.
 
-**the character list used in the Xichonoelepis manuscript**
+**the character list used in later manuscript**
 
 103. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
 > Newly added by Yu.
+
+ 104. Anterior transverse crista: single (0); bifurcus (1).
+> Newly added by Luo.
+> - The coding of *Huizelepis* is 1.
 
 > - **check its relation to Character 23. How to distinguish them?**
 > - These two structures are fused in *Microbrachius*, but seperate in all other antiarchs. Character 23 only distinguishes whether postorbital crista extends to postpineal plate or nuchal plate, ignoring the fusion situation.
