@@ -1637,6 +1637,9 @@
 
 > - State 0 is only present in yunnanolepids and asterolepids. Most of the antiarchs, especially sinolepids and bothriolepids should be 1. State 2 is only present in *Hunanolepis* and *Luquanolepis*.
 
+107. Strongly developed postlevator thickening in AMD plate: absence (0), presence (1).
+> Newly added by Luo.
+> - The coding of *Tongdulepis* and *Huizelepis* is 1.
 
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
