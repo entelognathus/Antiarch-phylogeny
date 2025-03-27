@@ -1641,6 +1641,10 @@
 > Newly added by Luo.
 > - The coding of *Tongdulepis* and *Huizelepis* is 1.
 
+108. Size of the supraotic thickening: small (0), large (1).
+> Newly added by Luo.
+> - The coding of *Tongdulepis* and *Huizelepis* is 0.
+
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
