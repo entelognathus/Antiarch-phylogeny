@@ -1645,6 +1645,10 @@
 > Newly added by Luo.
 > - The coding of *Tongdulepis* and *Huizelepis* is 0.
 
+109. The insertion for abductor muscles between the articular fossa and prepectoral corner: absent (0), single (1), paired and separated by pars pedalis (2).
+> Newly added by Yu.
+> - The codings of *Tongdulepis* is 0. The codings of *Songmingolepis* and taxon 2 in Songming are 1. The codings of most euantiarchs should be 2. The Character is inapplicable in yunnanolepids and sinolepids.
+
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
