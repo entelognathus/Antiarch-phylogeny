@@ -17,7 +17,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
-> - The coding of *Chahuaqingolepis magniporus* is .
+> - The coding of taxon 2 from Songming is 0.
 
 2. Adult ornamentation: non-ridged (0); ridged (1).
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 47, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 2; Liu *et al*. (2023), Character 2; Plax and Lukševičs (2023), Character 2; Luo *et al*. (2025), Character 2.
@@ -34,6 +34,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 3. Ridges on dorsal wall of trunk shield: converging (0); subparallel (1).
 > Zhang and Young (1992), Character 9; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 48, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 3; Liu *et al*. (2023), Character 3; Plax and Lukševičs (2023), Character 3; Luo *et al*. (2025), Character 3.
@@ -52,6 +53,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is -.
 > - The coding of *Chahuaqingolepis magniporus* is -.
+> - The coding of taxon 2 from Songming is -.
 
 4. Dorsal spongy layer in dermal bone of trunk shield: absent (0); present (1).
 > Young (1984, 1988), Character 34; Zhu (1996), Character 36; Pan *et al.* (2018), Character 36; Wang and Zhu (2018), Character 4; Liu *et al*. (2023), Character 4; Plax and Lukševičs (2023), Character 4; Luo *et al*. (2025), Character 4.
@@ -68,6 +70,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
+> - The coding of taxon 2 from Songming is 0.
 
 5. Ridged scales: absent (0); present (1).
 > Zhu (1996), Character 35; Pan *et al.* (2018), Character 35; Wang and Zhu (2018), Character 5; Liu *et al*. (2023), Character 5; Plax and Lukševičs (2023), Character 5; Luo *et al*. (2025), Character 5.
@@ -84,6 +87,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
+> - The coding of taxon 2 from Songming is ?.
 
 ## Head shield and neurocranium
 6. Premedian plate: absent (0); present (1).
@@ -103,6 +107,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 7. Premedian plate: short and broad (0); long and narrow (1).
 > Zhu (1996), Character 51; Jia *et al.* (2010), Character 1; Pan *et al.* (2018), Character 51; Wang and Zhu (2018), Character 7; Liu *et al*. (2023), Character 7; Plax and Lukševičs (2023), Character 7; Luo *et al*. (2025), Character 7.
@@ -123,6 +128,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 8. Anterior margin of premedian plate: convex (0); slightly concave (1).
 > Zhu (1996), Character 52; Jia *et al.* (2010), Character 2; Pan *et al.* (2018), Character 52; Wang and Zhu (2018), Character 8; Liu *et al*. (2023), Character 8; Plax and Lukševičs (2023), Character 8; Luo *et al*. (2025), Character 8.
@@ -141,6 +147,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 9. Unornamented shelf and rostrocaudal groove on premedian plate: absent (0); present (1).
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), Character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
@@ -157,6 +164,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 10. Rostral width/orbital width index of premedian plate: smaller than 200 (0); larger than 200 (1).
 > Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Liu *et al*. (2023), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10, in part. 
@@ -173,6 +181,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is ?.
 
 11. Lateral plate: absent (0); present (1).
 > Young (1984, 1988), Character 3; Zhu (1996), Character 43; Pan *et al.* (2018), Character 43; Wang and Zhu (2018), Character 11; Liu *et al*. (2023), Character 11; Plax and Lukševičs (2023), Character 11; Luo *et al*. (2025), Character 11.
@@ -192,6 +201,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 12. Lateral plate: narrow (0); broad (1).
 > Zhu (1996), Character 50; Jia *et al.* (2010), Character 5; Pan *et al.* (2018), Character 50; Wang and Zhu (2018), Character 12; Liu *et al*. (2023), Character 12; Plax and Lukševičs (2023), Character 12; Luo *et al*. (2025), Character 12.
@@ -209,6 +219,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 13. Preorbital depression: absent (0); present (1).
 > Zhang and Young (1992), Character 11; Zhu (1996), Character 45; Jia *et al.* (2010), Character 6; Pan *et al.* (2018), Character 45; Wang and Zhu (2018), Character 13; Liu *et al*. (2023), Character 13; Plax and Lukševičs (2023), Character 13; Luo *et al*. (2025), Character 13.
@@ -225,6 +236,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 14. Preorbital depression: extending laterally onto lateral plates (0); restricted to premedian plate (1).
 > Zhu (1996), Character 46; Jia *et al.* (2010), Character 7; Pan *et al.* (2018), Character 46; Wang and Zhu (2018), Character 14; Liu *et al*. (2023), Character 14; Plax and Lukševičs (2023), Character 14; Luo *et al*. (2025), Character 14.
@@ -243,6 +255,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is -.
 > - The coding of *Chahuaqingolepis magniporus* is -.
+> - The coding of taxon 2 from Songming is -.
 
 15. Preorbital recess: absent (0); present (1);
 > Young (1984, 1988), Character 25; Zhang and Young (1992), Character 11; Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 15; Liu *et al*. (2023), Character 15; Plax and Lukševičs (2023), Character 15; Luo *et al*. (2025), Character 15.
@@ -259,6 +272,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 16. Preorbital recess: restricted to premedian plate (0); extending laterally to the lateral plates (1).
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Liu *et al*. (2023), Character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
@@ -276,6 +290,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 17. Orbital opening: open (0); enclosed by skull roof plates (1).
 > Zhu (1996), Character 48; Pan *et al.* (2018), Character 48; Wang and Zhu (2018), Character 17; Liu *et al*. (2023), Character 17; Plax and Lukševičs (2023), Character 17; Luo *et al*. (2025), Character 17.
@@ -292,6 +307,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 18. Orbital fenestra: large (0); small (1).
 > Zhu (1996), Character 55; Jia *et al.* (2010), Character 10; Pan *et al.* (2018), Character 55; Wang and Zhu (2018), Character 18; Liu *et al*. (2023), Character 18; Plax and Lukševičs (2023), Character 18; Luo *et al*. (2025), Character 18.
@@ -310,6 +326,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 19. Relative position of orbital fenestra : anterior (0); slightly anterior (1); slightly posterior (2); posterior (3). (ordered)
  > Zhu (1996), Character 56; Jia *et al.* (2010), Character 11; Pan *et al.* (2018), Character 56; Wang and Zhu (2018), Character 19; Liu *et al*. (2023), Character 19; Plax and Lukševičs (2023), Character 19; Luo *et al*. (2025), Character 19.
@@ -328,6 +345,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 2.
 > - The coding of *Chahuaqingolepis magniporus* is 2.
+> - The coding of taxon 2 from Songming is 0.
 
 20. Nasal opening: at anterolateral corners of rostral plate (0); at anterior margin of rostral plate (1).
 > Young (1984, 1988), Character 35; Zhu (1996), Character 49; Jia *et al.* (2010), Character 9; Pan *et al.* (2018), Character 49; Wang and Zhu (2018), Character 20; Liu *et al*. (2023), Character 20; Plax and Lukševičs (2023), Character 20; Luo *et al*. (2025), Character 20.
@@ -344,6 +362,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
+> - The coding of taxon 2 from Songming is ?.
 
 21. Postpineal and nuchal plates: long and narrow (0); short and broad (1).
 > Zhu (1996), Character 57; Jia *et al.* (2010), Character 12; Pan *et al.* (2018), Character 57; Wang and Zhu (2018), Character 21; Liu *et al*. (2023), Character 21; Plax and Lukševičs (2023), Character 21; Luo *et al*. (2025), Character 21.
@@ -360,6 +379,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 > - Postpineal and nuchal plates have length greater than width was identified as "long and narrow".
 
@@ -380,6 +400,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 23. Position of postorbital crista: extending medially to postpineal plate (0); extending obliquely to nuchal plate (1).
 > Wang and Zhu (2018), Character 23; Liu *et al*. (2023), Character 23; Plax and Lukševičs (2023), Character 23; Luo *et al*. (2025), Character 23.
@@ -396,6 +417,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 0.
 
 24. Nuchal plate: without orbital facets (0); with orbital facets (1).
 > Young (1984, 1988), Character 26; Zhang and Young (1992), Character 16; Zhu (1996), Character 58; Jia *et al.* (2010), Character 14; Pan *et al.* (2018), Character 58; Wang and Zhu (2018), Character 24; Liu *et al*. (2023), Character 24; Plax and Lukševičs (2023), Character 24; Luo *et al*. (2025), Character 24.
@@ -414,6 +436,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is ?.
 
 25. Supraotic thickening on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Liu *et al*. (2023), Character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
@@ -430,6 +453,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 26. Median occipital crista on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 26; Liu *et al*. (2023), Character 26; Plax and Lukševičs (2023), Character 26; Luo *et al*. (2025), Character 26.
@@ -448,6 +472,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 0.
 
 27. Posterior process of head shield: absent (0); present (1).
 > Wang and Zhu (2018), Character 27; Liu *et al*. (2023), Character 27; Plax and Lukševičs (2023), Character 27; Luo *et al*. (2025), Character 27.
@@ -464,6 +489,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 0.
 
 28. Obstantic margin of skull roof: long (0); short (1).
 > Young (1984, 1988), Character 28; Zhu (1996), Character 59; Jia *et al.* (2010), Character 15; Pan *et al.* (2018), Character 59; Wang and Zhu (2018), Character 28; Liu *et al*. (2023), Character 28; Plax and Lukševičs (2023), Character 28; Luo *et al*. (2025), Character 28.
@@ -482,6 +508,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 1.
 
 29. Central sensory canal: absent (0); present (1).
 > Young (1984, 1988), Character 24; Zhang and Young (1992), Character 6; Zhu (1996), Character 37; Jia *et al.* (2010), Character 20; Pan *et al.* (2018), Character 37; Wang and Zhu (2018), Character 29; Liu *et al*. (2023), Character 29; Plax and Lukševičs (2023), Character 29; Luo *et al*. (2025), Character 29.
@@ -500,6 +527,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 1.
 
 30. Supraorbital canal: absent (0); present (1).
 > Zhu (1996), Character 38; Pan *et al.* (2018), Character 38; Wang and Zhu (2018), Character 30; Liu *et al*. (2023), Character 30; Plax and Lukševičs (2023), Character 30; Luo *et al*. (2025), Character 30.
@@ -518,6 +546,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
+> - The coding of taxon 2 from Songming is 0.
 
 31. X-shaped pit-line grooves: absent (0); present (1).
 > Zhu (1996), Character 39; Jia *et al.* (2010), Character 21; Pan *et al.* (2018), Character 39; Wang and Zhu (2018), Character 31; Liu *et al*. (2023), Character 31; Plax and Lukševičs (2023), Character 31; Luo *et al*. (2025), Character 31.
@@ -534,6 +563,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
+> - The coding of taxon 2 from Songming is 0.
 
 32. Branch of infraorbital canal diverging on lateral plate: absent (0); present (1).
 > Zhu (1996), Character 40; Jia *et al.* (2010), Character 22; Pan *et al.* (2018), Character 40; Wang and Zhu (2018), Character 32; Liu *et al*. (2023), Character 32; Plax and Lukševičs (2023), Character 32; Luo *et al*. (2025), Character 32.
