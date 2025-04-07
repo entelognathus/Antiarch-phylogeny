@@ -1653,6 +1653,18 @@
 > Newly added by Yu
 > - This sensory canal is postioned on the premedian plate, contacting to the infraorbital sensory canals on both sides, differs from the supraorbital sensory canals on the postpineal plate. This sensory canal is sometimes absent like that in *Dianolepis*.
 
+111. Posterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
+> Newly added by Yu.
+> - This sensory is seen in many euantiarchs, such as *Tubalepis*, *Grossilapis*, *Bothriolepis* and so on.
+
+112. Anterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
+> Newly added by Yu.
+> - In some euantiarchs like *Microbrachius* and *Jiangxilepis*, the oblique dorsal sensory canals are paired.
+
+113. Posterior oblique dorsal sensory canal on the trunk shield: short (0), long (1).
+> Newly added by Yu.
+> - We define the Posterior oblique dorsal sensory canal restricted to the anterior median dorsal palte as a short one, while the sensory canal extending to other plates is considered as a long one.
+
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
