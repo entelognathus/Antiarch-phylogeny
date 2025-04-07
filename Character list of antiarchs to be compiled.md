@@ -1649,6 +1649,10 @@
 > Newly added by Yu.
 > - The codings of *Tongdulepis* is 0. The codings of *Songmingolepis* and taxon 2 in Songming are 1. The codings of most euantiarchs should be 2. The Character is inapplicable in yunnanolepids and sinolepids.
 
+110. Supraorbital sensory canal on the pemedian plate: absent (0), present (1).
+> Newly added by Yu
+> - This sensory canal is postioned on the premedian plate, contacting to the infraorbital sensory canals on both sides, differs from the supraorbital sensory canals on the postpineal plate. This sensory canal is sometimes absent like that in *Dianolepis*.
+
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
