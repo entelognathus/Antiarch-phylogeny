@@ -703,7 +703,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
-> - The coding of taxon 2 from Songming is 1.
+> - The coding of taxon 2 from Songming is 0.
 
 40. Endolymphatic duct through head shield: long tube (0); short tube (1).
 > Wang and Zhu (2018), Character 40; Liu *et al*. (2023), Character 40; Plax and Lukševičs (2023), Character 40; Luo *et al*. (2025), Character 40.
@@ -737,7 +737,7 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
-> - The coding of taxon 2 from Songming is 1.
+> - The coding of taxon 2 from Songming is 0.
 
 42. Submarginal articulation: absent (0); present (1).
 > Zhang and Young (1992), Character 13; Zhu (1996), Character 60; Jia *et al.* (2010), Character 16; Pan *et al.* (2018), Character 60; Wang and Zhu (2018), Character 42; Liu *et al*. (2023), Character 42; Plax and Lukševičs (2023), Character 42; Luo *et al*. (2025), Character 42.
