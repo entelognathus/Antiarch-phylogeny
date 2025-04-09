@@ -1781,15 +1781,7 @@
 > Newly added by Luo.
 > - The coding of *Tongdulepis* and *Huizelepis* is 0.
 
-109. The insertion for abductor muscles between the articular fossa and prepectoral corner: absent (0), single (1), paired and separated by pars pedalis (2).
-> Newly added by Yu.
-> - The codings of *Tongdulepis* is 0. The codings of *Songmingolepis* and taxon 2 in Songming are 1. The codings of most euantiarchs should be 2. The Character is inapplicable in yunnanolepids and sinolepids.
-
-> - The coding of *Songmingolepis conspicilatus* is 1.
-> - The coding of *Chahuaqingolepis magniporus* is ?.
-> - The coding of taxon 2 from Songming is 1.
-
-110. Supraorbital sensory canal on the pemedian plate: absent (0), present (1).
+109. Supraorbital sensory canal on the pemedian plate: absent (0), present (1).
 > Newly added by Yu
 > - This sensory canal is postioned on the premedian plate, contacting to the infraorbital sensory canals on both sides, differs from the supraorbital sensory canals on the postpineal plate. This sensory canal is sometimes absent like that in *Dianolepis*.
 
@@ -1797,7 +1789,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 > - The coding of taxon 2 from Songming is 0.
 
-111. Posterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
+110. Posterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
 > Newly added by Yu.
 > - This sensory is seen in many euantiarchs, such as *Tubalepis*, *Grossilapis*, *Bothriolepis* and so on.
 
@@ -1805,21 +1797,13 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is ?.
 
-112. Anterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
+111. Anterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
 > Newly added by Yu.
 > - In some euantiarchs like *Microbrachius* and *Jiangxilepis*, the oblique dorsal sensory canals are paired.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
-
-113. Posterior oblique dorsal sensory canal on the trunk shield: short (0), long (1).
-> Newly added by Yu.
-> - We define the Posterior oblique dorsal sensory canal restricted to the anterior median dorsal palte as a short one, while the sensory canal extending to other plates is considered as a long one.
-
-> - The coding of *Songmingolepis conspicilatus* is 1.
-> - The coding of *Chahuaqingolepis magniporus* is ?.
-> - The coding of taxon 2 from Songming is ?.
 
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
