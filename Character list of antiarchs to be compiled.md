@@ -1773,10 +1773,6 @@
 
 > - The coding of *Tongdulepis* and *Huizelepis* is 1.
 
-> - The coding of *Songmingolepis conspicilatus* is 0.
-> - The coding of *Chahuaqingolepis magniporus* is ?.
-> - The coding of taxon 2 from Songming is 0.
-
 108. Size of the supraotic thickening: small (0), large (1).
 > Newly added by Luo.
 > - The coding of *Tongdulepis* and *Huizelepis* is 0.
@@ -1795,11 +1791,11 @@
 
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
-> - The coding of taxon 2 from Songming is ?.
+> - The coding of taxon 2 from Songming is 0.
 
 111. Anterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
 > Newly added by Yu.
-> - In some euantiarchs like *Microbrachius* and *Jiangxilepis*, the oblique dorsal sensory canals are paired.
+> - In some euantiarchs like *Microbrachius* and *Jiangxilepis*, the oblique dorsal sensory canals are paired. In *Mornarolepis*, *Byssacanthus* and the taxon 2 from Songming, only the Posterior oblique dorsal sensory canal presents on the trunk shield.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
