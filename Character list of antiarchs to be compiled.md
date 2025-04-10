@@ -1745,7 +1745,7 @@
 
 > - This character is only seen in *Microbrachius*.
 
-104. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
+105. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
 > Newly added by Yu
 
 > - State 0 is mainly present in asterolepids. Almost all the bothriolepids should be 1.
@@ -1753,11 +1753,6 @@
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0.
-
-105. Orbital facet of nuchal plate: narrow (0); broad (1).
-> Newly added by Zhu
-
-> - The index between the width of the orbital facet of the nuchal plate and the width of the potpineal plate smaller than 40 is considered as "narrow", while the index equal to or larger than 40 is considered as "broad".
 
 106. The length (r3) index between the anterior and posterior median dorsal plates: r3=>200 (0); 100=<r3<200 (1); r3<100 (2).
 > Newly added by Yu
