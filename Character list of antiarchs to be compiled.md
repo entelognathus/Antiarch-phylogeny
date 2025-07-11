@@ -48,7 +48,7 @@
 
 > - The coding of *Huizelepis* is -.
 
-> - The coding of *Xichonolepis qujingensis* is -. **Xiao Yan, This character was previously coded what?** My mistake. This is not applicable.
+> - The coding of *Xichonolepis qujingensis* is -.
 > - The coding of *Xichonolepis wudingensis* is -.
 
 > - The coding of *Songmingolepis conspicilatus* is -.
