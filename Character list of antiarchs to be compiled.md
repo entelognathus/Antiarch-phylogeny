@@ -43,7 +43,7 @@
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is -.
 > - The coding of *Luquanolepis* is -.
 
 > - The coding of *Huizelepis* is -.
@@ -153,7 +153,7 @@
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), Character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -225,7 +225,7 @@
 > Zhang and Young (1992), Character 11; Zhu (1996), Character 45; Jia *et al.* (2010), Character 6; Pan *et al.* (2018), Character 45; Wang and Zhu (2018), Character 13; Liu *et al*. (2023), Character 13; Plax and Lukševičs (2023), Character 13; Luo *et al*. (2025), Character 13.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -241,10 +241,9 @@
 14. Preorbital depression: extending laterally onto lateral plates (0); restricted to premedian plate (1).
 > Zhu (1996), Character 46; Jia *et al.* (2010), Character 7; Pan *et al.* (2018), Character 46; Wang and Zhu (2018), Character 14; Liu *et al*. (2023), Character 14; Plax and Lukševičs (2023), Character 14; Luo *et al*. (2025), Character 14.
 
-
 > - This character is scored contingently on the state of the previous Character.
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is -.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -261,7 +260,7 @@
 > Young (1984, 1988), Character 25; Zhang and Young (1992), Character 11; Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 15; Liu *et al*. (2023), Character 15; Plax and Lukševičs (2023), Character 15; Luo *et al*. (2025), Character 15.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0.
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -279,7 +278,7 @@
 
 > - This character is scored contingently on the state of the previous Character.
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is -.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -386,7 +385,7 @@
 22. Pronounced postpineal thickening on the visceral view of postpineal plate: absent (0); present (1).
 > Young (1984, 1988), Character 38; Zhu (1996), Character 62; Jia *et al.* (2010), Character 13; Pan *et al.* (2018), Character 62; Wang and Zhu (2018), Character 22; Liu *et al*. (2023), Character 22; Plax and Lukševičs (2023), Character 22; Luo *et al*. (2025), Character 22.
 
-> - The term ‘postpineal thickening’ used in phylogenetic analysis was named after Young (1983). This term refers to the thickening on the anterior margin of the postorbital crista in the visceral surface of postpineal plate.
+> - The term ‘postpineal thickening’ used in phylogenetic analysis was named after Young (1983). This term refers to the thickening along the anterior margin of the postorbital crista on the visceral surface of the postpineal plate.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -425,7 +424,7 @@
 > - Character 145 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0.
+> - The coding of *Yangfanyu* is 0. To be checked.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
