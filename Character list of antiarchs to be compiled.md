@@ -1593,7 +1593,7 @@
 > Ritchie *et al.* (1992), Character 11; Luo *et al*. (2025), Character 91.
 
 > - Ritchie *et al.* (1992) regarded it as a synapomorphy of sinolepids and euantiarchs.
-> - **Some euantiarchs like *Bothriolepis macphersoni* possess rostralcaudal openings above and below the pars pedalis, should this situation be coded as 0?**
+> - **Some euantiarchs like *Bothriolepis macphersoni* possess rostrocaudal openings above and below the pars pedalis, should this situation be coded as 0?**
 
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
@@ -1666,17 +1666,15 @@
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 > - The coding of taxon 2 from Songming is 0.
 
-96. Median doral spine constitution: by AMD plate (0); by AMD and PMD plates (1).
-> Newly added by Zhu.
-> Modified by xian. This character is scored contingently on the state of Character 52 (present (1))
-> - The coding of *Huizelepis* is 0.
+96. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
+> This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility). 
+> - The coding of *Huizelepis* is 0. **check**
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is 0.
  
-> - The coding of *Songmingolepis conspicilatus* is 0.
+> - The coding of *Songmingolepis conspicilatus* is 0. **check**
 > - The coding of *Chahuaqingolepis magniporus* is ?.
-> - The coding of taxon 2 from Songming is 0.
-
+> - The coding of taxon 2 from Songming is 0. **check**
 
 97. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
 > Newly added by Yan, to distinguish two species of *Xichonolepis*.
@@ -1685,7 +1683,7 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 > - The coding of *Huizelepis* is 0.
 
-98. Lateral position of infraorbital canal on the lateral and paranuchal plates, formaing narrow lateral divisions: absent (0); present (1).
+98. Lateral position of infraorbital canal on the lateral and paranuchal plates, forming narrow lateral divisions: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 1).
 
 > - Present in *Sinolepis* and *Grenfellaspis*.
