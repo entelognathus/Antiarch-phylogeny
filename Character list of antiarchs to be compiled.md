@@ -1,4 +1,4 @@
-# Character list of Antiarches
+# Character list of Antiarchs
 > All characters except Characters 19, 49, and 50 are unordered. 
 
 ## Ornamentation, histology and scales
