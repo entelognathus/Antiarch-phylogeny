@@ -7,7 +7,7 @@
 
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is 0.
 > - The coding of *Luquanolepis* is 0.
 
 > - The coding of *Huizelepis* is 0.
@@ -24,7 +24,7 @@
 
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
-> - The coding of *Luquanolepis-like* is .
+> - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is 0.
 
 > - The coding of *Huizelepis* is 0.
@@ -43,7 +43,7 @@
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
-> - The coding of *Luquanolepis-like* is -.
+> - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is -.
 
 > - The coding of *Huizelepis* is -.
@@ -97,7 +97,7 @@
 
 > - The coding of *Zhujielepis* is 1.
 > - The coding of *Yangfanyu* is 1.
-> - The coding of *Luquanolepis-like* is ?.
+> - The coding of *Luquanolepis-like* is ?. See whether there is a skull
 > - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
