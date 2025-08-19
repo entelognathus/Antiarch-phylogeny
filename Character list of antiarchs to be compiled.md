@@ -153,7 +153,7 @@
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), Character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is ?.
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -170,7 +170,7 @@
 > Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Liu *et al*. (2023), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10, in part. 
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is 1. need check again
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -208,7 +208,7 @@
 
 > - This character is scored contingently on the state of the previous Character.
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is 1. need check again
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -278,7 +278,7 @@
 
 > - This character is scored contingently on the state of the previous Character.
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is ?.
+> - The coding of *Yangfanyu* is 1. need check again
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -405,7 +405,7 @@
 > Wang and Zhu (2018), Character 23; Liu *et al*. (2023), Character 23; Plax and Lukševičs (2023), Character 23; Luo *et al*. (2025), Character 23.
  
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is 1. need check the mimics
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -424,7 +424,7 @@
 > - Character 145 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0. To be checked.
+> - The coding of *Yangfanyu* is 0. To be checked
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -439,6 +439,7 @@
 
 25. Supraotic thickening on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Liu *et al*. (2023), Character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
+
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -551,7 +552,7 @@
 > Zhu (1996), Character 39; Jia *et al.* (2010), Character 21; Pan *et al.* (2018), Character 39; Wang and Zhu (2018), Character 31; Liu *et al*. (2023), Character 31; Plax and Lukševičs (2023), Character 31; Luo *et al*. (2025), Character 31.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0.
+> - The coding of *Yangfanyu* is 1.To be checked
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -568,7 +569,7 @@
 > Zhu (1996), Character 40; Jia *et al.* (2010), Character 22; Pan *et al.* (2018), Character 40; Wang and Zhu (2018), Character 32; Liu *et al*. (2023), Character 32; Plax and Lukševičs (2023), Character 32; Luo *et al*. (2025), Character 32.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is 1. To be checked
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -1815,3 +1816,4 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
