@@ -350,7 +350,7 @@
 > Young (1984, 1988), Character 35; Zhu (1996), Character 49; Jia *et al.* (2010), Character 9; Pan *et al.* (2018), Character 49; Wang and Zhu (2018), Character 20; Liu *et al*. (2023), Character 20; Plax and Lukševičs (2023), Character 20; Luo *et al*. (2025), Character 20.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0. need check the mimics
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -405,7 +405,7 @@
 > Wang and Zhu (2018), Character 23; Liu *et al*. (2023), Character 23; Plax and Lukševičs (2023), Character 23; Luo *et al*. (2025), Character 23.
  
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1. check
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -516,7 +516,7 @@
 > - Character 170 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0. check
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -692,7 +692,7 @@
 > Wang and Zhu (2018), Character 39; Liu *et al*. (2023), Character 39; Plax and Lukševičs (2023), Character 39; Luo *et al*. (2025), Character 39.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1. check
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -881,7 +881,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-50. Length index r2 between anterior and posterior divisions of anterior median dorsal plate : r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
+50. Length index r2 between anterior and posterior divisions of anterior median dorsal plate: r2 < 300 (0); 300 ≤ r2 ≤ 500 (1); r2 > 500 (2). (ordered)
 > Zhu (1996), Character 13; Pan *et al.* (2018), Character 13; Wang and Zhu (2018), Character 50; Liu *et al*. (2023), Character 50; Plax and Lukševičs (2023), Character 50; Luo *et al*. (2025), Character 50.
 
 > - Ritchie *et al.* (1992, Character 3): "short posterolateral margin of anterior median dorsal plate : absent (0); present (1). Present in *Sinolepis* and *Grenfellaspis*."  Character 3 of Ritchie *et al.* (1992) is a subset of Character 50 here.
@@ -905,7 +905,7 @@
 > - This tergal angle roughly corresponds to the anterior ventral pit and process in position. 
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -940,7 +940,7 @@
 > Zhu (1996), Character 15; Jia *et al.* (2010), Character 35; Pan *et al.* (2018), Character 15; Wang and Zhu (2018), Character 53; Liu *et al*. (2023), Character 53; Plax and Lukševičs (2023), Character 53; Luo *et al*. (2025), Character 53.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -956,7 +956,7 @@
 > Young (1984, 1988), Character 17; Zhu (1996), Character 16; Jia *et al.* (2010), Character 36; Pan *et al.* (2018), Character 16; Wang and Zhu (2018), Character 54; Liu *et al*. (2023), Character 54; Plax and Lukševičs (2023), Character 54; Luo *et al*. (2025), Character 54.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -972,7 +972,7 @@
 > Young (1984, 1988), Character 21; Zhang and Young (1992), Character 4; Zhu (1996), Character 17; Jia *et al.* (2010), Character 37; Pan *et al.* (2018), Character 17; Wang and Zhu (2018), Character 55; Liu *et al*. (2023), Character 55; Plax and Lukševičs (2023), Character 55; Luo *et al*. (2025), Character 55.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -988,7 +988,7 @@
 > Young (1984, 1988), Character 31; Zhu (1996), Character 18; Jia *et al.* (2010), Character 38; Pan *et al.* (2018), Character 18; Wang and Zhu (2018), Character 56; Liu *et al*. (2023), Character 56; Plax and Lukševičs (2023), Character 56; Luo *et al*. (2025), Character 56.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.check
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1006,7 +1006,7 @@
 > - Ritchie *et al.* (1992, Character 4): "square shape of PMD, with reduced lateral processes", present in *Sinolepis* and *Grenfellaspis*.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.check
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1820,6 +1820,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
