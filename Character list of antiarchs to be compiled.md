@@ -869,7 +869,7 @@
 > - The anterior median dorsal plate of antiarchs is homologous to the median dorsal plate 1 in *Qilinyu* Zhu *et al.* (2016) and the extrascapular plate in *Entelognathus* Zhu *et al.*( 2013), and some arthrodires Goujet (1973). It is absent in *Kujdanowaspis*.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -988,7 +988,7 @@
 > Young (1984, 1988), Character 31; Zhu (1996), Character 18; Jia *et al.* (2010), Character 38; Pan *et al.* (2018), Character 18; Wang and Zhu (2018), Character 56; Liu *et al*. (2023), Character 56; Plax and Lukševičs (2023), Character 56; Luo *et al*. (2025), Character 56.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is 0.check
+> - The coding of *Yangfanyu* is 1.check
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1006,7 +1006,7 @@
 > - Ritchie *et al.* (1992, Character 4): "square shape of PMD, with reduced lateral processes", present in *Sinolepis* and *Grenfellaspis*.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is 0.check
+> - The coding of *Yangfanyu* is 1.check
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1024,7 +1024,7 @@
 >- Posterior interior transverse crista was also termed as *crista transversalis interna posterior*.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1042,7 +1042,7 @@
 >- To identify the position of *crista transversalis interna posterior* on antiarchs that have posteriorly migrated posterior ventral process.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1060,7 +1060,7 @@
 >- To identify the position of *crista transversalis interna posterior* on antiarchs have centered posterior ventral process (e.g., *Yunnanolepis*, *Phymolepis* and *Mizia*, Zhu, 1996).
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is -.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1126,7 +1126,7 @@
 > Young (1984, 1988), Character 20; Zhang and Young (1992), Character 8; Zhu (1996), Character 27; Jia *et al.* (2010), Character 41; Pan *et al.* (2018), Character 27; Wang and Zhu (2018), Character 64; Liu *et al*. (2023), Character 64; Plax and Lukševičs (2023), Character 64; Luo *et al*. (2025), Character 64.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1142,7 +1142,7 @@
 > Young (1984, 1988), Character 13; Zhang and Young (1992), Character 7; Zhu (1996), Character 28; Jia *et al.* (2010), Character 42; Pan *et al.* (2018), Character 28; Wang and Zhu (2018), Character 65; Liu *et al*. (2023), Character 65; Plax and Lukševičs (2023), Character 65; Luo *et al*. (2025), Character 65.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1160,7 +1160,7 @@
 > - Character 573 in 'early gnathostome phylogeny dataset'.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1176,7 +1176,7 @@
 > Young (1984, 1988), Character 15; Ritchie *et al.* (1992), Character 5; Zhu (1996), Character 30; Jia *et al.* (2010), Character 45; Pan *et al.* (2018), Character 30; Wang and Zhu (2018), Character 67; Liu *et al*. (2023), Character 67; Plax and Lukševičs (2023), Character 67; Luo *et al*. (2025), Character 67.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1302,7 +1302,7 @@
 >- We followed Young (1988) and identified the axillary foramen larger than 30% of the lateral lamina of AVL as large axillary foramen. Young regarded the large axillary foramen is a synapomorphy of Bothriolepididae, which may be doubtful. More researchers suggested it reflects a strong muscle and improved movement capacity of fin, and is apomorphic whatever its function.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?. check mimics
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1337,7 +1337,7 @@
 > Zhang and Young (1992), Character 18; Zhu (1996), Character 6; Jia *et al.* (2010), Character 28; Pan *et al.* (2018), Character 6; Wang and Zhu (2018), Character 76; Liu *et al*. (2023), Character 76; Plax and Lukševičs (2023), Character 76; Luo *et al*. (2025), Character 76.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1353,7 +1353,7 @@
 > Zhang and Young (1992), Character 12; Zhu (1996), Character 7; Jia *et al.* (2010), Character 26; Pan *et al.* (2018), Character 7; Wang and Zhu (2018), Character 77; Liu *et al*. (2023), Character 77; Plax and Lukševičs (2023), Character 77; Luo *et al*. (2025), Character 77.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is 1.check
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1820,6 +1820,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
