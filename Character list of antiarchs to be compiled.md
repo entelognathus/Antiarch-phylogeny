@@ -1337,7 +1337,7 @@
 > Zhang and Young (1992), Character 18; Zhu (1996), Character 6; Jia *et al.* (2010), Character 28; Pan *et al.* (2018), Character 6; Wang and Zhu (2018), Character 76; Liu *et al*. (2023), Character 76; Plax and Lukševičs (2023), Character 76; Luo *et al*. (2025), Character 76.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is ?.
+> - The coding of *Yangfanyu* is ?. check
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1369,7 +1369,7 @@
 > Zhu (1996), Character 8; Jia *et al.* (2010), Character 29; Pan *et al.* (2018), Character 8; Wang and Zhu (2018), Character 78; Liu *et al*. (2023), Character 78; Plax and Lukševičs (2023), Character 78; Luo *et al*. (2025), Character 78.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?. The position of MV plate is not sure.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1385,7 +1385,7 @@
 > Zhu (1996), Character 9; Jia *et al.* (2010), Character 30; Pan *et al.* (2018), Character 9; Wang and Zhu (2018), Character 79; Liu *et al*. (2023), Character 79; Plax and Lukševičs (2023), Character 79; Luo *et al*. (2025), Character 79.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?. 
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1401,7 +1401,7 @@
 > Plax and Lukševičs (2023), Character 80; Luo *et al*. (2025), Character 80.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -1473,7 +1473,7 @@
 > Luo *et al*. (2025), Character 84.     
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -1489,7 +1489,7 @@
 > Luo *et al*. (2025), Character 85.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1505,7 +1505,7 @@
 > Luo *et al*. (2025), Character 86.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1523,7 +1523,7 @@
 >- Set to identify non-Sinolepididae antiarchs without median ventral plate, like *Asperaspis* (Moloshnikov, 2012) and *Tubalepis* (Moloshnikov, 2011; Panteleyev and Moloshnikov, 2003).
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is .check more specimens
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1616,7 +1616,7 @@
 > - This character is scored contingently on the state of Character 10 (smaller than 200). Those taxa with the index larger than 200 are scored "logically impossibility". We can also combined This character with Character 20 in an 'ordered' character.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -1661,6 +1661,10 @@
 > - Liu *et al.* (2023) didn't define the character, only stating that this feature is present in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis magniporus*. Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
 > -  The large obtected nuchal area is present in some bothriolepidoids like *Microbrachius dicki*, *Dianolepis liui*, *Wufengshania magniforaminis*, *Chahuaqingolepis magniporus* and *Grossilepis rikiki*.
 
+> - The coding of *Zhujielepis* is .
+> - The coding of *Yangfanyu* is 0.
+> - The coding of *Luquanolepis-like* is .
+
 > - The coding of *Huizelepis* is 1.
 
 > - The coding of *Songmingolepis conspicilatus* is ?.
@@ -1668,7 +1672,8 @@
 > - The coding of taxon 2 from Songming is 0.
 
 96. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
-> This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility). 
+> This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility).
+
 > - The coding of *Huizelepis* is 0. **check**
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is 0.
@@ -1684,6 +1689,9 @@
 > - The coding of *Xichonolepis wudingensis* is 0.
 > - The coding of *Huizelepis* is 0.
 
+> - The coding of *Zhujielepis* is .
+> - The coding of *Yangfanyu* is .
+ 
 98. Lateral position of infraorbital canal on the lateral and paranuchal plates, forming narrow lateral divisions: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 1).
 
@@ -1693,6 +1701,9 @@
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
 > - The coding of taxon 2 from Songming is 0.
+
+> - The coding of *Zhujielepis* is .
+> - The coding of *Yangfanyu* is 0.
 
 99.	Dorsal and ventral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
 > - Newly added by Yan, to distinguish sinolepids plus euantiarchs from the other antiarchs.
@@ -1717,6 +1728,9 @@
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0.
+
+> - The coding of *Zhujielepis* is .
+> - The coding of *Yangfanyu* is 0.
 
 > - We define the ratio of the height of trunk shield relative to the length of trunk shield ventral walll less than **0.2?** as the flat trunk shield. Considering the varablity of the posterior process of posterior median dorsal wall, We use the length of trunk shield ventral wall rather than the length of the trunk shield dorsal wall as the reference to define the relative height of trunk shield.
 
@@ -1820,6 +1834,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
