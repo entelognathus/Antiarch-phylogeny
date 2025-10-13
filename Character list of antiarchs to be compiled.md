@@ -1360,7 +1360,7 @@
 > Zhang and Young (1992), Character 12; Zhu (1996), Character 7; Jia *et al.* (2010), Character 26; Pan *et al.* (2018), Character 7; Wang and Zhu (2018), Character 77; Liu *et al*. (2023), Character 77; Plax and Lukševičs (2023), Character 77; Luo *et al*. (2025), Character 77.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is 1.check
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1841,6 +1841,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
