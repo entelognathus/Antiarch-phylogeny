@@ -1013,7 +1013,7 @@
 > - Ritchie *et al.* (1992, Character 4): "square shape of PMD, with reduced lateral processes", present in *Sinolepis* and *Grenfellaspis*.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is 1.check
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1344,7 +1344,7 @@
 > Zhang and Young (1992), Character 18; Zhu (1996), Character 6; Jia *et al.* (2010), Character 28; Pan *et al.* (2018), Character 6; Wang and Zhu (2018), Character 76; Liu *et al*. (2023), Character 76; Plax and Lukševičs (2023), Character 76; Luo *et al*. (2025), Character 76.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is ?. check
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1376,7 +1376,7 @@
 > Zhu (1996), Character 8; Jia *et al.* (2010), Character 29; Pan *et al.* (2018), Character 8; Wang and Zhu (2018), Character 78; Liu *et al*. (2023), Character 78; Plax and Lukševičs (2023), Character 78; Luo *et al*. (2025), Character 78.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is ?. The position of MV plate is not sure.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1585,7 +1585,7 @@
 > -  Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids). Mesial marginal plate 1 is enclosed by dorsal/ventral central plate 1 and mesial marginal plate 2 in mesial view.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1841,6 +1841,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
