@@ -1309,7 +1309,7 @@
 >- We followed Young (1988) and identified the axillary foramen larger than 30% of the lateral lamina of AVL as large axillary foramen. Young regarded the large axillary foramen is a synapomorphy of Bothriolepididae, which may be doubtful. More researchers suggested it reflects a strong muscle and improved movement capacity of fin, and is apomorphic whatever its function.
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is ?. check mimics
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is ?.
@@ -1567,7 +1567,7 @@
 > - Ritchie *et al.* (1992) regarded it as a synapomorphy of euantiarchs (bothriolepidoids and asterolepidoids).
 
 > - The coding of *Zhujielepis* is .
-> - The coding of *Yangfanyu* is .
+> - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1821,6 +1821,18 @@
 > Newly added by Xian.
 > - The coding of *Yangfanyu* is 1.
 
+113. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
+> Newly added by Xian.
+> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
+
+> - The coding of *Yangfanyu* is 1.
+
+114. Posterolateral ridge of posterior median dorsal plate: absent (0), present (1).
+> Newly added by Xian.
+> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
+
+> - The coding of *Yangfanyu* is 1.
+
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
@@ -1841,6 +1853,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
