@@ -768,6 +768,8 @@
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
 
+> - Because this Character was in the state of "present (0)" or "absent (0)" in Zhu (1996), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (pre.) revised feature 43 simultaneously and also re-coding Character 44-45. 
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
@@ -784,6 +786,8 @@
 
 44. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
 > Zhang and Young (1992), Character14; Zhu (1996), Character 64; Pan *et al.* (2018), Character 64; Wang and Zhu (2018), Character 44; Liu *et al*. (2023), Character 44; Plax and Lukševičs (2023), Character 44; Luo *et al*. (2025), Character 44.
+
+> -Refer to the explanation of Character 43.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -803,6 +807,8 @@
 > Zhu (1996), Character 65; Pan *et al.* (2018), Character 65; Wang and Zhu (2018), Character 45; Liu *et al*. (2023), Character 45; Plax and Lukševičs (2023), Character 45; Luo *et al*. (2025), Character 45.
 
 > - The suborbital was termed as the mental plate in Zhu (1996).
+
+> -Refer to the explanation of Character 43.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -1426,6 +1432,8 @@
 
 > - Moloshnikov (2011) established a new family Tubalepididae on the basis of a paranuchal plate that lacking anterolateral margin. 0 in *Huizelepis*.
 
+> - In Luo *et al*. (2025), some taxa (e.g., Asterolepis ornata, Bothriolepis canadensis, Chuchinolepis dongmoensis) for Character 81 are coded as "?"; however, for Characters 82–83—two characters derived from Character 81—these taxa exhibit clearly defined states. Therefore, Xian (pre.) will re-coding Characters 81–83.
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is .
@@ -1442,6 +1450,8 @@
 82.	Position of postmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > Luo *et al*. (2025), Character 82.
 > - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* have the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; Fig. 7).
+
+> - Refer to the explanation of Character 81.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -1462,6 +1472,8 @@
 > Character 168 in 'early gnathostome phylogeny dataset'.
 
 > - Also termed 'preopercular sensory line on postmarginal plate'. Few Middle and Late Devonian taxa bear the sensory line on postmarginal plate.
+
+> - Refer to the explanation of Character 81.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -1853,6 +1865,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
