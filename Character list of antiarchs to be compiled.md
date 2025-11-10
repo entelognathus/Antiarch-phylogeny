@@ -1845,6 +1845,17 @@
 
 > - The coding of *Yangfanyu* is 1.
 
+115. Obtected nuchal area on paranuchal plate: (0) absent; (1) present.
+> Lukševičs (2001), Character 6; Dupret et al. (2023), Character 26; Luo et al. (2023), Character 33; Xian et al. (2025), Character 22.
+
+> - The coding of *Yangfanyu* is 1.
+
+116. Anterior margin of postpineal plate: (0) concave/flat; (1) convex.
+> Dupret et al. (2023), Character 17; Luo et al. (2023), Character 22; Xian et al. (2025), Character 22.
+
+> - The coding of *Yangfanyu* is 1.
+
+
 ## References
 Jia, L. T., Zhu, M., and Zhao, W. J. (2010). A new antiarch fish from the Upper Devonian Zhongning Formation of Ningxia, China. *Palaeoworld*, **19**(1-2), 136-145. https://doi.org/10.1016/j.palwor.2010.02.002 
 
@@ -1865,6 +1876,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
