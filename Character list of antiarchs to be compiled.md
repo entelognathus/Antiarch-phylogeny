@@ -1,4 +1,4 @@
-# Character list of Antiarchs
+<img width="563" height="70" alt="image" src="https://github.com/user-attachments/assets/6544e8c4-2820-496b-9cee-ea81b1345e4a" /><img width="563" height="70" alt="image" src="https://github.com/user-attachments/assets/84b9e863-6e40-4c90-878a-7bb1f7a280f5" /><img width="563" height="70" alt="image" src="https://github.com/user-attachments/assets/36608bac-e81f-41f5-a620-3b6ea242e952" /># Character list of Antiarchs
 > All characters except Characters 19, 49, and 50 are unordered. 
 
 ## Ornamentation, histology and scales
@@ -1829,7 +1829,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-112. Pronounced thickening on the nuchal plate: absent (0), present (1).
+112. Anterior lateral ridge on head shield: absent (0), present (1).
 > Newly added by Xian.
 > - The coding of *Yangfanyu* is 1.
 
@@ -1876,6 +1876,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
