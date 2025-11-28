@@ -7,10 +7,6 @@
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
 
 > - Xian: The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether they belong to the same form will be verified. Another incomplete head shield in association is *Luquanolepis*-like.
-> - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from 0 to 1. P‘an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
-> - Zhu: 'reticular' is not 'ridged'. 'reticular' is a character for *Bothriolepis*.
-> - Xian: Based on a misunderstanding, the coding of *Hohsienolepis hsintuensis* will change back from 1 to 0.
-> - zhu: if the issue is resolved, you can delete the discussions above. The same for others.
 
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is 0.
@@ -30,8 +26,6 @@
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 47, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 2; Liu *et al*. (2023), Character 2; Plax and Lukševičs (2023), Character 2; Luo *et al*. (2025), Character 2.
 
 > - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from ? to 1. P'an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
-> - Xian: Based on a misunderstanding, the coding of *Hohsienolepis hsintuensis* will change back from 1 to 0.
-> - zhu: The coding of *Hohsienolepis hsintuensis* as 1 is correct.
   
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
@@ -1982,6 +1976,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
