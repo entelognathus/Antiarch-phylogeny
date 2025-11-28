@@ -1,13 +1,14 @@
-Character list of Antiarchs
-> All characters except Characters 19, 49, and 50 are unordered. 
+# Character list of Antiarchs
+## 大家在写批注时将姓或姓名简写列出来。这样能发现问题。修改以前的编码、特征一定要列出依据，原来是怎样编码，现在是怎样编码。这样便于追溯。如果是已解决的问题，可以将相关的讨论删去。github的内容一定要与你们正在编码的矩阵保持一致。前面做得严谨些，后面能省很多检查的时间。
+> - All characters except Characters 19, 49, and 50 are unordered. 
 
 ## Ornamentation, histology and scales
 1. Adult ornamentation: tubercular (0); reticular (1).
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
 
-> - The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether they belong to the same form will be verified. Another incomplete head shield in association is possible to be of *Luquanolepis*-like.
-
-> - The coding of *Hohsienolepis hsintuensis* should be changed from 0 to 1. Pan and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges. The corresponding character 2 should also come from ? Change to 1.
+> - Xian: The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether they belong to the same form will be verified. Another incomplete head shield in association is *Luquanolepis*-like.
+> - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from 0 to 1. P‘an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
+> - Zhu: 'reticular' is not 'ridged'. 'reticular' is a character for *Bithriolepis*. 
 
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is 0.
@@ -26,7 +27,7 @@ Character list of Antiarchs
 2. Adult ornamentation: non-ridged (0); ridged (1).
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 47, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 2; Liu *et al*. (2023), Character 2; Plax and Lukševičs (2023), Character 2; Luo *et al*. (2025), Character 2.
 
-> - The coding of *Hohsienolepis hsintuensis* should be changed from 0 to 1. Pan and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges. This Character should also come from ? Change to 1.
+> - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from ? to 1. P'an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
 
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
@@ -48,7 +49,7 @@ Character list of Antiarchs
 
 > - In those taxa without the ridges on the dorsal wall of trunk shiled, This character is scored as 'not applicable'
 
-> - See character 1 and character 2, the coding of *Hohsienolepis hsintuensis* should be changed from ? to 1.
+> - Xian: See character 1 and character 2, the coding of *Hohsienolepis hsintuensis* should be changed from ? to 1.
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
@@ -59,7 +60,7 @@ Character list of Antiarchs
 
 > - The coding of *Xichonolepis qujingensis* is -.
 > - The coding of *Xichonolepis wudingensis* is -.
-> - The coding of *Parabothriolepis xiakei* is ?.
+> - The coding of *Parabothriolepis xiakei* is -.
 
 > - The coding of *Songmingolepis conspicilatus* is -.
 > - The coding of *Chahuaqingolepis magniporus* is -.
@@ -126,8 +127,7 @@ Character list of Antiarchs
 > Zhu (1996), Character 51; Jia *et al.* (2010), Character 1; Pan *et al.* (2018), Character 51; Wang and Zhu (2018), Character 7; Liu *et al*. (2023), Character 7; Plax and Lukševičs (2023), Character 7; Luo *et al*. (2025), Character 7.
 
 > - This character is scored contingently on the state of the previous Character.
-
-> -  Premedian plate has width greater than length was identified as "short and broad".
+> - The premedian plate with its width greater than its length is identified as "short and broad".
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -1973,6 +1973,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
