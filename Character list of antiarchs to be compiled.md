@@ -815,7 +815,8 @@
 
 > - Xian: Because this Character was in the state of "present (0)" or "absent (1)" in Zhu (1996) and Wang and Zhu (2018), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (in prep.) revised Characters 43-45 back to previous version of Zhu (1996) and Wang and Zhu (2018).
 > - zhu: 前面叙述得有点乱。zhu (1996) 怎么说的，Wang and Zhu怎么说的，Luo et al.又是怎么说的。编码在Luo et al.是怎么乱的，现在怎么改一致的。叙述清楚即可，不用去找原因。
-> - Xian: This character in Zhu (1996)(Character 63) is Postsuborbital plate: present (0); absent (1); In Wang and Zhu (2018)(Character 43) is Postsuborbital plate: present (0); absent (1); In Luo *et al*. (2018)(Character 43) is Postsuborbital plate: absent (0); present (1). The character states in Luo were reversed, causing confusion in the coding of characters 44-45. In subsequent studies, we will revise Luo *et al*(2025)'s definition of character states and adjust them back to the definitions used by Zhu (1996) and Wang and Zhu (2018). Therefore, character 43 should be modified to: Postsuborbital plate: present (0); absent (1)
+> - Xian: This character in Zhu (1996)(Character 63) is: Postsuborbital plate: present (0); absent (1); In Wang and Zhu (2018)(Character 43) is: Postsuborbital plate: present (0); absent (1); In Luo *et al*. (2025)(Character 43) is: Postsuborbital plate: absent (0); present (1). Although the character states were modified, the coding remained the same. Our subsequent research still followed Zhu (1996) and Wang and Zhu (2018).
+> - zhu: 小罗跟我解释了一下，他使用的这个特征及编码没有问题。他将present和absent倒过来之后，编码也随之倒过来了。还是follow Luo et al. (2025），不要倒过来又倒回去。小鲜与小罗具体确认下相互间的误解，没有问题的话，可以将这段的解释删掉。
  
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -1007,7 +1008,7 @@
 > Zhu (1996), Character 15; Jia *et al.* (2010), Character 35; Pan *et al.* (2018), Character 15; Wang and Zhu (2018), Character 53; Liu *et al*. (2023), Character 53; Plax and Lukševičs (2023), Character 53; Luo *et al*. (2025), Character 53.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is 0.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -1024,7 +1025,7 @@
 > Young (1984, 1988), Character 17; Zhu (1996), Character 16; Jia *et al.* (2010), Character 36; Pan *et al.* (2018), Character 16; Wang and Zhu (2018), Character 54; Liu *et al*. (2023), Character 54; Plax and Lukševičs (2023), Character 54; Luo *et al*. (2025), Character 54.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1041,7 +1042,7 @@
 > Young (1984, 1988), Character 21; Zhang and Young (1992), Character 4; Zhu (1996), Character 17; Jia *et al.* (2010), Character 37; Pan *et al.* (2018), Character 17; Wang and Zhu (2018), Character 55; Liu *et al*. (2023), Character 55; Plax and Lukševičs (2023), Character 55; Luo *et al*. (2025), Character 55.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is 0.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -1721,8 +1722,46 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
+## Characters add by xian for *Yangfanlepis*
+92. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
+> This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility).
+
+> - The coding of *Huizelepis* is 0. **check**
+> - The coding of *Zhujielepis* is -.
+> - The coding of *Yangfanyu* is 0.
+ 
+> - The coding of *Songmingolepis conspicilatus* is 0. **check**
+> - The coding of *Chahuaqingolepis magniporus* is ?.
+> - The coding of taxon 2 from Songming is 0. **check**
+
+93. Anterior lateral ridge on head shield: absent (0), present (1).
+> Newly added by Xian.
+> - The coding of *Yangfanyu* is 1.
+
+94. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
+> Newly added by Xian.
+> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
+
+> - The coding of *Yangfanyu* is 1.
+
+95. Posterolateral ridge of posterior median dorsal plate: absent (0), present (1).
+> Newly added by Xian.
+> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
+
+> - The coding of *Yangfanyu* is 1.
+
+96. Obtected nuchal area on paranuchal plate: (0) absent; (1) present.
+> Lukševičs (2001), Character 6; Dupret et al. (2023), Character 26; Luo et al. (2023), Character 33; Xian et al. (2025), Character 22.
+
+> - The coding of *Yangfanyu* is 1.
+
+97. Anterior margin of postpineal plate: (0) concave/flat; (1) convex.
+> Dupret et al. (2023), Character 17; Luo et al. (2023), Character 22; Xian et al. (2025), Character 22.
+
+> - The coding of *Yangfanyu* is 1.
+
 ## Characters to be used in the follow-up studies
-92. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
+98. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
 > Luo *et al*. (2025), Character 10, in part. 
 > - This character is scored contingently on Character 10. Those taxa with the index larger than 200 are scored "logically impossibility".
 
@@ -1741,7 +1780,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 > - The coding of taxon 2 from Songming is ?.
 
-93. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
+99. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
 > Newly added by Luo.
 
 > - Currently, antiarchs with jointed pectoral appendage should be 1, except dianolepids and bothriolepids.
@@ -1762,13 +1801,13 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is ?.
 
-94.	Mesial marginal plate 2 restricted to mesial wall of pectoral appendage: absent (0); present (1).
+100.	Mesial marginal plate 2 restricted to mesial wall of pectoral appendage: absent (0); present (1).
 > Newly added by Luo.
 
 > - Resembling Character 90 above.
 > - The mesial marginal plate 2 is enclosed by the dorsal/ventral central plate 2 and mesial marginal plate 1 in mesial view.
 
-95. Obtected nuchal area: small (0); large (1).
+101. Obtected nuchal area: small (0); large (1).
 > Liu *et al.* (2023), Character 80. 
 
 > - Liu *et al.* (2023) didn't define the character, only stating that this feature is present in *Dianolepis*, *Wufengshania* and *Chahuaqingolepis magniporus*. Based on the measurements of the taxa above, we identified the obtected nuchal area whose length equal to or larger than 30% of the length of the nuchal plate as large obtected nuchal area.
@@ -1786,7 +1825,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 > - The coding of taxon 2 from Songming is 0.
 
-96. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
+102. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
 > This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility).
 
 > - The coding of *Huizelepis* is 0. **check**
@@ -1797,7 +1836,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0. **check**
 
-97. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
+103. Visceral surface of posterior median dorsal plate: anterior margin narrower than exposed constricted posterior region (0); anterior margin as wide as or wider than exposed constricted posterior region (1).
 > Newly added by Yan, to distinguish two species of *Xichonolepis*.
 
 > - The coding of *Xichonolepis qujingensis* is 1.
@@ -1809,7 +1848,7 @@
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is .
  
-98. Lateral position of infraorbital canal on the lateral and paranuchal plates, forming narrow lateral divisions: absent (0); present (1).
+104. Lateral position of infraorbital canal on the lateral and paranuchal plates, forming narrow lateral divisions: absent (0); present (1).
 > Ritchie *et al.* (1992, Character 1).
 
 > - Present in *Sinolepis* and *Grenfellaspis*.
@@ -1822,7 +1861,7 @@
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is 0.
 
-99.	Dorsal and ventral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
+105.	Dorsal and ventral articular depressions for the dermal processes of pectoral appendage: absent (0), present (1).
 > - Newly added by Yan, to distinguish sinolepids plus euantiarchs from the other antiarchs.
 > - This character is relative to Character 88.
 > - The coding of *Huizelepis* is 1.
@@ -1831,15 +1870,15 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-100. Size of dorsal articular depression for the dermal process of pectoral appendage: short (0), long (1).
+106. Size of dorsal articular depression for the dermal process of pectoral appendage: short (0), long (1).
 > - Newly added by Yan, to distinguish sinolepids from euantiarchs.
 > - This character is relative to Character 88.
 
-101. Size of ventral articular depression for the dermal process of pectoral appendage: short (0), long (1).
+107. Size of ventral articular depression for the dermal process of pectoral appendage: short (0), long (1).
 > - Newly added by Yan, to distinguish sinolepids from euantiarchs.
 > - This character is relative to Character 88.
 
-102. Flat trunk shield: absence (0), presence (1).
+108. Flat trunk shield: absence (0), presence (1).
 > Newly added by Zhu.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
@@ -1856,14 +1895,14 @@
 
 **the character list used in later manuscript**
 
-103. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
+109. Postorbital crista fusing with median ridge of postpineal plate: absent (0); present (1).
 > Newly added by Yu.
 
 > - The coding of *Songmingolepis conspicilatus* is 0.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
 > - The coding of taxon 2 from Songming is 0.
 
- 104. Anterior transverse crista: single (0); bifurcus (1).
+110. Anterior transverse crista: single (0); bifurcus (1).
 > Newly added by Luo.
 > - The coding of *Huizelepis* is 1.
 
@@ -1876,7 +1915,7 @@
 
 > - This character is only seen in *Microbrachius*.
 
-105. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
+111. Width ratio of posterior median dorsal plate: distance between anterolateral corners less than 50% of distance between lateral processes (0); distance between anterolateral corners equal to or larger than 50% of distance between lateral processes (1).
 > Newly added by Yu
 
 > - State 0 is mainly present in asterolepids. Almost all the bothriolepids should be 1.
@@ -1885,7 +1924,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0.
 
-106. The length (r3) index between the anterior and posterior median dorsal plates: r3=>200 (0); 100=<r3<200 (1); r3<100 (2).
+112. The length (r3) index between the anterior and posterior median dorsal plates: r3=>200 (0); 100=<r3<200 (1); r3<100 (2).
 > Newly added by Yu
 
 > - State 0 is only present in yunnanolepids and asterolepids. Most of the antiarchs, especially sinolepids and bothriolepids should be 1. State 2 is only present in *Hunanolepis* and *Luquanolepis*.
@@ -1894,16 +1933,16 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-107. Strongly developed postlevator thickening in AMD plate: absence (0), presence (1).
+113. Strongly developed postlevator thickening in AMD plate: absence (0), presence (1).
 > Newly added by Luo.
 
 > - The coding of *Tongdulepis* and *Huizelepis* is 1.
 
-108. Size of the supraotic thickening: small (0), large (1).
+114. Size of the supraotic thickening: small (0), large (1).
 > Newly added by Luo.
 > - The coding of *Tongdulepis* and *Huizelepis* is 0.
 
-109. Supraorbital sensory canal on the pemedian plate: absent (0), present (1).
+115. Supraorbital sensory canal on the pemedian plate: absent (0), present (1).
 > Newly added by Yu
 > - This sensory canal is postioned on the premedian plate, contacting to the infraorbital sensory canals on both sides, differs from the supraorbital sensory canals on the postpineal plate. This sensory canal is sometimes absent like that in *Dianolepis*.
 
@@ -1911,7 +1950,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 > - The coding of taxon 2 from Songming is 0.
 
-110. Posterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
+116. Posterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
 > Newly added by Yu.
 > - This sensory is seen in many euantiarchs, such as *Tubalepis*, *Grossilapis*, *Bothriolepis* and so on.
 
@@ -1919,7 +1958,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0.
 
-111. Anterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
+117. Anterior oblique dorsal sensory canal on the trunk shield: absent (0), present (1).
 > Newly added by Yu.
 > - In some euantiarchs like *Microbrachius* and *Jiangxilepis*, the oblique dorsal sensory canals are paired. In *Mornarolepis*, *Byssacanthus* and the taxon 2 from Songming, only the Posterior oblique dorsal sensory canal presents on the trunk shield.
 
@@ -1927,31 +1966,6 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-112. Anterior lateral ridge on head shield: absent (0), present (1).
-> Newly added by Xian.
-> - The coding of *Yangfanyu* is 1.
-
-113. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
-> Newly added by Xian.
-> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
-
-> - The coding of *Yangfanyu* is 1.
-
-114. Posterolateral ridge of posterior median dorsal plate: absent (0), present (1).
-> Newly added by Xian.
-> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
-
-> - The coding of *Yangfanyu* is 1.
-
-115. Obtected nuchal area on paranuchal plate: (0) absent; (1) present.
-> Lukševičs (2001), Character 6; Dupret et al. (2023), Character 26; Luo et al. (2023), Character 33; Xian et al. (2025), Character 22.
-
-> - The coding of *Yangfanyu* is 1.
-
-116. Anterior margin of postpineal plate: (0) concave/flat; (1) convex.
-> Dupret et al. (2023), Character 17; Luo et al. (2023), Character 22; Xian et al. (2025), Character 22.
-
-> - The coding of *Yangfanyu* is 1.
 
 
 ## References
@@ -1974,6 +1988,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
