@@ -307,7 +307,7 @@
 16. Preorbital recess: restricted to premedian plate (0); extending laterally to the lateral plates (1).
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Liu *et al*. (2023), Character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
 
-> - This character is scored contingently on the presence of the preorbital recess, Character 15 herein..
+> - This character is scored contingently on the presence of the preorbital recess, Character 15 herein.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -481,9 +481,8 @@
 25. Supraotic thickening on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Liu *et al*. (2023), Character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
 
-
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0. Like Microbrachius, it should be supraoptic groove of headshield(sog)
+> - The coding of *Yangfanyu* is 0. Like *Microbrachius*, it should be supraoptic groove of headshield (sog).
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -820,7 +819,7 @@
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
 
-> - Xian: Because this Character was in the state of "present (0)" or "absent (0)" in Zhu (1996) and Wang and Zhu (2018), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (pre.) revised Characters 43-45 back to previous version of Zhu (1996) and Wang and Zhu (2018).
+> - Xian: Because this Character was in the state of "present (0)" or "absent (0)" in Zhu (1996) and Wang and Zhu (2018), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (in prep.) revised Characters 43-45 back to previous version of Zhu (1996) and Wang and Zhu (2018).
  
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -840,7 +839,7 @@
 44. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
 > Zhang and Young (1992), Character14; Zhu (1996), Character 64; Pan *et al.* (2018), Character 64; Wang and Zhu (2018), Character 44; Liu *et al*. (2023), Character 44; Plax and Lukševičs (2023), Character 44; Luo *et al*. (2025), Character 44.
 
-> -Refer to the explanation of Character 43.
+> - Xian: Refer to the explanation of Character 43.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -862,7 +861,7 @@
 
 > - The suborbital was termed as the mental plate in Zhu (1996).
 
-> -Refer to the explanation of Character 43.
+> - Xian: Refer to the explanation of Character 43.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -1982,6 +1981,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
