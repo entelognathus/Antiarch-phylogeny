@@ -8,7 +8,8 @@
 
 > - Xian: The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether they belong to the same form will be verified. Another incomplete head shield in association is *Luquanolepis*-like.
 > - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from 0 to 1. P‘an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
-> - Zhu: 'reticular' is not 'ridged'. 'reticular' is a character for *Bothriolepis*. 
+> - Zhu: 'reticular' is not 'ridged'. 'reticular' is a character for *Bothriolepis*.
+> - Xian: Based on a misunderstanding, the coding of *Hohsienolepis hsintuensis* will change back from 1 to 0. 
 
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is 0.
@@ -28,7 +29,8 @@
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 47, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 2; Liu *et al*. (2023), Character 2; Plax and Lukševičs (2023), Character 2; Luo *et al*. (2025), Character 2.
 
 > - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from ? to 1. P'an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
-
+- Xian: Based on a misunderstanding, the coding of *Hohsienolepis hsintuensis* will change back from 1 to 0.
+  
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
@@ -49,7 +51,7 @@
 
 > - In those taxa without the ridges on the dorsal wall of trunk shiled, This character is scored as 'not applicable'.
 
-> - Xian: See character 1 and character 2, the coding of *Hohsienolepis hsintuensis* should be changed from ? to 1.
+- Xian: The coding of *Hohsienolepis hsintuensis* should be changed from ? to 1. P'an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
@@ -815,8 +817,8 @@
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
 
-> - Because this Character was in the state of "present (0)" or "absent (0)" in Zhu (1996), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (pre.) revised feature 43 simultaneously and also re-coding Character 44-45. 
-
+>  Xian: Because this Character was in the state of "present (0)" or "absent (0)" in Zhu (1996) and Wang and Zhu (2018), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (pre.) revised Characters 43-45 back to previous version of Zhu (1996) and Wang and Zhu (2018).
+ 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
@@ -1977,6 +1979,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
