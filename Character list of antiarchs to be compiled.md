@@ -808,7 +808,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-43. Postsuborbital plate: absent (0); present (1).
+43. Postsuborbital plate: present (0); absent (1).
 > Zhu (1996), Character 63; Jia *et al.* (2010), Character 18; Pan *et al.* (2018), Character 63; Wang and Zhu (2018), Character 43; Liu *et al*. (2023), Character 43; Plax and Lukševičs (2023), Character 43; Luo *et al*. (2025), Character 43.
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
@@ -1007,7 +1007,7 @@
 > Zhu (1996), Character 15; Jia *et al.* (2010), Character 35; Pan *et al.* (2018), Character 15; Wang and Zhu (2018), Character 53; Liu *et al*. (2023), Character 53; Plax and Lukševičs (2023), Character 53; Luo *et al*. (2025), Character 53.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is 0.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -1024,7 +1024,7 @@
 > Young (1984, 1988), Character 17; Zhu (1996), Character 16; Jia *et al.* (2010), Character 36; Pan *et al.* (2018), Character 16; Wang and Zhu (2018), Character 54; Liu *et al*. (2023), Character 54; Plax and Lukševičs (2023), Character 54; Luo *et al*. (2025), Character 54.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 1.
@@ -1041,7 +1041,7 @@
 > Young (1984, 1988), Character 21; Zhang and Young (1992), Character 4; Zhu (1996), Character 17; Jia *et al.* (2010), Character 37; Pan *et al.* (2018), Character 17; Wang and Zhu (2018), Character 55; Liu *et al*. (2023), Character 55; Plax and Lukševičs (2023), Character 55; Luo *et al*. (2025), Character 55.
 
 > - The coding of *Zhujielepis* is 0.
-> - The coding of *Yangfanyu* is 0.
+> - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is .
 
 > - The coding of *Huizelepis* is 0.
@@ -1987,6 +1987,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
