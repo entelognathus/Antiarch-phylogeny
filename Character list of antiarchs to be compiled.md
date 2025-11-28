@@ -6,7 +6,7 @@
 1. Adult ornamentation: tubercular (0); reticular (1).
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
 
-> - Xian: The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether they belong to *Zhujielepis* will be verified. Another incomplete head shield in association is *Luquanolepis*-like.
+> - Xian: The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether it belongs to *Zhujielepis* will be verified. Another incomplete head shield in association is *Luquanolepis*-like.
 
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is 0.
@@ -108,7 +108,7 @@
 
 > - The coding of *Zhujielepis* is 1.
 > - The coding of *Yangfanyu* is 1.
-> - The coding of *Luquanolepis-like* is ?. See whether there is a skull
+> - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
 > - The coding of *Huizelepis* is 1.
@@ -124,7 +124,7 @@
 7. Premedian plate: short and broad (0); long and narrow (1).
 > Zhu (1996), Character 51; Jia *et al.* (2010), Character 1; Pan *et al.* (2018), Character 51; Wang and Zhu (2018), Character 7; Liu *et al*. (2023), Character 7; Plax and Lukševičs (2023), Character 7; Luo *et al*. (2025), Character 7.
 
-> - This character is scored contingently on the presence of premedian plate, Character 6 herein.
+> - This character is scored contingently on the presence of the premedian plate, Character 6 herein.
 > - The premedian plate with its width greater than its length is identified as "short and broad".
 
 > - The coding of *Zhujielepis* is ?.
@@ -145,7 +145,7 @@
 8. Anterior margin of premedian plate: convex (0); slightly concave (1).
 > Zhu (1996), Character 52; Jia *et al.* (2010), Character 2; Pan *et al.* (2018), Character 52; Wang and Zhu (2018), Character 8; Liu *et al*. (2023), Character 8; Plax and Lukševičs (2023), Character 8; Luo *et al*. (2025), Character 8.
 
-> - This character is contingent on the presence of premedian plate, Character 6 herein.
+> - This character is contingent on the presence of the premedian plate, Character 6 herein.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -165,6 +165,7 @@
 9. Unornamented shelf and rostrocaudal groove on premedian plate: absent (0); present (1).
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), Character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
 
+> - This character is contingent on the presence of the premedian plate, Character 6 herein.
 > - This character is for *Asterolepis*, *Remigolepis* and *Pambulaspis*. 
 
 > - The coding of *Zhujielepis* is ?.
@@ -397,7 +398,7 @@
 21. Postpineal and nuchal plates: long and narrow (0); short and broad (1).
 > Zhu (1996), Character 57; Jia *et al.* (2010), Character 12; Pan *et al.* (2018), Character 57; Wang and Zhu (2018), Character 21; Liu *et al*. (2023), Character 21; Plax and Lukševičs (2023), Character 21; Luo *et al*. (2025), Character 21.
 
-> - Postpineal and nuchal plates with their length greater than their width is identified as "long and narrow".
+> - The postpineal and nuchal plates with their length greater than their width are identified as "long and narrow".
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -1988,6 +1989,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
