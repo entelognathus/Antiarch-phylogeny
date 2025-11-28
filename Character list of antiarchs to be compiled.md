@@ -167,7 +167,7 @@
 9. Unornamented shelf and rostrocaudal groove on premedian plate: absent (0); present (1).
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), Character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
 
-> - This character is for *Asterolepis*, *Remigolepis*. 
+> - This character is for *Asterolepis*, *Remigolepis* and *Pambulaspis*. 
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -264,7 +264,8 @@
 14. Preorbital depression: extending laterally onto lateral plates (0); restricted to premedian plate (1).
 > Zhu (1996), Character 46; Jia *et al.* (2010), Character 7; Pan *et al.* (2018), Character 46; Wang and Zhu (2018), Character 14; Liu *et al*. (2023), Character 14; Plax and Lukševičs (2023), Character 14; Luo *et al*. (2025), Character 14.
 
-> - This character is scored contingently on the state of the previous Character.
+> - This character is scored contingently on the state of the previous character.
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is -.
 > - The coding of *Luquanolepis-like* is ?.
@@ -301,7 +302,8 @@
 16. Preorbital recess: restricted to premedian plate (0); extending laterally to the lateral plates (1).
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Liu *et al*. (2023), Character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
 
-> - This character is scored contingently on the state of the previous Character.
+> - This character is scored contingently on the state of the previous character.
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
@@ -369,7 +371,7 @@
 
 > - The coding of *Xichonolepis qujingensis* is ?.
 > - The coding of *Xichonolepis wudingensis* is ?.
-> - The coding of *Parabothriolepis xiakei* is 1.
+> - The coding of *Parabothriolepis xiakei* is 2.
 
 > - The coding of *Songmingolepis conspicilatus* is 2.
 > - The coding of *Chahuaqingolepis magniporus* is 2.
@@ -396,6 +398,8 @@
 21. Postpineal and nuchal plates: long and narrow (0); short and broad (1).
 > Zhu (1996), Character 57; Jia *et al.* (2010), Character 12; Pan *et al.* (2018), Character 57; Wang and Zhu (2018), Character 21; Liu *et al*. (2023), Character 21; Plax and Lukševičs (2023), Character 21; Luo *et al*. (2025), Character 21.
 
+> - Postpineal and nuchal plates with their length greater than their width is identified as "long and narrow".
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
@@ -410,8 +414,6 @@
 > - The coding of *Songmingolepis conspicilatus* is 1.
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 > - The coding of taxon 2 from Songming is 1.
-
-> - Postpineal and nuchal plates have length greater than width was identified as "long and narrow".
 
 22. Pronounced postpineal thickening on the visceral view of postpineal plate: absent (0); present (1).
 > Young (1984, 1988), Character 38; Zhu (1996), Character 62; Jia *et al.* (2010), Character 13; Pan *et al.* (2018), Character 62; Wang and Zhu (2018), Character 22; Liu *et al*. (2023), Character 22; Plax and Lukševičs (2023), Character 22; Luo *et al*. (2025), Character 22.
@@ -1975,6 +1977,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
