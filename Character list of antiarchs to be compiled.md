@@ -7,8 +7,6 @@
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
 
 > - Xian: The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether they belong to the same form will be verified. Another incomplete head shield in association is *Luquanolepis*-like.
-> - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from 0 to 1. P‘an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
-> - Zhu: 'reticular' is not 'ridged'. 'reticular' is a character for *Bothriolepis*. 
 
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is 0.
@@ -28,7 +26,7 @@
 > Zhang and Young (1992), Character 1; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 47, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 2; Liu *et al*. (2023), Character 2; Plax and Lukševičs (2023), Character 2; Luo *et al*. (2025), Character 2.
 
 > - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from ? to 1. P'an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
-
+  
 > - The coding of *Zhujielepis* is 0.
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
@@ -49,7 +47,7 @@
 
 > - In those taxa without the ridges on the dorsal wall of trunk shiled, This character is scored as 'not applicable'.
 
-> - Xian: See character 1 and character 2, the coding of *Hohsienolepis hsintuensis* should be changed from ? to 1.
+> - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from ? to 1. P'an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
 
 > - The coding of *Zhujielepis* is -.
 > - The coding of *Yangfanyu* is -.
@@ -126,7 +124,7 @@
 7. Premedian plate: short and broad (0); long and narrow (1).
 > Zhu (1996), Character 51; Jia *et al.* (2010), Character 1; Pan *et al.* (2018), Character 51; Wang and Zhu (2018), Character 7; Liu *et al*. (2023), Character 7; Plax and Lukševičs (2023), Character 7; Luo *et al*. (2025), Character 7.
 
-> - This character is scored contingently on the state of the previous Character.
+> - This character is scored contingently on the presence of premedian plate, Character 6 herein.
 > - The premedian plate with its width greater than its length is identified as "short and broad".
 
 > - The coding of *Zhujielepis* is ?.
@@ -206,7 +204,7 @@
 11. Lateral plate: absent (0); present (1).
 > Young (1984, 1988), Character 3; Zhu (1996), Character 43; Pan *et al.* (2018), Character 43; Wang and Zhu (2018), Character 11; Liu *et al*. (2023), Character 11; Plax and Lukševičs (2023), Character 11; Luo *et al*. (2025), Character 11.
 
->- Character 150 in 'early gnathostome phylogeny dataset'.
+> - Character 150 in 'early gnathostome phylogeny dataset'.
 > - The lateral plate is a syanpomorphy of antiarchs with a unique topology with neighboring plates. The lateral plate should be homgologous to the postorbital plate of other placoderms (equivalent of the sarcopterygian intertemporal, the actinopterygian dermosphenotic).
 
 > - The coding of *Zhujielepis* is ?.
@@ -227,7 +225,8 @@
 12. Lateral plate: narrow (0); broad (1).
 > Zhu (1996), Character 50; Jia *et al.* (2010), Character 5; Pan *et al.* (2018), Character 50; Wang and Zhu (2018), Character 12; Liu *et al*. (2023), Character 12; Plax and Lukševičs (2023), Character 12; Luo *et al*. (2025), Character 12.
 
-> - This character is scored contingently on the state of the previous Character.
+> - This character is scored contingently on the presence of the lateral plate, Character 11 herein. **The width of the lateral plate attaining to 1/3 of the skull roof width is coded as 'broad'.**
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
@@ -264,7 +263,7 @@
 14. Preorbital depression: extending laterally onto lateral plates (0); restricted to premedian plate (1).
 > Zhu (1996), Character 46; Jia *et al.* (2010), Character 7; Pan *et al.* (2018), Character 46; Wang and Zhu (2018), Character 14; Liu *et al*. (2023), Character 14; Plax and Lukševičs (2023), Character 14; Luo *et al*. (2025), Character 14.
 
-> - This character is scored contingently on the state of the previous character.
+> - This character is scored contingently on the presence of the preorbital depression, Character 13 herein.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is -.
@@ -302,7 +301,7 @@
 16. Preorbital recess: restricted to premedian plate (0); extending laterally to the lateral plates (1).
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Liu *et al*. (2023), Character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
 
-> - This character is scored contingently on the state of the previous character.
+> - This character is scored contingently on the presence of the preorbital recess, Character 15 herein.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -476,9 +475,8 @@
 25. Supraotic thickening on the visceral surface of nuchal plate: absent (0); present (1).
 > Wang and Zhu (2018), Character 25; Liu *et al*. (2023), Character 25; Plax and Lukševičs (2023), Character 25; Luo *et al*. (2025), Character 25.
 
-
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 0. Like Microbrachius, it should be supraoptic groove of headshield(sog)
+> - The coding of *Yangfanyu* is 0. Like *Microbrachius*, it should be supraoptic groove of headshield (sog).
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -815,8 +813,10 @@
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
 
-> - Because this Character was in the state of "present (0)" or "absent (0)" in Zhu (1996), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (pre.) revised feature 43 simultaneously and also re-coding Character 44-45. 
-
+> - Xian: Because this Character was in the state of "present (0)" or "absent (1)" in Zhu (1996) and Wang and Zhu (2018), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (in prep.) revised Characters 43-45 back to previous version of Zhu (1996) and Wang and Zhu (2018).
+> - zhu: 前面叙述得有点乱。zhu (1996) 怎么说的，Wang and Zhu怎么说的，Luo et al.又是怎么说的。编码在Luo et al.是怎么乱的，现在怎么改一致的。叙述清楚即可，不用去找原因。
+> - Xian: This character in Zhu (1996)(Character 63) is Postsuborbital plate: present (0); absent (1); In Wang and Zhu (2018)(Character 43) is Postsuborbital plate: present (0); absent (1); In Luo *et al*. (2018)(Character 43) is Postsuborbital plate: absent (0); present (1). The character states in Luo were reversed, causing confusion in the coding of characters 44-45. In subsequent studies, we will revise Luo *et al*(2025)'s definition of character states and adjust them back to the definitions used by Zhu (1996) and Wang and Zhu (2018). Therefore, character 43 should be modified to: Postsuborbital plate: present (0); absent (1)
+ 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
@@ -835,7 +835,6 @@
 44. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
 > Zhang and Young (1992), Character14; Zhu (1996), Character 64; Pan *et al.* (2018), Character 64; Wang and Zhu (2018), Character 44; Liu *et al*. (2023), Character 44; Plax and Lukševičs (2023), Character 44; Luo *et al*. (2025), Character 44.
 
-> -Refer to the explanation of Character 43.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -856,8 +855,6 @@
 > Zhu (1996), Character 65; Pan *et al.* (2018), Character 65; Wang and Zhu (2018), Character 45; Liu *et al*. (2023), Character 45; Plax and Lukševičs (2023), Character 45; Luo *et al*. (2025), Character 45.
 
 > - The suborbital was termed as the mental plate in Zhu (1996).
-
-> -Refer to the explanation of Character 43.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
