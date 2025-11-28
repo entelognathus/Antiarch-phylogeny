@@ -47,7 +47,7 @@
 3. Ridges on dorsal wall of trunk shield: converging (0); subparallel (1).
 > Zhang and Young (1992), Character 9; Zhu (1996), Character 34, part; Jia *et al.* (2010), Character 48, part; Pan *et al.* (2018), Character 34, part; Wang and Zhu (2018), Character 3; Liu *et al*. (2023), Character 3; Plax and Lukševičs (2023), Character 3; Luo *et al*. (2025), Character 3.
 
-> - In those taxa without the ridges on the dorsal wall of trunk shiled, This character is scored as 'not applicable'
+> - In those taxa without the ridges on the dorsal wall of trunk shiled, This character is scored as 'not applicable'.
 
 > - Xian: See character 1 and character 2, the coding of *Hohsienolepis hsintuensis* should be changed from ? to 1.
 
@@ -167,6 +167,8 @@
 9. Unornamented shelf and rostrocaudal groove on premedian plate: absent (0); present (1).
 > Young (1984, 1988), Character 36; Zhu (1996), Character 53; Jia *et al.* (2010), Character 3; Pan *et al.* (2018), Character 53; Wang and Zhu (2018), Character 9; Liu *et al*. (2023), Character 9; Plax and Lukševičs (2023), Character 9; Luo *et al*. (2025), Character 9.
 
+> - This character is for *Asterolepis*, *Remigolepis*. 
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
@@ -184,6 +186,7 @@
 
 10. Rostral width/orbital width index of premedian plate: smaller than 200 (0); larger than 200 (1).
 > Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Liu *et al*. (2023), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10, in part. 
+> - We restore the character to the original formulation. The further subdivision for those taxa smaller than 200 in Luo *et al.* (2025) is set as a new character (Character 92).
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -1720,10 +1723,9 @@
 > - The coding of taxon 2 from Songming is 1.
 
 ## Characters to be used in the follow-up studies
-92. Rostral width/orbital width index of premedian plate: smaller than 100 (0); between 100 and 200 (1).
+92. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
 > Luo *et al*. (2025), Character 10, in part. 
-
-> - This character is scored contingently on the state of Character 10 (smaller than 200). Those taxa with the index larger than 200 are scored "logically impossibility". We can also combined This character with Character 20 in an 'ordered' character.
+> - This character is scored contingently on Character 10. Those taxa with the index larger than 200 are scored "logically impossibility".
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -1973,6 +1975,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
