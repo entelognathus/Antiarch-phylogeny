@@ -231,7 +231,7 @@
 12. Lateral plate: narrow (0); broad (1).
 > Zhu (1996), Character 50; Jia *et al.* (2010), Character 5; Pan *et al.* (2018), Character 50; Wang and Zhu (2018), Character 12; Liu *et al*. (2023), Character 12; Plax and Lukševičs (2023), Character 12; Luo *et al*. (2025), Character 12.
 
-> - This character is scored contingently on the state of the previous Character. **The width of the lateral plate attaining to 1/3 of the skull roof width is coded as 'broad'.**
+> - This character is scored contingently on the presence of the lateral plate, Character 11 herein. **The width of the lateral plate attaining to 1/3 of the skull roof width is coded as 'broad'.**
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -269,7 +269,7 @@
 14. Preorbital depression: extending laterally onto lateral plates (0); restricted to premedian plate (1).
 > Zhu (1996), Character 46; Jia *et al.* (2010), Character 7; Pan *et al.* (2018), Character 46; Wang and Zhu (2018), Character 14; Liu *et al*. (2023), Character 14; Plax and Lukševičs (2023), Character 14; Luo *et al*. (2025), Character 14.
 
-> - This character is scored contingently on the state of the previous character.
+> - This character is scored contingently on on the presence of the preorbital depression, Character 13 herein.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is -.
@@ -307,7 +307,7 @@
 16. Preorbital recess: restricted to premedian plate (0); extending laterally to the lateral plates (1).
 > Zhu (1996), Character 47, part; Jia *et al.* (2010), Character 8, part; Pan *et al.* (2018), Character 47, part; Wang and Zhu (2018), Character 16; Liu *et al*. (2023), Character 16; Plax and Lukševičs (2023), Character 16; Luo *et al*. (2025), Character 16.
 
-> - This character is scored contingently on the state of the previous character.
+> - This character is scored contingently on the presence of the preorbital recess, Character 15 herein..
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -1982,6 +1982,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
