@@ -808,7 +808,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-43. Postsuborbital plate: present (0); absent (1).
+43. Postsuborbital plate: absent (0); present (1).
 > Zhu (1996), Character 63; Jia *et al.* (2010), Character 18; Pan *et al.* (2018), Character 63; Wang and Zhu (2018), Character 43; Liu *et al*. (2023), Character 43; Plax and Lukševičs (2023), Character 43; Luo *et al*. (2025), Character 43.
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
@@ -816,6 +816,7 @@
 > - Xian: Because this Character was in the state of "present (0)" or "absent (1)" in Zhu (1996) and Wang and Zhu (2018), Luo *et al*. (2025) caused a swap of the "present" and "absence" of taxa during the compilation process. In addition, feature 44-45 was derived from Character 43. Xian (in prep.) revised Characters 43-45 back to previous version of Zhu (1996) and Wang and Zhu (2018).
 > - zhu: 前面叙述得有点乱。zhu (1996) 怎么说的，Wang and Zhu怎么说的，Luo et al.又是怎么说的。编码在Luo et al.是怎么乱的，现在怎么改一致的。叙述清楚即可，不用去找原因。
 > - Xian: This character in Zhu (1996)(Character 63) is: Postsuborbital plate: present (0); absent (1); In Wang and Zhu (2018)(Character 43) is: Postsuborbital plate: present (0); absent (1); In Luo *et al*. (2025)(Character 43) is: Postsuborbital plate: absent (0); present (1). Although the character states were modified, the coding remained the same. Our subsequent research still followed Zhu (1996) and Wang and Zhu (2018).
+> - zhu: 小罗跟我解释了一下，他使用的这个特征及编码没有问题。他将present和absent倒过来之后，编码也随之倒过来了。还是follow Luo et al. (2025），不要倒过来又倒回去。小鲜与小罗具体确认下相互间的误解，没有问题的话，可以将这段的解释删掉。
  
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -1987,6 +1988,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
