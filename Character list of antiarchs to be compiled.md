@@ -8,7 +8,7 @@
 
 > - Xian: The coding of *Zhujielepis* is 0. Referred speciemens of *Zhujielepis* are yunnanolepidoid trunk shields. From the same locality and bed, a yunnanolepidoid head shield is found. Whether they belong to the same form will be verified. Another incomplete head shield in association is *Luquanolepis*-like.
 > - Xian: The coding of *Hohsienolepis hsintuensis* should be changed from 0 to 1. P‘an and Wang (1978) and Pan (1984) all discribed that the ornamentation of *Hohsienolepis hsintuensis* is vertical fine ridges.
-> - Zhu: 'reticular' is not 'ridged'. 'reticular' is a character for *Bithriolepis*. 
+> - Zhu: 'reticular' is not 'ridged'. 'reticular' is a character for *Bothriolepis*. 
 
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is 0.
@@ -1977,6 +1977,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
