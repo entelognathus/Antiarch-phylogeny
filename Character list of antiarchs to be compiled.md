@@ -1,4 +1,4 @@
-# Character list of Antiarchs
+<img width="1376" height="232" alt="image" src="https://github.com/user-attachments/assets/275f1805-bd58-469c-a608-5eb4550922d0" /># Character list of Antiarchs
 ## 大家在写批注时将姓或姓名简写列出来。这样能发现问题。修改以前的编码、特征一定要列出依据，原来是怎样编码，现在是怎样编码。这样便于追溯。如果是已解决的问题，可以将相关的讨论删去。github的内容一定要与你们正在编码的矩阵保持一致。前面做得严谨些，后面能省很多检查的时间。
 > - All characters except Characters 19, 49, and 50 are unordered. 
 
@@ -245,6 +245,8 @@
 
 13. Preorbital depression: absent (0); present (1).
 > Zhang and Young (1992), Character 11; Zhu (1996), Character 45; Jia *et al.* (2010), Character 6; Pan *et al.* (2018), Character 45; Wang and Zhu (2018), Character 13; Liu *et al*. (2023), Character 13; Plax and Lukševičs (2023), Character 13; Luo *et al*. (2025), Character 13.
+
+> - Xue: The state of *Kujdanowiaspis* in this character should be coded as "not applicable".  
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -1534,7 +1536,7 @@
 > Luo *et al*. (2025), Character 82.
 > - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* have the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; fig. 7).
 
-> - Xian: Refer to the explanation of Character 81.
+> - Xian: This character is contingent on Character 81. **check coding**
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -1557,7 +1559,7 @@
 
 > - Also termed 'preopercular sensory line on postmarginal plate'. Few Middle and Late Devonian taxa bear the sensory line on postmarginal plate.
 
-> - Xian: Refer to the explanation of Character 81.
+> - Xian: This character is contingent on Character 81.**check coding**
 > - zhu: The presence of the postmarginal canal doesn't definitely indicate the presence of the postmarginal plate.
 
 > - The coding of *Zhujielepis* is ?.
@@ -1987,6 +1989,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
