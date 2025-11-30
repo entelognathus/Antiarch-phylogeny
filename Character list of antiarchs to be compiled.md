@@ -5,7 +5,7 @@
 ## 大家在写批注时将姓或姓名简写列出来。这样能发现问题。修改以前的编码、特征一定要列出依据，原来是怎样编码，现在是怎样编码。这样便于追溯。如果是已解决的问题，可以将相关的讨论删去。github的内容一定要与你们正在编码的矩阵保持一致。前面做得严谨些，后面能省很多检查的时间。
 > - All characters except Characters 19, 49, and 50 are unordered. 
 
-![示例图片](Antiarch-phylogeny/fdc1dcd871883a152c1b6405e4f748f.jpg)
+![示例图片](fdc1dcd871883a152c1b6405e4f748f.jpg)
 
 ## Ornamentation, histology and scales
 1. Adult ornamentation: tubercular (0); reticular (1).
@@ -1997,6 +1997,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
