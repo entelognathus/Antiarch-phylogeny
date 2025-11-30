@@ -7,6 +7,8 @@
 
 ![示例图片](fdc1dcd871883a152c1b6405e4f748f.jpg)
 
+## 大家可以学习我这个方法，将图片加在需要解释的解剖学结构位置。具体的图片文件上传到本文件夹中。然后在这儿加上上面这行。文件名可以取简单些。
+
 ## Ornamentation, histology and scales
 1. Adult ornamentation: tubercular (0); reticular (1).
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
@@ -1997,6 +1999,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
