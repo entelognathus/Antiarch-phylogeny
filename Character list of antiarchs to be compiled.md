@@ -1,4 +1,5 @@
-<img width="1376" height="232" alt="image" src="https://github.com/user-attachments/assets/275f1805-bd58-469c-a608-5eb4550922d0" /># Character list of Antiarchs
+<img width="1376" height="232" alt="image" src="https://github.com/user-attachments/assets/275f1805-bd58-469c-a608-5eb4550922d0" />
+# Character list of Antiarchs
 
 ## 小鲜与小罗没有就有关疑问讨论吗？讨论过并解决了的就将有关叙述删掉。
 
@@ -1555,6 +1556,8 @@
 > - The coding of *Chahuaqingolepis magniporus* is 0.
 > - The coding of taxon 2 from Songming is ?.
 
+<img width="1376" height="232" alt="image" src="https://github.com/user-attachments/assets/275f1805-bd58-469c-a608-5eb4550922d0" />
+
 83.	Postmarginal canal: absent (0); present (1).
 > Luo *et al*. (2025), Character 83.
 
@@ -1993,6 +1996,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
