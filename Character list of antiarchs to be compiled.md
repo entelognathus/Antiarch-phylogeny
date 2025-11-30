@@ -1594,6 +1594,7 @@
 85.	Anterior and posterior median dorsal plates alternately overlapping each other: absent (0); present (1).
 > Luo *et al*. (2025), Character 85.
 
+> Xue: This character is parsimony-uninformative and present only in in *Huizeleois*.
 > - The coding of *Zhujielepis* is .
 > - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is .
@@ -1987,6 +1988,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
