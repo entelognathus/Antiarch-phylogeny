@@ -1757,8 +1757,8 @@
 
 94. Anterior lateral ridge on head shield: absent (0), present (1).
 > Newly added by Xian.
-> ![示例图片](<img width="690" height="273" alt="94" src="https://github.com/user-attachments/assets/45fbfd8c-0e56-467b-9b4a-4bc9518c0480" />
-)
+> -<img width="690" height="273" alt="94" src="https://github.com/user-attachments/assets/9d06540e-f59d-4d63-b531-651f27f62feb" />
+
 > - The coding of *Yangfanyu* is 1.
 
 95. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
@@ -1992,6 +1992,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
