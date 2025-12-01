@@ -1755,24 +1755,20 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0. **check**
 
-94. Anterior lateral ridge on head shield: absent (0), present (1).
+94. Anterior lateral ridge on the dorsal surface of skull roof: absent (0), present (1).
 > Newly added by Xian.
-> -<img width="690" height="273" alt="94" src="https://github.com/user-attachments/assets/9d06540e-f59d-4d63-b531-651f27f62feb" />
 
+> - Xue: In *Yangfanyu*, *Minicrania lirouyii*, and *Phymolepis cuifengshanensis*, a distinct ridge extends anterolaterally from the radiation center of the nuchal plate to the lateral plate.
 > - The coding of *Yangfanyu* is 1.
 
 95. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
 > Newly added by Xian.
-> <img width="602" height="320" alt="95" src="https://github.com/user-attachments/assets/db4544e1-aec6-4515-aeb4-734e5fdfc904" />
-
 > - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
 
 > - The coding of *Yangfanyu* is 1.
 
 96. Posterolateral ridge of posterior median dorsal plate: absent (0), present (1).
 > Newly added by Xian.
-> <img width="623" height="308" alt="96" src="https://github.com/user-attachments/assets/49f427ea-d9c2-4311-a7dc-1a3a0dca336a" />
-
 > - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
 
 > - The coding of *Yangfanyu* is 1.
@@ -1996,8 +1992,6 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
-
-
 
 
 
