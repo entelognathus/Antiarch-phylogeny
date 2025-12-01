@@ -1534,7 +1534,7 @@
 
 82.	Position of postmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > Luo *et al*. (2025), Character 82.
-> - Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* have the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; fig. 7).
+> - Luo "et al.* (2025): "Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* have the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; fig. 7)."
 
 > - Xian: This character is contingent on Character 81. **check coding**
 
@@ -1551,8 +1551,6 @@
 > - The coding of *Songmingolepis conspicilatus* is ?.
 > - The coding of *Chahuaqingolepis magniporus* is 0.
 > - The coding of taxon 2 from Songming is ?.
-
-<img width="1376" height="232" alt="image" src="https://github.com/user-attachments/assets/275f1805-bd58-469c-a608-5eb4550922d0" />
 
 83.	Postmarginal canal: absent (0); present (1).
 > Luo *et al*. (2025), Character 83.
@@ -1993,6 +1991,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
