@@ -1729,7 +1729,7 @@
 
 ## Characters add by xian for *Yangfanyu*
 92. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
-> This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility).
+> This character is scored contingently on the presence of dorsal median spine of trunk shield (Character 52 herein). The taxa without the median dorsal spine is coded as - (logical impossibility).
 
 > - The coding of *Huizelepis* is 0. **check**
 > - The coding of *Zhujielepis* is -.
@@ -2002,6 +2002,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
