@@ -821,6 +821,8 @@
 
 > - The plate was termed as the prelateral plate in bothriolepidoids (Young, 1990; Zhu, 1996).
 
+> - Xue: The coding of *Romundina* is revised to ?. The coding of *Tongdulepis* is revised to 1.
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
 > - The coding of *Luquanolepis-like* is ?.
@@ -838,6 +840,8 @@
 
 44. Postsuborbital plate: with a long anterior process (0); equilateral, triangular in shape (1).
 > Zhang and Young (1992), Character14; Zhu (1996), Character 64; Pan *et al.* (2018), Character 64; Wang and Zhu (2018), Character 44; Liu *et al*. (2023), Character 44; Plax and Lukševičs (2023), Character 44; Luo *et al*. (2025), Character 44.
+
+> - Xue: The coding of *Romundina* is revised to ?.
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is ?.
@@ -1516,7 +1520,8 @@
 
 > - Moloshnikov (2011) established a new family Tubalepididae on the basis of a paranuchal plate that lacking anterolateral margin. 0 in *Huizelepis*.
 
-> - Xian: In Luo *et al*. (2025), some taxa (e.g., *Asterolepis ornata*, *Bothriolepis canadensis*, *Chuchinolepis dongmoensis*) for Character 81 are coded as "?"; however, for Characters 82–83—two characters derived from Character 81—these taxa exhibit clearly defined states. Therefore, Xian (pre.) will re-coding Characters 81–83.
+> - Xue: The coding of *Borthriolepis canadensis* is revised to 1. The coding of *Dianolepis liui* is revised to 1. The coding of *Asterolepis ornata* is revised to 1.The coding of *Pterichthyodes milleri* is revised to 1. The coding of *Sinolepis macrocephala* is revised to 1. The coding of *Chuchinolepis dongmoensis* is revised to 1
+
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
@@ -1535,6 +1540,8 @@
 82.	Position of postmarginal plate relative to paranuchal plate: anterolateral of paranuchal plate (0); posterolateral of paranuchal plate (1)
 > Luo *et al*. (2025), Character 82.
 > - Luo "et al.* (2025): "Some antiarchs like *Bothriolepis* and *Dianolepis* have the postmarginal plate anterolateral of paranuchal plate; others like *Microbrachius* have the postmarginal plate posterolateral of paranuchal plate (see Moloshnikov, 2011; fig. 7)."
+
+> - Xue: The coding of *Briagalepis warreni* is revised to 1?
 
 > - Xian: This character is contingent on Character 81. **check coding**
 
@@ -1724,7 +1731,56 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 1.
 
-92. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
+## Characters add by xian for *Yangfanyu*
+92. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
+> This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility).
+
+> - The coding of *Huizelepis* is 0. **check**
+> - The coding of *Zhujielepis* is -.
+> - The coding of *Yangfanyu* is 0.
+ 
+> - The coding of *Songmingolepis conspicilatus* is 0. **check**
+> - The coding of *Chahuaqingolepis magniporus* is ?.
+> - The coding of taxon 2 from Songming is 0. **check**
+
+94. Anterior lateral ridge on the dorsal surface of skull roof: absent (0), present (1).
+> Newly added by Xian.
+
+> - Xue: In *Yangfanyu*, *Minicrania lirouyii*, and *Phymolepis cuifengshanensis*, a distinct ridge extends anterolaterally from the radiation center of the nuchal plate to the lateral plate.
+> - The coding of *Yangfanyu* is 1.
+<img width="690" height="273" alt="94" src="https://github.com/user-attachments/assets/9d06540e-f59d-4d63-b531-651f27f62feb" />
+
+94. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
+> Newly added by Xian.
+> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
+
+> - The coding of *Yangfanyu* is 1.
+<img width="602" height="320" alt="95" src="https://github.com/user-attachments/assets/db4544e1-aec6-4515-aeb4-734e5fdfc904" />
+
+95. Posterolateral ridge of posterior median dorsal plate: absent (0), present (1).
+> Newly added by Xian.
+> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
+
+> - The coding of *Yangfanyu* is 1.
+<img width="623" height="308" alt="96" src="https://github.com/user-attachments/assets/49f427ea-d9c2-4311-a7dc-1a3a0dca336a" />
+
+96. Obtected nuchal area on paranuchal plate: (0) absent; (1) present.
+> Lukševičs (2001), Character 6; Dupret et al. (2023), Character 26; Luo et al. (2023), Character 33; Xian et al. (2025), Character 22.
+
+> - The coding of *Yangfanyu* is 1.
+
+97. Anterior margin of postpineal plate: (0) concave/flat; (1) convex.
+> Dupret et al. (2023), Character 17; Luo et al. (2023), Character 22; Xian et al. (2025), Character 22.
+
+> - The coding of *Yangfanyu* is 1.
+98. The subpremedian ridge on the visceral of premedian plate: (0) absent; (1) present.
+> Newly added by Xian.
+> - The coding of *Yangfanyu* is 0.
+<img width="1066" height="408" alt="99" src="https://github.com/user-attachments/assets/d92305af-e3b8-4a73-8d52-b4e4666b407d" />
+
+
+## Characters to be used in the follow-up studies
+98. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
 > Luo *et al*. (2025), Character 10, in part. 
 > - This character is scored contingently on Character 10. Those taxa with the index larger than 200 are scored "logically impossibility".
 
@@ -1743,47 +1799,6 @@
 > - The coding of *Chahuaqingolepis magniporus* is 1.
 > - The coding of taxon 2 from Songming is ?.
 
-## Characters add by xian for *Yangfanyu*
-93. Median doral spine constitution: only by anterior median dorsal plate (0); by anterior and posterior median dorsal plates (1).
-> This character is scored contingently on the state of Character 52 (present (1)). The taxa without the median dorsal spine is coded as - (logical impossibility).
-
-> - The coding of *Huizelepis* is 0. **check**
-> - The coding of *Zhujielepis* is -.
-> - The coding of *Yangfanyu* is 0.
- 
-> - The coding of *Songmingolepis conspicilatus* is 0. **check**
-> - The coding of *Chahuaqingolepis magniporus* is ?.
-> - The coding of taxon 2 from Songming is 0. **check**
-
-94. Anterior lateral ridge on the dorsal surface of skull roof: absent (0), present (1).
-> Newly added by Xian.
-
-> - Xue: In *Yangfanyu*, *Minicrania lirouyii*, and *Phymolepis cuifengshanensis*, a distinct ridge extends anterolaterally from the radiation center of the nuchal plate to the lateral plate.
-> - The coding of *Yangfanyu* is 1.
-
-95. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
-> Newly added by Xian.
-> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
-
-> - The coding of *Yangfanyu* is 1.
-
-96. Posterolateral ridge of posterior median dorsal plate: absent (0), present (1).
-> Newly added by Xian.
-> - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
-
-> - The coding of *Yangfanyu* is 1.
-
-97. Obtected nuchal area on paranuchal plate: (0) absent; (1) present.
-> Lukševičs (2001), Character 6; Dupret et al. (2023), Character 26; Luo et al. (2023), Character 33; Xian et al. (2025), Character 22.
-
-> - The coding of *Yangfanyu* is 1.
-
-98. Anterior margin of postpineal plate: (0) concave/flat; (1) convex.
-> Dupret et al. (2023), Character 17; Luo et al. (2023), Character 22; Xian et al. (2025), Character 22.
-
-> - The coding of *Yangfanyu* is 1.
-
-## Characters to be used in the follow-up studies
 99. Ventral central plate 1 and ventral central plate 2 of pectoral appendage: in contact (0); separated (1).
 > Newly added by Luo.
 
