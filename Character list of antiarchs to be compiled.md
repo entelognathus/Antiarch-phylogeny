@@ -1743,15 +1743,15 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0. **check**
 
-93. Anterior lateral ridge on head shield: absent (0), present (1).
+94. Anterior lateral ridge on the dorsal surface of skull roof: absent (0), present (1).
 > Newly added by Xian.
 
+> - Xue: In *Yangfanyu*, *Minicrania lirouyii*, and *Phymolepis cuifengshanensis*, a distinct ridge extends anterolaterally from the radiation center of the nuchal plate to the lateral plate.
 > - The coding of *Yangfanyu* is 1.
 <img width="690" height="273" alt="94" src="https://github.com/user-attachments/assets/9d06540e-f59d-4d63-b531-651f27f62feb" />
 
 94. Posterior dorsal angle of posterior median dorsal plate: absent (0), present (1).
 > Newly added by Xian.
-
 > - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
 
 > - The coding of *Yangfanyu* is 1.
@@ -1759,7 +1759,6 @@
 
 95. Posterolateral ridge of posterior median dorsal plate: absent (0), present (1).
 > Newly added by Xian.
-
 > - The posterior dorsal angle(pda) is generally present in "Phymolepis", "Mizia", "Chuchinolepis", "Microbrachius" and so on.
 
 > - The coding of *Yangfanyu* is 1.
