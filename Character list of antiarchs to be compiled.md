@@ -3,10 +3,6 @@
 ## 大家在写批注时将姓或姓名简写列出来。这样能发现问题。修改以前的编码、特征一定要列出依据，原来是怎样编码，现在是怎样编码。这样便于追溯。如果是已解决的问题，可以将相关的讨论删去。github的内容一定要与你们正在编码的矩阵保持一致。前面做得严谨些，后面能省很多检查的时间。
 > - All characters except Characters 19, 49, and 50 are unordered. 
 
-![示例图片](fdc1dcd871883a152c1b6405e4f748f.jpg)
-
-## 大家可以学习我这个方法，将图片加在需要解释的解剖学结构位置。具体的图片文件上传到本文件夹中。然后在这儿加上上面这行。文件名可以取简单些。
-
 ## Ornamentation, histology and scales
 1. Adult ornamentation: tubercular (0); reticular (1).
 > Zhang and Young (1992), Character 0; Zhu (1996), Character 33; Jia *et al.* (2010), Character 46; Pan *et al.* (2018), Character 33; Wang and Zhu (2018), Character 1; Liu *et al*. (2023), Character 1; Plax and Lukševičs (2023), Character 1; Luo *et al*. (2025), Character 1.
@@ -1778,6 +1774,7 @@
 > - The coding of *Yangfanyu* is 0.
 <img width="1066" height="408" alt="99" src="https://github.com/user-attachments/assets/d92305af-e3b8-4a73-8d52-b4e4666b407d" />
 
+![微信图片_20251119144908_3_4](https://github.com/user-attachments/assets/bec46aed-43e7-41ba-86fc-9bc8e4bfec76)
 
 ## Characters to be used in the follow-up studies
 98. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
@@ -2007,6 +2004,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
