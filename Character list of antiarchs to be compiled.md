@@ -188,6 +188,8 @@
 > Zhu (1996), Character 54; Jia *et al.* (2010), Character 4; Pan *et al.* (2018), Character 54; Wang and Zhu (2018), Character 10; Liu *et al*. (2023), Character 10; Plax and Lukševičs (2023), Character 10; Luo *et al*. (2025), Character 10, in part. 
 > - We restore the character to the original formulation. The further subdivision for those taxa smaller than 200 in Luo *et al.* (2025) is set as a new character (Character 92).
 
+> - In matrix, this character has three states: smaller than 100 (0); between 100% and 200% (1); larger than 200 (2).
+
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 1.
 > - The coding of *Luquanolepis-like* is ?.
@@ -247,7 +249,7 @@
 13. Preorbital depression: absent (0); present (1).
 > Zhang and Young (1992), Character 11; Zhu (1996), Character 45; Jia *et al.* (2010), Character 6; Pan *et al.* (2018), Character 45; Wang and Zhu (2018), Character 13; Liu *et al*. (2023), Character 13; Plax and Lukševičs (2023), Character 13; Luo *et al*. (2025), Character 13.
 
-> - Xue: The state of *Kujdanowiaspis* in this character should be coded as "not applicable".  
+> - Xue: The state of *Kujdanowiaspis* in this character should be coded as "not applicable".  Preorbital depression is formed by premedian plate
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
