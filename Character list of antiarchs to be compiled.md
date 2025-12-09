@@ -1774,6 +1774,11 @@
 > - The coding of *Yangfanyu* is 0.
 <img width="1066" height="408" alt="99" src="https://github.com/user-attachments/assets/d92305af-e3b8-4a73-8d52-b4e4666b407d" />
 
+99.  Mesial consolidated arch anterior to the orbital fenstra: absent (0); present (1).
+> -  This character is present in *Yunnanolepis* and *Yangfanyu*. 
+<img width="1043" height="474" alt="image" src="https://github.com/user-attachments/assets/23e1831c-aa84-4a7e-a0c5-1d679f5dbfde" />
+> -  Mesial consolidated arch is widely present in eubrachythoracids.
+
 ## Characters to be used in the follow-up studies
 98. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
 > Luo *et al*. (2025), Character 10, in part. 
@@ -2002,6 +2007,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
