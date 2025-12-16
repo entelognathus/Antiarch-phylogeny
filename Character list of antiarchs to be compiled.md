@@ -1741,7 +1741,7 @@
 > - The coding of *Chahuaqingolepis magniporus* is ?.
 > - The coding of taxon 2 from Songming is 0. **check**
 
-94. Anterior lateral ridge on the dorsal surface of skull roof: absent (0), present (1).
+93. Anterior lateral ridge on the dorsal surface of skull roof: absent (0), present (1).
 > Newly added by Xian.
 
 > - Xue: In *Yangfanyu*, *Minicrania*, and *Phymolepis*, a distinct ridge extends anterolaterally from the radiation center of the nuchal plate to the lateral plate.
@@ -1777,9 +1777,25 @@
 <img width="1066" height="408" alt="99" src="https://github.com/user-attachments/assets/d92305af-e3b8-4a73-8d52-b4e4666b407d" />
 
 99.  Mesial consolidated arch anterior to the orbital fenstra: absent (0); present (1).
-> -  This character is present in *Yunnanolepis* and *Yangfanyu*. 
+> -  This character is present in yunnanolepiforms, *Yangfanyu* and *Microbrachius*. 
 <img width="1043" height="474" alt="image" src="https://github.com/user-attachments/assets/23e1831c-aa84-4a7e-a0c5-1d679f5dbfde" />
 > -  Mesial consolidated arch is widely present in eubrachythoracids.
+
+100. X-shaped pit-line grooves: short, only on the nuchal plate：absent (0); present (1).
+> -  xian: This character is present in yunnanolepiforms, *Yangfanyu* and *Wufengshania*.
+<img width="978" height="355" alt="617f3c14-9bec-4ef2-8cfb-7cbf307ba580" src="https://github.com/user-attachments/assets/081dc0b2-0a40-4879-aa21-779df30f142f" />
+
+101. Condition of median dorsal plate crest: minor (0); well developed (1).
+> Dupret et al. (2023), Character 32; Luo et al. (2023), Character 41; Xian et al. (2025).
+> - The coding of *Yangfanyu* is 0.
+
+102. Lateral ridge of lateral wall of trunk shield: absent (0); present (1).
+> -  xian: This character is present in yunnanolepiforms.
+<img width="1141" height="296" alt="image" src="https://github.com/user-attachments/assets/3dd21d2d-3b0c-4f9b-8880-772a3a5fbf43" />
+
+103. Oblique ridge of lateral wall of trunk shield: absent (0); present (1).
+> -  xian: This character is present in yunnanolepiforms, *Yangfanyu* and *Minicrania*.
+<img width="1145" height="310" alt="99c64d7e5f4dd3941a19df15db7803e5" src="https://github.com/user-attachments/assets/3ff71272-7b19-4313-8965-17adda8a1a0e" />
 
 ## Characters to be used in the follow-up studies
 98. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
@@ -2009,6 +2025,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
