@@ -426,7 +426,7 @@
 > - The term ‘postpineal thickening’ used in phylogenetic analysis was named after Young (1983). This term refers to the thickening along the anterior margin of the postorbital crista on the visceral surface of the postpineal plate.
 
 > - The coding of *Zhujielepis* is ?.
-> - The coding of *Yangfanyu* is 1.
+> - The coding of *Yangfanyu* is 0.
 > - The coding of *Luquanolepis-like* is ?.
 > - The coding of *Luquanolepis* is ?.
 
@@ -2025,6 +2025,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
