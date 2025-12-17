@@ -670,6 +670,7 @@
 > Young (1984, 1988), Character 37; Zhang and Young (1992), Character 17; Zhu (1996), Character 61; Jia *et al.* (2010), Character 17; Pan *et al.* (2018), Character 61; Wang and Zhu (2018), Character 35; Liu *et al*. (2023), Character 35; Plax and Lukševičs (2023), Character 35; Luo *et al*. (2025), Character 35.
 
 > - We termed the “endocranium postorbital process” as the “anterior postorbital process” and re-formulate state 0 (“short”) as “behind anterior level of orbital fenestra”.
+> - xian(in pre): *Chuchinolepis dongmoensis* in Tong-Dzuy and Janvier,(1990) did't show any visceral side of head shield, so *Chuchinolepis dongmoensis* code Luo *et al*.(2025) from "1" to "?". Based on Zhu, (1996) pis VIII, 1, "Chuchinolepis gracilis" code Luo *et al*.(2025) from "1" to "0"
 
 > - The coding of *Zhujielepis* is ?.
 > - The coding of *Yangfanyu* is 0.
@@ -2025,6 +2026,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
