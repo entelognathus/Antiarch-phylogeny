@@ -552,7 +552,7 @@
 > - Tuba Regional Stage, Minusinsk Trough, Russia
 > - [Malinovskaya, 1992 ](https://www.deepbone.cn/public/#/literature_details/1211); [Moloshnikov, 1992](https://www.deepbone.cn/public/#/literature_details/1270)
 
-> - ***B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
+> - xian: **Moloshnikov suggested it is regarded as asynonym of *B. babichevi*, see Moloshnikov [2012](https://deepbone.org/public/#/literature_details/1272) [2012](https://deepbone.org/public/#/literature_details/1272)**
 
 [*Minicrania lissa*](https://www.deepbone.cn/index/index/index#/explor?s_id=8354&functionId=Deepbone_header_searchResultOpen) Janvier and Phuong, 1999
 > Lochkovian, 419.2, 410.8
@@ -832,5 +832,6 @@ Zhu, M., Wang, J.Q., & Fan, J.H. (1994). Lower Devonian fishes from Guijiatun an
 Zhu, M., Yu, X.B., Choo, B., Wang, J.Q, & Jia, L.T. (2012). An antiarch placoderm shows that pelvic girdles arose at the root of jawed vertebrates. *Biology Letters*, **8**(3), 453-456.
 
 Zhu, Y.A., Wang, Y.J., Qu, Q.M., Lu, J., Zhu, M. (2023). The pelvic morphology of *Parayunnanolepis* (Placodermi, Antiarcha) revealed by tomographic data. *Vertebrata Palasiatica*, *61*(2), 81-89.
+
 
 
