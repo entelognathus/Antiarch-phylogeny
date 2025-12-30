@@ -1777,10 +1777,10 @@
 > - The coding of *Yangfanyu* is 0.
 <img width="1066" height="408" alt="99" src="https://github.com/user-attachments/assets/d92305af-e3b8-4a73-8d52-b4e4666b407d" />
 
-99.  Mesial consolidated arch anterior to the orbital fenstra: absent (0); present (1).
-> -  This character is present in yunnanolepiforms, *Yangfanyu* and *Microbrachius*. 
+99.  Preorbital crista: absent (0); present (1).
+> -  This character is present in yunnanolepiform antiarchs, *Yangfanyu* and *Microbrachius*. 
 <img width="1043" height="474" alt="image" src="https://github.com/user-attachments/assets/23e1831c-aa84-4a7e-a0c5-1d679f5dbfde" />
-> -  Mesial consolidated arch is widely present in eubrachythoracids.
+> -  Xue: In basally branching antiarchs, such as yunnanolepiform antirachs, *Yangfanyu*, and *Microbrachius*, several visceral-consolidated structures are present, including the preorbital crista, postorbital crista, and subpremedian ridge. In contrast, these structure are absent in more derived antiarchs, such as *Bothriolepis*. This evolutionary trend contrasts with that of arthrodires, in which the skull roof is increasingl consolidated in the derived clade.
 
 100. X-shaped pit-line grooves: short, only on the nuchal plate：absent (0); present (1).
 > -  xian: This character is present in yunnanolepiforms, *Yangfanyu* and *Wufengshania*.
@@ -2026,6 +2026,7 @@ Young, G. C. (1988). Antiarchs (placoderm fishes) from the Devonian Aztec siltst
 Zhu, M. (1996). The phylogeny of the Antiarcha (Placodermi, Pisces), with the description of Early Devonian antiarchs from Qujing, Yunnan, China. *Bulletin du Muséum national d'Histoire naturelle*, **18**, 233-347. 
 
 Liu, S., Pan, Z. H., Zhu, M., Jia, L. T. and Zhao, W. J. (2023). A New Bothriolepid Antiarch from the Middle Devonian in Luquan, Yunnan, South China and Its Stratigraphic and Biogeographic Significances. *Journal of Earth Science*, **34**(4), 1176-1188.
+
 
 
 
