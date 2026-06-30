@@ -1777,7 +1777,7 @@
 > - The coding of *Yangfanyu* is 0.
 <img width="1066" height="408" alt="99" src="https://github.com/user-attachments/assets/d92305af-e3b8-4a73-8d52-b4e4666b407d" />
 
-99.  Mesial consolidated arch anterior to the orbital fenstra: absent (0); present (1).
+99.  Lateropremesial ridge of head-shield: absent (0); present (1).
 > -  This character is present in yunnanolepiforms, *Yangfanyu* and *Microbrachius*. 
 <img width="1043" height="474" alt="image" src="https://github.com/user-attachments/assets/23e1831c-aa84-4a7e-a0c5-1d679f5dbfde" />
 > -  Mesial consolidated arch is widely present in eubrachythoracids.
