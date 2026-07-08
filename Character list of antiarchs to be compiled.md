@@ -1798,6 +1798,17 @@
 > -  xian: This character is present in yunnanolepiforms, *Yangfanyu* and *Minicrania*.
 <img width="1145" height="310" alt="99c64d7e5f4dd3941a19df15db7803e5" src="https://github.com/user-attachments/assets/3ff71272-7b19-4313-8965-17adda8a1a0e" />
 
+104. Lateral pit of head-shield：absent (0); present (1).
+> Newly added by Xian.
+> - The coding of *Yangfanyu* is 0.
+<img width="1232" height="443" alt="image" src="https://github.com/user-attachments/assets/7f01c607-6791-447f-9183-3fbb37868ea5" />
+
+105. Supraotic groove of head-shield：absent (0); present (1).
+> Newly added by Xian.
+> - The coding of *Yangfanyu* is 1.
+<img width="1150" height="471" alt="image" src="https://github.com/user-attachments/assets/4dc66737-500d-4718-96aa-ef0562239d33" />
+
+
 ## Characters to be used in the follow-up studies
 98. Rostral width/orbital width index of premedian plate for those taxa smaller than 200: smaller than 100 (0); between 100 and 200 (1).
 > Luo *et al*. (2025), Character 10, in part. 
